@@ -1,0 +1,48 @@
+W-2=八达岭 | T-2=ns | W-1=攀登 | T-1=v | W1=， | T1=w | W2=上海 | T2=ns | the_Great_Wall
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=脚下 | T1=f | W2=， | T2=w | the_Great_Wall
+W-2=， | T-2=w | W-1=从 | T-1=p | W1=脚下 | T1=f | W2=出发 | T2=v | the_Great_Wall
+W-2=元旦 | T-2=t | W-1=登 | T-1=v | W1=比赛 | T1=vn | W2=， | T2=w | the_Great_Wall
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=二○○○年 | T-1=t | W1=将 | T1=d | W2=竖立 | T2=v | the_Great_Wall
+W-2=底座 | T-2=n | W-1=为 | T-1=v | W1=城垛 | T1=n | W2=形状 | T2=n | the_Great_Wall
+W-2=在 | T-2=p | W-1=八达岭 | T-1=ns | W1=， | T1=w | W2=前 | T2=f | the_Great_Wall
+W-2=似 | T-2=Vg | W-1=古 | T-1=a | W1=的 | T1=u | W2=巨大 | T2=a | the_Great_Wall
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=“ | T-1=w | W1=上 | T1=f | W2=的 | T2=u | the_Great_Wall
+W-2=出 | T-2=v | W-1=了 | T-1=u | W1=的 | T1=u | W2=高度 | T2=n | the_Great_Wall
+W-2=爱好者 | T-2=n | W-1=汇聚 | T-1=v | W1=， | T1=w | W2=参加 | T2=v | the_Great_Wall
+W-2=巍峨 | T-2=z | W-1=的 | T-1=u | W1=， | T1=w | W2=还有 | T2=v | the_Great_Wall
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=绿化 | T1=vn | W2=工程 | T2=n | the_Great_Wall
+W-2=发起 | T-2=v | W-1=的 | T-1=u | W1=绿化 | T1=vn | W2=工程 | T2=n | the_Great_Wall
+W-2=关于 | T-2=p | W-1=建设 | T-1=v | W1=绿化 | T1=vn | W2=系统 | T2=n | the_Great_Wall
+W-2=上下 | T-2=f | W-1=和 | T-1=c | W1=入口处 | T1=n | W2=的 | T2=u | the_Great_Wall
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=脚下 | T1=f | W2=， | T2=w | the_Great_Wall
+W-2=烛光 | T-2=n | W-1=登 | T-1=v | W1=活动 | T1=vn | W2=别开生面 | T2=i | the_Great_Wall
+W-2=中 | T-2=f | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | the_Great_Wall
+W-2=不 | T-2=d | W-1=到 | T-1=v | W1=非 | T1=Vg | W2=好汉 | T2=n | the_Great_Wall
+W-2=， | T-2=w | W-1=汇聚 | T-1=v | W1=， | T1=w | W2=登高望远 | T2=i | the_Great_Wall
+W-2=闻名于世 | T-2=l | W-1=的 | T-1=u | W1=、 | T1=w | W2=故宫 | T2=ns | the_Great_Wall
+W-2=爱 | T-2=v | W-1=我 | T-1=r | W1=” | T1=w | W2=。 | T2=w | the_Great_Wall
+W-2=大 | T-2=a | W-1=至 | T-1=v | W1=、 | T1=w | W2=阿房宫 | T2=ns | the_Great_Wall
+W-2=天坛 | T-2=ns | W-1=、 | T-1=w | W1=、 | T1=w | W2=龙 | T2=n | the_Great_Wall
+W-2=不息 | T-2=v | W-1=、 | T-1=w | W1=的 | T1=u | W2=蜿蜒 | T2=z | the_Great_Wall
+W-2=誉 | T-2=Ng | W-1=满 | T-1=v | W1=内外 | T1=f | W2=， | T2=w | the_Great_Wall
+W-2=平方米 | T-2=q | W-1=的 | T-1=u | W1=遗址 | T1=n | W2=连同 | T2=p | the_Great_Wall
+W-2=北京 | T-2=ns | W-1=电信 | T-1=n | W1=移动 | T1=vn | W2=通信 | T2=vn | PW=北京电信长城移动通信有限公司 | PT=nt | ChangCheng
+W-2=了 | T-2=u | W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | W2=。 | T2=w | PW=广元市长城宾馆 | PT=ns | ChangCheng
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | W2=由于 | T2=c | PW=广元市长城宾馆 | PT=ns | ChangCheng
+W-2=， | T-2=w | W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | W2=应 | T2=v | PW=广元市长城宾馆 | PT=ns | ChangCheng
+W-2=北京 | T-2=ns | W-1=昌平 | T-1=ns | W1=医院 | T1=n | W2=建成 | T2=v | PW=北京昌平长城医院 | PT=nt | ChangCheng
+W-2=但 | T-2=c | W-1=如果说 | T-1=c | W1=从此 | T1=d | W2=可以 | T2=v | ChangCheng
+W-2=、 | T-2=w | W-1=“ | T-1=w | W1=借记卡 | T1=n | W2=” | T2=w | ChangCheng
+W-2=， | T-2=w | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | ChangCheng
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | ChangCheng
+W-2=， | T-2=w | W-1=中国 | T-1=ns | W1=学会 | T1=na | W2=有关 | T2=vn | PW=中国长城学会 | PT=nt | ChangCheng
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=中国 | T-1=ns | W1=学会 | T1=na | W2=八达岭 | T2=ns | PW=中国长城学会 | PT=nt | ChangCheng
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | ChangCheng
+W-2=有望 | T-2=v | W-1=收购 | T-1=v | W1=航空 | T1=n | W2=NULL_TAIL | T2=NULL_TAIL | ChangCheng
+W-2=—— | T-2=w | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | ChangCheng
+W-2=了 | T-2=u | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | ChangCheng
+W-2=的 | T-2=u | W-1=空中 | T-1=s | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | impregnable_bulwark
+W-2=固 | T-2=Vg | W-1=我 | T-1=r | W1=爱心 | T1=n | W2=铺就 | T2=v | impregnable_bulwark
+W-2=强军 | T-2=v | W-1=固 | T-1=Vg | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | impregnable_bulwark
+W-2=构筑 | T-2=v | W-1=蓝天 | T-1=n | W1=作出 | T1=v | W2=我们 | T2=r | impregnable_bulwark
+W-2=的 | T-2=u | W-1=绿色 | T-1=n | W1=” | T1=w | W2=、 | T2=w | impregnable_bulwark

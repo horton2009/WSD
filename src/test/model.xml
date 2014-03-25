@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<network type="bpn">
+<layer type="input" neurons="8">
+<neuron />
+<neuron />
+<neuron />
+<neuron />
+<neuron />
+<neuron />
+<neuron />
+<neuron />
+</layer>
+<layer type="hidden" neurons="3">
+<neuron>
+<weight>0.15108896946</weight>
+<weight>-5.88090134289</weight>
+<weight>-4.69076366317</weight>
+<weight>7.31282093627</weight>
+<weight>-5.74066590012</weight>
+<weight>5.12997064264</weight>
+<weight>1.29412235512</weight>
+<weight>0.656993272393</weight>
+</neuron>
+<neuron>
+<weight>-3.67943013192</weight>
+<weight>4.79343111985</weight>
+<weight>-4.54769645058</weight>
+<weight>6.32766052146</weight>
+<weight>-6.69028823941</weight>
+<weight>9.15596543642</weight>
+<weight>-2.79118948044</weight>
+<weight>6.02607526836</weight>
+</neuron>
+<neuron>
+<weight>-6.02383616717</weight>
+<weight>6.90548282232</weight>
+<weight>0.4990908131</weight>
+<weight>6.09729790477</weight>
+<weight>-2.4724432607</weight>
+<weight>3.0670068156</weight>
+<weight>-0.29498880193</weight>
+<weight>4.49897268531</weight>
+</neuron>
+</layer>
+<layer type="output" neurons="1">
+<neuron>
+<weight>8.29234766277</weight>
+<weight>-12.1738292026</weight>
+<weight>5.92070484846</weight>
+</neuron>
+</layer>
+</network>

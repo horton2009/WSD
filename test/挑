@@ -1,0 +1,14 @@
+W-2=鸡蛋 | T-2=n | W-1=里 | T-1=f | W1=骨头 | T1=n | W2=” | T2=w | 挑.1
+W-2=， | T-2=w | W-1=没有 | T-1=d | W1=最 | T1=d | W2=好 | T2=a | 挑.2
+W-2=也 | T-2=d | W-1=要 | T-1=v | W1=套 | T1=v | W2=袋 | T2=Ng | 挑.3
+W-2=让 | T-2=v | W-1=你 | T-1=r | W1=， | T1=w | W2=或许 | T2=d | 挑.4
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=来 | T1=v | W2=清澈 | T2=a | 挑.5
+W-2=大妈 | T-2=n | W-1=一面 | T-1=d | W1=着 | T1=u | W2=大 | T2=a | 挑.6
+W-2=唤头 | T-2=n | W-1=’ | T-1=w | W1=着 | T1=u | W2=挑子 | T2=n | 挑.7
+W-2=一 | T-2=m | W-1=肩 | T-1=n | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 挑.8
+W-2=担子 | T-2=n | W-1=怎么 | T-1=r | W1=？ | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 挑.9
+W-2=这个 | T-2=r | W-1=肩 | T-1=n | W1=沉重 | T1=a | W2=社会 | T2=n | 挑.10
+W-2=地 | T-2=u | W-1=肩 | T-1=n | W1=事业 | T1=n | W2=和 | T2=c | 挑.11
+W-2=用 | T-2=p | W-1=刺刀 | T-1=n | W1=死 | T1=v | W2=。 | T2=w | 挑.12
+W-2=迫使 | T-2=vn | W-1=对手 | T-1=n | W1=接 | T1=v | W2=或 | T2=c | 挑.13
+W-2=华 | T-2=nr | W-1=以刚 | T-1=nr | W1=落 | T1=v | W2=马 | T2=n | 挑.14

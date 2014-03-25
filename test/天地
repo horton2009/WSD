@@ -1,0 +1,25 @@
+W-2=片 | T-2=q | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 天地.1
+W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 天地.2
+W-2=的 | T-2=u | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 天地.3
+W-2=的 | T-2=u | W-1=个性 | T-1=n | W1=哩 | T1=y | W2=。 | T2=w | 天地.4
+W-2=经济 | T-2=n | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 天地.5
+W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 天地.6
+W-2=新 | T-2=a | W-1=的 | T-1=u | W1=， | T1=w | W2=同时 | T2=c | 天地.7
+W-2=片 | T-2=q | W-1=新 | T-1=a | W1=？ | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 天地.8
+W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=， | T1=w | W2=提高 | T2=v | 天地.9
+W-2=的 | T-2=u | W-1=广阔 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 天地.10
+W-2=永葆 | T-2=v | W-1=于 | T-1=p | W1=间 | T1=f | W2=至为 | T2=d | 天地.11
+W-2=旭日 | T-2=n | W-1=出于 | T-1=v | W1=之 | T1=u | W2=交 | T2=Ng | 天地.12
+W-2=九 | T-2=m | W-1=秋 | T-1=Tg | W1=入 | T1=v | W2=吟 | T2=Vg | 天地.13
+W-2=九 | T-2=m | W-1=秋 | T-1=Tg | W1=入吟 | T1=v | W2=魂 | T2=n | 天地.14
+W-2=， | T-2=w | W-1=为 | T-1=p | W1=之间 | T1=f | W2=点缀 | T2=v | 天地.15
+W-2=“ | T-2=w | W-1=养 | T-1=v | W1=正 | T1=v | W2=气 | T2=n | 天地.16
+W-2=人 | T-2=n | W-1=涵 | T-1=Vg | W1=阴阳 | T1=b | W2=之 | T2=u | 天地.17
+W-2=种 | T-2=q | W-1=被 | T-1=p | W1=涵养 | T1=v | W2=的 | T2=u | 天地.18
+W-2=摧残 | T-2=vn | W-1=， | T-1=w | W1=不 | T1=d | W2=仁 | T2=Ag | 天地.19
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=正气 | T1=n | W2=养 | T2=v | 天地.20
+W-2=“ | T-2=w | W-1=儿童 | T-1=n | W1=” | T1=w | W2=， | T2=w | 天地.21
+W-2=北京 | T-2=ns | W-1=南北 | T-1=f | W1=软件 | T1=n | W2=技术 | T2=n | PW=北京南北天地软件技术有限公司 | PT=nt | 天地.22
+W-2=、 | T-2=w | W-1=儿童 | T-1=n | W1=、 | T1=w | W2=餐饮 | T2=n | 天地.23
+W-2=、 | T-2=w | W-1=期货 | T-1=n | W1=、 | T1=w | W2=财经 | T2=n | 天地.24
+W-2=、 | T-2=w | W-1=读书 | T-1=v | W1=、 | T1=w | W2=作家 | T2=n | 天地.25

@@ -1,0 +1,16 @@
+W-2=更迭 | T-2=vn | W-1=而 | T-1=c | W1=， | T1=w | W2=它 | T2=r | 动摇.1
+W-2=路线 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=紧紧 | T2=d | 动摇.2
+W-2=决心 | T-2=n | W-1=绝不 | T-1=d | W1=， | T1=w | W2=绝不 | T2=d | 动摇.3
+W-2=， | T-2=w | W-1=决不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 动摇.4
+W-2=有 | T-2=v | W-1=可能 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 动摇.5
+W-2=目标 | T-2=n | W-1=不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 动摇.6
+W-2=丝毫 | T-2=m | W-1=没有 | T-1=d | W1=， | T1=w | W2=坚持 | T2=v | 动摇.7
+W-2=制度 | T-2=n | W-1=不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 动摇.8
+W-2=不 | T-2=d | W-1=容 | T-1=v | W1=的 | T1=u | W2=， | T2=w | 动摇.9
+W-2=模糊 | T-2=a | W-1=甚至 | T-1=d | W1=； | T1=w | W2=一些 | T2=m | 动摇.10
+W-2=不 | T-2=d | W-1=会 | T-1=v | W1=理想 | T1=n | W2=信念 | T2=n | 动摇.11
+W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=这个 | T1=r | W2=原则 | T2=n | 动摇.12
+W-2=但 | T-2=c | W-1=丝毫 | T-1=m | W1=不 | T1=d | W2=了 | T2=v | 动摇.13
+W-2=不 | T-2=d | W-1=能 | T-1=v | W1=一个 | T1=m | W2=中国 | T2=ns | 动摇.14
+W-2=剧烈 | T-2=a | W-1=地 | T-1=u | W1=并 | T1=c | W2=改变 | T2=v | 动摇.15
+W-2=， | T-2=w | W-1=从而 | T-1=c | W1=了 | T1=u | W2=对 | T2=p | 动摇.16
