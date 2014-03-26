@@ -72,8 +72,7 @@ class BaseWSDI(object):
         TRAIN_DIR = os.path.join(ROOT, 'train/')
         TEST_DIR = os.path.join(ROOT, 'test/')
         TEST_NAME_FILE = os.path.join(ROOT, 'test/namefile')
-        classname = str(cls).split('.')[-1][:-2]
-        RESULT_PATH = os.path.join(ROOT, 'result/%s_result.txt' % classname)
+        RESULT_PATH = os.path.join(ROOT, 'result/%s_result.txt' % cls.__name__)
         cls.result_path = RESULT_PATH
 
         # clear the file RESULT_PATH
