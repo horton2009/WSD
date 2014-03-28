@@ -8,12 +8,14 @@ import os
 class BaseWSDI(object):
     def __init__(self):
         self._classifier = None
-        pass
+        self._numeric_feature_value = False
+        self._feature_value_index = {}
 
-    def load_features(self, path):
+    def load_features(self, path, test=False):
         features_label = []
         with open(path, 'rb') as f:
             for line in f:
+                line = line.decode('utf-8')
                 tokens = line.split('|')
                 feature = {}
                 for t in tokens[:-1]:
@@ -27,7 +29,28 @@ class BaseWSDI(object):
                     feature['PW'] = 'NULL'
                     feature['PT'] = 'NULL'
                 features_label.append((feature, label))
+        # convert the numeric feature values from string to number for svm use
+        if self._numeric_feature_value:
+            self._convert_feature_value(features_label, test=test)
         return features_label
+
+    def _convert_feature_value(self, features_label, test=False):
+        if test:
+            # test data
+            for features, label in features_label:
+                for fname, fvalue in features.items():
+                    if fvalue in self._feature_value_index:
+                        features[fname] = self._feature_value_index[fvalue]
+                    else:
+                        del features[fname]
+        else:
+            # training data
+            for features, label in features_label:
+                for fname, fvalue in features.items():
+                    if fvalue not in self._feature_value_index:
+                        self._feature_value_index[fvalue] = len(self._feature_value_index)
+                    features[fname] = self._feature_value_index[fvalue]
+        return None
 
     def train(self, features_label):
         """ To be overwrite by subclass. Train a model and assign to self._classifier"""
@@ -43,7 +66,7 @@ class BaseWSDI(object):
         {'word': u'中医', 'label': ['traditional_Chinese_medical_science', 'traditional_Chinese_medical_science', ...]}
         """
         result = {}
-        features = self.load_features(path)
+        features = self.load_features(path, test=True)
         result['word'] = features[0][1].split('.')[0]
         labels = []
         for feature in features:
@@ -55,7 +78,20 @@ class BaseWSDI(object):
     def dump_result(self, result, file_obj):
         word = result['word']
         for i, label in enumerate(result['label']):
-            file_obj.write('%s.%d %s\n' % (word, i + 1, label))
+            # Could not write non ascii words togegher with ascii words.
+            # See http://jerrypeng.me/2012/03/python-unicode-format-pitfall/
+            # So the following line could not be like this:
+            #
+            # file_obj.write('%s.%d %s\n' % (word.encode('utf-8'), i + 1, label))
+            #
+            # It will throw the following eror:
+            #
+            #   File "/home/hhr/myapps/WSD/src/base_wsd.py", line 60, in dump_result
+            #     file_obj.write('%s.%d %s\n' % (word.encode('utf-8'), i + 1, label))
+            # UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
+
+            file_obj.write(word.encode('utf-8'))
+            file_obj.write('.%d %s\n' % (i + 1, label))
         return None
 
     @staticmethod
