@@ -1,935 +1,935 @@
-中医.1 traditional_Chinese_medical_science
-中医.2 traditional_Chinese_medical_science
-中医.3 traditional_Chinese_medical_science
-中医.4 traditional_Chinese_medical_science
-中医.5 practitioner_of_Chinese_medicine
-中医.6 traditional_Chinese_medical_science
-中医.7 traditional_Chinese_medical_science
-中医.8 traditional_Chinese_medical_science
-中医.9 traditional_Chinese_medical_science
-中医.10 traditional_Chinese_medical_science
-中医.11 traditional_Chinese_medical_science
-中医.12 practitioner_of_Chinese_medicine
-中医.13 practitioner_of_Chinese_medicine
-中医.14 practitioner_of_Chinese_medicine
-中医.15 practitioner_of_Chinese_medicine
-中医.16 practitioner_of_Chinese_medicine
-使.1 make
-使.2 make
-使.3 make
-使.4 use
-使.5 use
-使.6 use
-使.7 make
-使.8 make
-使.9 make
-使.10 make
-使.11 make
-使.12 make
-使.13 make
-使.14 make
-使.15 make
-使.16 make
-儿女.1 young_man_and_woman
-儿女.2 young_man_and_woman
-儿女.3 children
-儿女.4 young_man_and_woman
-儿女.5 young_man_and_woman
-儿女.6 young_man_and_woman
-儿女.7 young_man_and_woman
-儿女.8 young_man_and_woman
-儿女.9 young_man_and_woman
-儿女.10 young_man_and_woman
-儿女.11 children
-儿女.12 children
-儿女.13 children
-儿女.14 children
-儿女.15 children
-儿女.16 children
-儿女.17 children
-儿女.18 children
-儿女.19 children
-儿女.20 children
-出.1 out_of
-出.2 out_of
-出.3 produce
-出.4 out_of
-出.5 out_of
-出.6 produce
-出.7 out_of
-出.8 produce
-出.9 produce
-出.10 happen
-出.11 give
-出.12 publish
-出.13 happen
-出.14 happen
-出.15 happen
-出.16 happen
-出.17 happen
-出.18 come_out
-出.19 produce
-出.20 happen
-出.21 produce
-出.22 publish
-出.23 come_appear
-出.24 come_out
-出.25 come_out
-出.26 come_appear
-出.27 come_out
-出.28 publish
-出.29 produce
-出.30 happen
-出.31 give
-出.32 come_out
-出.33 give
-出.34 happen
-出.35 out_of
-出.36 come_out
-出.37 give
-出.38 give
-出.39 give
-出.40 give
-出.41 publish
-出.42 emit
-出.43 emit
-出.44 come_out
-出.45 publish
-出.46 produce
-出.47 produce
-出.48 produce
-出.49 produce
-出.50 produce
-出.51 produce
-出.52 produce
-出.53 produce
-出.54 produce
-出.55 come_appear
-出.56 out_of
-出.57 produce
-出.58 come_out
-出.59 happen
-出.60 publish
-出.61 give
-出.62 out_of
-出.63 publish
-出.64 publish
-出.65 produce
-出.66 come_out
-出.67 come_appear
-出.68 come_appear
-出.69 come_appear
-出.70 come_appear
-出.71 produce
-出.72 give
-出.73 produce
-出.74 publish
-出.75 produce
-出.76 publish
-出.77 happen
-动.1 act
-动.2 act
-动.3 act
-动.4 act
-动.5 act
-动.6 touch
-动.7 act
-动.8 use
-动.9 off
-动.10 off
-动.11 touch
-动.12 use
-动.13 act
-动.14 off
-动.15 act
-动.16 off
-动.17 act
-动.18 touch
-动.19 act
-动.20 act
-动摇.1 shake
-动摇.2 shake
-动摇.3 shake
-动摇.4 shake
-动摇.5 shake
-动摇.6 shake
-动摇.7 shake
-动摇.8 shake
-动摇.9 shake
-动摇.10 shake
-动摇.11 vacillate
-动摇.12 vacillate
-动摇.13 shake
-动摇.14 shake
-动摇.15 shake
-动摇.16 shake
-单位.1 organization
-单位.2 organization
-单位.3 unit
-单位.4 organization
-单位.5 organization
-单位.6 organization
-单位.7 organization
-单位.8 organization
-单位.9 unit
-单位.10 unit
-单位.11 unit
-单位.12 organization
-单位.13 unit
-单位.14 unit
-单位.15 unit
-单位.16 unit
-单位.17 unit
-发.1 appear
-发.2 appear
-发.3 send
-发.4 appear
-发.5 publish
-发.6 express
-发.7 express
-发.8 send
-发.9 occur
-发.10 publish
-发.11 send
-发.12 send
-发.13 send
-发.14 occur
-发.15 send
-发.16 occur
-发.17 express
-发.18 express
-发.19 express
-发.20 express
-发.21 express
-发.22 express
-发.23 express
-发.24 express
-发.25 express
-发.26 express
-发.27 express
-发.28 occur
-发.29 send
-发.30 send
-发.31 send
-发.32 send
-发.33 send
-发.34 send
-发.35 send
-发.36 express
-叫.1 ask
-叫.2 ask
-叫.3 ask
-叫.4 ask
-叫.5 ask
-叫.6 ask
-叫.7 ask
-叫.8 ask
-叫.9 call
-叫.10 ask
-叫.11 name
-叫.12 cry
-叫.13 name
-叫.14 name
-叫.15 ask
-叫.16 name
-叫.17 name
-叫.18 ask
-叫.19 call
-叫.20 call
-叫.21 call
-叫.22 call
-叫.23 name
-叫.24 name
-叫.25 call
-叫.26 call
-叫.27 call
-叫.28 call
-叫.29 name
-叫.30 cry
-叫.31 cry
-叫.32 cry
-叫.33 cry
-叫.34 cry
-叫.35 cry
-叫.36 call
-叫.37 cry
-叫.38 call
-叫.39 cry
-吃.1 suffer
-吃.2 eat
-吃.3 eat
-吃.4 eat
-吃.5 eat
-吃.6 eat
-吃.7 eat
-吃.8 suffer
-吃.9 eat
-吃.10 eat
-吃.11 live_on
-吃.12 suffer
-吃.13 eat
-吃.14 suffer
-吃.15 suffer
-吃.16 eat
-吃.17 eat
-吃.18 suffer
-吃.19 suffer
-吃.20 suffer
-吃.21 eat
-吃.22 eat
-吃.23 eat
-天地.1 field_of_activity
-天地.2 field_of_activity
-天地.3 field_of_activity
-天地.4 field_of_activity
-天地.5 field_of_activity
-天地.6 field_of_activity
-天地.7 field_of_activity
-天地.8 field_of_activity
-天地.9 field_of_activity
-天地.10 field_of_activity
-天地.11 heaven_and_earth
-天地.12 heaven_and_earth
-天地.13 heaven_and_earth
-天地.14 heaven_and_earth
-天地.15 heaven_and_earth
-天地.16 heaven_and_earth
-天地.17 heaven_and_earth
-天地.18 heaven_and_earth
-天地.19 heaven_and_earth
-天地.20 heaven_and_earth
-天地.21 world
-天地.22 world
-天地.23 world
-天地.24 world
-天地.25 world
-带.1 carry_with
-带.2 carry_with
-带.3 take
-带.4 instruct
-带.5 carry_with
-带.6 carry_with
-带.7 instruct
-带.8 instruct
-带.9 lead
-带.10 take
-带.11 lead
-带.12 instruct
-带.13 promote
-带.14 take
-带.15 instruct
-带.16 have
-带.17 promote
-带.18 instruct
-带.19 take
-带.20 lead
-带.21 have
-带.22 have
-带.23 have
-带.24 have
-带.25 have
-带.26 lead
-带.27 take
-带.28 have
-带.29 take
-带.30 promote
-带.31 carry_with
-带.32 carry_with
-带.33 carry_with
-带.34 take
-带.35 have
-带.36 carry_with
-带.37 carry_with
-带.38 carry_with
-带.39 carry_with
-带.40 carry_with
-带.41 promote
-带.42 promote
-带.43 promote
-带.44 instruct
-带.45 promote
-带.46 promote
-带.47 promote
-带.48 promote
-带.49 promote
-带.50 promote
-带.51 take
-带.52 take
-带.53 take
-带.54 take
-带.55 lead
-带.56 take
-带.57 take
-带.58 take
-带.59 instruct
-带.60 take
-带.61 and
-带.62 and
-带.63 and
-带.64 and
-带.65 have
-带.66 promote
-带.67 have
-平息.1 put_down
-平息.2 put_down
-平息.3 put_down
-平息.4 put_down
-平息.5 subside
-平息.6 subside
-平息.7 put_down
-平息.8 subside
-开通.1 open
-开通.2 open
-开通.3 go_into_operation
-开通.4 open
-开通.5 open
-开通.6 open
-开通.7 open
-开通.8 go_into_operation
-开通.9 open
-开通.10 open
-开通.11 go_into_operation
-开通.12 go_into_operation
-开通.13 go_into_operation
-开通.14 go_into_operation
-开通.15 go_into_operation
-开通.16 go_into_operation
-开通.17 go_into_operation
-开通.18 go_into_operation
-开通.19 go_into_operation
-开通.20 go_into_operation
-想.1 miss
-想.2 want
-想.3 think
-想.4 want
-想.5 want
-想.6 want
-想.7 think
-想.8 want
-想.9 want
-想.10 suppose
-想.11 want
-想.12 think
-想.13 miss
-想.14 think
-想.15 think
-想.16 think
-想.17 want
-想.18 think
-想.19 think
-想.20 miss
-想.21 suppose
-想.22 suppose
-想.23 suppose
-想.24 suppose
-想.25 suppose
-想.26 suppose
-想.27 suppose
-想.28 suppose
-想.29 suppose
-想.30 suppose
-想.31 miss
-想.32 miss
-想.33 miss
-想.34 miss
-想.35 think
-想.36 miss
-想.37 want
-成立.1 be_founded
-成立.2 be_founded
-成立.3 be_founded
-成立.4 be_founded
-成立.5 be_founded
-成立.6 be_founded
-成立.7 be_founded
-成立.8 be_founded
-成立.9 be_founded
-成立.10 be_founded
-成立.11 establish
-成立.12 be_founded
-成立.13 establish
-成立.14 establish
-成立.15 establish
-成立.16 establish
-成立.17 establish
-成立.18 establish
-成立.19 establish
-成立.20 establish
-成立.21 be_tenable
-成立.22 establish
-成立.23 be_tenable
-成立.24 be_tenable
-成立.25 establish
-成立.26 be_founded
-成立.27 be_founded
-挑.1 choose
-挑.2 choose
-挑.3 carry
-挑.4 carry
-挑.5 choose
-挑.6 carry
-挑.7 carry
-挑.8 carry
-挑.9 carry
-挑.10 carry
-挑.11 carry
-挑.12 carry
-挑.13 carry
-挑.14 raise
-推翻.1 repudiate
-推翻.2 repudiate
-推翻.3 repudiate
-推翻.4 overthrow
-推翻.5 repudiate
-推翻.6 overthrow
-推翻.7 overthrow
-推翻.8 overthrow
-推翻.9 repudiate
-推翻.10 repudiate
-旗帜.1 stand
-旗帜.2 stand
-旗帜.3 stand
-旗帜.4 stand
-旗帜.5 stand
-旗帜.6 stand
-旗帜.7 stand
-旗帜.8 stand
-旗帜.9 stand
-旗帜.10 stand
-旗帜.11 banner
-旗帜.12 banner
-旗帜.13 banner
-旗帜.14 model
-旗帜.15 stand
-旗帜.16 stand
-旗帜.17 banner
-旗帜.18 banner
-日子.1 date
-日子.2 date
-日子.3 life
-日子.4 date
-日子.5 date
-日子.6 day
-日子.7 day
-日子.8 life
-日子.9 day
-日子.10 date
-日子.11 day
-日子.12 day
-日子.13 day
-日子.14 life
-日子.15 day
-日子.16 day
-日子.17 date
-日子.18 day
-日子.19 date
-日子.20 life
-日子.21 day
-日子.22 day
-日子.23 date
-日子.24 day
-日子.25 life
-日子.26 life
-日子.27 date
-日子.28 life
-日子.29 life
-日子.30 day
-日子.31 life
-日子.32 life
-望.1 gaze
-望.2 gaze
-望.3 gaze
-望.4 gaze
-望.5 gaze
-望.6 gaze
-望.7 gaze
-望.8 gaze
-望.9 gaze
-望.10 gaze
-望.11 gaze
-望.12 gaze
-望.13 gaze
-本.1 foundation
-本.2 book
-本.3 book
-本.4 book
-本.5 book
-本.6 book
-本.7 book
-本.8 foundation
-本.9 book
-本.10 book
-本.11 foundation
-本.12 foundation
-本.13 foundation
-本.14 foundation
-本.15 foundation
-本.16 foundation
-本.17 foundation
-本.18 foundation
-本.19 capital
-本.20 foundation
-本.21 capital
-本.22 book
-本.23 foundation
-本.24 capital
-本.25 capital
-机组.1 aircrew
-机组.2 aircrew
-机组.3 aircrew
-机组.4 aircrew
-机组.5 set_of_machines
-机组.6 set_of_machines
-机组.7 set_of_machines
-机组.8 set_of_machines
-机组.9 set_of_machines
-机组.10 set_of_machines
-机组.11 set_of_machines
-机组.12 set_of_machines
-机组.13 set_of_machines
-机组.14 set_of_machines
-气息.1 spirit
-气息.2 spirit
-气息.3 smell
-气息.4 spirit
-气息.5 spirit
-气息.6 spirit
-气息.7 spirit
-气息.8 spirit
-气息.9 spirit
-气息.10 spirit
-气息.11 smell
-气息.12 spirit
-气息.13 smell
-气息.14 smell
-气象.1 meteorology
-气象.2 meteorology
-气象.3 meteorology
-气象.4 meteorology
-气象.5 meteorology
-气象.6 meteorology
-气象.7 meteorology
-气象.8 meteorology
-气象.9 meteorology
-气象.10 meteorology
-气象.11 atmosphere
-气象.12 atmosphere
-气象.13 meteorology
-气象.14 meteorology
-气象.15 atmosphere
-气象.16 atmosphere
-牌子.1 brand
-牌子.2 plate
-牌子.3 plate
-牌子.4 plate
-牌子.5 plate
-牌子.6 plate
-牌子.7 brand
-牌子.8 brand
-牌子.9 brand
-牌子.10 plate
-牌子.11 brand
-牌子.12 plate
-牌子.13 plate
-牌子.14 brand
-牌子.15 plate
-牌子.16 brand
-牌子.17 plate
-看.1 depend_on
-看.2 depend_on
-看.3 depend_on
-看.4 depend_on
-看.5 depend_on
-看.6 depend_on
-看.7 depend_on
-看.8 consider
-看.9 consider
-看.10 consider
-看.11 depend_on
-看.12 see
-看.13 think
-看.14 consider
-看.15 see
-看.16 depend_on
-看.17 see
-看.18 see
-看.19 consider
-看.20 see
-看.21 think
-看.22 think
-看.23 think
-看.24 think
-看.25 consider
-看.26 consider
-看.27 depend_on
-看.28 consider
-看.29 consider
-看.30 see
-看.31 depend_on
-看.32 consider
-看.33 consider
-看.34 consider
-眼光.1 foresight
-眼光.2 foresight
-眼光.3 foresight
-眼光.4 eye
-眼光.5 foresight
-眼光.6 foresight
-眼光.7 foresight
-眼光.8 foresight
-眼光.9 foresight
-眼光.10 foresight
-眼光.11 foresight
-眼光.12 foresight
-眼光.13 foresight
-眼光.14 eye
-菜.1 vegetable
-菜.2 vegetable
-菜.3 vegetable
-菜.4 vegetable
-菜.5 vegetable
-菜.6 vegetable
-菜.7 vegetable
-菜.8 dish
-菜.9 vegetable
-菜.10 vegetable
-菜.11 dish
-菜.12 vegetable
-菜.13 vegetable
-菜.14 vegetable
-菜.15 dish
-菜.16 dish
-菜.17 dish
-菜.18 vegetable
-菜.19 vegetable
-补.1 repair
-补.2 supply
-补.3 supply
-补.4 supply
-补.5 supply
-补.6 supply
-补.7 supply
-补.8 nourish
-补.9 supply
-补.10 supply
-补.11 supply
-补.12 nourish
-补.13 supply
-补.14 nourish
-补.15 nourish
-补.16 nourish
-补.17 nourish
-补.18 nourish
-补.19 nourish
-补.20 nourish
-表面.1 face
-表面.2 appearance
-表面.3 appearance
-表面.4 face
-表面.5 appearance
-表面.6 appearance
-表面.7 appearance
-表面.8 appearance
-表面.9 face
-表面.10 face
-表面.11 appearance
-表面.12 face
-表面.13 face
-表面.14 face
-表面.15 face
-表面.16 face
-表面.17 appearance
-表面.18 face
-说明.1 show
-说明.2 show
-说明.3 show
-说明.4 show
-说明.5 show
-说明.6 show
-说明.7 explain
-说明.8 show
-说明.9 explain
-说明.10 explain
-说明.11 explain
-说明.12 explain
-说明.13 explain
-说明.14 explain
-说明.15 show
-说明.16 show
-说明.17 explain
-说明.18 explain
-赶.1 rush_for
-赶.2 drive
-赶.3 rush_for
-赶.4 rush_for
-赶.5 rush_for
-赶.6 rush_for
-赶.7 rush_for
-赶.8 happen_to
-赶.9 rush_for
-赶.10 drive
-赶.11 drive
-赶.12 drive
-赶.13 drive
-赶.14 rush_for
-赶.15 rush_for
-赶.16 happen_to
-赶.17 happen_to
-赶.18 happen_to
-进.1 enter
-进.2 into
-进.3 move_forward
-进.4 into
-进.5 into
-进.6 into
-进.7 buy_in
-进.8 into
-进.9 into
-进.10 move_forward
-进.11 enter
-进.12 enter
-进.13 buy_in
-进.14 enter
-进.15 enter
-进.16 enter
-进.17 into
-进.18 into
-进.19 enter
-进.20 enter
-进.21 buy_in
-进.22 enter
-进.23 move_forward
-进.24 move
-进.25 move_forward
-进.26 enter
-进.27 move_forward
-进.28 move_forward
-进.29 move_forward
-进.30 buy_in
-进.31 enter
-进.32 move_forward
-进.33 enter
-进.34 enter
-进.35 move
-进.36 move
-进.37 move
-进.38 move
-进.39 move
-进.40 move
-进.41 move
-进.42 move
-进.43 move
-进.44 enter
-道.1 technique
-道.2 technique
-道.3 technique
-道.4 technique
-道.5 road
-道.6 technique
-道.7 road
-道.8 road
-道.9 road
-道.10 technique
-道.11 technique
-道.12 road
-道.13 road
-道.14 road
-道.15 road
-道.16 doctrine
-道.17 road
-道.18 technique
-镜头.1 lens
-镜头.2 lens
-镜头.3 lens
-镜头.4 lens
-镜头.5 shot
-镜头.6 shot
-镜头.7 shot
-镜头.8 shot
-镜头.9 lens
-镜头.10 shot
-镜头.11 lens
-镜头.12 lens
-镜头.13 shot
-镜头.14 shot
-镜头.15 lens
-长城.1 the_Great_Wall
-长城.2 the_Great_Wall
-长城.3 the_Great_Wall
-长城.4 the_Great_Wall
-长城.5 the_Great_Wall
-长城.6 the_Great_Wall
-长城.7 the_Great_Wall
-长城.8 the_Great_Wall
-长城.9 the_Great_Wall
-长城.10 the_Great_Wall
-长城.11 the_Great_Wall
-长城.12 the_Great_Wall
-长城.13 ChangCheng
-长城.14 ChangCheng
-长城.15 ChangCheng
-长城.16 ChangCheng
-长城.17 the_Great_Wall
-长城.18 the_Great_Wall
-长城.19 the_Great_Wall
-长城.20 impregnable_bulwark
-长城.21 the_Great_Wall
-队伍.1 contingent
-队伍.2 ranks
-队伍.3 contingent
-队伍.4 contingent
-队伍.5 contingent
-队伍.6 troops
-队伍.7 contingent
-队伍.8 contingent
-队伍.9 contingent
-队伍.10 troops
-队伍.11 ranks
-队伍.12 contingent
-队伍.13 ranks
-队伍.14 contingent
-队伍.15 contingent
-队伍.16 contingent
-队伍.17 ranks
-队伍.18 ranks
-队伍.19 ranks
-队伍.20 troops
-队伍.21 contingent
-队伍.22 troops
-震惊.1 shock
-震惊.2 shock
-震惊.3 be_shocked
-震惊.4 be_shocked
-震惊.5 be_shocked
-震惊.6 be_shocked
-震惊.7 be_shocked
-震惊.8 be_shocked
-震惊.9 be_shocked
-震惊.10 be_shocked
-震惊.11 be_shocked
-震惊.12 be_shocked
-震惊.13 be_shocked
-震惊.14 be_shocked
-面.1 face
-面.2 face
-面.3 face
-面.4 face
-面.5 face
-面.6 surface
-面.7 surface
-面.8 face
-面.9 surface
-面.10 face
-面.11 face
-面.12 face
-面.13 flour
-面.14 surface
-面.15 face
-面.16 surface
-面.17 surface
-面.18 surface
-面.19 surface
-面.20 face
-面.21 surface
-面.22 face
-面.23 surface
+中医 中医.1 traditional_Chinese_medical_science
+中医 中医.2 traditional_Chinese_medical_science
+中医 中医.3 traditional_Chinese_medical_science
+中医 中医.4 traditional_Chinese_medical_science
+中医 中医.5 practitioner_of_Chinese_medicine
+中医 中医.6 traditional_Chinese_medical_science
+中医 中医.7 traditional_Chinese_medical_science
+中医 中医.8 traditional_Chinese_medical_science
+中医 中医.9 traditional_Chinese_medical_science
+中医 中医.10 traditional_Chinese_medical_science
+中医 中医.11 traditional_Chinese_medical_science
+中医 中医.12 practitioner_of_Chinese_medicine
+中医 中医.13 practitioner_of_Chinese_medicine
+中医 中医.14 practitioner_of_Chinese_medicine
+中医 中医.15 practitioner_of_Chinese_medicine
+中医 中医.16 practitioner_of_Chinese_medicine
+使 使.1 make
+使 使.2 make
+使 使.3 make
+使 使.4 use
+使 使.5 use
+使 使.6 use
+使 使.7 make
+使 使.8 make
+使 使.9 make
+使 使.10 make
+使 使.11 make
+使 使.12 make
+使 使.13 make
+使 使.14 make
+使 使.15 make
+使 使.16 make
+儿女 儿女.1 young_man_and_woman
+儿女 儿女.2 young_man_and_woman
+儿女 儿女.3 children
+儿女 儿女.4 young_man_and_woman
+儿女 儿女.5 young_man_and_woman
+儿女 儿女.6 young_man_and_woman
+儿女 儿女.7 young_man_and_woman
+儿女 儿女.8 young_man_and_woman
+儿女 儿女.9 young_man_and_woman
+儿女 儿女.10 young_man_and_woman
+儿女 儿女.11 children
+儿女 儿女.12 children
+儿女 儿女.13 children
+儿女 儿女.14 children
+儿女 儿女.15 children
+儿女 儿女.16 children
+儿女 儿女.17 children
+儿女 儿女.18 children
+儿女 儿女.19 children
+儿女 儿女.20 children
+出 出.1 out_of
+出 出.2 out_of
+出 出.3 produce
+出 出.4 out_of
+出 出.5 out_of
+出 出.6 produce
+出 出.7 out_of
+出 出.8 produce
+出 出.9 produce
+出 出.10 happen
+出 出.11 give
+出 出.12 publish
+出 出.13 happen
+出 出.14 happen
+出 出.15 happen
+出 出.16 happen
+出 出.17 happen
+出 出.18 come_out
+出 出.19 produce
+出 出.20 happen
+出 出.21 produce
+出 出.22 publish
+出 出.23 come_appear
+出 出.24 come_out
+出 出.25 come_out
+出 出.26 come_appear
+出 出.27 come_out
+出 出.28 publish
+出 出.29 produce
+出 出.30 happen
+出 出.31 give
+出 出.32 come_out
+出 出.33 give
+出 出.34 happen
+出 出.35 out_of
+出 出.36 come_out
+出 出.37 give
+出 出.38 give
+出 出.39 give
+出 出.40 give
+出 出.41 publish
+出 出.42 emit
+出 出.43 emit
+出 出.44 come_out
+出 出.45 publish
+出 出.46 produce
+出 出.47 produce
+出 出.48 produce
+出 出.49 produce
+出 出.50 produce
+出 出.51 produce
+出 出.52 produce
+出 出.53 produce
+出 出.54 produce
+出 出.55 come_appear
+出 出.56 out_of
+出 出.57 produce
+出 出.58 come_out
+出 出.59 happen
+出 出.60 publish
+出 出.61 give
+出 出.62 out_of
+出 出.63 publish
+出 出.64 publish
+出 出.65 produce
+出 出.66 come_out
+出 出.67 come_appear
+出 出.68 come_appear
+出 出.69 come_appear
+出 出.70 come_appear
+出 出.71 produce
+出 出.72 give
+出 出.73 produce
+出 出.74 publish
+出 出.75 produce
+出 出.76 publish
+出 出.77 happen
+动 动.1 act
+动 动.2 act
+动 动.3 act
+动 动.4 act
+动 动.5 act
+动 动.6 touch
+动 动.7 act
+动 动.8 use
+动 动.9 off
+动 动.10 off
+动 动.11 touch
+动 动.12 use
+动 动.13 act
+动 动.14 off
+动 动.15 act
+动 动.16 off
+动 动.17 act
+动 动.18 touch
+动 动.19 act
+动 动.20 act
+动摇 动摇.1 shake
+动摇 动摇.2 shake
+动摇 动摇.3 shake
+动摇 动摇.4 shake
+动摇 动摇.5 shake
+动摇 动摇.6 shake
+动摇 动摇.7 shake
+动摇 动摇.8 shake
+动摇 动摇.9 shake
+动摇 动摇.10 shake
+动摇 动摇.11 vacillate
+动摇 动摇.12 vacillate
+动摇 动摇.13 shake
+动摇 动摇.14 shake
+动摇 动摇.15 shake
+动摇 动摇.16 shake
+单位 单位.1 organization
+单位 单位.2 organization
+单位 单位.3 unit
+单位 单位.4 organization
+单位 单位.5 organization
+单位 单位.6 organization
+单位 单位.7 organization
+单位 单位.8 organization
+单位 单位.9 unit
+单位 单位.10 unit
+单位 单位.11 unit
+单位 单位.12 organization
+单位 单位.13 unit
+单位 单位.14 unit
+单位 单位.15 unit
+单位 单位.16 unit
+单位 单位.17 unit
+发 发.1 appear
+发 发.2 appear
+发 发.3 send
+发 发.4 appear
+发 发.5 publish
+发 发.6 express
+发 发.7 express
+发 发.8 send
+发 发.9 occur
+发 发.10 publish
+发 发.11 send
+发 发.12 send
+发 发.13 send
+发 发.14 occur
+发 发.15 send
+发 发.16 occur
+发 发.17 express
+发 发.18 express
+发 发.19 express
+发 发.20 express
+发 发.21 express
+发 发.22 express
+发 发.23 express
+发 发.24 express
+发 发.25 express
+发 发.26 express
+发 发.27 express
+发 发.28 occur
+发 发.29 send
+发 发.30 send
+发 发.31 send
+发 发.32 send
+发 发.33 send
+发 发.34 send
+发 发.35 send
+发 发.36 express
+叫 叫.1 ask
+叫 叫.2 ask
+叫 叫.3 ask
+叫 叫.4 ask
+叫 叫.5 ask
+叫 叫.6 ask
+叫 叫.7 ask
+叫 叫.8 ask
+叫 叫.9 call
+叫 叫.10 ask
+叫 叫.11 name
+叫 叫.12 cry
+叫 叫.13 name
+叫 叫.14 name
+叫 叫.15 ask
+叫 叫.16 name
+叫 叫.17 name
+叫 叫.18 ask
+叫 叫.19 call
+叫 叫.20 call
+叫 叫.21 call
+叫 叫.22 call
+叫 叫.23 name
+叫 叫.24 name
+叫 叫.25 call
+叫 叫.26 call
+叫 叫.27 call
+叫 叫.28 call
+叫 叫.29 name
+叫 叫.30 cry
+叫 叫.31 cry
+叫 叫.32 cry
+叫 叫.33 cry
+叫 叫.34 cry
+叫 叫.35 cry
+叫 叫.36 call
+叫 叫.37 cry
+叫 叫.38 call
+叫 叫.39 cry
+吃 吃.1 suffer
+吃 吃.2 eat
+吃 吃.3 eat
+吃 吃.4 eat
+吃 吃.5 eat
+吃 吃.6 eat
+吃 吃.7 eat
+吃 吃.8 suffer
+吃 吃.9 eat
+吃 吃.10 eat
+吃 吃.11 live_on
+吃 吃.12 suffer
+吃 吃.13 eat
+吃 吃.14 suffer
+吃 吃.15 suffer
+吃 吃.16 eat
+吃 吃.17 eat
+吃 吃.18 suffer
+吃 吃.19 suffer
+吃 吃.20 suffer
+吃 吃.21 eat
+吃 吃.22 eat
+吃 吃.23 eat
+天地 天地.1 field_of_activity
+天地 天地.2 field_of_activity
+天地 天地.3 field_of_activity
+天地 天地.4 field_of_activity
+天地 天地.5 field_of_activity
+天地 天地.6 field_of_activity
+天地 天地.7 field_of_activity
+天地 天地.8 field_of_activity
+天地 天地.9 field_of_activity
+天地 天地.10 field_of_activity
+天地 天地.11 heaven_and_earth
+天地 天地.12 heaven_and_earth
+天地 天地.13 heaven_and_earth
+天地 天地.14 heaven_and_earth
+天地 天地.15 heaven_and_earth
+天地 天地.16 heaven_and_earth
+天地 天地.17 heaven_and_earth
+天地 天地.18 heaven_and_earth
+天地 天地.19 heaven_and_earth
+天地 天地.20 heaven_and_earth
+天地 天地.21 world
+天地 天地.22 world
+天地 天地.23 world
+天地 天地.24 world
+天地 天地.25 world
+带 带.1 carry_with
+带 带.2 carry_with
+带 带.3 take
+带 带.4 instruct
+带 带.5 carry_with
+带 带.6 carry_with
+带 带.7 instruct
+带 带.8 instruct
+带 带.9 lead
+带 带.10 take
+带 带.11 lead
+带 带.12 instruct
+带 带.13 promote
+带 带.14 take
+带 带.15 instruct
+带 带.16 have
+带 带.17 promote
+带 带.18 instruct
+带 带.19 take
+带 带.20 lead
+带 带.21 have
+带 带.22 have
+带 带.23 have
+带 带.24 have
+带 带.25 have
+带 带.26 lead
+带 带.27 take
+带 带.28 have
+带 带.29 take
+带 带.30 promote
+带 带.31 carry_with
+带 带.32 carry_with
+带 带.33 carry_with
+带 带.34 take
+带 带.35 have
+带 带.36 carry_with
+带 带.37 carry_with
+带 带.38 carry_with
+带 带.39 carry_with
+带 带.40 carry_with
+带 带.41 promote
+带 带.42 promote
+带 带.43 promote
+带 带.44 instruct
+带 带.45 promote
+带 带.46 promote
+带 带.47 promote
+带 带.48 promote
+带 带.49 promote
+带 带.50 promote
+带 带.51 take
+带 带.52 take
+带 带.53 take
+带 带.54 take
+带 带.55 lead
+带 带.56 take
+带 带.57 take
+带 带.58 take
+带 带.59 instruct
+带 带.60 take
+带 带.61 and
+带 带.62 and
+带 带.63 and
+带 带.64 and
+带 带.65 have
+带 带.66 promote
+带 带.67 have
+平息 平息.1 put_down
+平息 平息.2 put_down
+平息 平息.3 put_down
+平息 平息.4 put_down
+平息 平息.5 subside
+平息 平息.6 subside
+平息 平息.7 put_down
+平息 平息.8 subside
+开通 开通.1 open
+开通 开通.2 open
+开通 开通.3 go_into_operation
+开通 开通.4 open
+开通 开通.5 open
+开通 开通.6 open
+开通 开通.7 open
+开通 开通.8 go_into_operation
+开通 开通.9 open
+开通 开通.10 open
+开通 开通.11 go_into_operation
+开通 开通.12 go_into_operation
+开通 开通.13 go_into_operation
+开通 开通.14 go_into_operation
+开通 开通.15 go_into_operation
+开通 开通.16 go_into_operation
+开通 开通.17 go_into_operation
+开通 开通.18 go_into_operation
+开通 开通.19 go_into_operation
+开通 开通.20 go_into_operation
+想 想.1 miss
+想 想.2 want
+想 想.3 think
+想 想.4 want
+想 想.5 want
+想 想.6 want
+想 想.7 think
+想 想.8 want
+想 想.9 want
+想 想.10 suppose
+想 想.11 want
+想 想.12 think
+想 想.13 miss
+想 想.14 think
+想 想.15 think
+想 想.16 think
+想 想.17 want
+想 想.18 think
+想 想.19 think
+想 想.20 miss
+想 想.21 suppose
+想 想.22 suppose
+想 想.23 suppose
+想 想.24 suppose
+想 想.25 suppose
+想 想.26 suppose
+想 想.27 suppose
+想 想.28 suppose
+想 想.29 suppose
+想 想.30 suppose
+想 想.31 miss
+想 想.32 miss
+想 想.33 miss
+想 想.34 miss
+想 想.35 think
+想 想.36 miss
+想 想.37 want
+成立 成立.1 be_founded
+成立 成立.2 be_founded
+成立 成立.3 be_founded
+成立 成立.4 be_founded
+成立 成立.5 be_founded
+成立 成立.6 be_founded
+成立 成立.7 be_founded
+成立 成立.8 be_founded
+成立 成立.9 be_founded
+成立 成立.10 be_founded
+成立 成立.11 establish
+成立 成立.12 be_founded
+成立 成立.13 establish
+成立 成立.14 establish
+成立 成立.15 establish
+成立 成立.16 establish
+成立 成立.17 establish
+成立 成立.18 establish
+成立 成立.19 establish
+成立 成立.20 establish
+成立 成立.21 be_tenable
+成立 成立.22 establish
+成立 成立.23 be_tenable
+成立 成立.24 be_tenable
+成立 成立.25 establish
+成立 成立.26 be_founded
+成立 成立.27 be_founded
+挑 挑.1 choose
+挑 挑.2 choose
+挑 挑.3 carry
+挑 挑.4 carry
+挑 挑.5 choose
+挑 挑.6 carry
+挑 挑.7 carry
+挑 挑.8 carry
+挑 挑.9 carry
+挑 挑.10 carry
+挑 挑.11 carry
+挑 挑.12 carry
+挑 挑.13 carry
+挑 挑.14 raise
+推翻 推翻.1 repudiate
+推翻 推翻.2 repudiate
+推翻 推翻.3 repudiate
+推翻 推翻.4 overthrow
+推翻 推翻.5 repudiate
+推翻 推翻.6 overthrow
+推翻 推翻.7 overthrow
+推翻 推翻.8 overthrow
+推翻 推翻.9 repudiate
+推翻 推翻.10 repudiate
+旗帜 旗帜.1 stand
+旗帜 旗帜.2 stand
+旗帜 旗帜.3 stand
+旗帜 旗帜.4 stand
+旗帜 旗帜.5 stand
+旗帜 旗帜.6 stand
+旗帜 旗帜.7 stand
+旗帜 旗帜.8 stand
+旗帜 旗帜.9 stand
+旗帜 旗帜.10 stand
+旗帜 旗帜.11 banner
+旗帜 旗帜.12 banner
+旗帜 旗帜.13 banner
+旗帜 旗帜.14 model
+旗帜 旗帜.15 stand
+旗帜 旗帜.16 stand
+旗帜 旗帜.17 banner
+旗帜 旗帜.18 banner
+日子 日子.1 date
+日子 日子.2 date
+日子 日子.3 life
+日子 日子.4 date
+日子 日子.5 date
+日子 日子.6 day
+日子 日子.7 day
+日子 日子.8 life
+日子 日子.9 day
+日子 日子.10 date
+日子 日子.11 day
+日子 日子.12 day
+日子 日子.13 day
+日子 日子.14 life
+日子 日子.15 day
+日子 日子.16 day
+日子 日子.17 date
+日子 日子.18 day
+日子 日子.19 date
+日子 日子.20 life
+日子 日子.21 day
+日子 日子.22 day
+日子 日子.23 date
+日子 日子.24 day
+日子 日子.25 life
+日子 日子.26 life
+日子 日子.27 date
+日子 日子.28 life
+日子 日子.29 life
+日子 日子.30 day
+日子 日子.31 life
+日子 日子.32 life
+望 望.1 gaze
+望 望.2 gaze
+望 望.3 gaze
+望 望.4 gaze
+望 望.5 gaze
+望 望.6 gaze
+望 望.7 gaze
+望 望.8 gaze
+望 望.9 gaze
+望 望.10 gaze
+望 望.11 gaze
+望 望.12 gaze
+望 望.13 gaze
+本 本.1 foundation
+本 本.2 book
+本 本.3 book
+本 本.4 book
+本 本.5 book
+本 本.6 book
+本 本.7 book
+本 本.8 foundation
+本 本.9 book
+本 本.10 book
+本 本.11 foundation
+本 本.12 foundation
+本 本.13 foundation
+本 本.14 foundation
+本 本.15 foundation
+本 本.16 foundation
+本 本.17 foundation
+本 本.18 foundation
+本 本.19 capital
+本 本.20 foundation
+本 本.21 capital
+本 本.22 book
+本 本.23 foundation
+本 本.24 capital
+本 本.25 capital
+机组 机组.1 aircrew
+机组 机组.2 aircrew
+机组 机组.3 aircrew
+机组 机组.4 aircrew
+机组 机组.5 set_of_machines
+机组 机组.6 set_of_machines
+机组 机组.7 set_of_machines
+机组 机组.8 set_of_machines
+机组 机组.9 set_of_machines
+机组 机组.10 set_of_machines
+机组 机组.11 set_of_machines
+机组 机组.12 set_of_machines
+机组 机组.13 set_of_machines
+机组 机组.14 set_of_machines
+气息 气息.1 spirit
+气息 气息.2 spirit
+气息 气息.3 smell
+气息 气息.4 spirit
+气息 气息.5 spirit
+气息 气息.6 spirit
+气息 气息.7 spirit
+气息 气息.8 spirit
+气息 气息.9 spirit
+气息 气息.10 spirit
+气息 气息.11 smell
+气息 气息.12 spirit
+气息 气息.13 smell
+气息 气息.14 smell
+气象 气象.1 meteorology
+气象 气象.2 meteorology
+气象 气象.3 meteorology
+气象 气象.4 meteorology
+气象 气象.5 meteorology
+气象 气象.6 meteorology
+气象 气象.7 meteorology
+气象 气象.8 meteorology
+气象 气象.9 meteorology
+气象 气象.10 meteorology
+气象 气象.11 atmosphere
+气象 气象.12 atmosphere
+气象 气象.13 meteorology
+气象 气象.14 meteorology
+气象 气象.15 atmosphere
+气象 气象.16 atmosphere
+牌子 牌子.1 brand
+牌子 牌子.2 plate
+牌子 牌子.3 plate
+牌子 牌子.4 plate
+牌子 牌子.5 plate
+牌子 牌子.6 plate
+牌子 牌子.7 brand
+牌子 牌子.8 brand
+牌子 牌子.9 brand
+牌子 牌子.10 plate
+牌子 牌子.11 brand
+牌子 牌子.12 plate
+牌子 牌子.13 plate
+牌子 牌子.14 brand
+牌子 牌子.15 plate
+牌子 牌子.16 brand
+牌子 牌子.17 plate
+看 看.1 depend_on
+看 看.2 depend_on
+看 看.3 depend_on
+看 看.4 depend_on
+看 看.5 depend_on
+看 看.6 depend_on
+看 看.7 depend_on
+看 看.8 consider
+看 看.9 consider
+看 看.10 consider
+看 看.11 depend_on
+看 看.12 see
+看 看.13 think
+看 看.14 consider
+看 看.15 see
+看 看.16 depend_on
+看 看.17 see
+看 看.18 see
+看 看.19 consider
+看 看.20 see
+看 看.21 think
+看 看.22 think
+看 看.23 think
+看 看.24 think
+看 看.25 consider
+看 看.26 consider
+看 看.27 depend_on
+看 看.28 consider
+看 看.29 consider
+看 看.30 see
+看 看.31 depend_on
+看 看.32 consider
+看 看.33 consider
+看 看.34 consider
+眼光 眼光.1 foresight
+眼光 眼光.2 foresight
+眼光 眼光.3 foresight
+眼光 眼光.4 eye
+眼光 眼光.5 foresight
+眼光 眼光.6 foresight
+眼光 眼光.7 foresight
+眼光 眼光.8 foresight
+眼光 眼光.9 foresight
+眼光 眼光.10 foresight
+眼光 眼光.11 foresight
+眼光 眼光.12 foresight
+眼光 眼光.13 foresight
+眼光 眼光.14 eye
+菜 菜.1 vegetable
+菜 菜.2 vegetable
+菜 菜.3 vegetable
+菜 菜.4 vegetable
+菜 菜.5 vegetable
+菜 菜.6 vegetable
+菜 菜.7 vegetable
+菜 菜.8 dish
+菜 菜.9 vegetable
+菜 菜.10 vegetable
+菜 菜.11 dish
+菜 菜.12 vegetable
+菜 菜.13 vegetable
+菜 菜.14 vegetable
+菜 菜.15 dish
+菜 菜.16 dish
+菜 菜.17 dish
+菜 菜.18 vegetable
+菜 菜.19 vegetable
+补 补.1 repair
+补 补.2 supply
+补 补.3 supply
+补 补.4 supply
+补 补.5 supply
+补 补.6 supply
+补 补.7 supply
+补 补.8 nourish
+补 补.9 supply
+补 补.10 supply
+补 补.11 supply
+补 补.12 nourish
+补 补.13 supply
+补 补.14 nourish
+补 补.15 nourish
+补 补.16 nourish
+补 补.17 nourish
+补 补.18 nourish
+补 补.19 nourish
+补 补.20 nourish
+表面 表面.1 face
+表面 表面.2 appearance
+表面 表面.3 appearance
+表面 表面.4 face
+表面 表面.5 appearance
+表面 表面.6 appearance
+表面 表面.7 appearance
+表面 表面.8 appearance
+表面 表面.9 face
+表面 表面.10 face
+表面 表面.11 appearance
+表面 表面.12 face
+表面 表面.13 face
+表面 表面.14 face
+表面 表面.15 face
+表面 表面.16 face
+表面 表面.17 appearance
+表面 表面.18 face
+说明 说明.1 show
+说明 说明.2 show
+说明 说明.3 show
+说明 说明.4 show
+说明 说明.5 show
+说明 说明.6 show
+说明 说明.7 explain
+说明 说明.8 show
+说明 说明.9 explain
+说明 说明.10 explain
+说明 说明.11 explain
+说明 说明.12 explain
+说明 说明.13 explain
+说明 说明.14 explain
+说明 说明.15 show
+说明 说明.16 show
+说明 说明.17 explain
+说明 说明.18 explain
+赶 赶.1 rush_for
+赶 赶.2 drive
+赶 赶.3 rush_for
+赶 赶.4 rush_for
+赶 赶.5 rush_for
+赶 赶.6 rush_for
+赶 赶.7 rush_for
+赶 赶.8 happen_to
+赶 赶.9 rush_for
+赶 赶.10 drive
+赶 赶.11 drive
+赶 赶.12 drive
+赶 赶.13 drive
+赶 赶.14 rush_for
+赶 赶.15 rush_for
+赶 赶.16 happen_to
+赶 赶.17 happen_to
+赶 赶.18 happen_to
+进 进.1 enter
+进 进.2 into
+进 进.3 move_forward
+进 进.4 into
+进 进.5 into
+进 进.6 into
+进 进.7 buy_in
+进 进.8 into
+进 进.9 into
+进 进.10 move_forward
+进 进.11 enter
+进 进.12 enter
+进 进.13 buy_in
+进 进.14 enter
+进 进.15 enter
+进 进.16 enter
+进 进.17 into
+进 进.18 into
+进 进.19 enter
+进 进.20 enter
+进 进.21 buy_in
+进 进.22 enter
+进 进.23 move_forward
+进 进.24 move
+进 进.25 move_forward
+进 进.26 enter
+进 进.27 move_forward
+进 进.28 move_forward
+进 进.29 move_forward
+进 进.30 buy_in
+进 进.31 enter
+进 进.32 move_forward
+进 进.33 enter
+进 进.34 enter
+进 进.35 move
+进 进.36 move
+进 进.37 move
+进 进.38 move
+进 进.39 move
+进 进.40 move
+进 进.41 move
+进 进.42 move
+进 进.43 move
+进 进.44 enter
+道 道.1 technique
+道 道.2 technique
+道 道.3 technique
+道 道.4 technique
+道 道.5 road
+道 道.6 technique
+道 道.7 road
+道 道.8 road
+道 道.9 road
+道 道.10 technique
+道 道.11 technique
+道 道.12 road
+道 道.13 road
+道 道.14 road
+道 道.15 road
+道 道.16 doctrine
+道 道.17 road
+道 道.18 technique
+镜头 镜头.1 lens
+镜头 镜头.2 lens
+镜头 镜头.3 lens
+镜头 镜头.4 lens
+镜头 镜头.5 shot
+镜头 镜头.6 shot
+镜头 镜头.7 shot
+镜头 镜头.8 shot
+镜头 镜头.9 lens
+镜头 镜头.10 shot
+镜头 镜头.11 lens
+镜头 镜头.12 lens
+镜头 镜头.13 shot
+镜头 镜头.14 shot
+镜头 镜头.15 lens
+长城 长城.1 the_Great_Wall
+长城 长城.2 the_Great_Wall
+长城 长城.3 the_Great_Wall
+长城 长城.4 the_Great_Wall
+长城 长城.5 the_Great_Wall
+长城 长城.6 the_Great_Wall
+长城 长城.7 the_Great_Wall
+长城 长城.8 the_Great_Wall
+长城 长城.9 the_Great_Wall
+长城 长城.10 the_Great_Wall
+长城 长城.11 the_Great_Wall
+长城 长城.12 the_Great_Wall
+长城 长城.13 ChangCheng
+长城 长城.14 ChangCheng
+长城 长城.15 ChangCheng
+长城 长城.16 ChangCheng
+长城 长城.17 the_Great_Wall
+长城 长城.18 the_Great_Wall
+长城 长城.19 the_Great_Wall
+长城 长城.20 impregnable_bulwark
+长城 长城.21 the_Great_Wall
+队伍 队伍.1 contingent
+队伍 队伍.2 ranks
+队伍 队伍.3 contingent
+队伍 队伍.4 contingent
+队伍 队伍.5 contingent
+队伍 队伍.6 troops
+队伍 队伍.7 contingent
+队伍 队伍.8 contingent
+队伍 队伍.9 contingent
+队伍 队伍.10 troops
+队伍 队伍.11 ranks
+队伍 队伍.12 contingent
+队伍 队伍.13 ranks
+队伍 队伍.14 contingent
+队伍 队伍.15 contingent
+队伍 队伍.16 contingent
+队伍 队伍.17 ranks
+队伍 队伍.18 ranks
+队伍 队伍.19 ranks
+队伍 队伍.20 troops
+队伍 队伍.21 contingent
+队伍 队伍.22 troops
+震惊 震惊.1 shock
+震惊 震惊.2 shock
+震惊 震惊.3 be_shocked
+震惊 震惊.4 be_shocked
+震惊 震惊.5 be_shocked
+震惊 震惊.6 be_shocked
+震惊 震惊.7 be_shocked
+震惊 震惊.8 be_shocked
+震惊 震惊.9 be_shocked
+震惊 震惊.10 be_shocked
+震惊 震惊.11 be_shocked
+震惊 震惊.12 be_shocked
+震惊 震惊.13 be_shocked
+震惊 震惊.14 be_shocked
+面 面.1 face
+面 面.2 face
+面 面.3 face
+面 面.4 face
+面 面.5 face
+面 面.6 surface
+面 面.7 surface
+面 面.8 face
+面 面.9 surface
+面 面.10 face
+面 面.11 face
+面 面.12 face
+面 面.13 flour
+面 面.14 surface
+面 面.15 face
+面 面.16 surface
+面 面.17 surface
+面 面.18 surface
+面 面.19 surface
+面 面.20 face
+面 面.21 surface
+面 面.22 face
+面 面.23 surface

@@ -89,8 +89,9 @@ class BaseWSDI(object):
             #   File "/home/hhr/myapps/WSD/src/base_wsd.py", line 60, in dump_result
             #     file_obj.write('%s.%d %s\n' % (word.encode('utf-8'), i + 1, label))
             # UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
-
-            file_obj.write(word.encode('utf-8'))
+            word_type = word.split('.')[0]
+            file_obj.write('%s %s' % (word_type.encode('utf-8'), word.encode('utf-8')))
+            # file_obj.write(word.encode('utf-8'))
             file_obj.write('.%d %s\n' % (i + 1, label))
         return None
 
