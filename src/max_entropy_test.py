@@ -1,0 +1,39 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import os
+import unittest
+
+from max_entropy import MaxEntropyWSD
+
+
+class MaxEntropyTest(unittest.TestCase):
+
+    def setUp(self):
+        self.ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        self.wsd = MaxEntropyWSD()
+        self.train_dir = os.path.join(self.ROOT, 'train/')
+        self.test_dir = os.path.join(self.ROOT, 'test/')
+
+    def test_load_features(self):
+        features_label = self.wsd.load_features(os.path.join(self.train_dir, u'中医'))
+        target = ({'T-1': 'v', 'T-2': 'c', 'PW': 'NULL', 'PT': 'NULL', 'W-2': '\xe8\x80\x8c', 'W-1': '\xe9\x92\xbb\xe7\xa0\x94', 'T2': 'w', 'T1': 'n', 'W2': '\xef\xbc\x8c', 'W1': '\xe7\x90\x86\xe8\xae\xba'}, 'traditional_Chinese_medical_science')
+        self.assertTupleEqual(target, features_label[0])
+        target = ({'T-1': 'ns', 'T-2': 'v', 'PW': '\xe4\xb8\xad\xe5\x9b\xbd\xe4\xb8\xad\xe5\x8c\xbb\xe7\xa0\x94\xe7\xa9\xb6\xe9\x99\xa2\xe9\x95\xbf\xe5\x9f\x8e\xe5\x8c\xbb\xe9\x99\xa2', 'PT': 'nt', 'W-2': '\xe7\x8e\xb0\xe4\xbb\xbb', 'W-1': '\xe4\xb8\xad\xe5\x9b\xbd', 'T2': 'nz', 'T1': 'n', 'W2': '\xe9\x95\xbf\xe5\x9f\x8e', 'W1': '\xe7\xa0\x94\xe7\xa9\xb6\xe9\x99\xa2'}, 'traditional_Chinese_medical_science')
+        self.assertTupleEqual(target, features_label[3])
+
+        # load test features
+        features_label = self.wsd.load_features(os.path.join(self.test_dir, u'中医'))
+        target = ({'T-1': 'v', 'T-2': 'u', 'PW': 'NULL', 'PT': 'NULL', 'W-2': '\xe5\x9c\xb0', 'W-1': '\xe6\x8e\xa8\xe8\xbf\x9b', 'T2': 'n', 'T1': 'n', 'W2': '\xe6\x9c\xba\xe6\x9e\x84', 'W1': '\xe5\x8c\xbb\xe7\x96\x97'}, '\xe4\xb8\xad\xe5\x8c\xbb.1')
+        self.assertTupleEqual(target, features_label[0])
+
+    def test_get_words(self):
+        TEST_NAME_FILE = os.path.join(self.ROOT, 'test/namefile')
+        target = ['\xe4\xb8\xad\xe5\x8c\xbb', '\xe4\xbd\xbf', '\xe5\x84\xbf\xe5\xa5\xb3', '\xe5\x87\xba', '\xe5\x8a\xa8', '\xe5\x8a\xa8\xe6\x91\x87', '\xe5\x8d\x95\xe4\xbd\x8d', '\xe5\x8f\x91', '\xe5\x8f\xab', '\xe5\x90\x83', '\xe5\xa4\xa9\xe5\x9c\xb0', '\xe5\xb8\xa6', '\xe5\xb9\xb3\xe6\x81\xaf', '\xe5\xbc\x80\xe9\x80\x9a', '\xe6\x83\xb3', '\xe6\x88\x90\xe7\xab\x8b', '\xe6\x8c\x91', '\xe6\x8e\xa8\xe7\xbf\xbb', '\xe6\x97\x97\xe5\xb8\x9c', '\xe6\x97\xa5\xe5\xad\x90', '\xe6\x9c\x9b', '\xe6\x9c\xac', '\xe6\x9c\xba\xe7\xbb\x84', '\xe6\xb0\x94\xe6\x81\xaf', '\xe6\xb0\x94\xe8\xb1\xa1', '\xe7\x89\x8c\xe5\xad\x90', '\xe7\x9c\x8b', '\xe7\x9c\xbc\xe5\x85\x89', '\xe8\x8f\x9c', '\xe8\xa1\xa5', '\xe8\xa1\xa8\xe9\x9d\xa2', '\xe8\xaf\xb4\xe6\x98\x8e', '\xe8\xb5\xb6', '\xe8\xbf\x9b', '\xe9\x81\x93', '\xe9\x95\x9c\xe5\xa4\xb4', '\xe9\x95\xbf\xe5\x9f\x8e', '\xe9\x98\x9f\xe4\xbc\x8d', '\xe9\x9c\x87\xe6\x83\x8a', '\xe9\x9d\xa2']
+        words = self.wsd.get_words(TEST_NAME_FILE)
+        self.assertListEqual(target, words)
+
+
+
+if __name__ == '__main__':
+    unittest.main()
