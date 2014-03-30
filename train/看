@@ -1,103 +1,103 @@
-W-2=仍然 | T-2=d | W-1=要 | T-1=v | W1=能否 | T1=v | W2=把 | T2=p | depend_on
-W-2=不 | T-2=d | W-1=是 | T-1=v | W1=文件 | T1=n | W2=发 | T2=v | depend_on
-W-2=同样 | T-2=d | W-1=， | T-1=w | W1=一个 | T1=m | W2=领导 | T2=n | depend_on
-W-2=不仅 | T-2=c | W-1=要 | T-1=v | W1=产品 | T1=n | W2=质量 | T2=n | depend_on
-W-2=优 | T-2=Ag | W-1=， | T-1=w | W1=装修 | T1=v | W2=” | T2=w | depend_on
-W-2=标准 | T-2=n | W-1=是 | T-1=v | W1=其 | T1=r | W2=能否 | T2=v | depend_on
-W-2=， | T-2=w | W-1=就 | T-1=d | W1=你 | T1=r | W2=能否 | T2=v | depend_on
-W-2=只 | T-2=d | W-1=能 | T-1=v | W1=是否 | T1=v | W2=有利于 | T2=v | depend_on
-W-2=， | T-2=w | W-1=就 | T-1=d | W1=你 | T1=r | W2=有 | T2=v | depend_on
-W-2=应该 | T-2=v | W-1=是 | T-1=v | W1=批评 | T1=v | W2=与 | T2=c | depend_on
-W-2=基础 | T-2=n | W-1=， | T-1=w | W1=政绩 | T1=n | W2=用 | T2=v | depend_on
-W-2=关键 | T-2=n | W-1=是 | T-1=v | W1=如何 | T1=r | W2=使 | T2=v | depend_on
-W-2=合作 | T-2=v | W-1=要 | T-1=v | W1=企业 | T1=n | W2=领导层 | T2=n | depend_on
-W-2=我们 | T-2=r | W-1=要 | T-1=v | W1=管理层 | T1=n | W2=是不是 | T2=v | depend_on
-W-2=那 | T-2=c | W-1=就 | T-1=d | W1=你 | T1=r | W2=的 | T2=u | depend_on
-W-2=分配 | T-2=v | W-1=上 | T-1=f | W1=效益 | T1=n | W2=定 | T2=v | depend_on
-W-2=关键 | T-2=n | W-1=是 | T-1=v | W1=品质 | T1=n | W2=优 | T2=Ag | depend_on
-W-2=能 | T-2=v | W-1=只 | T-1=d | W1=数量 | T1=n | W2=， | T2=w | depend_on
-W-2=， | T-2=w | W-1=关键 | T-1=n | W1=三 | T1=m | W2=条 | T2=q | depend_on
-W-2=， | T-2=w | W-1=而是 | T-1=c | W1=你 | T1=r | W2=是否 | T2=v | depend_on
-W-2=不仅 | T-2=c | W-1=要 | T-1=v | W1=是否 | T1=v | W2=有 | T2=v | depend_on
-W-2=主要 | T-2=d | W-1=是 | T-1=v | W1=他 | T1=r | W2=背 | T2=n | depend_on
-W-2=， | T-2=w | W-1=主要 | T-1=d | W1=总 | T1=b | W2=投资 | T2=vn | depend_on
-W-2=， | T-2=w | W-1=关键 | T-1=n | W1=管理 | T1=v | W2=怎么样 | T2=r | depend_on
-W-2=， | T-2=w | W-1=关键 | T-1=n | W1=临场发挥 | T1=l | W2=。 | T2=w | depend_on
-W-2=， | T-2=w | W-1=关键 | T-1=n | W1=谁 | T1=r | W2=能 | T2=v | depend_on
-W-2=挑战 | T-2=v | W-1=是 | T-1=v | W1=两 | T1=m | W2=国 | T2=n | depend_on
-W-2=价值 | T-2=n | W-1=不仅 | T-1=c | W1=它 | T1=r | W2=怎样 | T2=r | depend_on
-W-2=如果 | T-2=c | W-1=一味 | T-1=d | W1=得票 | T1=v | W2=多少 | T2=r | depend_on
-W-2=， | T-2=w | W-1=首先 | T-1=c | W1=是否 | T1=v | W2=具有 | T2=v | depend_on
-W-2=每晚 | T-2=r | W-1=我 | T-1=r | W1=中央电视台 | T1=nt | W2=新闻 | T2=n | see
-W-2=给 | T-2=p | W-1=父母 | T-1=n | W1=的 | T1=u | W2=时候 | T2=n | see
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | W2=这 | T2=r | see
-W-2=往 | T-2=p | W-1=里 | T-1=f | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | see
-W-2=仍 | T-2=d | W-1=在 | T-1=d | W1=一 | T1=m | W2=台 | T2=q | see
-W-2=建筑 | T-2=n | W-1=整体 | T-1=n | W1=上去 | T1=v | W2=很 | T2=d | see
-W-2=， | T-2=w | W-1=一 | T-1=d | W1=就 | T1=d | W2=知道 | T2=v | see
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=读者 | T-1=n | W1=了 | T1=u | W2=有 | T2=v | see
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=你 | T-1=r | W1=， | T1=w | W2=家门口 | T2=s | see
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=后 | T1=f | W2=， | T2=w | see
-W-2=因特网 | T-2=n | W-1=上 | T-1=f | W1=人民日报 | T1=nz | W2=， | T2=w | see
-W-2=哈尔滨 | T-2=ns | W-1=万人空巷 | T-1=i | W1=卡通 | T1=n | W2=（ | T2=w | see
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=不 | T1=d | W2=到 | T2=v | see
-W-2=满足 | T-2=v | W-1=于 | T-1=p | W1=文件 | T1=n | W2=、 | T2=w | see
-W-2=周 | T-2=nr | W-1=宏英 | T-1=nr | W1=了 | T1=u | W2=来信 | T2=n | see
-W-2=， | T-2=w | W-1=我们 | T-1=r | W1=在 | T1=p | W2=眼里 | T2=s | see
-W-2=， | T-2=w | W-1=女主人 | T-1=n | W1=上去 | T1=v | W2=要 | T2=v | see
-W-2=谭 | T-2=nr | W-1=量顺 | T-1=nr | W1=干部 | T1=n | W2=们 | T2=k | see
-W-2=农牧民 | T-2=j | W-1=群众 | T-1=n | W1=得 | T1=u | W2=十分 | T2=d | see
-W-2=观众 | T-2=n | W-1=连续 | T-1=ad | W1=了 | T1=u | W2=十三 | T2=m | see
-W-2=部下 | T-2=n | W-1=在 | T-1=p | W1=完 | T1=v | W2=演出 | T2=v | see
-W-2=有 | T-2=v | W-1=领导 | T-1=n | W1=过 | T1=u | W2=这部 | T2=r | see
-W-2=记者 | T-2=n | W-1=想 | T-1=v | W1=一 | T1=m | W2=看 | T2=v | see
-W-2=让 | T-2=v | W-1=人 | T-1=n | W1=了 | T1=u | W2=以后 | T2=f | see
-W-2=全 | T-2=a | W-1=剧 | T-1=n | W1=完 | T1=v | W2=如何 | T2=r | see
-W-2=谁 | T-2=r | W-1=都 | T-1=d | W1=得 | T1=u | W2=清 | T2=a | see
-W-2=不 | T-2=d | W-1=着 | T-1=v | W1=这种 | T1=r | W2=通知 | T2=n | see
-W-2=逐月 | T-2=d | W-1=翻 | T-1=v | W1=， | T1=w | W2=满篇 | T2=n | see
-W-2=有关 | T-2=vn | W-1=专家 | T-1=n | W1=过 | T1=u | W2=演出 | T2=v | see
-W-2=说 | T-2=v | W-1=没有 | T-1=d | W1=过 | T1=u | W2=， | T2=w | see
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=这样 | T1=r | W2=逼 | T2=v | think
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=就 | T1=d | W2=不失为 | T2=v | think
-W-2=县 | T-2=n | W-1=外贸局 | T-1=n | W1=有利可图 | T1=i | W2=， | T2=w | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=不 | T1=d | W2=能 | T2=v | think
-W-2=， | T-2=w | W-1=你 | T-1=r | W1=我 | T1=r | W2=找 | T2=v | think
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=， | T1=w | W2=暖瓶 | T2=n | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=这 | T2=r | think
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=你 | T1=r | W2=和 | T2=c | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=企业 | T1=n | W2=号召 | T2=v | think
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=最 | T1=d | W2=重要 | T2=a | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=这 | T2=r | think
-W-2=待遇 | T-2=n | W-1=我 | T-1=r | W1=应 | T1=v | W2=超过 | T2=v | think
-W-2=“ | T-2=w | W-1=我 | T-1=r | W1=就 | T1=d | W2=不要 | T2=d | think
-W-2=， | T-2=w | W-1=你 | T-1=r | W1=那个 | T1=r | W2=时候 | T2=n | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=这 | T1=r | W2=足以 | T2=d | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=别 | T-1=d | W1=他 | T1=r | W2=年纪 | T2=n | consider
-W-2=兼并 | T-2=vn | W-1=情况 | T-1=n | W1=， | T1=w | W2=涉及 | T2=v | consider
-W-2=就 | T-2=d | W-1=得 | T-1=v | W1=， | T1=w | W2=该 | T2=r | consider
-W-2=眼光 | T-2=n | W-1=去 | T-1=v | W1=学者 | T1=n | W2=的 | T2=u | consider
-W-2=了 | T-2=y | W-1=， | T-1=w | W1=在 | T1=p | W2=全镇 | T2=n | consider
-W-2=表面 | T-2=n | W-1=上 | T-1=f | W1=， | T1=w | W2=多元化 | T2=v | consider
-W-2=， | T-2=w | W-1=只 | T-1=d | W1=近期 | T1=t | W2=盈利 | T2=n | consider
-W-2=市场 | T-2=n | W-1=去 | T-1=v | W1=， | T1=w | W2=则 | T2=c | consider
-W-2=需求 | T-2=n | W-1=方面 | T-1=n | W1=， | T1=w | W2=去年 | T2=t | consider
-W-2=打打 | T-2=v | W-1=再 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | consider
-W-2=些微 | T-2=b | W-1=小事 | T-1=n | W1=温州 | T1=ns | W2=（ | T2=w | consider
-W-2=， | T-2=w | W-1=不 | T-1=d | W1=市场 | T1=n | W2=需求 | T2=n | consider
-W-2=全年 | T-2=n | W-1=情况 | T-1=n | W1=， | T1=w | W2=货币 | T2=n | consider
-W-2=秒钟 | T-2=n | W-1=， | T-1=w | W1=上去 | T1=v | W2=只是 | T2=d | consider
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=由于 | T-1=c | W1=问题 | T1=n | W2=的 | T2=u | consider
-W-2=全局 | T-2=n | W-1=， | T-1=w | W1=得 | T1=u | W2=远 | T2=a | consider
-W-2=的 | T-2=u | W-1=情况 | T-1=n | W1=， | T1=w | W2=今年 | T2=t | consider
-W-2=是 | T-2=v | W-1=难以 | T-1=d | W1=清 | T1=a | W2=， | T2=w | consider
-W-2=整体 | T-2=n | W-1=上 | T-1=f | W1=， | T1=w | W2=城市 | T2=n | consider
-W-2=多 | T-2=m | W-1=职工 | T-1=n | W1=不 | T1=d | W2=到 | T2=v | consider
-W-2=眼 | T-2=n | W-1=人 | T-1=n | W1=得 | T1=u | W2=一清二楚 | T2=l | consider
-W-2=不 | T-2=d | W-1=难 | T-1=a | W1=出 | T1=v | W2=， | T2=w | consider
-W-2=， | T-2=w | W-1=可以 | T-1=v | W1=发案 | T1=vn | W2=总数 | T2=n | consider
-W-2=报告文学 | T-2=l | W-1=整体 | T-1=n | W1=收获 | T1=n | W2=比较 | T2=d | consider
-W-2=实践 | T-2=vn | W-1=探索 | T-1=vn | W1=， | T1=w | W2=以 | T2=p | consider
-W-2=， | T-2=w | W-1=单 | T-1=d | W1=病床 | T1=n | W2=边 | T2=n | consider
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=中国 | T1=ns | W2=足球 | T2=n | consider
-W-2=总体 | T-2=n | W-1=上 | T-1=f | W1=， | T1=w | W2=我们 | T2=r | consider
+W-1=要 | T-1=v | W1=能否 | T1=v | 推向 | 世纪 | 关键 | 要 | 看 | 能否 | 经济 | 搞 | 上去 | depend_on
+W-1=是 | T-1=v | W1=文件 | T1=n | 思想 | 是否 | 是 | 看 | 文件 | 发 | 经验 | depend_on
+W-1=， | T-1=w | W1=一个 | T1=m | 看 | 领导 | 干部 | 是否 | depend_on
+W-1=要 | T-1=v | W1=产品 | T1=n | 质量 | 标准 | 要 | 看 | 产品 | 质量 | 还要 | 看 | depend_on
+W-1=， | T-1=w | W1=装修 | T1=v | 看 | 装修 | 工程 | 竣工 | depend_on
+W-1=是 | T-1=v | W1=其 | T1=r | 有 | 科学性 | 标准 | 是 | 看 | 能否 | 解决 | 问题 | depend_on
+W-1=就 | T-1=d | W1=你 | T1=r | 世界 | 机会 | 存在 | 看 | 能否 | 抓住 | depend_on
+W-1=能 | T-1=v | W1=是否 | T1=v | 能 | 看 | 是否 | 有利于 | 经济 | 增进 | depend_on
+W-1=就 | T-1=d | W1=你 | T1=r | 市场 | 看 | 有 | 有 | 眼光 | 去 | depend_on
+W-1=是 | T-1=v | W1=批评 | T1=v | 标准 | 应该 | 是 | 看 | 批评 | 自我批评 | 开展 | 起来 | depend_on
+W-1=， | T-1=w | W1=政绩 | T1=n | 标准 | 为 | 基础 | 看 | 政绩 | 用 | 干部 | depend_on
+W-1=是 | T-1=v | W1=如何 | T1=r | 采用 | 方式 | 关键 | 是 | 看 | 使 | 成本 | depend_on
+W-1=要 | T-1=v | W1=企业 | T1=n | 能 | 能 | 合作 | 要 | 看 | 企业 | 领导层 | 决心 | depend_on
+W-1=要 | T-1=v | W1=管理层 | T1=n | 要 | 看 | 管理层 | 是不是 | 有 | 改革 | depend_on
+W-1=就 | T-1=d | W1=你 | T1=r | 用 | 脑袋 | 看 | 能耐 | depend_on
+W-1=上 | T-1=f | W1=效益 | T1=n | 工资 | 分配 | 看 | 效益 | 定 | 报酬 | 收入 | 拉开 | depend_on
+W-1=是 | T-1=v | W1=品质 | T1=n | 关键 | 是 | 看 | 品质 | 产业 | depend_on
+W-1=只 | T-1=d | W1=数量 | T1=n | 能 | 看 | 数量 | 是 | depend_on
+W-1=关键 | T-1=n | W1=三 | T1=m | 结构 | 政策 | 是否 | 关键 | 看 | depend_on
+W-1=而是 | T-1=c | W1=你 | T1=r | 是 | 结果 | 看 | 是否 | 程序 | 施工 | depend_on
+W-1=要 | T-1=v | W1=是否 | T1=v | 班子 | 是否 | 合格 | 要 | 看 | 是否 | 有 | 开头 | depend_on
+W-1=是 | T-1=v | W1=他 | T1=r | 失散 | 儿子 | 是 | 看 | 背 | 是否 | 有 | depend_on
+W-1=主要 | T-1=d | W1=总 | T1=b | 经济 | 是否 | 运转 | 看 | 是否 | 增加 | depend_on
+W-1=关键 | T-1=n | W1=管理 | T1=v | 幼儿园 | 办 | 关键 | 看 | 管理 | 管理 | depend_on
+W-1=关键 | T-1=n | W1=临场发挥 | T1=l | 赛事 | 是 | 关键 | 看 | depend_on
+W-1=关键 | T-1=n | W1=谁 | T1=r | 能 | 关键 | 看 | 能 | 争取 | depend_on
+W-1=是 | T-1=v | W1=两 | T1=m | 双方 | 挑战 | 是 | 看 | 国 | 能否 | 建立 | 起 | 建设性 | depend_on
+W-1=不仅 | T-1=c | W1=它 | T1=r | 诗作 | 价值 | 看 | 表现 | 要 | depend_on
+W-1=一味 | T-1=d | W1=得票 | T1=v | 看 | 得票 | 有失 | depend_on
+W-1=首先 | T-1=c | W1=是否 | T1=v | 科学 | 能否 | 成立 | 看 | 是否 | 具有 | 对象 | depend_on
+W-1=我 | T-1=r | W1=中央电视台 | T1=nt | 看 | 新闻 | see
+W-1=父母 | T-1=n | W1=的 | T1=u | 试卷 | 父母 | 看 | 时候 | 娘 | see
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | 看 | 充满 | 童稚 | see
+W-1=里 | T-1=f | W1=。 | T1=w | 挤 | 看 | see
+W-1=在 | T-1=d | W1=一 | T1=m | 看到 | 看 | see
+W-1=整体 | T-1=n | W1=上去 | T1=v | 尖碑 | 使 | 建筑 | 整体 | 看 | 上去 | 奇怪 | see
+W-1=一 | T-1=d | W1=就 | T1=d | 识 | 服装 | 妇女 | 看 | 知道 | 是 | 当地人 | see
+W-1=读者 | T-1=n | W1=了 | T1=u | 读者 | 看 | 有 | 感想 | 请 | 告诉 | see
+W-1=你 | T-1=r | W1=， | T1=w | 看 | 挂 | 赠送 | see
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=后 | T1=f | 看 | 批评 | see
+W-1=上 | T-1=f | W1=人民日报 | T1=nz | 因特网 | 看 | 成为 | see
+W-1=万人空巷 | T-1=i | W1=卡通 | T1=n | 看 | 卡通 | 附 | 图片 | see
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=不 | T1=d | 看 | 到 | see
+W-1=于 | T-1=p | W1=文件 | T1=n | 实践 | 满足 | 看 | 文件 | 做 | 报告 | see
+W-1=宏英 | T-1=nr | W1=了 | T1=u | 看 | 来信 | 觉得 | 有 | 责任 | see
+W-1=我们 | T-1=r | W1=在 | T1=p | 大户 | 能 | 到 | 省城 | 做客 | 看 | 急 | see
+W-1=女主人 | T-1=n | W1=上去 | T1=v | 女主人 | 看 | 上去 | 要 | see
+W-1=量顺 | T-1=nr | W1=干部 | T1=n | 看 | 干部 | 算账 | see
+W-1=群众 | T-1=n | W1=得 | T1=u | 牧区 | 表演 | 文艺 | 节目 | 群众 | 看 | see
+W-1=连续 | T-1=ad | W1=了 | T1=u | 观众 | 看 | see
+W-1=在 | T-1=p | W1=完 | T1=v | 元帅 | 部下 | 看 | 完 | 演出 | see
+W-1=领导 | T-1=n | W1=过 | T1=u | 团 | 单位 | 有 | 领导 | 看 | 话剧 | 基层 | see
+W-1=想 | T-1=v | W1=一 | T1=m | 记者 | 想 | 看 | 看 | 是 | see
+W-1=人 | T-1=n | W1=了 | T1=u | 政治 | 问题 | 让 | 人 | 看 | 是 | 滋味 | see
+W-1=剧 | T-1=n | W1=完 | T1=v | 待 | 到 | 剧 | 看 | 完 | 评价 | 说 | see
+W-1=都 | T-1=d | W1=得 | T1=u | 旗 | 看 | 红灯 | 拦 | see
+W-1=着 | T-1=v | W1=这种 | T1=r | 用 | 着 | 看 | 通知 | see
+W-1=翻 | T-1=v | W1=， | T1=w | 翻 | 看 | 满篇 | see
+W-1=专家 | T-1=n | W1=过 | T1=u | 专家 | 看 | 演出 | see
+W-1=没有 | T-1=d | W1=过 | T1=u | 人 | 说 | 看 | 是 | 听 | 说 | see
+W-1=我 | T-1=r | W1=这样 | T1=r | 看 | 逼 | 逼 | think
+W-1=我 | T-1=r | W1=就 | T1=d | 怡悦 | 情趣 | 效果 | 看 | 不失为 | 值得 | 肯定 | think
+W-1=外贸局 | T-1=n | W1=有利可图 | T1=i | 县 | 外贸局 | 看 | 低价 | 买 | think
+W-1=我 | T-1=r | W1=不 | T1=d | 看 | 能 | 认为 | think
+W-1=你 | T-1=r | W1=我 | T1=r | 嫂子 | 看 | 找 | 对象 | 是 | 找 | 没有 | think
+W-1=我 | T-1=r | W1=， | T1=w | 东西 | 看 | 暖瓶 | 收 | 起来 | think
+W-1=我 | T-1=r | W1=， | T1=w | 看 | 是 | think
+W-1=我 | T-1=r | W1=你 | T1=r | 是 | 厨师 | 有 | 手艺 | 看 | 到 | 租 | think
+W-1=我 | T-1=r | W1=企业 | T1=n | 看 | 企业 | 号召 | 职工 | think
+W-1=我 | T-1=r | W1=最 | T1=d | 经济 | 搞 | 上去 | 看 | 是 | think
+W-1=我 | T-1=r | W1=， | T1=w | 看 | 话 | 要 | 改 | think
+W-1=我 | T-1=r | W1=应 | T1=v | 科技 | 人才 | 待遇 | 看 | 应 | 超过 | think
+W-1=我 | T-1=r | W1=就 | T1=d | 看 | 穿 | 戴 | think
+W-1=你 | T-1=r | W1=那个 | T1=r | 请问 | 外长 | 看 | 时候 | 是不是 | 两岸 | 开 | think
+W-1=我 | T-1=r | W1=这 | T1=r | 看 | 说明 | think
+W-1=别 | T-1=d | W1=他 | T1=r | 看 | 年纪 | consider
+W-1=情况 | T-1=n | W1=， | T1=w | 情况 | 看 | 涉及 | 银行 | consider
+W-1=得 | T-1=v | W1=， | T1=w | 得 | 看 | 人 | 自叙 | consider
+W-1=去 | T-1=v | W1=学者 | T1=n | 地域 | 文化 | 眼光 | 去 | 看 | 学者 | 思想 | 文化 | consider
+W-1=， | T-1=w | W1=在 | T1=p | 情况 | 瞒 | 看 | 全镇 | 经济 | 发展 | 大局 | consider
+W-1=上 | T-1=f | W1=， | T1=w | 表面 | 看 | 多元化 | 使 | 企业 | consider
+W-1=只 | T-1=d | W1=近期 | T1=t | 看 | 盈利 | consider
+W-1=去 | T-1=v | W1=， | T1=w | 放 | 到 | 市场 | 去 | 看 | 可能 | 转化 | 为 | 优势 | consider
+W-1=方面 | T-1=n | W1=， | T1=w | 需求 | 方面 | 看 | 需求 | consider
+W-1=再 | T-1=d | W1=。 | T1=w | 联赛 | 精品 | 得 | 打打 | 看 | consider
+W-1=小事 | T-1=n | W1=温州 | T1=ns | 小事 | 看 | 新闻 | 随笔 | consider
+W-1=不 | T-1=d | W1=市场 | T1=n | 讲 | 看 | 市场 | 需求 | 可能 | 造成 | consider
+W-1=情况 | T-1=n | W1=， | T1=w | 全年 | 情况 | 看 | 货币 | 供应量 | 增长 | consider
+W-1=， | T-1=w | W1=上去 | T1=v | 相差 | 过 | 秒钟 | 看 | 上去 | 形式 | 问题 | consider
+W-1=由于 | T-1=c | W1=问题 | T1=n | 看 | 问题 | 角度 | 有 | consider
+W-1=， | T-1=w | W1=得 | T1=u | 着眼 | 国民经济 | 发展 | 全局 | 看 | 想 | consider
+W-1=情况 | T-1=n | W1=， | T1=w | 指出 | 情况 | 看 | 公安 | 面临 | consider
+W-1=难以 | T-1=d | W1=清 | T1=a | 事情 | 时间 | 是 | 看 | 说 | consider
+W-1=上 | T-1=f | W1=， | T1=w | 整体 | 看 | 城市 | consider
+W-1=职工 | T-1=n | W1=不 | T1=d | 职工 | 看 | 到 | 出路 | consider
+W-1=人 | T-1=n | W1=得 | T1=u | 东西 | 眼 | 人 | 看 | consider
+W-1=难 | T-1=a | W1=出 | T1=v | 看 | 出 | 国 | consider
+W-1=可以 | T-1=v | W1=发案 | T1=vn | 衡量 | 社会 | 治安 | 稳定 | 可以 | 看 | 总数 | 暴力性 | 情况 | consider
+W-1=整体 | T-1=n | W1=收获 | T1=n | 整体 | 看 | 收获 | consider
+W-1=探索 | T-1=vn | W1=， | T1=w | 看 | 统一 | 领导 | consider
+W-1=单 | T-1=d | W1=病床 | T1=n | 说 | 看 | 病床 | 边 | 倾诉 | consider
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=中国 | T1=ns | 看 | 足球 | 运动 | consider
+W-1=上 | T-1=f | W1=， | T1=w | 说 | 总体 | 看 | 具有 | 夺取 | 金牌 | consider

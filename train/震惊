@@ -1,38 +1,38 @@
-W-2=原子 | T-2=n | W-1=激光 | T-1=n | W1=世界 | T1=n | W2=NULL_TAIL | T2=NULL_TAIL | shock
-W-2=地 | T-2=u | W-1=将 | T-1=p | W1=全国 | T1=n | W2=的 | T2=u | shock
-W-2=了 | T-2=u | W-1=那场 | T-1=r | W1=全国 | T1=n | W2=的 | T2=u | shock
-W-2=1976年 | T-2=t | W-1=那场 | T-1=r | W1=世界 | T1=n | W2=的 | T2=u | shock
-W-2=受贿 | T-2=vn | W-1=案 | T-1=Ng | W1=全国 | T1=n | W2=。 | T2=w | shock
-W-2=垮塌 | T-2=vn | W-1=案 | T-1=Ng | W1=全国 | T1=n | W2=， | T2=w | shock
-W-2=程度 | T-2=n | W-1=不亚于 | T-1=v | W1=中外 | T1=j | W2=的 | T2=u | shock
-W-2=的 | T-2=u | W-1=被害 | T-1=vn | W1=了 | T1=u | W2=整个 | T2=b | shock
-W-2=母 | T-2=Ng | W-1=案 | T-1=Ng | W1=了 | T1=u | W2=社会 | T2=n | shock
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=令 | T-2=v | W-1=他 | T-1=r | W1=不已 | T1=v | W2=却 | T2=d | be_shocked
-W-2=首先 | T-2=d | W-1=是 | T-1=v | W1=， | T1=w | W2=认为 | T2=v | be_shocked
-W-2=胡 | T-2=nr | W-1=富国 | T-1=nr | W1=了 | T1=y | W2=， | T2=w | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=的 | T1=u | W2=是 | T2=v | be_shocked
-W-2=当时 | T-2=t | W-1=很 | T-1=d | W1=， | T1=w | W2=学校 | T2=n | be_shocked
-W-2=为 | T-2=p | W-1=之 | T-1=r | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=真 | T-2=a | W-1=的 | T-1=u | W1=了 | T1=y | W2=。 | T2=w | be_shocked
-W-2=令 | T-2=v | W-1=全国 | T-1=n | W1=， | T1=w | W2=一时间 | T2=t | be_shocked
-W-2=都 | T-2=d | W-1=十分 | T-1=d | W1=， | T1=w | W2=它们 | T2=r | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=： | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=的 | T1=u | W2=突发 | T2=vn | be_shocked
-W-2=为 | T-2=p | W-1=之 | T-1=r | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=我 | T-2=r | W-1=深感 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=此 | T-2=r | W-1=感到 | T-1=v | W1=和 | T1=c | W2=深表 | T2=v | be_shocked
-W-2=商家 | T-2=n | W-1=感到 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=： | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=了 | T-2=u | W-1=举世 | T-1=n | W1=的 | T1=u | W2=“ | T2=w | be_shocked
-W-2=决定 | T-2=n | W-1=感到 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=决定 | T-2=n | W-1=感到 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=骚乱 | T-2=vn | W-1=表示 | T-1=v | W1=， | T1=w | W2=并 | T2=c | be_shocked
-W-2=表示 | T-2=v | W-1=十分 | T-1=d | W1=和 | T1=c | W2=强烈 | T2=a | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=的 | T1=u | W2=披露 | T2=vn | be_shocked
-W-2=公众 | T-2=n | W-1=感到 | T-1=v | W1=之 | T1=u | W2=处 | T2=n | be_shocked
-W-2=令 | T-2=v | W-1=人 | T-1=n | W1=的 | T1=u | W2=例子 | T2=n | be_shocked
-W-2=令 | T-2=v | W-1=世人 | T-1=n | W1=的 | T1=u | W2=全面 | T2=a | be_shocked
-W-2=感到 | T-2=v | W-1=十分 | T-1=d | W1=， | T1=w | W2=并 | T2=c | be_shocked
+W-1=激光 | T-1=n | W1=世界 | T1=n | 克隆羊 | 火星 | 登陆 | 原子 | 激光 | 震惊 | 世界 | shock
+W-1=将 | T-1=p | W1=全国 | T1=n | 震惊 | 全国 | shock
+W-1=那场 | T-1=r | W1=全国 | T1=n | 形象 | 经历 | 震惊 | 全国 | 火 | shock
+W-1=那场 | T-1=r | W1=世界 | T1=n | 运动 | 爆发 | 震惊 | 世界 | 学生 | 运动 | shock
+W-1=案 | T-1=Ng | W1=全国 | T1=n | 震惊 | 全国 | shock
+W-1=案 | T-1=Ng | W1=全国 | T1=n | 震惊 | 全国 | 领导 | shock
+W-1=不亚于 | T-1=v | W1=中外 | T1=j | 暴行 | 程度 | 不亚于 | 震惊 | shock
+W-1=被害 | T-1=vn | W1=了 | T1=u | 震惊 | shock
+W-1=案 | T-1=Ng | W1=了 | T1=u | 杀 | 震惊 | 社会 | shock
+W-1=人 | T-1=n | W1=。 | T1=w | 裁员 | 程度 | 令 | 人 | 震惊 | be_shocked
+W-1=他 | T-1=r | W1=不已 | T1=v | 讲述 | 令 | 震惊 | 不已 | 事情 | be_shocked
+W-1=是 | T-1=v | W1=， | T1=w | 事 | 家长 | 是 | 震惊 | 认为 | 是 | 电话局 | 收 | 错 | be_shocked
+W-1=富国 | T-1=nr | W1=了 | T1=y | 楼房 | 震惊 | 震怒 | be_shocked
+W-1=人 | T-1=n | W1=。 | T1=w | 令 | 人 | 震惊 | be_shocked
+W-1=人 | T-1=n | W1=的 | T1=u | 回到 | 上学 | 令 | 人 | 震惊 | 是 | 找 | 到 | be_shocked
+W-1=很 | T-1=d | W1=， | T1=w | 震惊 | 学校 | 老师 | 不会 | 骗 | be_shocked
+W-1=之 | T-1=r | W1=。 | T1=w | 出 | 朝野 | 震惊 | be_shocked
+W-1=的 | T-1=u | W1=了 | T1=y | 人 | 震惊 | be_shocked
+W-1=全国 | T-1=n | W1=， | T1=w | 海难 | 事故 | 令 | 全国 | 震惊 | 海难 | 成为 | 全国 | be_shocked
+W-1=十分 | T-1=d | W1=， | T1=w | 震惊 | 关系 | be_shocked
+W-1=人 | T-1=n | W1=： | T1=w | 病历 | 数字 | 令 | 人 | 震惊 | be_shocked
+W-1=人 | T-1=n | W1=的 | T1=u | 敢 | 保证 | 爆发 | 令 | 人 | 震惊 | 事件 | be_shocked
+W-1=之 | T-1=r | W1=。 | T1=w | 达 | 举世 | 震惊 | be_shocked
+W-1=深感 | T-1=v | W1=。 | T1=w | 目的 | 后果 | 深感 | 震惊 | be_shocked
+W-1=感到 | T-1=v | W1=和 | T1=c | 张目 | 感到 | 震惊 | 深表 | be_shocked
+W-1=感到 | T-1=v | W1=。 | T1=w | 让 | 有所 | 准备 | 商家 | 感到 | 震惊 | be_shocked
+W-1=人 | T-1=n | W1=： | T1=w | 结果 | 令 | 人 | 震惊 | be_shocked
+W-1=举世 | T-1=n | W1=的 | T1=u | 日军 | 制造 | 举世 | 震惊 | be_shocked
+W-1=感到 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | 授权 | 下达 | 令 | 决定 | 感到 | 震惊 | be_shocked
+W-1=感到 | T-1=v | W1=。 | T1=w | 袭击 | 目标 | 决定 | 感到 | 震惊 | be_shocked
+W-1=表示 | T-1=v | W1=， | T1=w | 首府 | 发生 | 表示 | 震惊 | 呼吁 | be_shocked
+W-1=十分 | T-1=d | W1=和 | T1=c | 总理 | 发表 | 言论 | 表示 | 震惊 | 言论 | be_shocked
+W-1=人 | T-1=n | W1=。 | T1=w | 幅度 | 令 | 人 | 震惊 | be_shocked
+W-1=人 | T-1=n | W1=的 | T1=u | 令 | 人 | 震惊 | 威信 | be_shocked
+W-1=感到 | T-1=v | W1=之 | T1=u | 让 | 公众 | 感到 | 震惊 | 处 | 在 | be_shocked
+W-1=人 | T-1=n | W1=的 | T1=u | 干涉主义 | 令 | 人 | 震惊 | 例子 | 是 | 发出 | be_shocked
+W-1=世人 | T-1=n | W1=的 | T1=u | 发动 | 令 | 世人 | 震惊 | be_shocked
+W-1=十分 | T-1=d | W1=， | T1=w | 事件 | 感到 | 震惊 | 予以 | be_shocked

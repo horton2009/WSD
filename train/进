@@ -1,132 +1,132 @@
-W-2=被 | T-2=p | W-1=埋 | T-1=v | W1=了 | T1=u | W2=黄土 | T2=n | into
-W-2=可以 | T-2=v | W-1=走 | T-1=v | W1=属于 | T1=v | W2=自己 | T2=r | into
-W-2=苹果 | T-2=n | W-1=送 | T-1=v | W1=嘴里 | T1=s | W2=。 | T2=w | into
-W-2=地 | T-2=u | W-1=滴落 | T-1=v | W1=大海 | T1=n | W2=的 | T2=u | into
-W-2=们 | T-2=k | W-1=跑 | T-1=v | W1=厂长 | T1=n | W2=办公室 | T2=n | into
-W-2=安排 | T-2=v | W-1=住 | T-1=v | W1=了 | T1=u | W2=被 | T2=p | into
-W-2=硬 | T-2=d | W-1=塞 | T-1=v | W1=好 | T1=a | W2=的 | T2=u | into
-W-2=教育家 | T-2=n | W-1=请 | T-1=v | W1=家 | T1=n | W2=NULL_TAIL | T2=NULL_TAIL | into
-W-2=我 | T-2=r | W-1=带 | T-1=v | W1=了 | T1=u | W2=冰雪 | T2=n | into
-W-2=好像 | T-2=v | W-1=钻 | T-1=v | W1=了 | T1=u | W2=日光 | T2=n | into
-W-2=一头 | T-2=d | W-1=扎 | T-1=v | W1=了 | T1=u | W2=“ | T2=w | into
-W-2=她 | T-2=r | W-1=接 | T-1=v | W1=中南海 | T1=ns | W2=， | T2=w | into
-W-2=歹徒 | T-2=n | W-1=逼 | T-1=v | W1=了 | T1=u | W2=荷花坪 | T2=ns | into
-W-2=被 | T-2=p | W-1=关 | T-1=v | W1=“ | T1=w | W2=北平 | T2=ns | into
-W-2=， | T-2=w | W-1=扔 | T-1=v | W1=挂 | T1=v | W2=在 | T2=p | into
-W-2=随意 | T-2=ad | W-1=走 | T-1=v | W1=一 | T1=m | W2=户 | T2=q | into
-W-2=小孩 | T-2=n | W-1=掉 | T-1=v | W1=潭 | T1=n | W2=里 | T2=f | into
-W-2=纵身 | T-2=v | W-1=跳 | T-1=v | W1=５ | T1=m | W2=米 | T2=q | into
-W-2=部分 | T-2=n | W-1=补 | T-1=v | W1=了 | T1=u | W2=大家 | T2=r | into
-W-2=， | T-2=w | W-1=织 | T-1=v | W1=了 | T1=u | W2=千千万万 | T2=m | into
-W-2=没 | T-2=d | W-1=写 | T-1=v | W1=《 | T1=w | W2=日子 | T2=n | into
-W-2=你 | T-2=r | W-1=融 | T-1=v | W1=了 | T1=u | W2=多少 | T2=r | into
-W-2=他 | T-2=r | W-1=踏 | T-1=v | W1=戴 | T1=nr | W2=敦邦 | T2=nr | into
-W-2=如愿以偿 | T-2=i | W-1=跨 | T-1=v | W1=了 | T1=u | W2=北京电影学院 | T2=nt | into
-W-2=客人 | T-2=n | W-1=迎 | T-1=v | W1=一 | T1=m | W2=所 | T2=q | into
-W-2=四下 | T-2=d | W-1=挤 | T-1=v | W1=的 | T1=u | W2=风 | T2=n | into
-W-2=但 | T-2=c | W-1=吃 | T-1=v | W1=肚子 | T1=n | W2=里 | T2=f | into
-W-2=， | T-2=w | W-1=融注 | T-1=v | W1=我 | T1=r | W2=的 | T2=u | into
-W-2=天祥 | T-2=nr | W-1=锁 | T-1=v | W1=了 | T1=u | W2=柜子 | T2=n | into
-W-2=太阳 | T-2=n | W-1=迎 | T-1=v | W1=了 | T1=u | W2=祖国 | T2=n | into
-W-2=一 | T-2=m | W-1=位 | T-1=q | W1=藏 | T1=j | W2=２０ | T2=m | enter
-W-2=门 | T-2=n | W-1=难 | T-1=ad | W1=、 | T1=w | W2=脸 | T2=n | enter
-W-2=我国 | T-2=r | W-1=严禁 | T-1=v | W1=境 | T1=Ng | W2=的 | T2=u | enter
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=悄悄 | T-1=d | W1=京 | T1=j | W2=NULL_TAIL | T2=NULL_TAIL | enter
-W-2=呼吁 | T-2=v | W-1=环保 | T-1=j | W1=课堂 | T1=n | W2=NULL_TAIL | T2=NULL_TAIL | enter
-W-2=可 | T-2=c | W-1=一 | T-1=d | W1=书本 | T1=n | W2=就 | T2=d | enter
-W-2=的 | T-2=u | W-1=人 | T-1=n | W1=班子 | T1=n | W2=。 | T2=w | enter
-W-2=这种 | T-2=r | W-1=未 | T-1=d | W1=学府 | T1=n | W2=、 | T2=w | enter
-W-2=底细 | T-2=n | W-1=地 | T-1=u | W1=了 | T1=u | W2=中南海 | T2=ns | enter
-W-2=酗酒 | T-2=v | W-1=、 | T-1=w | W1=歌舞厅 | T1=n | W2=， | T2=w | enter
-W-2=不 | T-2=d | W-1=够 | T-1=d | W1=工厂 | T1=n | W2=。 | T2=w | enter
-W-2=， | T-2=w | W-1=接着 | T-1=c | W1=邮局 | T1=n | W2=发信 | T2=v | enter
-W-2=你 | T-2=r | W-1=可以 | T-1=v | W1=花店 | T1=n | W2=出 | T2=v | enter
-W-2=走廊 | T-2=n | W-1=， | T-1=w | W1=“ | T1=w | W2=城 | T2=n | enter
-W-2=棵 | T-2=q | W-1=大树 | T-1=n | W1=包头 | T1=ns | W2=” | T2=w | enter
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=刚 | T-1=d | W1=索韦托 | T1=ns | W2=， | T2=w | enter
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=但 | T-1=c | W1=了 | T1=u | W2=拘留所 | T2=n | enter
-W-2=按照 | T-2=p | W-1=有 | T-1=v | W1=有 | T1=v | W2=退 | T2=v | enter
-W-2=请 | T-2=v | W-1=教授 | T-1=n | W1=山 | T1=n | W2=搞 | T2=v | enter
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=了 | T1=u | W2=校园 | T2=n | enter
-W-2=而 | T-2=c | W-1=不少 | T-1=m | W1=法庭 | T1=n | W2=打官司 | T2=v | enter
-W-2=好 | T-2=a | W-1=“ | T-1=w | W1=大 | T1=a | W2=店 | T2=n | enter
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=但 | T-1=c | W1=嘴 | T1=n | W2=一 | T2=d | enter
-W-2=优 | T-2=Ag | W-1=产品 | T-1=n | W1=名 | T1=Ng | W2=店 | T2=n | enter
-W-2=家门 | T-2=n | W-1=好 | T-1=d | W1=送礼 | T1=v | W2=难 | T2=a | enter
-W-2=看到 | T-2=v | W-1=要求 | T-1=v | W1=市场 | T1=n | W2=经营 | T2=v | enter
-W-2=开展 | T-2=v | W-1=“ | T-1=w | W1=万 | T1=m | W2=家 | T2=q | enter
-W-2=， | T-2=w | W-1=我们 | T-1=r | W1=馆 | T1=Ng | W2=已经 | T2=d | enter
-W-2=全家人 | T-2=n | W-1=喜气洋洋 | T-1=i | W1=县城 | T1=n | W2=抱 | T2=v | enter
-W-2=， | T-2=w | W-1=科学技术 | T-1=n | W1=不 | T1=d | W2=来 | T2=v | enter
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=“ | T-1=w | W1=” | T1=w | W2=的 | T2=u | move_forward
-W-2=挥师 | T-2=v | W-1=东 | T-1=f | W1=松辽平原 | T1=ns | W2=。 | T2=w | move_forward
-W-2=环境 | T-2=n | W-1=； | T-1=w | W1=， | T1=w | W2=就是 | T2=d | move_forward
-W-2=， | T-2=w | W-1=『 | T-1=w | W1=亦 | T1=d | W2=乐 | T2=a | move_forward
-W-2=自己 | T-2=r | W-1=的 | T-1=u | W1=、 | T1=w | W2=退 | T2=v | move_forward
-W-2=太岳 | T-2=ns | W-1=南 | T-1=f | W1=支队 | T1=n | W2=和 | T2=c | move_forward
-W-2=势 | T-2=Ng | W-1=而 | T-1=c | W1=， | T1=w | W2=一 | T2=m | move_forward
-W-2=发展 | T-2=vn | W-1=； | T-1=w | W1=是 | T1=v | W2=目的 | T2=n | move_forward
-W-2=步 | T-2=q | W-1=， | T-1=w | W1=两 | T1=m | W2=步 | T2=q | move_forward
-W-2=携手 | T-2=v | W-1=共 | T-1=d | W1=， | T1=w | W2=使 | T2=v | move_forward
-W-2=而 | T-2=c | W-1=思 | T-1=v | W1=， | T1=w | W2=超越 | T2=v | move_forward
-W-2=携手 | T-2=v | W-1=共 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | move_forward
-W-2=实施 | T-2=v | W-1=“ | T-1=w | W1=一 | T1=m | W2=退 | T2=v | move_forward
-W-2=地 | T-2=u | W-1=向前 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | move_forward
-W-2=要 | T-2=v | W-1=有 | T-1=v | W1=有 | T1=v | W2=退 | T2=v | move_forward
-W-2=为了 | T-2=p | W-1=求 | T-1=v | W1=， | T1=w | W2=是 | T2=v | move_forward
-W-2=鼓 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=闻 | T2=v | move_forward
-W-2=有 | T-2=v | W-1=小 | T-1=a | W1=则 | T1=d | W2=满 | T2=v | move_forward
-W-2=中 | T-2=f | W-1=求 | T-1=v | W1=的 | T1=u | W2=精神 | T2=n | move_forward
-W-2=狂飙 | T-2=n | W-1=疾 | T-1=Ag | W1=时代 | T1=n | W2=——— | T2=w | move_forward
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=了 | T1=u | W2=一 | T2=m | move_forward
-W-2=他 | T-2=r | W-1=“ | T-1=w | W1=” | T1=w | W2=到 | T2=v | move_forward
-W-2=旅游 | T-2=vn | W-1=共 | T-1=d | W1=； | T1=w | W2=中西 | T2=j | move_forward
-W-2=的 | T-2=u | W-1=‘ | T-1=w | W1=’ | T1=w | W2=， | T2=w | move_forward
-W-2=退 | T-2=v | W-1=求 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | move_forward
-W-2=的 | T-2=u | W-1=“ | T-1=w | W1=” | T1=w | W2=。 | T2=w | move_forward
-W-2=坚持 | T-2=v | W-1=有 | T-1=v | W1=有 | T1=v | W2=退 | T2=v | move_forward
-W-2=发现 | T-2=v | W-1=快 | T-1=d | W1=功能 | T1=n | W2=差 | T2=a | move_forward
-W-2=携手 | T-2=v | W-1=共 | T-1=d | W1=” | T1=w | W2=的 | T2=u | move_forward
-W-2=一 | T-2=m | W-1=步 | T-1=q | W1=三 | T1=m | W2=步 | T2=q | move_forward
-W-2=有 | T-2=v | W-1=“ | T-1=w | W1=” | T1=w | W2=， | T2=w | buy_in
-W-2=购 | T-2=Vg | W-1=果 | T-1=Ng | W1=菜 | T1=n | W2=的 | T2=u | buy_in
-W-2=每 | T-2=r | W-1=新 | T-1=d | W1=一 | T1=m | W2=批 | T2=q | buy_in
-W-2=一 | T-2=m | W-1=窝 | T-1=q | W1=假药 | T1=n | W2=、 | T2=w | buy_in
-W-2=五 | T-2=m | W-1=不 | T-1=d | W1=” | T1=w | W2=： | T2=w | buy_in
-W-2=商品 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=没有 | T2=v | buy_in
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=谁 | T-1=r | W1=假货 | T1=n | W2=谁 | T2=r | buy_in
-W-2=， | T-2=w | W-1=谁 | T-1=r | W1=假货 | T1=n | W2=谁 | T2=r | buy_in
-W-2=建立 | T-2=v | W-1=商品 | T-1=n | W1=存 | T1=v | W2=销 | T2=v | buy_in
-W-2=又 | T-2=d | W-1=紧急 | T-1=ad | W1=了 | T1=u | W2=280 | T2=m | buy_in
-W-2=厂房 | T-2=n | W-1=、 | T-1=w | W1=设备 | T1=n | W2=， | T2=w | buy_in
-W-2=规定 | T-2=v | W-1=药品 | T-1=n | W1=销 | T1=v | W2=差率 | T2=n | buy_in
-W-2=车 | T-2=n | W-1=4 | T-1=m | W1=7 | T1=m | W2=吃 | T2=v | move
-W-2=车 | T-2=n | W-1=4 | T-1=m | W1=7 | T1=m | W2=吃 | T2=v | move
-W-2=车 | T-2=n | W-1=4 | T-1=m | W1=2 | T1=m | W2=保 | T2=v | move
-W-2=炮 | T-2=n | W-1=五 | T-1=m | W1=六 | T1=m | W2=士 | T2=Ng | move
-W-2=炮 | T-2=n | W-1=六 | T-1=m | W1=二 | T1=m | W2=马 | T2=n | move
-W-2=车 | T-2=n | W-1=六 | T-1=m | W1=三 | T1=m | W2=马 | T2=n | move
-W-2=炮 | T-2=n | W-1=六 | T-1=m | W1=二 | T1=m | W2=马 | T2=n | move
-W-2=马 | T-2=n | W-1=五 | T-1=m | W1=三 | T1=m | W2=车 | T2=n | move
-W-2=相 | T-2=n | W-1=三 | T-1=m | W1=五 | T1=m | W2=车 | T2=n | move
-W-2=车 | T-2=n | W-1=七 | T-1=m | W1=一 | T1=m | W2=车 | T2=n | move
-W-2=马 | T-2=n | W-1=一 | T-1=m | W1=三 | T1=m | W2=车 | T2=n | move
-W-2=马 | T-2=n | W-1=三 | T-1=m | W1=二 | T1=m | W2=士 | T2=Ng | move
-W-2=马 | T-2=n | W-1=二 | T-1=m | W1=三 | T1=m | W2=马 | T2=n | move
-W-2=车 | T-2=n | W-1=八 | T-1=m | W1=四 | T1=m | W2=抓 | T2=v | move
-W-2=马 | T-2=n | W-1=七 | T-1=m | W1=五 | T1=m | W2=车 | T2=n | move
-W-2=车 | T-2=n | W-1=4 | T-1=m | W1=2 | T1=m | W2=NULL_TAIL | T2=NULL_TAIL | move
-W-2=车 | T-2=n | W-1=八 | T-1=m | W1=四 | T1=m | W2=车 | T2=n | move
-W-2=士 | T-2=Ng | W-1=5 | T-1=m | W1=6 | T1=m | W2=， | T2=w | move
-W-2=马 | T-2=n | W-1=九 | T-1=m | W1=七 | T1=m | W2=NULL_TAIL | T2=NULL_TAIL | move
-W-2=象 | T-2=Ng | W-1=7 | T-1=m | W1=9 | T1=m | W2=NULL_TAIL | T2=NULL_TAIL | move
-W-2=车 | T-2=n | W-1=四 | T-1=m | W1=二 | T1=m | W2=车 | T2=n | move
-W-2=马 | T-2=n | W-1=五 | T-1=m | W1=六 | T1=m | W2=的 | T2=u | move
-W-2=李 | T-2=nr | W-1=来群 | T-1=nr | W1=车 | T1=n | W2=捉 | T2=v | move
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=车 | T1=n | W2=弃 | T2=Vg | move
-W-2=车 | T-2=n | W-1=九 | T-1=m | W1=一 | T1=m | W2=马 | T2=n | move
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=强行 | T-1=d | W1=马 | T1=n | W2=挂角 | T2=v | move
-W-2=后 | T-2=f | W-1=马 | T-1=n | W1=七 | T1=m | W2=车 | T2=n | move
-W-2=士 | T-2=Ng | W-1=六 | T-1=m | W1=五 | T1=m | W2=炮 | T2=n | move
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=马 | T1=n | W2=堵住 | T2=v | move
-W-2=士 | T-2=Ng | W-1=四 | T-1=m | W1=五 | T1=m | W2=或 | T2=c | move
+W-1=埋 | T-1=v | W1=了 | T1=u | 龙 | 埋 | 进 | 黄土 | into
+W-1=走 | T-1=v | W1=属于 | T1=v | 季节 | 可以 | 走 | 进 | 属于 | 土壤 | into
+W-1=送 | T-1=v | W1=嘴里 | T1=s | 忘 | 苹果 | 送 | 进 | into
+W-1=滴落 | T-1=v | W1=大海 | T1=n | 雨点 | 滴落 | 进 | 大海 | 音响 | into
+W-1=跑 | T-1=v | W1=厂长 | T1=n | 职工 | 跑 | 进 | 厂长 | 办公室 | 神态 | into
+W-1=住 | T-1=v | W1=了 | T1=u | 岛 | 安排 | 住 | 进 | 称为 | 别墅 | into
+W-1=塞 | T-1=v | W1=好 | T1=a | 企业 | 塞 | 进 | 企业 | into
+W-1=请 | T-1=v | W1=家 | T1=n | 功能 | 教育家 | 请 | 进 | 家 | into
+W-1=带 | T-1=v | W1=了 | T1=u | 目光 | 带 | 进 | 冰雪 | into
+W-1=钻 | T-1=v | W1=了 | T1=u | 为 | 人 | 好像 | 钻 | 进 | 日光 | 灯管 | into
+W-1=扎 | T-1=v | W1=了 | T1=u | 队医 | 扎 | 进 | 日光 | 灯管 | into
+W-1=接 | T-1=v | W1=中南海 | T1=ns | 敬爱 | 总理 | 接 | 进 | 住 | into
+W-1=逼 | T-1=v | W1=了 | T1=u | 群众 | 歹徒 | 逼 | 进 | 住宅 | into
+W-1=关 | T-1=v | W1=“ | T1=w | 出卖 | 被捕 | 关 | 进 | 军人 | into
+W-1=扔 | T-1=v | W1=挂 | T1=v | 咖啡豆 | 摘 | 下 | 扔 | 进 | 挂 | 藤筐 | into
+W-1=走 | T-1=v | W1=一 | T1=m | 走 | 进 | 农家 | into
+W-1=掉 | T-1=v | W1=潭 | T1=n | 小孩 | 掉 | 进 | 潭 | 来 | into
+W-1=跳 | T-1=v | W1=５ | T1=m | 相识 | 游客 | 纵身 | 跳 | 进 | 水潭 | into
+W-1=补 | T-1=v | W1=了 | T1=u | 党费 | 部分 | 补 | 进 | 伙食 | into
+W-1=织 | T-1=v | W1=了 | T1=u | 时间 | 织就 | 织 | 进 | 人 | 深情 | into
+W-1=写 | T-1=v | W1=《 | T1=w | 是否 | 还有 | 话 | 写 | 进 | 日子 | into
+W-1=融 | T-1=v | W1=了 | T1=u | 融 | 进 | 珍藏 | 情感 | into
+W-1=踏 | T-1=v | W1=戴 | T1=nr | 待 | 到 | 踏 | 进 | 画室 | 说明 | into
+W-1=跨 | T-1=v | W1=了 | T1=u | 跨 | 进 | into
+W-1=迎 | T-1=v | W1=一 | T1=m | 山梁 | 客人 | 迎 | 进 | 乡村 | 中学 | into
+W-1=挤 | T-1=v | W1=的 | T1=u | 炉子 | 门 | 挤 | 进 | 风 | 刀子 | 割 | into
+W-1=吃 | T-1=v | W1=肚子 | T1=n | 老总 | 见 | 吃 | 进 | 肚子 | 产品 | into
+W-1=融注 | T-1=v | W1=我 | T1=r | 党 | 深情 | 融注 | 进 | 血管 | into
+W-1=锁 | T-1=v | W1=了 | T1=u | 黑板 | 锁 | 进 | 柜子 | into
+W-1=迎 | T-1=v | W1=了 | T1=u | 太阳 | 迎 | 进 | 祖国 | into
+W-1=位 | T-1=q | W1=藏 | T1=j | 进 | 叫 | enter
+W-1=难 | T-1=ad | W1=、 | T1=w | 单位 | 门 | 进 | 脸 | 事 | enter
+W-1=严禁 | T-1=v | W1=境 | T1=Ng | 仓库 | 害虫 | 是 | 严禁 | 进 | 危险性 | 虫害 | enter
+W-1=悄悄 | T-1=d | W1=京 | T1=j | 进 | enter
+W-1=环保 | T-1=j | W1=课堂 | T1=n | 关爱 | 酿 | 悲剧 | 呼吁 | 进 | 课堂 | enter
+W-1=一 | T-1=d | W1=书本 | T1=n | 是 | 进 | 书本 | 变 | enter
+W-1=人 | T-1=n | W1=班子 | T1=n | 标准 | 选拔 | 人 | 进 | 班子 | enter
+W-1=未 | T-1=d | W1=学府 | T1=n | 进 | 学府 | 入 | 牢房 | enter
+W-1=地 | T-1=u | W1=了 | T1=u | 文艺兵 | 不明 | 底细 | 进 | 见 | 到 | enter
+W-1=、 | T-1=w | W1=歌舞厅 | T1=n | 允许 | 打牌 | 酗酒 | 进 | 歌舞厅 | 欢迎 | 新闻 | 单位 | enter
+W-1=够 | T-1=d | W1=工厂 | T1=n | 初中 | 年纪 | 进 | 工厂 | enter
+W-1=接着 | T-1=c | W1=邮局 | T1=n | 去 | 银行 | 取款 | 进 | 邮局 | 发信 | 下 | 到 | enter
+W-1=可以 | T-1=v | W1=花店 | T1=n | 城 | 逛逛 | 可以 | 进 | 花店 | 出 | 工艺品 | 店 | 累 | enter
+W-1=， | T-1=w | W1=“ | T1=w | 街道 | 实则 | 走廊 | 进 | 城 | 办事 | 可以 | 免 | enter
+W-1=大树 | T-1=n | W1=包头 | T1=ns | 开展 | 大树 | 进 | 工程 | 植树 | enter
+W-1=刚 | T-1=d | W1=索韦托 | T1=ns | 进 | 高楼 | 是 | enter
+W-1=但 | T-1=c | W1=了 | T1=u | 进 | 拘留所 | enter
+W-1=有 | T-1=v | W1=有 | T1=v | 关键 | 是 | 要 | 有 | 进 | 有 | 退 | 原则 | enter
+W-1=教授 | T-1=n | W1=山 | T1=n | 是 | 搞 | 果园 | 请 | 教授 | 进 | 山 | 搞 | 梨 | enter
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=了 | T1=u | 进 | 校园 | 想 | 是 | enter
+W-1=不少 | T-1=m | W1=法庭 | T1=n | 进 | 法庭 | 打官司 | 农民 | enter
+W-1=“ | T-1=w | W1=大 | T1=a | 购物 | 进 | 店 | 选 | 厂 | enter
+W-1=但 | T-1=c | W1=嘴 | T1=n | 进 | 嘴 | 咬 | 味道 | 无异 | enter
+W-1=产品 | T-1=n | W1=名 | T1=Ng | 措施 | 保证 | 产品 | 进 | 店 | 进 | 街 | enter
+W-1=好 | T-1=d | W1=送礼 | T1=v | 家门 | 进 | 送礼 | 求助 | 说情 | enter
+W-1=要求 | T-1=v | W1=市场 | T1=n | 看到 | 要求 | 进 | 市场 | 经营 | 需求 | enter
+W-1=“ | T-1=w | W1=万 | T1=m | 继续 | 全国 | 范围 | 开展 | 进 | 门 | 知 | enter
+W-1=我们 | T-1=r | W1=馆 | T1=Ng | 进 | 小时 | enter
+W-1=喜气洋洋 | T-1=i | W1=县城 | T1=n | 据说 | 有 | 农户 | 全家人 | 进 | 县城 | 抱 | 回 | 彩电 | enter
+W-1=科学技术 | T-1=n | W1=不 | T1=d | 经济 | 优势 | 封闭 | 科学技术 | 进 | 来 | 学 | 到 | enter
+W-1=“ | T-1=w | W1=” | T1=w | 进 | 关键 | 是 | move_forward
+W-1=东 | T-1=f | W1=松辽平原 | T1=ns | 大军 | 辗转 | 挥师 | 进 | move_forward
+W-1=； | T-1=w | W1=， | T1=w | 宏观 | 经济 | 环境 | 社会 | 环境 | 进 | 继续 | 保持 | move_forward
+W-1=『 | T-1=w | W1=亦 | T1=d | 大局 | 对待 | 进 | 退 | move_forward
+W-1=的 | T-1=u | W1=、 | T1=w | 开展 | 对待 | 进 | 退 | 留 | 转 | move_forward
+W-1=南 | T-1=f | W1=支队 | T1=n | 指示 | 组建 | 进 | 支队 | 随军 | 南下 | 工作团 | 开辟 | move_forward
+W-1=而 | T-1=c | W1=， | T1=w | 疏漏 | 进 | 控制 | move_forward
+W-1=； | T-1=w | W1=是 | T1=v | 推进 | 进 | 是 | 目的 | 进 | move_forward
+W-1=， | T-1=w | W1=两 | T1=m | 实施 | 退 | 进 | 策略 | move_forward
+W-1=共 | T-1=d | W1=， | T1=w | 弘扬 | 民族 | 文化 | 携手 | 进 | 使 | 国家 | move_forward
+W-1=思 | T-1=v | W1=， | T1=w | 求知 | 新人 | 思 | 进 | 超越 | 向前 | move_forward
+W-1=共 | T-1=d | W1=。 | T1=w | 切磋 | 研讨 | 携手 | 进 | move_forward
+W-1=“ | T-1=w | W1=一 | T1=m | 提起 | 实施 | 进 | 退 | 还 | move_forward
+W-1=向前 | T-1=v | W1=。 | T1=w | 可以 | 向前 | 进 | move_forward
+W-1=有 | T-1=v | W1=有 | T1=v | 是 | 企业 | 要 | 有 | 进 | 有 | 退 | move_forward
+W-1=求 | T-1=v | W1=， | T1=w | 思 | 是 | 求 | 进 | 是 | 保持 | move_forward
+W-1=不 | T-1=d | W1=， | T1=w | 听 | 鼓 | 进 | 闻 | 不止 | 旗 | move_forward
+W-1=小 | T-1=a | W1=则 | T1=d | 前 | 不可 | 有 | 进 | 满 | 小富 | 安 | move_forward
+W-1=求 | T-1=v | W1=的 | T1=u | 愿望 | 求 | 进 | 精神 | 是 | move_forward
+W-1=疾 | T-1=Ag | W1=时代 | T1=n | 狂飙 | 进 | 时代 | move_forward
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=了 | T1=u | 进 | 是 | move_forward
+W-1=“ | T-1=w | W1=” | T1=w | 进 | 到 | move_forward
+W-1=共 | T-1=d | W1=； | T1=w | 发展 | 网络 | 进 | 药业 | 投资 | 电子商务 | move_forward
+W-1=‘ | T-1=w | W1=’ | T1=w | 是 | 进 | 为 | move_forward
+W-1=求 | T-1=v | W1=。 | T1=w | 资金 | 唯有 | 退 | 求 | 进 | move_forward
+W-1=“ | T-1=w | W1=” | T1=w | 带来 | 进 | move_forward
+W-1=有 | T-1=v | W1=有 | T1=v | 坚持 | 有 | 进 | 有 | 退 | 调整 | move_forward
+W-1=快 | T-1=d | W1=功能 | T1=n | 回家 | 发现 | 进 | 功能 | 能 | move_forward
+W-1=共 | T-1=d | W1=” | T1=w | 服务 | 携手 | 进 | 理念 | 表示 | 赞赏 | move_forward
+W-1=步 | T-1=q | W1=三 | T1=m | 砍 | 柴 | 功 | 退 | 进 | 道理 | move_forward
+W-1=“ | T-1=w | W1=” | T1=w | 有 | 出 | 得 | 有 | 进 | 增加 | buy_in
+W-1=果 | T-1=Ng | W1=菜 | T1=n | 名气 | 出来 | 前来 | 进 | 菜 | 客商 | buy_in
+W-1=新 | T-1=d | W1=一 | T1=m | 坚持 | 进 | 图书 | 要 | buy_in
+W-1=窝 | T-1=q | W1=假药 | T1=n | 院长 | 药品 | 室主任 | 进 | 假药 | 蛀虫 | buy_in
+W-1=不 | T-1=d | W1=” | T1=w | 做到 | 进货 | 有 | 进 | buy_in
+W-1=不 | T-1=d | W1=， | T1=w | 商品 | 进 | 没有 | 执照 | 厂家 | buy_in
+W-1=谁 | T-1=r | W1=假货 | T1=n | 进 | 假货 | 赔偿 | buy_in
+W-1=谁 | T-1=r | W1=假货 | T1=n | 把 | 进货关 | 进 | 假货 | 赔偿 | buy_in
+W-1=商品 | T-1=n | W1=存 | T1=v | 介绍 | 建立 | 商品 | 进 | 存 | 销 | 质量 | 引 | buy_in
+W-1=紧急 | T-1=ad | W1=了 | T1=u | 能 | 满足 | 需要 | 进 | buy_in
+W-1=、 | T-1=w | W1=设备 | T1=n | 选 | 厂址 | 盖 | 厂房 | 进 | 设备 | buy_in
+W-1=药品 | T-1=n | W1=销 | T1=v | 差率 | 规定 | 药品 | 进 | 销 | 差率 | 超过 | buy_in
+W-1=4 | T-1=m | W1=7 | T1=m | 能 | 走 | 车 | 进 | 吃 | 车 | move
+W-1=4 | T-1=m | W1=7 | T1=m | 黑方 | 能 | 走 | 车 | 进 | 吃 | 路 | 车 | move
+W-1=4 | T-1=m | W1=2 | T1=m | 如 | 走 | 车 | 进 | 保 | move
+W-1=五 | T-1=m | W1=六 | T1=m | 炮 | 进 | 进 | move
+W-1=六 | T-1=m | W1=二 | T1=m | 炮 | 进 | 马 | 进 | move
+W-1=六 | T-1=m | W1=三 | T1=m | 车 | 进 | 马 | 进 | move
+W-1=六 | T-1=m | W1=二 | T1=m | 炮 | 进 | 马 | 退 | move
+W-1=五 | T-1=m | W1=三 | T1=m | 马 | 进 | 车 | 进 | move
+W-1=三 | T-1=m | W1=五 | T1=m | 相 | 进 | 车 | 退 | move
+W-1=七 | T-1=m | W1=一 | T1=m | 车 | 进 | 车 | 进 | move
+W-1=一 | T-1=m | W1=三 | T1=m | 马 | 进 | 车 | 平 | move
+W-1=三 | T-1=m | W1=二 | T1=m | 马 | 进 | 进 | move
+W-1=二 | T-1=m | W1=三 | T1=m | 马 | 进 | 马 | 进 | move
+W-1=八 | T-1=m | W1=四 | T1=m | 红方 | 车 | 进 | 抓 | 死 | 黑马 | move
+W-1=七 | T-1=m | W1=五 | T1=m | 马 | 退 | 马 | 进 | 车 | 平 | move
+W-1=4 | T-1=m | W1=2 | T1=m | 车 | 平 | 车 | 进 | move
+W-1=八 | T-1=m | W1=四 | T1=m | 车 | 进 | 车 | 退 | move
+W-1=5 | T-1=m | W1=6 | T1=m | 进 | 马 | 进 | move
+W-1=九 | T-1=m | W1=七 | T1=m | 平 | 马 | 进 | move
+W-1=7 | T-1=m | W1=9 | T1=m | 炮 | 退 | 进 | move
+W-1=四 | T-1=m | W1=二 | T1=m | 车 | 进 | 车 | 进 | move
+W-1=五 | T-1=m | W1=六 | T1=m | 无法 | 阻挡 | 红方 | 马 | 进 | 认 | 负 | move
+W-1=来群 | T-1=nr | W1=车 | T1=n | 利 | 面对 | 大师 | 进 | 车 | 捉 | 炮 | move
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=车 | T1=n | 进 | 车 | 炮 | 进攻 | move
+W-1=九 | T-1=m | W1=一 | T1=m | 车 | 进 | 马 | 进 | move
+W-1=强行 | T-1=d | W1=马 | T1=n | 进 | 马 | 挂角 | 将军 | 红方 | move
+W-1=马 | T-1=n | W1=七 | T1=m | 马 | 进 | 车 | 平 | move
+W-1=六 | T-1=m | W1=五 | T1=m | 进 | 炮 | 进 | move
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=马 | T1=n | 进 | 马 | 堵住 | 黑方 | 马路 | move
+W-1=四 | T-1=m | W1=五 | T1=m | 走 | 进 | 平 | move

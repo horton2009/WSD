@@ -1,43 +1,43 @@
-W-2=而 | T-2=c | W-1=钻研 | T-1=v | W1=理论 | T1=n | W2=， | T2=w | traditional_Chinese_medical_science
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=不 | T1=d | W2=是 | T2=v | traditional_Chinese_medical_science
-W-2=医生 | T-2=n | W-1=任 | T-1=v | W1=急诊室 | T1=n | W2=主任 | T2=n | traditional_Chinese_medical_science
-W-2=现任 | T-2=v | W-1=中国 | T-1=ns | W1=研究院 | T1=n | W2=长城 | T2=nz | PW=中国中医研究院长城医院 | PT=nt | traditional_Chinese_medical_science
-W-2=开始 | T-2=v | W-1=学习 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | traditional_Chinese_medical_science
-W-2=北京 | T-2=ns | W-1=骨伤 | T-1=n | W1=学院 | T1=na | W2=的 | T2=u | PW=北京骨伤中医学院 | PT=nt | traditional_Chinese_medical_science
-W-2=形成 | T-2=v | W-1=以 | T-1=p | W1=内科 | T1=n | W2=、 | T2=w | traditional_Chinese_medical_science
-W-2=发挥 | T-2=v | W-1=传统 | T-1=a | W1=的 | T1=u | W2=优势 | T2=n | traditional_Chinese_medical_science
-W-2=保留 | T-2=v | W-1=了 | T-1=u | W1=骨伤科 | T1=n | W2=治疗 | T2=vn | traditional_Chinese_medical_science
-W-2=看 | T-2=v | W-1=过 | T-1=u | W1=、 | T1=w | W2=西医 | T2=n | traditional_Chinese_medical_science
-W-2=-- | T-2=w | W-1=记 | T-1=v | W1=血液病 | T1=n | W2=专家 | T2=n | traditional_Chinese_medical_science
-W-2=反 | T-2=v | W-1=通常 | T-1=b | W1=壮 | T1=v | W2=骨 | T2=Ng | traditional_Chinese_medical_science
-W-2=有生之年 | T-2=i | W-1=对 | T-1=p | W1=治疗 | T1=v | W2=血液病 | T2=n | traditional_Chinese_medical_science
-W-2=他 | T-2=r | W-1=采取 | T-1=v | W1=方法 | T1=n | W2=对于 | T2=p | traditional_Chinese_medical_science
-W-2=用 | T-2=v | W-1=， | T-1=w | W1=也 | T1=d | W2=能 | T2=v | traditional_Chinese_medical_science
-W-2=在 | T-2=p | W-1=尊重 | T-1=v | W1=理论 | T1=n | W2=的 | T2=u | traditional_Chinese_medical_science
-W-2=福州 | T-2=ns | W-1=伟达 | T-1=nz | W1=肿瘤 | T1=n | W2=防治 | T2=vn | PW=福州伟达中医肿瘤防治研究所 | PT=nt | traditional_Chinese_medical_science
-W-2=一个 | T-2=m | W-1=擅长 | T-1=v | W1=， | T1=w | W2=一个 | T2=m | traditional_Chinese_medical_science
-W-2=了 | T-2=u | W-1=《 | T-1=w | W1=治疗 | T1=v | W2=肿瘤 | T2=n | traditional_Chinese_medical_science
-W-2=民办 | T-2=b | W-1=的 | T-1=u | W1=肿瘤 | T1=n | W2=研究所 | T2=n | traditional_Chinese_medical_science
-W-2=发掘 | T-2=v | W-1=传统 | T-1=a | W1=的 | T1=u | W2=精粹 | T2=an | traditional_Chinese_medical_science
-W-2=， | T-2=w | W-1=与 | T-1=p | W1=耳针 | T1=n | W2=疗法 | T2=n | traditional_Chinese_medical_science
-W-2=化疗 | T-2=v | W-1=和 | T-1=c | W1=“ | T1=w | W2=以毒攻毒 | T2=i | traditional_Chinese_medical_science
-W-2=军医 | T-2=n | W-1=大学 | T-1=n | W1=科 | T1=na | W2=解放军 | T2=n | PW=第一军医大学中医科 | PT=nt | traditional_Chinese_medical_science
-W-2=在 | T-2=p | W-1=被 | T-1=p | W1=称为 | T1=v | W2=“ | T2=w | traditional_Chinese_medical_science
-W-2=认定 | T-2=v | W-1=了 | T-1=u | W1=的 | T1=u | W2=“ | T2=w | traditional_Chinese_medical_science
-W-2=专业 | T-2=n | W-1=， | T-1=w | W1=大专 | T1=n | W2=、 | T2=w | traditional_Chinese_medical_science
-W-2=地 | T-2=u | W-1=阅览 | T-1=v | W1=典籍 | T1=n | W2=， | T2=w | traditional_Chinese_medical_science
-W-2=继续 | T-2=v | W-1=深化 | T-1=v | W1=医疗 | T1=n | W2=机构 | T2=n | traditional_Chinese_medical_science
-W-2=汤药 | T-2=n | W-1=的 | T-1=u | W1=形象 | T1=n | W2=早已 | T2=d | practitioner_of_Chinese_medicine
-W-2=古稀 | T-2=n | W-1=老 | T-1=a | W1=告诉 | T1=v | W2=他 | T2=r | practitioner_of_Chinese_medicine
-W-2=位 | T-2=q | W-1=当 | T-1=v | W1=的 | T1=u | W2=亲戚 | T2=n | practitioner_of_Chinese_medicine
-W-2=位 | T-2=q | W-1=老 | T-1=a | W1=悄悄 | T1=z | W2=告诉 | T2=v | practitioner_of_Chinese_medicine
-W-2=身怀绝技 | T-2=i | W-1=的 | T-1=u | W1=奇人 | T1=n | W2=。 | T2=w | practitioner_of_Chinese_medicine
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=著名 | T-1=a | W1=程 | T1=nr | W2=昭寰 | T2=nr | practitioner_of_Chinese_medicine
-W-2=闽清县 | T-2=ns | W-1=一个 | T-1=m | W1=世家 | T1=n | W2=； | T2=w | practitioner_of_Chinese_medicine
-W-2=著名 | T-2=a | W-1=的 | T-1=u | W1=和 | T1=c | W2=中西医 | T2=j | practitioner_of_Chinese_medicine
-W-2=著名 | T-2=a | W-1=老 | T-1=a | W1=邓 | T1=nr | W2=铁涛 | T2=nr | practitioner_of_Chinese_medicine
-W-2=代 | T-2=q | W-1=名 | T-1=Ng | W1=中 | T1=f | W2=得到 | T2=v | practitioner_of_Chinese_medicine
-W-2=“ | T-2=w | W-1=老 | T-1=a | W1=” | T1=w | W2=住 | T2=v | practitioner_of_Chinese_medicine
-W-2=位 | T-2=q | W-1=老 | T-1=a | W1=， | T1=w | W2=她 | T2=r | practitioner_of_Chinese_medicine
-W-2=知名 | T-2=a | W-1=老 | T-1=a | W1=经过 | T1=p | W2=上百 | T2=m | practitioner_of_Chinese_medicine
-W-2=名 | T-2=Ng | W-1=老 | T-1=a | W1=风采 | T1=n | W2=》 | T2=w | practitioner_of_Chinese_medicine
+W-1=钻研 | T-1=v | W1=理论 | T1=n | 出身 | 转 | 钻研 | 中医 | 理论 | 试图 | 前人 | traditional_Chinese_medical_science
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=不 | T1=d | 中医 | 是 | 郎中 | traditional_Chinese_medical_science
+W-1=任 | T-1=v | W1=急诊室 | T1=n | 要 | 选拔 | 医生 | 任 | 中医 | 急诊室 | 主任 | 条件 | 是 | traditional_Chinese_medical_science
+W-1=中国 | T-1=ns | W1=研究院 | T1=n | PW=中国中医研究院长城医院 | PT=nt | 上升 | 趋势 | 现任 | 中医 | 研究院 | 医院 | 院长 | traditional_Chinese_medical_science
+W-1=学习 | T-1=v | W1=。 | T1=w | 工作 | 开始 | 学习 | 中医 | traditional_Chinese_medical_science
+W-1=骨伤 | T-1=n | W1=学院 | T1=na | PW=北京骨伤中医学院 | PT=nt | 参加 | 骨伤 | 中医 | 中医 | 专科班 | traditional_Chinese_medical_science
+W-1=以 | T-1=p | W1=内科 | T1=n | 形成 | 中医 | 内科 | 整形 | 烧伤 | 为 | traditional_Chinese_medical_science
+W-1=传统 | T-1=a | W1=的 | T1=u | 发挥 | 中医 | 优势 | 特色 | traditional_Chinese_medical_science
+W-1=了 | T-1=u | W1=骨伤科 | T1=n | 专科 | 保留 | 中医 | 骨伤科 | 特色 | traditional_Chinese_medical_science
+W-1=过 | T-1=u | W1=、 | T1=w | 看 | 中医 | 西医 | 接受 | 理疗 | traditional_Chinese_medical_science
+W-1=记 | T-1=v | W1=血液病 | T1=n | 让 | 血液病 | 远离 | 人类 | 记 | 中医 | 血液病 | 专家 | traditional_Chinese_medical_science
+W-1=通常 | T-1=b | W1=壮 | T1=v | 治疗 | 反 | 中医 | 壮 | 生 | 补 | traditional_Chinese_medical_science
+W-1=对 | T-1=p | W1=治疗 | T1=v | 奇葩 | 要 | 中医 | 治疗 | 血液病 | 理论 | 进行 | traditional_Chinese_medical_science
+W-1=采取 | T-1=v | W1=方法 | T1=n | 采取 | 中医 | 方法 | traditional_Chinese_medical_science
+W-1=， | T-1=w | W1=也 | T1=d | 科技 | 成果 | 西医 | 能 | 用 | 中医 | 能 | 用 | traditional_Chinese_medical_science
+W-1=尊重 | T-1=v | W1=理论 | T1=n | 首席 | 科学家 | 负责制 | 尊重 | 中医 | 理论 | 基础 | traditional_Chinese_medical_science
+W-1=伟达 | T-1=nz | W1=肿瘤 | T1=n | PW=福州伟达中医肿瘤防治研究所 | PT=nt | 访 | 中医 | 肿瘤 | 研究所 | 所长 | traditional_Chinese_medical_science
+W-1=擅长 | T-1=v | W1=， | T1=w | 有 | 伯父 | 擅长 | 中医 | 擅长 | 草药 | traditional_Chinese_medical_science
+W-1=《 | T-1=w | W1=治疗 | T1=v | 著述 | 编写 | 中医 | 治疗 | 肿瘤 | 经验 | traditional_Chinese_medical_science
+W-1=的 | T-1=u | W1=肿瘤 | T1=n | 发起 | 成立 | 中医 | 肿瘤 | 研究所 | 说服 | 家人 | traditional_Chinese_medical_science
+W-1=传统 | T-1=a | W1=的 | T1=u | 发掘 | 中医 | 试验 | 改进 | traditional_Chinese_medical_science
+W-1=与 | T-1=p | W1=耳针 | T1=n | 微处理器 | 电子 | 技术 | 中医 | 耳针 | 疗法 | 结合 | 研制 | traditional_Chinese_medical_science
+W-1=和 | T-1=c | W1=“ | T1=w | 采取 | 手术 | 放疗 | 化疗 | 中医 | 方法 | traditional_Chinese_medical_science
+W-1=大学 | T-1=n | W1=科 | T1=na | PW=第一军医大学中医科 | PT=nt | 仪式 | 军医 | 大学 | 中医 | 解放军 | 军医 | traditional_Chinese_medical_science
+W-1=被 | T-1=p | W1=称为 | T1=v | 中医 | 称为 | 命门 | 火 | traditional_Chinese_medical_science
+W-1=了 | T-1=u | W1=的 | T1=u | 教授 | 认定 | 中医 | 肾 | traditional_Chinese_medical_science
+W-1=， | T-1=w | W1=大专 | T1=n | 西医 | 中专 | 口腔 | 专业 | 中医 | 大专 | 西医 | 大专 | traditional_Chinese_medical_science
+W-1=阅览 | T-1=v | W1=典籍 | T1=n | 中药 | 阅览 | 中医 | 典籍 | 采撷 | 药方 | traditional_Chinese_medical_science
+W-1=深化 | T-1=v | W1=医疗 | T1=n | 为 | 契机 | 继续 | 深化 | 中医 | 医疗 | 机构 | 促进 | 中医药 | traditional_Chinese_medical_science
+W-1=的 | T-1=u | W1=形象 | T1=n | 指头 | 枕头 | 开 | 汤药 | 中医 | 形象 | 改观 | 中医院 | practitioner_of_Chinese_medicine
+W-1=老 | T-1=a | W1=告诉 | T1=v | 机会 | 古稀 | 中医 | 告诉 | practitioner_of_Chinese_medicine
+W-1=当 | T-1=v | W1=的 | T1=u | 当 | 中医 | 亲戚 | 建议 | 煎 | 服 | 怀牛膝 | practitioner_of_Chinese_medicine
+W-1=老 | T-1=a | W1=悄悄 | T1=z | 中医 | 告诉 | practitioner_of_Chinese_medicine
+W-1=的 | T-1=u | W1=奇人 | T1=n | 民间 | 不乏 | 中医 | 奇人 | practitioner_of_Chinese_medicine
+W-1=著名 | T-1=a | W1=程 | T1=nr | 中医 | 挑战 | practitioner_of_Chinese_medicine
+W-1=一个 | T-1=m | W1=世家 | T1=n | 成长 | 中医 | 世家 | practitioner_of_Chinese_medicine
+W-1=的 | T-1=u | W1=和 | T1=c | 全国 | 全省 | 中医 | 结合 | 专家 | practitioner_of_Chinese_medicine
+W-1=老 | T-1=a | W1=邓 | T1=nr | 全国 | 中医 | 教授 | practitioner_of_Chinese_medicine
+W-1=名 | T-1=Ng | W1=中 | T1=f | 经验 | 中医 | 得到 | practitioner_of_Chinese_medicine
+W-1=老 | T-1=a | W1=” | T1=w | 打听 | 能 | 看病 | 中医 | 住 | 地方 | practitioner_of_Chinese_medicine
+W-1=老 | T-1=a | W1=， | T1=w | 结识 | 中医 | 学习 | practitioner_of_Chinese_medicine
+W-1=老 | T-1=a | W1=经过 | T1=p | 为 | 依据 | 全国 | 中医 | practitioner_of_Chinese_medicine
+W-1=老 | T-1=a | W1=风采 | T1=n | 读 | 中医 | 风采 | 画册 | practitioner_of_Chinese_medicine

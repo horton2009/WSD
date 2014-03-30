@@ -1,60 +1,60 @@
-W-2=， | T-2=w | W-1=这 | T-1=r | W1=在 | T1=p | W2=老 | T2=a | show
-W-2=， | T-2=w | W-1=就 | T-1=d | W1=存在 | T1=v | W2=规模 | T2=n | show
-W-2=正反 | T-2=b | W-1=案例 | T-1=n | W1=， | T1=w | W2=大 | T2=a | show
-W-2=， | T-2=w | W-1=足以 | T-1=d | W1=一些 | T1=m | W2=问题 | T2=n | show
-W-2=枪击 | T-2=vn | W-1=事件 | T-1=n | W1=有人 | T1=r | W2=企图 | T2=v | show
-W-2=明显 | T-2=a | W-1=增加 | T-1=vn | W1=企业 | T1=n | W2=适销对路 | T2=l | show
-W-2=一个 | T-2=m | W-1=侧面 | T-1=f | W1=了 | T1=u | W2=旅游 | T2=vn | show
-W-2=， | T-2=w | W-1=充分 | T-1=ad | W1=了 | T1=u | W2=各地 | T2=r | show
-W-2=以上 | T-2=f | W-1=情况 | T-1=n | W1=， | T1=w | W2=安徽省 | T2=ns | show
-W-2=突出 | T-2=a | W-1=地 | T-1=u | W1=了 | T1=u | W2=主人 | T2=n | show
-W-2=好 | T-2=a | W-1=地 | T-1=u | W1=了 | T1=u | W2=这 | T2=r | show
-W-2=并 | T-2=d | W-1=不 | T-1=d | W1=约旦 | T1=ns | W2=想 | T2=v | show
-W-2=的 | T-2=u | W-1=当选 | T-1=vn | W1=了 | T1=u | W2=什么 | T2=r | show
-W-2=历史 | T-2=n | W-1=反复 | T-1=d | W1=， | T1=w | W2=只有 | T2=c | show
-W-2=历史 | T-2=n | W-1=反复 | T-1=d | W1=， | T1=w | W2=只有 | T2=c | show
-W-2=实践 | T-2=vn | W-1=经验 | T-1=n | W1=， | T1=w | W2=这 | T2=r | show
-W-2=的 | T-2=u | W-1=事实 | T-1=n | W1=， | T1=w | W2=发达国家 | T2=l | show
-W-2=最 | T-2=d | W-1=能 | T-1=v | W1=新 | T1=a | W2=南非 | T2=ns | show
-W-2=缓 | T-2=a | W-1=也 | T-1=d | W1=， | T1=w | W2=投资 | T2=vn | show
-W-2=转化 | T-2=vn | W-1=， | T-1=w | W1=了 | T1=u | W2=党 | T2=n | show
-W-2=历史 | T-2=n | W-1=充分 | T-1=ad | W1=， | T1=w | W2=多边 | T2=b | show
-W-2=这种 | T-2=r | W-1=情况 | T-1=n | W1=， | T1=w | W2=投资者 | T2=n | show
-W-2=一个 | T-2=m | W-1=侧面 | T-1=f | W1=， | T1=w | W2=加强 | T2=v | show
-W-2=也 | T-2=d | W-1=在 | T-1=d | W1=这 | T1=r | W2=一 | T2=m | show
-W-2=问题 | T-2=n | W-1=都 | T-1=d | W1=不 | T1=d | W2=了 | T2=v | show
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=实质 | T1=n | W2=问题 | T2=n | show
-W-2=件 | T-2=q | W-1=事 | T-1=n | W1=咨询 | T1=vn | W2=工作 | T2=vn | show
-W-2=更 | T-2=d | W-1=能 | T-1=v | W1=问题 | T1=n | W2=： | T2=w | show
-W-2=一起 | T-2=d | W-1=过年 | T-1=v | W1=在 | T1=p | W2=他 | T2=r | show
-W-2=最 | T-2=d | W-1=能够 | T-1=v | W1=这个 | T1=r | W2=区别 | T2=n | show
-W-2=当 | T-2=p | W-1=我 | T-1=r | W1=自己 | T1=r | W2=是 | T2=v | explain
-W-2=走 | T-2=v | W-1=过去 | T-1=v | W1=来意 | T1=n | W2=， | T2=w | explain
-W-2=在 | T-2=d | W-1=作 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | explain
-W-2=向 | T-2=p | W-1=您 | T-1=r | W1=的 | T1=u | W2=是 | T2=v | explain
-W-2=特别 | T-2=d | W-1=要 | T-1=v | W1=的 | T1=u | W2=是 | T2=v | explain
-W-2=应当 | T-2=v | W-1=书面 | T-1=d | W1=理由 | T1=n | W2=。 | T2=w | explain
-W-2=该 | T-2=r | W-1=机关 | T-1=n | W1=法规 | T1=n | W2=、 | T2=w | explain
-W-2=向 | T-2=p | W-1=笔者 | T-1=n | W1=， | T1=w | W2=出现 | T2=v | explain
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=学校 | T-1=n | W1=， | T1=w | W2=这 | T2=r | explain
-W-2=他 | T-2=r | W-1=没有 | T-1=d | W1=何时 | T1=r | W2=进行 | T2=v | explain
-W-2=例 | T-2=n | W-1=来 | T-1=v | W1=这种 | T1=r | W2=趋势 | T2=n | explain
-W-2=应 | T-2=v | W-1=主动 | T-1=ad | W1=车臣 | T1=ns | W2=事态 | T2=n | explain
-W-2=基本 | T-2=a | W-1=原理 | T-1=n | W1=实际 | T1=a | W2=问题 | T2=n | explain
-W-2=他 | T-2=r | W-1=能 | T-1=v | W1=捐款人 | T1=n | W2=姓名 | T2=n | explain
-W-2=尤其 | T-2=d | W-1=需要 | T-1=v | W1=的 | T1=u | W2=是 | T2=v | explain
-W-2=我 | T-2=r | W-1=当时 | T-1=t | W1=10月 | T1=t | W2=26日 | T2=t | explain
-W-2=受害者 | T-2=n | W-1=家属 | T-1=n | W1=处理 | T1=vn | W2=情况 | T2=n | explain
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=合法 | T1=a | W2=来源 | T2=n | explain
-W-2=他 | T-2=r | W-1=同时 | T-1=d | W1=， | T1=w | W2=因为 | T2=c | explain
-W-2=创意 | T-2=n | W-1=， | T-1=w | W1=要 | T1=v | W2=生动 | T2=a | explain
-W-2=向 | T-2=p | W-1=厂方 | T-1=n | W1=情况 | T1=n | W2=， | T2=w | explain
-W-2=还 | T-2=d | W-1=举例 | T-1=v | W1=了 | T1=u | W2=海洋 | T2=n | explain
-W-2=解释 | T-2=v | W-1=和 | T-1=c | W1=这些 | T1=r | W2=现象 | T2=n | explain
-W-2=完全 | T-2=ad | W-1=可以 | T-1=v | W1=的 | T1=u | W2=。 | T2=w | explain
-W-2=精辟 | T-2=a | W-1=地 | T-1=u | W1=了 | T1=u | W2=先进 | T2=a | explain
-W-2=直到 | T-2=v | W-1=他 | T-1=r | W1=根基 | T1=n | W2=仍 | T2=d | explain
-W-2=拒 | T-2=Vg | W-1=不 | T-1=d | W1=真相 | T1=n | W2=。 | T2=w | explain
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=应该 | T-1=v | W1=， | T1=w | W2=这样 | T2=r | explain
-W-2=公安 | T-2=n | W-1=机关 | T-1=n | W1=不 | T1=d | W2=立案 | T2=vn | explain
-W-2=向 | T-2=p | W-1=提案人 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | explain
+W-1=这 | T-1=r | W1=在 | T1=p | 面孔 | 说明 | 同志 | 作出 | 贡献 | show
+W-1=就 | T-1=d | W1=存在 | T1=v | 单位 | 产品 | 成本 | 降低 | 说明 | 存在 | 规模 | show
+W-1=案例 | T-1=n | W1=， | T1=w | 案例 | 说明 | 战役 | show
+W-1=足以 | T-1=d | W1=一些 | T1=m | 引起 | 人们 | 说明 | 问题 | 笔者 | 有 | show
+W-1=事件 | T-1=n | W1=有人 | T1=r | 使馆 | 官员 | 认为 | 事件 | 说明 | 企图 | 破坏 | show
+W-1=增加 | T-1=vn | W1=企业 | T1=n | 利润 | 说明 | 企业 | 产品 | 增加 | show
+W-1=侧面 | T-1=f | W1=了 | T1=u | 说明 | 质量 | show
+W-1=充分 | T-1=ad | W1=了 | T1=u | 城市 | 与会 | 说明 | show
+W-1=情况 | T-1=n | W1=， | T1=w | 情况 | 说明 | 整顿 | 农村 | 电价 | show
+W-1=地 | T-1=u | W1=了 | T1=u | 秸秆 | 氨化池 | 说明 | 主人 | show
+W-1=地 | T-1=u | W1=了 | T1=u | 游客 | 说明 | show
+W-1=不 | T-1=d | W1=约旦 | T1=ns | 军事 | 说明 | 想 | 国家 | 建立 | show
+W-1=当选 | T-1=vn | W1=了 | T1=u | 门 | 说明 | show
+W-1=反复 | T-1=d | W1=， | T1=w | 世纪 | 历史 | 说明 | 领导 | show
+W-1=反复 | T-1=d | W1=， | T1=w | 世纪 | 历史 | 说明 | 领导 | show
+W-1=经验 | T-1=n | W1=， | T1=w | 经验 | 说明 | 技术 | 是 | show
+W-1=事实 | T-1=n | W1=， | T1=w | 世界 | 贫富 | 差距 | 增大 | 事实 | 说明 | 实行 | 经济 | show
+W-1=能 | T-1=v | W1=新 | T1=a | 能 | 说明 | show
+W-1=也 | T-1=d | W1=， | T1=w | 增幅 | 说明 | 力度 | 需 | 加大 | show
+W-1=， | T-1=w | W1=了 | T1=u | 练习者 | 说明 | 党 | 政策 | 威力 | show
+W-1=充分 | T-1=ad | W1=， | T1=w | 历史 | 说明 | show
+W-1=情况 | T-1=n | W1=， | T1=w | 情况 | 说明 | 投资者 | 企业家 | 观念 | show
+W-1=侧面 | T-1=f | W1=， | T1=w | 局面 | 说明 | 加强 | 城市 | 是 | show
+W-1=在 | T-1=d | W1=这 | T1=r | 挥舞 | 大旗 | 说明 | show
+W-1=都 | T-1=d | W1=不 | T1=d | 是 | 问题 | 说明 | 了 | 信件 | show
+W-1=能 | T-1=v | W1=实质 | T1=n | 拿 | 能 | 说明 | 实质 | 问题 | 银行 | 信函 | show
+W-1=事 | T-1=n | W1=咨询 | T1=vn | 事 | 说明 | 要 | 有 | 战略性 | 眼光 | show
+W-1=能 | T-1=v | W1=问题 | T1=n | 家长 | 看法 | 能 | 说明 | 问题 | show
+W-1=过年 | T-1=v | W1=在 | T1=p | 士兵 | 过年 | 说明 | 心目 | 国家 | 利益 | show
+W-1=能够 | T-1=v | W1=这个 | T1=r | 有 | 能够 | 说明 | 区别 | 是 | show
+W-1=我 | T-1=r | W1=自己 | T1=r | 说明 | 是 | ＢＰ机 | 主人 | explain
+W-1=过去 | T-1=v | W1=来意 | T1=n | 走 | 过去 | 说明 | 来意 | 面 | 带 | explain
+W-1=作 | T-1=v | W1=。 | T1=w | 总理 | 作 | 说明 | explain
+W-1=您 | T-1=r | W1=的 | T1=u | 需要 | 说明 | 是 | explain
+W-1=要 | T-1=v | W1=的 | T1=u | 要 | 说明 | 是 | 董事长 | 董事会 | explain
+W-1=书面 | T-1=d | W1=理由 | T1=n | 不予 | 注册 | 应当 | 说明 | 理由 | explain
+W-1=机关 | T-1=n | W1=法规 | T1=n | 说明函 | 要求 | 机关 | 说明 | 法规 | 规章 | explain
+W-1=笔者 | T-1=n | W1=， | T1=w | 表示 | 接受 | 笔者 | 说明 | 出现 | 汇款 | 搭售 | 明信片 | explain
+W-1=学校 | T-1=n | W1=， | T1=w | 学校 | 说明 | 是 | 奖励 | explain
+W-1=没有 | T-1=d | W1=何时 | T1=r | 说明 | 进行 | 总统 | explain
+W-1=来 | T-1=v | W1=这种 | T1=r | 女士 | 家政 | 为 | 例 | 来 | 说明 | 趋势 | explain
+W-1=主动 | T-1=ad | W1=车臣 | T1=ns | 应 | 说明 | 事态 | 真相 | explain
+W-1=原理 | T-1=n | W1=实际 | T1=a | 是 | 教授 | 运用 | 马克思主义 | 原理 | 说明 | 问题 | 能力 | 是 | explain
+W-1=能 | T-1=v | W1=捐款人 | T1=n | 面谈 | 希望 | 能 | 说明 | 捐款人 | 姓名 | explain
+W-1=需要 | T-1=v | W1=的 | T1=u | 需要 | 说明 | 是 | 电信 | explain
+W-1=当时 | T-1=t | W1=10月 | T1=t | 说明 | 信息 | explain
+W-1=家属 | T-1=n | W1=处理 | T1=vn | 上门 | 事故 | 受害者 | 家属 | 说明 | 情况 | explain
+W-1=能 | T-1=v | W1=合法 | T1=a | 财产 | 能 | 说明 | 来源 | explain
+W-1=同时 | T-1=d | W1=， | T1=w | 说明 | 事 | 隔 | explain
+W-1=， | T-1=w | W1=要 | T1=v | 科技馆 | 展品 | 要 | 有 | 创意 | 说明 | 要 | 离 | explain
+W-1=厂方 | T-1=n | W1=情况 | T1=n | 证件 | 厂方 | 说明 | 情况 | 进入 | 车间 | explain
+W-1=举例 | T-1=v | W1=了 | T1=u | 举例 | 说明 | 海洋 | 科学 | explain
+W-1=和 | T-1=c | W1=这些 | T1=r | 经济学 | 失灵 | 无法 | 解释 | 说明 | 现象 | explain
+W-1=可以 | T-1=v | W1=的 | T1=u | 关系 | 历史唯物主义 | 原理 | 是 | 可以 | 说明 | explain
+W-1=地 | T-1=u | W1=了 | T1=u | 比喻 | 说明 | 哲学 | 社会 | 意义 | explain
+W-1=他 | T-1=r | W1=根基 | T1=n | 反对 | 直到 | 说明 | 根基 | 在 | 该 | explain
+W-1=不 | T-1=d | W1=真相 | T1=n | 说明 | 真相 | explain
+W-1=应该 | T-1=v | W1=， | T1=w | 应该 | 说明 | explain
+W-1=机关 | T-1=n | W1=不 | T1=d | 要求 | 公安 | 机关 | 说明 | 理由 | explain
+W-1=提案人 | T-1=n | W1=。 | T1=w | 委员会 | 会议 | 报告 | 提案人 | 说明 | explain

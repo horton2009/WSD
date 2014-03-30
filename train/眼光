@@ -1,41 +1,41 @@
-W-2=具有 | T-2=v | W-1=战略 | T-1=n | W1=的 | T1=u | W2=进取 | T2=vn | foresight
-W-2=文化 | T-2=n | W-1=的 | T-1=u | W1=去 | T1=v | W2=看 | T2=v | foresight
-W-2=胸怀 | T-2=n | W-1=和 | T-1=c | W1=， | T1=w | W2=需要 | T2=v | foresight
-W-2=的 | T-2=u | W-1=战略 | T-1=n | W1=和 | T1=c | W2=胆识 | T2=n | foresight
-W-2=市场 | T-2=n | W-1=的 | T-1=u | W1=办 | T1=v | W2=体育 | T2=n | foresight
-W-2=缺乏 | T-2=v | W-1=长远 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | foresight
-W-2=独特 | T-2=a | W-1=的 | T-1=u | W1=、 | T1=w | W2=性格 | T2=n | foresight
-W-2=商人 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=来 | T2=v | foresight
-W-2=有 | T-2=v | W-1=全球 | T-1=n | W1=和 | T1=c | W2=长期 | T2=d | foresight
-W-2=自己 | T-2=r | W-1=的 | T-1=u | W1=， | T1=w | W2=拍摄 | T2=v | foresight
-W-2=却 | T-2=d | W-1=把 | T-1=p | W1=对准 | T1=v | W2=人类 | T2=n | foresight
-W-2=现代人 | T-2=n | W-1=的 | T-1=u | W1=重新 | T1=d | W2=审视 | T2=v | foresight
-W-2=率先 | T-2=d | W-1=把 | T-1=p | W1=瞄准 | T1=v | W2=了 | T2=u | foresight
-W-2=， | T-2=w | W-1=战略 | T-1=n | W1=， | T1=w | W2=对于 | T2=p | foresight
-W-2=历史 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=就 | T2=d | foresight
-W-2=有 | T-2=v | W-1=市场 | T-1=n | W1=， | T1=w | W2=有 | T2=v | foresight
-W-2=的 | T-2=u | W-1=经济 | T-1=n | W1=， | T1=w | W2=显然 | T2=ad | foresight
-W-2=世界 | T-2=n | W-1=的 | T-1=u | W1=来 | T1=v | W2=注视 | T2=v | foresight
-W-2=没 | T-2=d | W-1=有 | T-1=v | W1=去 | T1=v | W2=发现 | T2=v | foresight
-W-2=战略 | T-2=n | W-1=的 | T-1=u | W1=来 | T1=v | W2=看待 | T2=v | foresight
-W-2=有 | T-2=v | W-1=战略 | T-1=n | W1=， | T1=w | W2=善于 | T2=v | foresight
-W-2=， | T-2=w | W-1=少数 | T-1=m | W1=超前 | T1=a | W2=、 | T2=w | foresight
-W-2=他们 | T-2=r | W-1=的 | T-1=u | W1=是 | T1=v | W2=短 | T2=a | foresight
-W-2=公正 | T-2=a | W-1=的 | T-1=u | W1=看待 | T1=v | W2=外部 | T2=f | foresight
-W-2=销售商 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=却 | T2=d | foresight
-W-2=敏锐 | T-2=a | W-1=的 | T-1=u | W1=， | T1=w | W2=需要 | T2=v | foresight
-W-2=本质 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=也 | T2=d | foresight
-W-2=智慧 | T-2=n | W-1=、 | T-1=w | W1=与 | T1=c | W2=勇气 | T2=n | foresight
-W-2=挑剔 | T-2=v | W-1=的 | T-1=u | W1=， | T1=w | W2=是 | T2=v | foresight
-W-2=要 | T-2=v | W-1=把 | T-1=p | W1=投向 | T1=v | W2=全国 | T2=n | foresight
-W-2=只是 | T-2=c | W-1=把 | T-1=p | W1=盯 | T1=v | W2=在 | T2=p | eye
-W-2=， | T-2=w | W-1=将 | T-1=p | W1=放 | T1=v | W2=到 | T2=v | eye
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=在 | T-1=p | W1=向 | T1=v | W2=外 | T2=f | eye
-W-2=又 | T-2=d | W-1=把 | T-1=p | W1=投向 | T1=v | W2=市场 | T2=n | eye
-W-2=， | T-2=w | W-1=将 | T-1=p | W1=放 | T1=v | W2=在 | T2=p | eye
-W-2=钦佩 | T-2=v | W-1=的 | T-1=u | W1=， | T1=w | W2=但 | T2=c | eye
-W-2=方式 | T-2=n | W-1=； | T-1=w | W1=要 | T1=v | W2=看到 | T2=v | eye
-W-2=焦虑 | T-2=a | W-1=的 | T-1=u | W1=， | T1=w | W2=听到 | T2=v | eye
-W-2=冷漠 | T-2=a | W-1=的 | T-1=u | W1=， | T1=w | W2=破陋 | T2=a | eye
-W-2=高 | T-2=a | W-1=， | T-1=w | W1=又 | T1=d | W2=放 | T2=v | eye
-W-2=， | T-2=w | W-1=他们 | T-1=r | W1=已 | T1=d | W2=瞄准 | T2=v | eye
+W-1=战略 | T-1=n | W1=的 | T1=u | 作品 | 具有 | 战略 | 眼光 | foresight
+W-1=的 | T-1=u | W1=去 | T1=v | 地域 | 文化 | 眼光 | 去 | 看 | 学者 | 思想 | foresight
+W-1=和 | T-1=c | W1=， | T1=w | 总揽 | 全局 | 胸怀 | 眼光 | 需要 | foresight
+W-1=战略 | T-1=n | W1=和 | T1=c | 战略 | 眼光 | 胆识 | foresight
+W-1=的 | T-1=u | W1=办 | T1=v | 要 | 市场 | 眼光 | 办 | 体育 | 抓 | 选 | 才 | foresight
+W-1=长远 | T-1=a | W1=。 | T1=w | 重 | 经济效益 | 缺乏 | 眼光 | foresight
+W-1=的 | T-1=u | W1=、 | T1=w | 显示 | 出 | 作者 | 眼光 | 性格 | 精神 | foresight
+W-1=的 | T-1=u | W1=， | T1=w | 是 | 超越 | 商人 | 眼光 | 来 | 运筹 | 培育 | 体育 | foresight
+W-1=全球 | T-1=n | W1=和 | T1=c | 可 | 发展 | 战略 | 应当 | 有 | 全球 | 眼光 | 精神 | foresight
+W-1=的 | T-1=u | W1=， | T1=w | 举行 | 眼光 | 拍摄 | 改革 | 开放 | foresight
+W-1=把 | T-1=p | W1=对准 | T1=v | 会长 | 眼光 | 对准 | 人类 | 社会 | foresight
+W-1=的 | T-1=u | W1=重新 | T1=d | 基础 | 现代人 | 眼光 | 审视 | 历史 | 事件 | foresight
+W-1=把 | T-1=p | W1=瞄准 | T1=v | 抱怨 | 眼光 | 瞄准 | 市场 | foresight
+W-1=战略 | T-1=n | W1=， | T1=w | 眼界 | 大局 | 意识 | 战略 | 眼光 | 领导 | 干部 | foresight
+W-1=的 | T-1=u | W1=， | T1=w | 没有 | 世界 | 历史 | 眼光 | 可能 | 根本 | foresight
+W-1=市场 | T-1=n | W1=， | T1=w | 关键 | 看 | 有 | 有 | 市场 | 眼光 | 有 | 有 | 拿 | foresight
+W-1=经济 | T-1=n | W1=， | T1=w | 看 | 经济 | 眼光 | 是 | 够用 | foresight
+W-1=的 | T-1=u | W1=来 | T1=v | 评选 | 世界 | 眼光 | 来 | 注视 | 科学 | foresight
+W-1=有 | T-1=v | W1=去 | T1=v | 看 | 有 | 有 | 眼光 | 去 | 发现 | 有 | 有 | foresight
+W-1=的 | T-1=u | W1=来 | T1=v | 胸襟 | 战略 | 眼光 | 来 | 看待 | 处理 | 事关 | foresight
+W-1=战略 | T-1=n | W1=， | T1=w | 选择 | 课题 | 要 | 有 | 战略 | 眼光 | 善于 | 着力 | 发现 | foresight
+W-1=少数 | T-1=m | W1=超前 | T1=a | 眼光 | 实力 | 超群 | foresight
+W-1=的 | T-1=u | W1=是 | T1=v | 股票 | 市场 | 投资者 | 眼光 | 是 | 线 | foresight
+W-1=的 | T-1=u | W1=看待 | T1=v | 眼光 | 看待 | 世界 | foresight
+W-1=的 | T-1=u | W1=， | T1=w | 立场 | 销售商 | 眼光 | 顾及 | 应该 | foresight
+W-1=的 | T-1=u | W1=， | T1=w | 需要 | 有 | 眼光 | 需要 | 有 | foresight
+W-1=的 | T-1=u | W1=， | T1=w | 需要 | 练就 | 洞察 | 事物 | 本质 | 眼光 | 要求 | 具备 | foresight
+W-1=、 | T-1=w | W1=与 | T1=c | 多亏 | 智慧 | 眼光 | 勇气 | foresight
+W-1=的 | T-1=u | W1=， | T1=w | 满足 | 观众 | 挑剔 | 眼光 | 是 | 面临 | foresight
+W-1=把 | T-1=p | W1=投向 | T1=v | 想 | 要 | 眼光 | 投向 | 全国 | foresight
+W-1=把 | T-1=p | W1=盯 | T1=v | 实际 | 出发 | 眼光 | 盯 | eye
+W-1=将 | T-1=p | W1=放 | T1=v | 转变 | 观念 | 眼光 | 放 | 到 | 市场 | eye
+W-1=在 | T-1=p | W1=向 | T1=v | 眼光 | 向 | 同时 | eye
+W-1=把 | T-1=p | W1=投向 | T1=v | 出来 | 人 | 眼光 | 投向 | 市场 | 抢滩 | eye
+W-1=将 | T-1=p | W1=放 | T1=v | 用地 | 同时 | 眼光 | 放 | 盘活 | 存量 | 土地 | eye
+W-1=的 | T-1=u | W1=， | T1=w | 微笑 | 投 | 去 | 钦佩 | 眼光 | eye
+W-1=； | T-1=w | W1=要 | T1=v | 方式 | 眼光 | 要 | 看到 | 农村 | 引导 | eye
+W-1=的 | T-1=u | W1=， | T1=w | 看到 | 领导 | 期盼 | 眼光 | 听到 | 发自 | 肺腑 | eye
+W-1=的 | T-1=u | W1=， | T1=w | 职工 | 眼光 | 环境 | eye
+W-1=， | T-1=w | W1=又 | T1=d | 站 | 足够 | 眼光 | 放 | 足够 | eye
+W-1=他们 | T-1=r | W1=已 | T1=d | 化工 | 产品 | 眼光 | 瞄准 | 化工 | 产品 | eye

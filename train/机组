@@ -1,38 +1,38 @@
-W-2=鲜花 | T-2=n | W-1=献给 | T-1=v | W1=人员 | T1=n | W2=时 | T2=Ng | aircrew
-W-2=10 | T-2=m | W-1=名 | T-1=q | W1=人员 | T1=n | W2=， | T2=w | aircrew
-W-2=时 | T-2=Ng | W-1=， | T-1=w | W1=人员 | T1=n | W2=向 | T2=p | aircrew
-W-2=乘客 | T-2=n | W-1=和 | T-1=c | W1=人员 | T1=n | W2=中 | T2=f | aircrew
-W-2=监禁 | T-2=v | W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | W2=NULL_TAIL | T2=NULL_TAIL | aircrew
-W-2=名 | T-2=q | W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | W2=的 | T2=u | aircrew
-W-2=名 | T-2=q | W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | W2=终身 | T2=n | aircrew
-W-2=的 | T-2=u | W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | W2=是 | T2=v | aircrew
-W-2=八 | T-2=m | W-1=台 | T-1=q | W1=将 | T1=d | W2=分别 | T2=d | set_of_machines
-W-2=一 | T-2=m | W-1=号 | T-1=q | W1=一次性 | T1=b | W2=点火 | T2=v | set_of_machines
-W-2=１ | T-2=m | W-1=号 | T-1=q | W1=换 | T1=v | W2=料 | T2=n | set_of_machines
-W-2=１ | T-2=m | W-1=号 | T-1=q | W1=的 | T1=u | W2=控制棒 | T2=n | set_of_machines
-W-2=一 | T-2=m | W-1=台 | T-1=q | W1=在 | T1=d | W2=换 | T2=v | set_of_machines
-W-2=2 | T-2=m | W-1=号 | T-1=n | W1=分别 | T1=d | W2=创造 | T2=v | set_of_machines
-W-2=一 | T-2=m | W-1=台 | T-1=q | W1=在 | T1=d | W2=换 | T2=v | set_of_machines
-W-2=2 | T-2=m | W-1=号 | T-1=n | W1=分别 | T1=d | W2=创造 | T2=v | set_of_machines
-W-2=2 | T-2=m | W-1=号 | T-1=n | W1=监控 | T1=vn | W2=系统 | T2=n | set_of_machines
-W-2=两 | T-2=m | W-1=台 | T-1=q | W1=抽 | T1=v | W2=排 | T2=v | set_of_machines
-W-2=三 | T-2=m | W-1=号 | T-1=n | W1=并网发电 | T1=l | W2=NULL_TAIL | T2=NULL_TAIL | set_of_machines
-W-2=三 | T-2=m | W-1=号 | T-1=n | W1=于 | T1=p | W2=十二月 | T2=t | set_of_machines
-W-2=检查 | T-2=v | W-1=， | T-1=w | W1=运行 | T1=vn | W2=情况 | T2=n | set_of_machines
-W-2=， | T-2=w | W-1=该 | T-1=r | W1=正式 | T1=ad | W2=并入 | T2=v | set_of_machines
-W-2=， | T-2=w | W-1=每套 | T-1=r | W1=每年 | T1=r | W2=可 | T2=v | set_of_machines
-W-2=一 | T-2=m | W-1=号 | T-1=n | W1=的 | T1=u | W2=核岛 | T2=n | set_of_machines
-W-2=首 | T-2=m | W-1=台 | T-1=q | W1=发电 | T1=v | W2=NULL_TAIL | T2=NULL_TAIL | set_of_machines
-W-2=30万 | T-2=m | W-1=千瓦 | T-1=q | W1=正式 | T1=ad | W2=并网发电 | T2=l | set_of_machines
-W-2=水轮 | T-2=n | W-1=发电 | T-1=vn | W1=， | T1=w | W2=总装机 | T2=n | set_of_machines
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=全部 | T1=m | W2=采用 | T2=v | set_of_machines
-W-2=第一 | T-2=m | W-1=台 | T-1=q | W1=并网发电 | T1=l | W2=后 | T2=f | set_of_machines
-W-2=千瓦 | T-2=q | W-1=火力发电 | T-1=l | W1=， | T1=w | W2=年 | T2=q | set_of_machines
-W-2=20万 | T-2=m | W-1=千瓦 | T-1=q | W1=的 | T1=u | W2=造价 | T2=n | set_of_machines
-W-2=的 | T-2=u | W-1=小火电 | T-1=n | W1=稍加 | T1=d | W2=改造 | T2=v | set_of_machines
-W-2=小 | T-2=a | W-1=发电 | T-1=vn | W1=吃不起 | T1=v | W2=高价 | T2=n | set_of_machines
-W-2=首 | T-2=m | W-1=批 | T-1=q | W1=发电 | T1=v | W2=， | T2=w | set_of_machines
-W-2=首 | T-2=m | W-1=台 | T-1=q | W1=发电 | T1=v | W2=； | T2=w | set_of_machines
-W-2=” | T-2=w | W-1=在 | T-1=p | W1=主控室 | T1=j | W2=， | T2=w | set_of_machines
-W-2=春节 | T-2=t | W-1=期间 | T-1=f | W1=稳定 | T1=ad | W2=运行 | T2=v | set_of_machines
-W-2=台 | T-2=q | W-1=核电 | T-1=n | W1=累计 | T1=v | W2=平均 | T2=v | set_of_machines
+W-1=献给 | T-1=v | W1=人员 | T1=n | 鲜花 | 献给 | 机组 | 人员 | aircrew
+W-1=名 | T-1=q | W1=人员 | T1=n | 载有 | 乘客 | 机组 | 人员 | 包括 | aircrew
+W-1=， | T-1=w | W1=人员 | T1=n | 飞 | 机组 | 人员 | 报告 | 说 | 飞机 | aircrew
+W-1=和 | T-1=c | W1=人员 | T1=n | 失事 | 客机 | 乘客 | 机组 | 人员 | 人 | aircrew
+W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | 关注 | 监禁 | 机组 | 人员 | aircrew
+W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | 判处 | 终身 | 监禁 | 机组 | 人员 | 命运 | aircrew
+W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | 判处 | 机组 | 人员 | 终身 | 监禁 | aircrew
+W-1=拉脱维亚 | T-1=ns | W1=人员 | T1=n | 判刑 | 机组 | 人员 | 是 | 当局 | aircrew
+W-1=台 | T-1=q | W1=将 | T1=d | 机组 | 进入 | 调试 | 安装 | set_of_machines
+W-1=号 | T-1=q | W1=一次性 | T1=b | 热电厂 | 工程 | 机组 | 点火 | set_of_machines
+W-1=号 | T-1=q | W1=换 | T1=v | 机组 | 换 | 料 | 大修 | 发现 | set_of_machines
+W-1=号 | T-1=q | W1=的 | T1=u | 机组 | 控制棒 | 导向管 | 出现 | 落差 | set_of_machines
+W-1=台 | T-1=q | W1=在 | T1=d | 营运 | 机组 | 换 | 料 | 检修 | set_of_machines
+W-1=号 | T-1=n | W1=分别 | T1=d | 创 | 佳绩 | 号 | 机组 | 创造 | 燃料 | 循环 | set_of_machines
+W-1=台 | T-1=q | W1=在 | T1=d | 营运 | 机组 | 换 | 料 | 检修 | set_of_machines
+W-1=号 | T-1=n | W1=分别 | T1=d | 创 | 佳绩 | 号 | 机组 | 创造 | 燃料 | 循环 | set_of_machines
+W-1=号 | T-1=n | W1=监控 | T1=vn | 系统 | 号 | 机组 | 系统 | 显示器 | 电力 | 系统 | set_of_machines
+W-1=台 | T-1=q | W1=抽 | T1=v | 图 | 为 | 泵站 | 机组 | 抽 | 排 | 情景 | set_of_machines
+W-1=号 | T-1=n | W1=并网发电 | T1=l | 号 | 机组 | set_of_machines
+W-1=号 | T-1=n | W1=于 | T1=p | 号 | 机组 | set_of_machines
+W-1=， | T-1=w | W1=运行 | T1=vn | 小时 | 经 | 检查 | 机组 | 情况 | set_of_machines
+W-1=该 | T-1=r | W1=正式 | T1=ad | 机组 | 并入 | 电网 | 投入 | set_of_machines
+W-1=每套 | T-1=r | W1=每年 | T1=r | 制 | 砖 | 工艺 | 缺陷 | 机组 | 可 | 利用 | 煤矸石 | set_of_machines
+W-1=号 | T-1=n | W1=的 | T1=u | 号 | 机组 | 核岛 | 部分 | 施工 | set_of_machines
+W-1=台 | T-1=q | W1=发电 | T1=v | 机组 | 发电 | set_of_machines
+W-1=千瓦 | T-1=q | W1=正式 | T1=ad | 枢纽 | 机组 | 标志 | set_of_machines
+W-1=发电 | T-1=vn | W1=， | T1=w | 安装 | 水轮 | 机组 | 总装机 | 容量 | set_of_machines
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=全部 | T1=m | 机组 | 采用 | set_of_machines
+W-1=台 | T-1=q | W1=并网发电 | T1=l | 机组 | set_of_machines
+W-1=火力发电 | T-1=l | W1=， | T1=w | 安装 | 机组 | 发电量 | set_of_machines
+W-1=千瓦 | T-1=q | W1=的 | T1=u | 机组 | 造价 | 全国 | 同类 | set_of_machines
+W-1=小火电 | T-1=n | W1=稍加 | T1=d | 国家 | 强令 | 下马 | 小火电 | 机组 | 改造 | 全国 | set_of_machines
+W-1=发电 | T-1=vn | W1=吃不起 | T1=v | 油价 | 上涨 | 燃油 | 机组 | 吃不起 | 高价 | 油 | 停机 | set_of_machines
+W-1=批 | T-1=q | W1=发电 | T1=v | 确保 | 船闸 | 通航 | 机组 | 发电 | 武警 | 水电 | 官兵 | 发扬 | set_of_machines
+W-1=台 | T-1=q | W1=发电 | T1=v | 机组 | 发电 | 船闸 | 建成 | 通航 | set_of_machines
+W-1=在 | T-1=p | W1=主控室 | T1=j | 机组 | 控制员 | set_of_machines
+W-1=期间 | T-1=f | W1=稳定 | T1=ad | 是 | 确保 | 机组 | 运行 | set_of_machines
+W-1=核电 | T-1=n | W1=累计 | T1=v | 核电 | 机组 | 累计 | 平均 | 运行 | set_of_machines

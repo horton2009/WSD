@@ -1,44 +1,44 @@
-W-2=交警 | T-2=j | W-1=的 | T-1=u | W1=， | T1=w | W2=就 | T2=d | brand
-W-2=三 | T-2=m | W-1=块 | T-1=q | W1=一 | T1=m | W2=套 | T2=q | brand
-W-2=倒 | T-2=v | W-1=了 | T-1=u | W1=， | T1=w | W2=多 | T2=d | brand
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=， | T1=w | W2=乡 | T2=n | brand
-W-2=自己 | T-2=r | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | brand
-W-2=怀药 | T-2=j | W-1=倒 | T-1=v | W1=的 | T1=u | W2=原因 | T2=n | brand
-W-2=怀药 | T-2=j | W-1=倒 | T-1=v | W1=的 | T1=u | W2=原因 | T2=n | brand
-W-2=急功近利 | T-2=i | W-1=， | T-1=w | W1=焉 | T1=r | W2=能 | T2=v | brand
-W-2=两 | T-2=m | W-1=块 | T-1=q | W1=、 | T1=w | W2=一 | T2=m | brand
-W-2=邢钢 | T-2=n | W-1=的 | T-1=u | W1=能 | T1=v | W2=打 | T2=v | brand
-W-2=个 | T-2=q | W-1=汽车 | T-1=n | W1=， | T1=w | W2=这 | T2=r | brand
-W-2=诸多 | T-2=m | W-1=汽车 | T-1=n | W1=中 | T1=f | W2=的 | T2=u | brand
-W-2=诺 | T-2=Ng | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | brand
-W-2=只 | T-2=d | W-1=认 | T-1=v | W1=， | T1=w | W2=新 | T2=a | brand
-W-2=桂林 | T-2=ns | W-1=的 | T-1=u | W1=， | T1=w | W2=欢迎 | T2=v | brand
-W-2=人大代表 | T-2=n | W-1=这块 | T-1=r | W1=做 | T1=v | W2=“ | T2=w | brand
-W-2=把 | T-2=p | W-1=这块 | T-1=r | W1=丢 | T1=v | W2=了 | T2=y | brand
-W-2=把 | T-2=p | W-1=这块 | T-1=r | W1=看 | T1=v | W2=得 | T2=u | brand
-W-2=拿 | T-2=v | W-1=块 | T-1=q | W1=有 | T1=v | W2=什么 | T2=r | brand
-W-2=自己 | T-2=r | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | brand
-W-2=湖南路 | T-2=ns | W-1=的 | T-1=u | W1=， | T1=w | W2=就 | T2=d | brand
-W-2=八路军 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=公开 | T2=ad | plate
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=这 | T-1=r | W1=已 | T1=d | W2=不 | T2=d | plate
-W-2=下 | T-2=v | W-1=“ | T-1=w | W1=” | T1=w | W2=赶来 | T2=v | plate
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=在 | T1=p | W2=这里 | T2=r | plate
-W-2=了 | T-2=u | W-1=红 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | plate
-W-2=机构 | T-2=n | W-1=的 | T-1=u | W1=将 | T1=d | W2=于 | T2=p | plate
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=颇为 | T1=d | W2=引人注目 | T2=i | plate
-W-2=一个 | T-2=m | W-1=小 | T-1=a | W1=， | T1=w | W2=上面 | T2=f | plate
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | plate
-W-2=阀门 | T-2=n | W-1=的 | T-1=u | W1=； | T1=w | W2=发出 | T2=v | plate
-W-2=两 | T-2=m | W-1=块 | T-1=q | W1=， | T1=w | W2=一 | T2=m | plate
-W-2=左下角 | T-2=f | W-1=小 | T-1=a | W1=上 | T1=f | W2=的 | T2=u | plate
-W-2=一 | T-2=m | W-1=块 | T-1=q | W1=介绍 | T1=v | W2=， | T2=w | plate
-W-2=等 | T-2=u | W-1=大 | T-1=a | W1=， | T1=w | W2=背 | T2=v | plate
-W-2=公司 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=真 | T2=d | plate
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | plate
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=， | T1=w | W2=自费 | T2=d | plate
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=附近 | T1=f | W2=， | T2=w | plate
-W-2=块 | T-2=q | W-1=铁制 | T-1=n | W1=， | T1=w | W2=上书 | T2=v | plate
-W-2=停车场 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=而 | T2=c | plate
-W-2=” | T-2=w | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | plate
-W-2=胸前 | T-2=s | W-1=挂 | T-1=v | W1=“ | T1=w | W2=求 | T2=v | plate
-W-2=村 | T-2=n | W-1=” | T-1=w | W1=， | T1=w | W2=它 | T2=r | plate
+W-1=的 | T-1=u | W1=， | T1=w | 砸 | 牌子 | 脱 | 警服 | brand
+W-1=块 | T-1=q | W1=一 | T1=m | 经济社 | 牌子 | 班子 | brand
+W-1=了 | T-1=u | W1=， | T1=w | 但愿 | 倒 | 牌子 | 造福 | 社会 | 造福 | brand
+W-1=的 | T-1=u | W1=， | T1=w | 产 | 县 | 牌子 | 乡 | 干部 | 盯 | brand
+W-1=的 | T-1=u | W1=。 | T1=w | 砸 | 牌子 | brand
+W-1=倒 | T-1=v | W1=的 | T1=u | 是 | 倒 | 牌子 | 原因 | brand
+W-1=倒 | T-1=v | W1=的 | T1=u | 导致 | 倒 | 牌子 | 原因 | 是 | 质量 | brand
+W-1=， | T-1=w | W1=焉 | T1=r | 牌子 | 能 | 倒 | brand
+W-1=块 | T-1=q | W1=、 | T1=w | 农业 | 站 | 牌子 | 人马 | 合署 | brand
+W-1=的 | T-1=u | W1=能 | T1=v | 是 | 邢钢 | 牌子 | 能 | 打 | 邢钢 | brand
+W-1=汽车 | T-1=n | W1=， | T1=w | 人 | 汽车 | 牌子 | 汽车 | brand
+W-1=汽车 | T-1=n | W1=中 | T1=f | 汽车 | 巨人 | 拥有 | 汽车 | 牌子 | 商标 | brand
+W-1=的 | T-1=u | W1=。 | T1=w | 起 | 重 | 牌子 | brand
+W-1=认 | T-1=v | W1=， | T1=w | 需要 | 翻看 | 内容 | 认 | 牌子 | 到 | brand
+W-1=的 | T-1=u | W1=， | T1=w | 观念 | 亮 | 出 | 牌子 | 欢迎 | 开发商 | 前来 | brand
+W-1=这块 | T-1=r | W1=做 | T1=v | 笔者 | 认为 | 人大代表 | 牌子 | 做 | 护身符 | 人 | brand
+W-1=这块 | T-1=r | W1=丢 | T1=v | 城市 | 能 | 牌子 | 丢 | brand
+W-1=这块 | T-1=r | W1=看 | T1=v | 老百姓 | 牌子 | 看 | 环境 | brand
+W-1=块 | T-1=q | W1=有 | T1=v | 城市 | 面貌 | 拿 | 牌子 | 有 | 用 | brand
+W-1=的 | T-1=u | W1=。 | T1=w | 下降 | 砸 | 牌子 | brand
+W-1=的 | T-1=u | W1=， | T1=w | 规矩 | 砸 | 牌子 | 关 | 门 | brand
+W-1=的 | T-1=u | W1=， | T1=w | 机关 | 挂 | 上 | 八路军 | 牌子 | 称 | 是 | plate
+W-1=这 | T-1=r | W1=已 | T1=d | 牌子 | 是 | 木板 | plate
+W-1=“ | T-1=w | W1=” | T1=w | 领导 | 骨干 | 是 | 摘 | 下 | 牌子 | 赶来 | 开会 | 回去 | plate
+W-1=的 | T-1=u | W1=在 | T1=p | 牌子 | plate
+W-1=红 | T-1=a | W1=。 | T1=w | 亮 | 出 | 牌子 | plate
+W-1=的 | T-1=u | W1=将 | T1=d | 人员 | 减少 | 机构 | 牌子 | 挂出 | plate
+W-1=的 | T-1=u | W1=颇为 | T1=d | 营养 | 协会 | 牌子 | plate
+W-1=小 | T-1=a | W1=， | T1=w | 油画 | 有 | 牌子 | 写 | plate
+W-1=的 | T-1=u | W1=。 | T1=w | 预订 | 牌子 | plate
+W-1=的 | T-1=u | W1=； | T1=w | 意见 | 标明 | 更新 | 阀门 | 牌子 | 发出 | 票 | 指示 | plate
+W-1=块 | T-1=q | W1=， | T1=w | 省 | 丝绸 | 公司 | 牌子 | 机构 | plate
+W-1=小 | T-1=a | W1=上 | T1=f | 油画 | 牌子 | 文字 | plate
+W-1=块 | T-1=q | W1=介绍 | T1=v | 庙里 | 魁星 | 塑像 | 牌子 | 介绍 | 魁星 | 是 | 主管 | plate
+W-1=大 | T-1=a | W1=， | T1=w | 走资派 | 技术 | 权威 | 牌子 | 背 | 上 | 挂 | plate
+W-1=的 | T-1=u | W1=， | T1=w | 看着 | 公司 | 牌子 | 感觉 | 喘 | 过 | plate
+W-1=的 | T-1=u | W1=。 | T1=w | 挂 | 伤害罪 | 牌子 | plate
+W-1=的 | T-1=u | W1=， | T1=w | 问事处 | 牌子 | 订 | plate
+W-1=的 | T-1=u | W1=附近 | T1=f | 游商 | 购买 | 光盘 | 牌子 | 游商 | plate
+W-1=铁制 | T-1=n | W1=， | T1=w | 大院 | 竖 | 铁制 | 牌子 | 上书 | 停车场 | plate
+W-1=的 | T-1=u | W1=， | T1=w | 竖 | 是 | 大队 | 停车场 | 牌子 | 借用 | plate
+W-1=的 | T-1=u | W1=。 | T1=w | 发现 | 牌子 | plate
+W-1=挂 | T-1=v | W1=“ | T1=w | 挂 | 牌子 | 求 | 钱 | 救 | plate
+W-1=” | T-1=w | W1=， | T1=w | 交通 | 村 | 牌子 | 是 | 摆设 | plate

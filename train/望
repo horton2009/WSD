@@ -1,37 +1,37 @@
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | W2=这 | T2=r | gaze
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=放眼 | T-1=v | W1=去 | T1=v | W2=， | T2=w | gaze
-W-2=， | T-2=w | W-1=放眼 | T-1=v | W1=， | T1=w | W2=右侧 | T2=f | gaze
-W-2=怎么 | T-2=r | W-1=也 | T-1=d | W1=不 | T1=d | W2=到 | T2=v | gaze
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=” | T-1=w | W1=着 | T1=u | W2=他 | T2=r | gaze
-W-2=遥遥 | T-2=z | W-1=相 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | gaze
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=远远 | T-1=d | W1=去 | T1=v | W2=， | T2=w | gaze
-W-2=地理 | T-2=n | W-1=先生 | T-1=n | W1=山 | T1=n | W2=感慨 | T2=v | gaze
-W-2=， | T-2=w | W-1=夜 | T-1=Tg | W1=水中 | T1=s | W2=月 | T2=n | gaze
-W-2=， | T-2=w | W-1=北 | T-1=f | W1=中原 | T1=ns | W2=， | T2=w | gaze
-W-2=才 | T-2=d | W-1=能 | T-1=v | W1=远 | T1=a | W2=。 | T2=w | gaze
-W-2=能 | T-2=v | W-1=“ | T-1=w | W1=楼 | T1=n | W2=兴叹 | T2=v | gaze
-W-2=都 | T-2=d | W-1=是 | T-1=v | W1=天 | T1=n | W2=地 | T2=n | gaze
-W-2=后 | T-2=f | W-1=一眼 | T-1=d | W1=不 | T1=d | W2=到 | T2=v | gaze
-W-2=朝 | T-2=p | W-1=那 | T-1=r | W1=， | T1=w | W2=一连气 | T2=d | gaze
-W-2=我 | T-2=r | W-1=还 | T-1=d | W1=了 | T1=u | W2=望 | T2=v | gaze
-W-2=长城 | T-2=ns | W-1=西 | T-1=f | W1=》 | T1=w | W2=。 | T2=w | gaze
-W-2=， | T-2=w | W-1=一眼 | T-1=d | W1=去 | T1=v | W2=， | T2=w | gaze
-W-2=寻 | T-2=v | W-1=声 | T-1=n | W1=去 | T1=v | W2=， | T2=w | gaze
-W-2=窗帘 | T-2=n | W-1=一 | T-1=d | W1=， | T1=w | W2=果然 | T2=c | gaze
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=眼 | T-1=n | W1=洒 | T1=v | W2=入 | T2=v | gaze
-W-2=潮 | T-2=n | W-1=， | T-1=w | W1=不 | T1=d | W2=尽 | T2=v | gaze
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=不 | T1=d | W2=到 | T2=v | gaze
-W-2=抚今追昔 | T-2=i | W-1=， | T-1=w | W1=窗外 | T1=s | W2=清凌凌 | T2=z | gaze
-W-2=无意 | T-2=v | W-1=， | T-1=w | W1=天上 | T1=s | W2=云 | T2=n | gaze
-W-2=问题 | T-2=n | W-1=“ | T-1=w | W1=、 | T1=w | W2=闻 | T2=v | gaze
-W-2=抬头 | T-2=v | W-1=四 | T-1=m | W1=， | T1=w | W2=这家 | T2=r | gaze
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | W2=女儿 | T2=n | gaze
-W-2=海湾 | T-2=n | W-1=一 | T-1=m | W1=无垠 | T1=a | W2=的 | T2=u | gaze
-W-2=， | T-2=w | W-1=万 | T-1=d | W1=您老 | T1=r | W2=理解 | T2=v | hope
-W-2=不负 | T-2=v | W-1=所 | T-1=u | W1=， | T1=w | W2=天天 | T2=q | hope
-W-2=关注 | T-2=v | W-1=， | T-1=w | W1=再接再厉 | T1=i | W2=， | T2=w | hope
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=各地 | T1=r | W2=以 | T2=p | hope
-W-2=“ | T-2=w | W-1=子 | T-1=Ng | W1=成 | T1=v | W2=龙 | T2=n | hope
-W-2=， | T-2=w | W-1=“ | T-1=w | W1=子 | T1=Ng | W2=成人 | T2=v | hope
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=你们 | T1=r | W2=再接再厉 | T2=i | hope
-W-2=中原 | T-2=ns | W-1=大地 | T-1=n | W1=岁 | T1=Ng | W2=丰 | T2=Ag | hope
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | 望 | 照片 | 记者 | gaze
+W-1=放眼 | T-1=v | W1=去 | T1=v | 放眼 | 望 | 去 | 发现 | 岛 | gaze
+W-1=放眼 | T-1=v | W1=， | T1=w | 站 | 观光台 | 放眼 | 望 | 是 | gaze
+W-1=也 | T-1=d | W1=不 | T1=d | 搜寻 | 望 | 到 | 老伯 | 熟悉 | gaze
+W-1=” | T-1=w | W1=着 | T1=u | 望 | gaze
+W-1=相 | T-1=d | W1=。 | T1=w | 望 | gaze
+W-1=远远 | T-1=d | W1=去 | T1=v | 望 | 去 | 花车 | 犹如 | 盛开 | gaze
+W-1=先生 | T-1=n | W1=山 | T1=n | 老鹰 | 骑 | 巨蟒 | 地理 | 先生 | 望 | 山 | 感慨 | gaze
+W-1=夜 | T-1=Tg | W1=水中 | T1=s | 木板 | 当 | 墙 | 望 | 月 | 看 | 鱼 | gaze
+W-1=北 | T-1=f | W1=中原 | T1=ns | 设 | 帅府 | 望 | 挫 | 兵 | gaze
+W-1=能 | T-1=v | W1=远 | T1=a | 登高 | 能 | 望 | gaze
+W-1=“ | T-1=w | W1=楼 | T1=n | 令 | 老百姓 | 能 | 望 | 楼 | 兴叹 | gaze
+W-1=是 | T-1=v | W1=天 | T1=n | 部分 | 农田 | 是 | 望 | 天 | 地 | 望 | 天 | 田 | gaze
+W-1=一眼 | T-1=d | W1=不 | T1=d | 地震 | 望 | 到 | 边 | 废墟 | gaze
+W-1=那 | T-1=r | W1=， | T1=w | 眼睛 | 望 | 咽 | gaze
+W-1=还 | T-1=d | W1=了 | T1=u | 记得 | 望 | 望 | 警示牌 | 盯 | gaze
+W-1=西 | T-1=f | W1=》 | T1=w | 演奏 | 乐曲 | 望 | gaze
+W-1=一眼 | T-1=d | W1=去 | T1=v | 站 | 望 | 去 | 水 | 在 | gaze
+W-1=声 | T-1=n | W1=去 | T1=v | 伐木声 | 寻 | 声 | 望 | 去 | 山岭 | 天然林 | gaze
+W-1=一 | T-1=d | W1=， | T1=w | 奔 | 拉开 | 窗帘 | 望 | gaze
+W-1=眼 | T-1=n | W1=洒 | T1=v | 眼 | 望 | 洒 | 入 | gaze
+W-1=， | T-1=w | W1=不 | T1=d | 看 | 完 | 桉林 | 如 | 潮 | 望 | 尽 | 苍松 | 海 | gaze
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=不 | T1=d | 望 | 到 | 头 | 书架 | gaze
+W-1=， | T-1=w | W1=窗外 | T1=s | 望 | 灯火 | 想 | gaze
+W-1=， | T-1=w | W1=天上 | T1=s | 开 | 花 | 落 | 去留 | 无意 | 望 | 云 | 卷 | 云 | gaze
+W-1=“ | T-1=w | W1=、 | T1=w | 司法 | 扶贫 | 问题 | 望 | 闻 | 问 | 切 | gaze
+W-1=四 | T-1=m | W1=， | T1=w | 院墙 | 抬头 | 望 | 院里 | 古槐 | 浓荫 | gaze
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | 望 | 女儿 | gaze
+W-1=一 | T-1=m | W1=无垠 | T1=a | 远眺 | 海湾 | 望 | 沙海 | 设想 | gaze
+W-1=万 | T-1=d | W1=您老 | T1=r | 只能 | 做 | 起 | 望 | 理解 | hope
+W-1=所 | T-1=u | W1=， | T1=w | 壁垒 | 龙 | 不负 | 望 | 贺卡 | hope
+W-1=， | T-1=w | W1=再接再厉 | T1=i | 人们 | 关注 | 望 | 加大 | 力度 | hope
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=各地 | T1=r | 望 | 大火 | 为 | hope
+W-1=子 | T-1=Ng | W1=成 | T1=v | 莫如 | 愿望 | 化作 | 望 | 成 | 龙 | hope
+W-1=“ | T-1=w | W1=子 | T1=Ng | 望 | 成人 | hope
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=你们 | T1=r | 望 | 比赛 | hope
+W-1=大地 | T-1=n | W1=岁 | T1=Ng | 大地 | 望 | hope

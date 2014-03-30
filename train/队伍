@@ -1,64 +1,64 @@
-W-2=加强 | T-2=v | W-1=宣传 | T-1=vn | W1=建设 | T1=vn | W2=， | T2=w | contingent
-W-2=油画 | T-2=n | W-1=创作 | T-1=vn | W1=的 | T1=u | W2=中坚 | T2=n | contingent
-W-2=、 | T-2=w | W-1=管理 | T-1=vn | W1=等 | T1=u | W2=。 | T2=w | contingent
-W-2=路 | T-2=n | W-1=职工 | T-1=n | W1=结构性 | T1=n | W2=分离 | T2=v | contingent
-W-2=入党 | T-2=vn | W-1=积极分子 | T-1=l | W1=， | T1=w | W2=发展 | T2=v | contingent
-W-2=过硬 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | contingent
-W-2=在 | T-2=p | W-1=干部 | T-1=n | W1=中 | T1=f | W2=赞成 | T2=v | contingent
-W-2=党支部 | T-2=n | W-1=书记 | T-1=n | W1=建设 | T1=vn | W2=的 | T2=u | contingent
-W-2=公司 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=使 | T2=v | contingent
-W-2=高校 | T-2=j | W-1=教师 | T-1=n | W1=建设 | T1=vn | W2=中 | T2=f | contingent
-W-2=抓好 | T-2=v | W-1=教练员 | T-1=n | W1=建设 | T1=vn | W2=， | T2=w | contingent
-W-2=人心 | T-2=n | W-1=和 | T-1=c | W1=的 | T1=u | W2=稳定 | T2=an | contingent
-W-2=公路 | T-2=n | W-1=巡逻 | T-1=vn | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | contingent
-W-2=一流 | T-2=b | W-1=的 | T-1=u | W1=和 | T1=c | W2=一流 | T2=b | contingent
-W-2=充实 | T-2=v | W-1=干部 | T-1=n | W1=起 | T1=v | W2=了 | T2=u | contingent
-W-2=香港 | T-2=ns | W-1=公务员 | T-1=n | W1=的 | T1=u | W2=情况 | T2=n | contingent
-W-2=基础 | T-2=n | W-1=研究 | T-1=vn | W1=， | T1=w | W2=培养 | T2=v | contingent
-W-2=的 | T-2=u | W-1=干部 | T-1=n | W1=建设 | T1=vn | W2=， | T2=w | contingent
-W-2=护嫂 | T-2=n | W-1=” | T-1=w | W1=， | T1=w | W2=经过 | T2=p | contingent
-W-2=研究 | T-2=vn | W-1=开发 | T-1=vn | W1=， | T1=w | W2=还要 | T2=v | contingent
-W-2=的 | T-2=u | W-1=科技 | T-1=n | W1=在 | T1=p | W2=产品 | T2=n | contingent
-W-2=抓好 | T-2=v | W-1=裁判 | T-1=n | W1=的 | T1=u | W2=建设 | T2=vn | contingent
-W-2=是 | T-2=v | W-1=锻炼 | T-1=v | W1=， | T1=w | W2=而 | T2=c | contingent
-W-2=的 | T-2=u | W-1=基本 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | contingent
-W-2=税务 | T-2=n | W-1=稽查 | T-1=vn | W1=， | T1=w | W2=１９９７年 | T2=t | contingent
-W-2=的 | T-2=u | W-1=民警 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | contingent
-W-2=的 | T-2=u | W-1=反扒 | T-1=vn | W1=， | T1=w | W2=仅 | T2=d | contingent
-W-2=热身赛 | T-2=l | W-1=和 | T-1=c | W1=的 | T1=u | W2=选拔 | T2=vn | contingent
-W-2=多 | T-2=d | W-1=派 | T-1=v | W1=和 | T1=c | W2=运动员 | T2=n | contingent
-W-2=同时 | T-2=c | W-1=派出 | T-1=v | W1=赴 | T1=v | W2=国外 | T2=s | contingent
-W-2=的 | T-2=u | W-1=登山 | T-1=vn | W1=分成 | T1=v | W2=三 | T2=m | ranks
-W-2=， | T-2=w | W-1=游人 | T-1=n | W1=缓缓 | T1=d | W2=向前 | T2=v | ranks
-W-2=站 | T-2=v | W-1=在 | T-1=p | W1=前头 | T1=f | W2=， | T2=w | ranks
-W-2=的 | T-2=u | W-1=游行 | T-1=vn | W1=在 | T1=p | W2=２０ | T2=m | ranks
-W-2=着 | T-2=u | W-1=狂欢 | T-1=vn | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | ranks
-W-2=着 | T-2=u | W-1=自行车 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | ranks
-W-2=的 | T-2=u | W-1=拉练 | T-1=vn | W1=雄赳赳 | T1=z | W2=、 | T2=w | ranks
-W-2=的 | T-2=u | W-1=表演 | T-1=vn | W1=从 | T1=p | W2=长江 | T2=ns | ranks
-W-2=及 | T-2=c | W-1=舞龙 | T-1=vn | W1=大 | T1=d | W2=巡游 | T2=v | ranks
-W-2=铺路 | T-2=v | W-1=的 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | ranks
-W-2=的 | T-2=u | W-1=巡游 | T-1=vn | W1=、 | T1=w | W2=专业 | T2=n | ranks
-W-2=的 | T-2=u | W-1=登山 | T-1=vn | W1=——— | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | ranks
-W-2=的 | T-2=u | W-1=登山 | T-1=vn | W1=， | T1=w | W2=一大早 | T2=t | ranks
-W-2=， | T-2=w | W-1=登山 | T-1=vn | W1=终于 | T1=d | W2=攀 | T2=v | ranks
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=登山 | T-1=vn | W1=穿梭 | T1=v | W2=在 | T2=p | ranks
-W-2=学生 | T-2=n | W-1=家长 | T-1=n | W1=成 | T1=v | W2=了 | T2=u | ranks
-W-2=当 | T-2=p | W-1=游行 | T-1=vn | W1=高呼 | T1=v | W2=“ | T2=w | ranks
-W-2=送 | T-2=v | W-1=考 | T-1=v | W1=， | T1=w | W2=也 | T2=d | ranks
-W-2=民间 | T-2=n | W-1=表演 | T-1=vn | W1=汇集 | T1=v | W2=贵阳 | T2=ns | ranks
-W-2=， | T-2=w | W-1=演出 | T-1=vn | W1=从 | T1=p | W2=北 | T2=f | ranks
-W-2=的 | T-2=u | W-1=表演 | T-1=vn | W1=簇拥 | T1=v | W2=着 | T2=u | ranks
-W-2=支 | T-2=q | W-1=表演 | T-1=vn | W1=一路 | T1=m | W2=表演 | T2=v | ranks
-W-2=彩旗 | T-2=n | W-1=的 | T-1=u | W1=约 | T1=d | W2=有人 | T2=r | ranks
-W-2=， | T-2=w | W-1=游行 | T-1=vn | W1=沿着 | T1=p | W2=主要 | T2=b | ranks
-W-2=善战 | T-2=v | W-1=的 | T-1=u | W1=， | T1=w | W2=轰隆隆 | T2=o | troops
-W-2=卖命 | T-2=v | W-1=的 | T-1=u | W1=中 | T1=f | W2=去 | T2=v | troops
-W-2=建设 | T-2=vn | W-1=兵团 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | troops
-W-2=参加 | T-2=v | W-1=抗日 | T-1=vn | W1=、 | T1=w | W2=当 | T2=v | troops
-W-2=公安 | T-2=n | W-1=边防 | T-1=n | W1=—— | T1=w | W2=内蒙古公安边防总队 | T2=nt | troops
-W-2=参加 | T-2=v | W-1=抗日 | T-1=vn | W1=、 | T1=w | W2=当 | T2=v | troops
-W-2=了 | T-2=u | W-1=革命 | T-1=vn | W1=， | T1=w | W2=但 | T2=c | troops
-W-2=八路军 | T-2=n | W-1=的 | T-1=u | W1=中 | T1=f | W2=——— | T2=w | troops
-W-2=八路军 | T-2=n | W-1=的 | T-1=u | W1=中 | T1=f | W2=逐步 | T2=d | troops
-W-2=为了 | T-2=p | W-1=壮大 | T-1=v | W1=， | T1=w | W2=他 | T2=r | troops
+W-1=宣传 | T-1=vn | W1=建设 | T1=vn | 出来 | 是 | 加强 | 队伍 | 促进 | 语言 | 文字 | 走向 | contingent
+W-1=创作 | T-1=vn | W1=的 | T1=u | 是 | 世纪 | 油画 | 队伍 | 中坚 | 力量 | contingent
+W-1=管理 | T-1=vn | W1=等 | T1=u | 是 | 队伍 | contingent
+W-1=职工 | T-1=n | W1=结构性 | T1=n | 路 | 职工 | 队伍 | 结构性 | 分离 | 人 | contingent
+W-1=积极分子 | T-1=l | W1=， | T1=w | 人 | 队伍 | 发展 | contingent
+W-1=的 | T-1=u | W1=。 | T1=w | 带 | 出 | 队伍 | contingent
+W-1=干部 | T-1=n | W1=中 | T1=f | 群众 | 是 | 干部 | 队伍 | 赞成 | 没 | contingent
+W-1=书记 | T-1=n | W1=建设 | T1=vn | 加强 | 农村 | 党支部 | 书记 | 队伍 | 规定 | contingent
+W-1=的 | T-1=u | W1=， | T1=w | 优势 | 企业 | 加入 | 公司 | 队伍 | 使 | 公司 | 结构 | 得到 | contingent
+W-1=教师 | T-1=n | W1=建设 | T1=vn | 使 | 加强 | 教师 | 队伍 | 发挥 | 作用 | contingent
+W-1=教练员 | T-1=n | W1=建设 | T1=vn | 尖子 | 下功夫 | 抓好 | 教练员 | 队伍 | 抓 | 基层 | 打基础 | contingent
+W-1=和 | T-1=c | W1=的 | T1=u | 换人 | 保持 | 医院 | 人心 | 队伍 | contingent
+W-1=巡逻 | T-1=vn | W1=。 | T1=w | 支队 | 组建 | 公路 | 队伍 | contingent
+W-1=的 | T-1=u | W1=和 | T1=c | 队伍 | 水平 | 迈 | contingent
+W-1=干部 | T-1=n | W1=起 | T1=v | 毕业 | 充实 | 干部 | 队伍 | 起 | 作用 | contingent
+W-1=公务员 | T-1=n | W1=的 | T1=u | 特区 | 政府 | 公务员 | 队伍 | 情况 | contingent
+W-1=研究 | T-1=vn | W1=， | T1=w | 基础 | 基础 | 队伍 | 培养 | 有 | contingent
+W-1=干部 | T-1=n | W1=建设 | T1=vn | 同志 | 重视 | 党 | 干部 | 队伍 | 善于 | 做 | 干部 | contingent
+W-1=” | T-1=w | W1=， | T1=w | 女工 | 组成 | 护嫂 | 队伍 | 培训 | 上岗 | 实习 | contingent
+W-1=开发 | T-1=vn | W1=， | T1=w | 想 | 建立 | 队伍 | 还要 | 外国 | 公司 | contingent
+W-1=科技 | T-1=n | W1=在 | T1=p | 率领 | 科技 | 队伍 | 产品 | 目标 | contingent
+W-1=裁判 | T-1=n | W1=的 | T1=u | 要 | 抓好 | 裁判 | 队伍 | 要 | 抓 | contingent
+W-1=锻炼 | T-1=v | W1=， | T1=w | 球 | 目标 | 是 | 锻炼 | 队伍 | 队员 | 想 | contingent
+W-1=基本 | T-1=a | W1=。 | T1=w | 贯彻 | 党 | 国家 | 政策 | 队伍 | contingent
+W-1=稽查 | T-1=vn | W1=， | T1=w | 税务 | 队伍 | 查 | 结 | contingent
+W-1=民警 | T-1=n | W1=。 | T1=w | 乐于 | 奉献 | 民警 | 队伍 | contingent
+W-1=反扒 | T-1=vn | W1=， | T1=w | 素质 | 队伍 | contingent
+W-1=和 | T-1=c | W1=的 | T1=u | 进行 | 队伍 | contingent
+W-1=派 | T-1=v | W1=和 | T1=c | 重点 | 项目 | 要 | 派 | 队伍 | 运动员 | 创造 | contingent
+W-1=派出 | T-1=v | W1=赴 | T1=v | 专家 | 学者 | 讲学 | 派出 | 队伍 | 赴 | 训练 | 比赛 | 达 | contingent
+W-1=登山 | T-1=vn | W1=分成 | T1=v | 爱好者 | 云集 | 队伍 | 分成 | 组别 | ranks
+W-1=游人 | T-1=n | W1=缓缓 | T1=d | 电影室 | 没有 | 座位 | 游人 | 队伍 | 向前 | 移动 | ranks
+W-1=在 | T-1=p | W1=前头 | T1=f | 到 | 训练场 | 站 | 队伍 | 民警 | 练 | ranks
+W-1=游行 | T-1=vn | W1=在 | T1=p | 卡通 | 形象 | 组成 | 队伍 | 成人 | ranks
+W-1=狂欢 | T-1=vn | W1=。 | T1=w | 伴 | 轻音乐 | 尾随 | 队伍 | ranks
+W-1=自行车 | T-1=n | W1=。 | T1=w | 红灯 | 拦 | 自行车 | 队伍 | ranks
+W-1=拉练 | T-1=vn | W1=雄赳赳 | T1=z | 感到 | 队伍 | 行进 | ranks
+W-1=表演 | T-1=vn | W1=从 | T1=p | 长跑队员 | 人 | 队伍 | 大桥 | 出发 | 穿过 | ranks
+W-1=舞龙 | T-1=vn | W1=大 | T1=d | 舞龙 | 竞赛 | 决赛 | 队伍 | 巡游 | ranks
+W-1=的 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | 有 | 铺路 | 队伍 | ranks
+W-1=巡游 | T-1=vn | W1=、 | T1=w | 花车 | 衣着 | 队伍 | 专业 | 文艺 | 队伍 | ranks
+W-1=登山 | T-1=vn | W1=——— | T1=w | 人 | 队伍 | ranks
+W-1=登山 | T-1=vn | W1=， | T1=w | 时候 | 组织 | 队伍 | ranks
+W-1=登山 | T-1=vn | W1=终于 | T1=d | 队伍 | 攀 | 上 | 山峰 | ranks
+W-1=登山 | T-1=vn | W1=穿梭 | T1=v | 队伍 | 穿梭 | 充满 | 生机 | ranks
+W-1=家长 | T-1=n | W1=成 | T1=v | 上 | 学堂 | 学生 | 家长 | 队伍 | 成 | ranks
+W-1=游行 | T-1=vn | W1=高呼 | T1=v | 游行 | 队伍 | 高呼 | 祖国 | 万岁 | ranks
+W-1=考 | T-1=v | W1=， | T1=w | 看 | 见 | 浩荡 | 送 | 考 | 队伍 | 没有 | 高温 | ranks
+W-1=表演 | T-1=vn | W1=汇集 | T1=v | 市 | 民间 | 队伍 | 汇集 | 举行 | ranks
+W-1=演出 | T-1=vn | W1=从 | T1=p | 街道 | 队伍 | 贯穿 | ranks
+W-1=表演 | T-1=vn | W1=簇拥 | T1=v | 来自 | 队伍 | 簇拥 | 设计 | ranks
+W-1=表演 | T-1=vn | W1=一路 | T1=m | 地 | 队伍 | 表演 | ranks
+W-1=的 | T-1=u | W1=约 | T1=d | 阳光 | 彩旗 | 队伍 | 登 | ranks
+W-1=游行 | T-1=vn | W1=沿着 | T1=p | 火车站 | 站 | 开始 | 队伍 | 商业区 | 大街 | ranks
+W-1=的 | T-1=u | W1=， | T1=w | 能 | 征 | 善战 | 队伍 | 开进 | troops
+W-1=的 | T-1=u | W1=中 | T1=f | 卖命 | 队伍 | 去 | troops
+W-1=兵团 | T-1=n | W1=。 | T1=w | 任务 | 兵团 | 队伍 | troops
+W-1=抗日 | T-1=vn | W1=、 | T1=w | 组织 | 参加 | 队伍 | 当 | 武装部长 | 冒 | troops
+W-1=边防 | T-1=n | W1=—— | T1=w | 具有 | 历史 | 传统 | 公安 | 边防 | 队伍 | troops
+W-1=抗日 | T-1=vn | W1=、 | T1=w | 组织 | 参加 | 队伍 | 当 | 武装部长 | 冒 | troops
+W-1=革命 | T-1=vn | W1=， | T1=w | 卷进 | 队伍 | troops
+W-1=的 | T-1=u | W1=中 | T1=f | 是 | 闯入 | 八路军 | 队伍 | 主意 | troops
+W-1=的 | T-1=u | W1=中 | T1=f | 八路军 | 队伍 | 成长 | 起来 | troops
+W-1=壮大 | T-1=v | W1=， | T1=w | 内战 | 壮大 | 队伍 | troops

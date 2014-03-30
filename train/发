@@ -1,105 +1,105 @@
-W-2=的 | T-2=u | W-1=颜色 | T-1=n | W1=白 | T1=a | W2=就 | T2=d | appear
-W-2=老 | T-2=a | W-1=得 | T-1=u | W1=黄 | T1=a | W2=， | T2=w | appear
-W-2=已 | T-2=d | W-1=开始 | T-1=v | W1=亮 | T1=v | W2=， | T2=w | appear
-W-2=后 | T-2=f | W-1=皮肤 | T-1=n | W1=黑 | T1=a | W2=， | T2=w | appear
-W-2=国旗 | T-2=n | W-1=颜色 | T-1=n | W1=黑 | T1=a | W2=显得 | T2=v | appear
-W-2=、 | T-2=w | W-1=能 | T-1=v | W1=亮光 | T1=n | W2=的 | T2=u | appear
-W-2=冻 | T-2=v | W-1=得 | T-1=u | W1=紫 | T1=a | W2=的 | T2=u | appear
-W-2=已经 | T-2=d | W-1=“ | T-1=w | W1=烫 | T1=a | W2=” | T2=w | appear
-W-2=茅台 | T-2=ns | W-1=酒 | T-1=n | W1=出来 | T1=v | W2=的 | T2=u | appear
-W-2=全文 | T-2=n | W-1=另 | T-1=d | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=法新社 | T1=nt | W2=照片 | T2=n | publish
-W-2=为 | T-2=v | W-1=新华社 | T-1=nt | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | W2=照片 | T2=n | publish
-W-2=还 | T-2=d | W-1=专门 | T-1=d | W1=了 | T1=u | W2=《 | T2=w | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | W2=照片 | T2=n | publish
-W-2=专门 | T-2=d | W-1=编 | T-1=v | W1=了 | T1=u | W2=散文 | T2=n | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | W2=照片 | T2=n | publish
-W-2=图 | T-2=n | W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | W2=照片 | T2=n | publish
-W-2=顺畅 | T-2=a | W-1=， | T-1=w | W1=得 | T1=u | W2=也 | T2=d | publish
-W-2=全文 | T-2=n | W-1=另 | T-1=d | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=制作 | T-2=v | W-1=新华社 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=全文 | T-2=n | W-1=另 | T-1=d | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=新华社 | T-1=nt | W1=（ | T1=w | W2=美联社 | T2=nt | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=） | T1=w | W2=（ | T2=w | publish
-W-2=为 | T-2=v | W-1=新华社 | T-1=nt | W1=（ | T1=w | W2=美联社 | T2=nt | publish
-W-2=1月 | T-2=t | W-1=17日 | T-1=t | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=新华社 | T-1=nt | W1=（ | T1=w | W2=美联社 | T2=nt | publish
-W-2=1月 | T-2=t | W-1=22日 | T-1=t | W1=） | T1=w | W2=（ | T2=w | publish
-W-2=1月 | T-2=t | W-1=24日 | T-1=t | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=据 | T-2=p | W-1=新华社 | T-1=nt | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=制 | T-2=v | W-1=、 | T-1=w | W1=、 | T1=w | W2=放 | T2=v | publish
-W-2=制作 | T-2=v | W-1=新华社 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=下图 | T-2=n | W-1=新华社 | T-1=nt | W1=） | T1=w | W2=。 | T2=w | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=） | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | publish
-W-2=（ | T-2=w | W-1=新华社 | T-1=nt | W1=） | T1=w | W2=（ | T2=w | publish
-W-2=至 | T-2=p | W-1=案 | T-1=Ng | W1=为止 | T1=u | W2=， | T2=w | occur
-W-2=尚志地区 | T-2=ns | W-1=多 | T-1=ad | W1=流窜 | T1=v | W2=作案 | T2=v | occur
-W-2=处于 | T-2=v | W-1=易 | T-1=a | W1=、 | T1=w | W2=多 | T2=d | occur
-W-2=而 | T-2=c | W-1=不 | T-1=d | W1=的 | T1=u | W2=效果 | T2=n | occur
-W-2=是 | T-2=v | W-1=继 | T-1=Vg | W1=血管 | T1=n | W2=病变 | T2=v | occur
-W-2=全年 | T-2=n | W-1=所 | T-1=u | W1=刑事 | T1=n | W2=案件 | T2=n | occur
-W-2=处于 | T-2=v | W-1=易 | T-1=ad | W1=、 | T1=w | W2=多发 | T2=b | occur
-W-2=回暖 | T-2=v | W-1=易 | T-1=a | W1=传染病 | T1=n | W2=的 | T2=u | occur
-W-2=全年 | T-2=n | W-1=所 | T-1=u | W1=各类 | T1=r | W2=重特大 | T2=j | occur
-W-2=连续 | T-2=ad | W-1=累 | T-1=Vg | W1=、 | T1=w | W2=屡禁不止 | T2=l | occur
-W-2=， | T-2=w | W-1=理应 | T-1=v | W1=点儿 | T1=q | W2=感慨 | T2=vn | express
-W-2=在 | T-2=p | W-1=会上 | T-1=t | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=在 | T-2=p | W-1=会上 | T-1=t | W1=了 | T1=u | W2=言 | T2=Vg | express
-W-2=座谈会 | T-2=n | W-1=上 | T-1=f | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=言 | T-2=Ng | W-1=未 | T-1=d | W1=就 | T1=d | W2=返回 | T2=v | express
-W-2=大会 | T-2=n | W-1=上 | T-1=f | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=座谈会 | T-2=n | W-1=上 | T-1=f | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=在 | T-2=p | W-1=会上 | T-1=t | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=仪式 | T-2=n | W-1=上 | T-1=f | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=代表 | T-2=v | W-1=石老 | T-1=nr | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=在 | T-2=p | W-1=会上 | T-1=t | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=委员 | T-2=n | W-1=也 | T-1=d | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=的 | T-2=u | W-1=委员 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=等 | T-2=u | W-1=问题 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=等 | T-2=u | W-1=问题 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=领导 | T-2=n | W-1=大 | T-1=d | W1=感慨 | T1=v | W2=： | T2=w | express
-W-2=区位 | T-2=n | W-1=优势 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=， | T-2=w | W-1=分别 | T-1=d | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=代表 | T-2=n | W-1=也 | T-1=d | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=在 | T-2=p | W-1=会上 | T-1=t | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=等 | T-2=u | W-1=问题 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=等 | T-2=u | W-1=问题 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=冀 | T-2=j | W-1=水资源 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=企业 | T-2=n | W-1=改革 | T-1=v | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=的 | T-2=u | W-1=要求 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=， | T-2=w | W-1=分别 | T-1=d | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=在 | T-2=p | W-1=会上 | T-1=t | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=经济 | T-2=n | W-1=发展 | T-1=vn | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=教育 | T-2=vn | W-1=问题 | T-1=n | W1=了 | T1=u | W2=言 | T2=Ng | express
-W-2=家庭 | T-2=n | W-1=加 | T-1=v | W1=６０ | T1=m | W2=元 | T2=q | send
-W-2=半 | T-2=m | W-1=年 | T-1=q | W1=了 | T1=u | W2=“ | T2=w | send
-W-2=个 | T-2=q | W-1=月 | T-1=n | W1=不 | T1=d | W2=出 | T2=v | send
-W-2=霍华德 | T-2=nr | W-1=专门 | T-1=d | W1=来 | T1=v | W2=贺词 | T2=n | send
-W-2=看 | T-2=v | W-1=文件 | T-1=n | W1=了 | T1=u | W2=多少 | T2=r | send
-W-2=文章 | T-2=n | W-1=， | T-1=w | W1=了 | T1=u | W2=多少 | T2=r | send
-W-2=为 | T-2=p | W-1=会议 | T-1=n | W1=来 | T1=v | W2=贺信 | T2=n | send
-W-2=好 | T-2=a | W-1=待 | T-1=v | W1=的 | T1=u | W2=驾驶证 | T2=n | send
-W-2=报 | T-2=n | W-1=、 | T-1=w | W1=邮件 | T1=n | W2=方便 | T2=a | send
-W-2=能 | T-2=v | W-1=少 | T-1=d | W1=票子 | T1=n | W2=。 | T2=w | send
-W-2=没有 | T-2=v | W-1=钱 | T-1=n | W1=， | T1=w | W2=那时 | T2=r | send
-W-2=都 | T-2=d | W-1=不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | send
-W-2=应该 | T-2=v | W-1=向 | T-1=p | W1=通知 | T1=n | W2=的 | T2=u | send
-W-2=每人 | T-2=r | W-1=每月 | T-1=r | W1=50 | T1=m | W2=元 | T2=q | send
-W-2=家属 | T-2=n | W-1=优待金 | T-1=n | W1=到 | T1=v | W2=持卡人 | T2=n | send
-W-2=一定 | T-2=b | W-1=的 | T-1=u | W1=债 | T1=n | W2=空间 | T2=n | send
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=军装 | T1=n | W2=那天 | T2=r | send
-W-2=向 | T-2=p | W-1=全国 | T-1=n | W1=了 | T1=u | W2=文件 | T2=n | send
-W-2=数据化 | T-2=v | W-1=， | T-1=w | W1=油 | T1=n | W2=测量 | T2=v | send
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=国内外 | T-1=s | W1=来 | T1=v | W2=的 | T2=u | send
-W-2=要求 | T-2=v | W-1=再 | T-1=d | W1=50 | T1=m | W2=吨 | T2=q | send
-W-2=便 | T-2=d | W-1=要 | T-1=v | W1=请帖 | T1=n | W2=、 | T2=w | send
-W-2=时 | T-2=Ng | W-1=所 | T-1=u | W1=电报 | T1=n | W2=中 | T2=f | send
-W-2=合格 | T-2=v | W-1=， | T-1=w | W1=国家 | T1=n | W2=承认 | T2=v | send
-W-2=职工 | T-2=n | W-1=工资 | T-1=n | W1=不 | T1=d | W2=出 | T2=v | send
-W-2=给 | T-2=p | W-1=台湾 | T-1=ns | W1=去 | T1=v | W2=慰问电 | T2=n | send
-W-2=商业 | T-2=n | W-1=银行 | T-1=n | W1=债 | T1=n | W2=， | T2=w | send
-W-2=每年 | T-2=r | W-1=政府 | T-1=n | W1=的 | T1=u | W2=救济粮 | T2=n | send
-W-2=日前 | T-2=t | W-1=再 | T-1=d | W1=通知 | T1=n | W2=， | T2=w | send
-W-2=凭 | T-2=p | W-1=当地 | T-1=s | W1=的 | T1=u | W2=优待证 | T2=n | send
+W-1=颜色 | T-1=n | W1=白 | T1=a | 腮 | 颜色 | 发 | appear
+W-1=得 | T-1=u | W1=黄 | T1=a | 印痕 | 茶碗 | 发 | 茶水 | appear
+W-1=开始 | T-1=v | W1=亮 | T1=v | 天 | 开始 | 发 | 亮 | 景点 | 聚集 | appear
+W-1=皮肤 | T-1=n | W1=黑 | T1=a | 化妆品 | 用 | 皮肤 | 发 | 商场 | 投诉 | appear
+W-1=颜色 | T-1=n | W1=黑 | T1=a | 单位 | 升挂 | 国旗 | 颜色 | 发 | 显得 | appear
+W-1=能 | T-1=v | W1=亮光 | T1=n | 能 | 发 | 亮光 | 灯笼 | appear
+W-1=得 | T-1=u | W1=紫 | T1=a | 练 | 身手 | 看 | 冻 | 发 | 荡漾 | appear
+W-1=“ | T-1=w | W1=烫 | T1=a | 热线 | 发 | 让 | 旅行社 | appear
+W-1=酒 | T-1=n | W1=出来 | T1=v | 盛 | 酒杯 | 酒 | 发 | 出来 | appear
+W-1=另 | T-1=d | W1=） | T1=w | 全文 | 发 | publish
+W-1=新华社 | T-1=nt | W1=法新社 | T1=nt | 发 | 照片 | publish
+W-1=新华社 | T-1=nt | W1=） | T1=w | 照片 | 为 | 发 | publish
+W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | 发 | 照片 | publish
+W-1=专门 | T-1=d | W1=了 | T1=u | 解放军报 | 刊登 | 发 | 写 | 出 | 军营 | publish
+W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | 发 | 照片 | publish
+W-1=编 | T-1=v | W1=了 | T1=u | 文学 | 刊物 | 编 | 发 | 散文 | 专辑 | publish
+W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | 发 | 照片 | publish
+W-1=新华社 | T-1=nt | W1=美联社 | T1=nt | 冰雪 | 见 | 图 | 发 | 照片 | publish
+W-1=， | T-1=w | W1=得 | T1=u | 文章 | 写 | 发 | 手头 | publish
+W-1=另 | T-1=d | W1=） | T1=w | 讲话 | 全文 | 发 | publish
+W-1=新华社 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | 制作 | 发 | publish
+W-1=另 | T-1=d | W1=） | T1=w | 讲话 | 全文 | 发 | publish
+W-1=新华社 | T-1=nt | W1=（ | T1=w | 发 | 照片 | 附 | publish
+W-1=新华社 | T-1=nt | W1=） | T1=w | 制作 | 发 | 附 | 图片 | publish
+W-1=新华社 | T-1=nt | W1=（ | T1=w | 照片 | 为 | 发 | 照片 | 附 | publish
+W-1=17日 | T-1=t | W1=） | T1=w | 制作 | 发 | publish
+W-1=新华社 | T-1=nt | W1=（ | T1=w | 发 | 照片 | publish
+W-1=22日 | T-1=t | W1=） | T1=w | 制作 | 发 | 附 | 图片 | publish
+W-1=24日 | T-1=t | W1=） | T1=w | 制作 | 发 | publish
+W-1=新华社 | T-1=nt | W1=） | T1=w | 照片 | 发 | publish
+W-1=新华社 | T-1=nt | W1=） | T1=w | 发 | publish
+W-1=、 | T-1=w | W1=、 | T1=w | 得益 | 制 | 发 | 放 | 一条龙 | 产生 | 市场 | publish
+W-1=新华社 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | 制作 | 发 | publish
+W-1=新华社 | T-1=nt | W1=） | T1=w | 见 | 下图 | 发 | publish
+W-1=新华社 | T-1=nt | W1=） | T1=w | 制作 | 发 | publish
+W-1=新华社 | T-1=nt | W1=） | T1=w | 制作 | 发 | 附 | 图片 | publish
+W-1=案 | T-1=Ng | W1=为止 | T1=u | 发 | 共有 | occur
+W-1=多 | T-1=ad | W1=流窜 | T1=v | 发 | 流窜 | 作案 | 抢劫 | 犯罪 | occur
+W-1=易 | T-1=a | W1=、 | T1=w | 完善 | 现象 | 处于 | 发 | 发 | 情况 | occur
+W-1=不 | T-1=d | W1=的 | T1=u | 发 | 效果 | occur
+W-1=继 | T-1=Vg | W1=血管 | T1=n | 病人 | 原因 | 是 | 发 | 血管 | 病变 | 合并 | 感染 | occur
+W-1=所 | T-1=u | W1=刑事 | T1=n | 无 | 案件 | 全年 | 发 | 刑事 | 案件 | 告 | 破获 | occur
+W-1=易 | T-1=ad | W1=、 | T1=w | 完善 | 现象 | 处于 | 发 | 情况 | 开展 | occur
+W-1=易 | T-1=a | W1=传染病 | T1=n | 进入 | 气候 | 回暖 | 发 | 传染病 | 特点 | occur
+W-1=所 | T-1=u | W1=各类 | T1=r | 战役 | 全年 | 发 | 刑事 | 案件 | 告 | occur
+W-1=累 | T-1=Vg | W1=、 | T1=w | 专业性 | 案件 | 发 | 特点 | occur
+W-1=理应 | T-1=v | W1=点儿 | T1=q | 理应 | 发 | 可 | 思绪 | express
+W-1=会上 | T-1=t | W1=了 | T1=u | 模范 | 城 | 县 | 发 | express
+W-1=会上 | T-1=t | W1=了 | T1=u | 发 | express
+W-1=上 | T-1=f | W1=了 | T1=u | 理事 | 座谈会 | 发 | express
+W-1=未 | T-1=d | W1=就 | T1=d | 会谈 | 结束 | 发 | 返回 | 原定 | express
+W-1=上 | T-1=f | W1=了 | T1=u | 审判员 | 大会 | 发 | express
+W-1=上 | T-1=f | W1=了 | T1=u | 座谈会 | 发 | express
+W-1=会上 | T-1=t | W1=了 | T1=u | 发 | express
+W-1=上 | T-1=f | W1=了 | T1=u | 检察员 | 仪式 | 发 | express
+W-1=石老 | T-1=nr | W1=了 | T1=u | 先生 | 参加 | 代表 | 发 | express
+W-1=会上 | T-1=t | W1=了 | T1=u | 团体 | 同志 | 发 | express
+W-1=也 | T-1=d | W1=了 | T1=u | 委员 | 发 | express
+W-1=委员 | T-1=n | W1=了 | T1=u | 有 | 来自 | 委员 | 发 | express
+W-1=问题 | T-1=n | W1=了 | T1=u | 发展 | 海洋 | 经济 | 问题 | 发 | express
+W-1=问题 | T-1=n | W1=了 | T1=u | 资源 | 科技 | 问题 | 发 | express
+W-1=大 | T-1=d | W1=感慨 | T1=v | 蔬菜 | 领导 | 发 | 感慨 | express
+W-1=优势 | T-1=n | W1=了 | T1=u | 开发 | 机遇 | 发挥 | 区位 | 优势 | 发 | express
+W-1=分别 | T-1=d | W1=了 | T1=u | 代表 | 发 | express
+W-1=也 | T-1=d | W1=了 | T1=u | 代表 | 发 | express
+W-1=会上 | T-1=t | W1=了 | T1=u | 发 | express
+W-1=问题 | T-1=n | W1=了 | T1=u | 加强 | 精神文明 | 问题 | 发 | express
+W-1=问题 | T-1=n | W1=了 | T1=u | 重视 | 民族 | 地区 | 问题 | 发 | express
+W-1=水资源 | T-1=n | W1=了 | T1=u | 开发 | 利用 | 水资源 | 发 | express
+W-1=改革 | T-1=v | W1=了 | T1=u | 铁路 | 交通 | 设施 | 企业 | 改革 | 发 | express
+W-1=要求 | T-1=n | W1=了 | T1=u | 适应 | 开发 | 形势 | 要求 | 发 | express
+W-1=分别 | T-1=d | W1=了 | T1=u | 代表 | 发 | express
+W-1=会上 | T-1=t | W1=了 | T1=u | 有 | 委员 | 发 | express
+W-1=发展 | T-1=vn | W1=了 | T1=u | 结构 | 加快 | 经济 | 发 | express
+W-1=问题 | T-1=n | W1=了 | T1=u | 企业 | 素质 | 问题 | 发 | express
+W-1=加 | T-1=v | W1=６０ | T1=m | 家庭 | 加 | 发 | 慰问金 | send
+W-1=年 | T-1=q | W1=了 | T1=u | 是 | 政府 | 提前 | 发 | send
+W-1=月 | T-1=n | W1=不 | T1=d | 职工 | 月 | 发 | 出 | 工资 | 伤病 | send
+W-1=专门 | T-1=d | W1=来 | T1=v | 喜庆 | 联邦 | 总理 | 发 | 来 | 贺词 | 说 | send
+W-1=文件 | T-1=n | W1=了 | T1=u | 是 | 看 | 文件 | 发 | 经验 | 总结 | send
+W-1=， | T-1=w | W1=了 | T1=u | 话 | 写 | 文章 | 发 | 指示 | 看 | send
+W-1=会议 | T-1=n | W1=来 | T1=v | 总理 | 会议 | 发 | 来 | 贺信 | send
+W-1=待 | T-1=v | W1=的 | T1=u | 办 | 待 | 发 | 驾驶证 | send
+W-1=、 | T-1=w | W1=邮件 | T1=n | 信报箱群 | 取 | 信 | 报 | 发 | 邮件 | send
+W-1=少 | T-1=d | W1=票子 | T1=n | 规模 | 能 | 发 | 票子 | send
+W-1=钱 | T-1=n | W1=， | T1=w | 奖励 | 没有 | 钱 | 发 | send
+W-1=不 | T-1=d | W1=。 | T1=w | 职工 | 核辐射 | 保健 | 补贴 | 发 | send
+W-1=向 | T-1=p | W1=通知 | T1=n | 干部 | 应该 | 发 | 通知 | 上级 | 提 | 出 | 抗议 | send
+W-1=每月 | T-1=r | W1=50 | T1=m | 工人 | 放假 | 回家 | 发 | send
+W-1=优待金 | T-1=n | W1=到 | T1=v | 农村 | 义务兵 | 家属 | 优待金 | 发 | 到 | 持卡人 | send
+W-1=的 | T-1=u | W1=债 | T1=n | 情况 | 看 | 还有 | 发 | 债 | 空间 | 操作 | send
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=军装 | T1=n | 发 | 军装 | 妈妈 | send
+W-1=全国 | T-1=n | W1=了 | T1=u | 委员 | 建议 | 全国 | 发 | 文件 | send
+W-1=， | T-1=w | W1=油 | T1=n | 实现 | 业务 | 信息 | 数据化 | 发 | 油 | 测量 | 自动化 | 搬运 | 作业 | send
+W-1=国内外 | T-1=s | W1=来 | T1=v | 发 | 来 | 电子 | 邮件 | 电子 | send
+W-1=再 | T-1=d | W1=50 | T1=m | 要求 | 发 | 点明 | send
+W-1=要 | T-1=v | W1=请帖 | T1=n | 好事 | 主人 | 要 | 发 | 请帖 | 摆 | 酒宴 | send
+W-1=所 | T-1=u | W1=电报 | T1=n | 辞职 | 发 | 电报 | 表达 | 情谊 | send
+W-1=， | T-1=w | W1=国家 | T1=n | 参加 | 自学 | 考试 | 成绩 | 合格 | 发 | 国家 | 承认 | 学历 | 证书 | send
+W-1=工资 | T-1=n | W1=不 | T1=d | 月 | 职工 | 工资 | 发 | 出 | 奖金 | send
+W-1=台湾 | T-1=ns | W1=去 | T1=v | 两岸 | 地震 | 科技 | 中心 | 发 | 去 | 慰问电 | 组成 | send
+W-1=银行 | T-1=n | W1=债 | T1=n | 财政 | 商业 | 银行 | 发 | 债 | 运用 | send
+W-1=政府 | T-1=n | W1=的 | T1=u | 政府 | 发 | 救济粮 | 挤 | send
+W-1=再 | T-1=d | W1=通知 | T1=n | 目标 | 发 | 通知 | 搞好 | send
+W-1=当地 | T-1=s | W1=的 | T1=u | 发 | 优待证 | 能 | 享受 | send

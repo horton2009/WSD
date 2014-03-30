@@ -4,7 +4,7 @@
 from numpy import *
 import util
 import time
-import Feature_Extractor
+from Feature_Extractor import Extractor
 
 class NaiveBayes(object):
 
@@ -86,7 +86,7 @@ class NaiveBayes(object):
         for c in set(self.classVec):
             self.PcMap[c] = (self.classVec.count(c))/float(numTrainDocs)
             #////////////////////////////////////////////////////////////////////
-            self.Pc_xMap[c] =  array([0.05]*numWords)    
+            self.Pc_xMap[c] =  array([0.14]*numWords)    
             #////////////////////////////////////////////////////////////////////
         ctotal = {}                             # record the total none zero feature number of samples for each class
         for i in range(numTrainDocs):
@@ -182,25 +182,25 @@ class NaiveBayes(object):
         self._learn(array(trainMat),trainClasses)
 
         print "\nTesting... "
-        error_count = 0.
+        right_count = 0.0
         for docIndex in tuneSet:
             vec2Classify = self.bagOfWords2Vec(self.docList[docIndex])
             result = self.classify(vec2Classify)
-            if(result!=self.classVec[docIndex]):
-                error_count = error_count + 1
+            if(result==self.classVec[docIndex]):
+                right_count = right_count + 1
         print "Finished Testing."   
 
-        error_rate = error_count/tuneSet_length
-        return error_rate
+        right_rate = right_count/tuneSet_length
+        return right_rate
 
     # ---------------------------- Repeatly test the model and get a even error rate ---------------------------
     def Random_Cross_Validation(self,times,fold):
         results = []
         for i in range(times):
             results.append(self.tune(fold))
-        even_error_rate = sum(results)/len(results)
-        print "\nFor",times,"times",fold,"Random Cross Validation, the even error rate is:",even_error_rate
-        return even_error_rate
+        right_rate = sum(results)/len(results)
+        print "\nFor",times,"times",fold,"Random Cross Validation, the even right_rate is:",right_rate
+        return right_rate
 
 #---------------------------------------------------------------------------------------------------------------  
 
@@ -209,26 +209,34 @@ class NaiveBayes(object):
 
 def main():
 
-    # --------------------------------- Tune the features selection --------------------------------------------
-    '''
+    
+   
+    extractor = Extractor()
+    extractor.extract("../corpus/train_corpus.xml", "../train/", "train", 7, 1, 1, " | ")
+    extractor.extract("../corpus/test_corpus.xml", "../test/", "test", 7, 1, 1," | ")
     names = util.readNames("../test/namefile")
-    fout = open("../result/Tune_Result "+str(time.ctime()),"a")
+
+
+    '''
+    fout = open("../result/Tune_Result "+str(time.ctime())+".csv","a")
     for name in names:
         infile = "../train/"+name
         nb = NaiveBayes(infile)
-        result = name + ":" + str(nb.Random_Cross_Validation(100,6)) + "\n"
+        result = name + "," + str(nb.Random_Cross_Validation(10,20)) + "\n"
         fout.write(result)
+
     '''
-
-#    Feature_Extractor.extract("../corpus/train_corpus.xml", "../train/","train",0,3," | ")
-#    Feature_Extractor.extract("../corpus/test_corpus.xml", "../test/","test",0,3," | ")
-
-    for name in Feature_Extractor.Names:
+    for name in names:
         print name
     nb2 = NaiveBayes()
     resultfile = nb2.predict("../train/", "../test/", "../result/")
 
     util.evaluate(resultfile,"../result/test_answer")
+
+
+
+    
+
 
 
 

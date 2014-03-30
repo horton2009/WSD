@@ -1,20 +1,20 @@
-W-2=、 | T-2=w | W-1=处置 | T-1=v | W1=海上 | T1=s | W2=械斗 | T2=vn | put_down
-W-2=维和 | T-2=j | W-1=、 | T-1=w | W1=冲突 | T1=vn | W2=和 | T2=c | put_down
-W-2=， | T-2=w | W-1=共 | T-1=d | W1=纠纷 | T1=n | W2=和 | T2=c | put_down
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=俄军 | T-1=j | W1=了 | T1=u | W2=武装 | T2=n | put_down
-W-2=， | T-2=w | W-1=刚刚 | T-1=d | W1=了 | T1=u | W2=发生 | T2=v | put_down
-W-2=， | T-2=w | W-1=才 | T-1=d | W1=了 | T1=u | W2=马里埃尔港 | T2=ns | put_down
-W-2=， | T-2=w | W-1=从而 | T-1=c | W1=了 | T1=u | W2=政治 | T2=n | put_down
-W-2=事态 | T-2=n | W-1=尽快 | T-1=d | W1=下来 | T1=v | W2=。 | T2=w | put_down
-W-2=战略 | T-2=n | W-1=储备油 | T-1=n | W1=油价 | T1=n | W2=狂 | T2=Dg | put_down
-W-2=， | T-2=w | W-1=以 | T-1=c | W1=最近 | T1=t | W2=在 | T2=p | put_down
-W-2=， | T-2=w | W-1=以便 | T-1=d | W1=战火 | T1=n | W2=， | T2=w | put_down
-W-2=事件 | T-2=n | W-1=基本 | T-1=ad | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | subside
-W-2=尚未 | T-2=d | W-1=完全 | T-1=ad | W1=， | T1=w | W2=国家 | T2=n | subside
-W-2=地 | T-2=u | W-1=悄然 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | subside
-W-2=局势 | T-2=n | W-1=尚未 | T-1=d | W1=， | T1=w | W2=以 | T2=j | subside
-W-2=冲突 | T-2=v | W-1=难以 | T-1=d | W1=的 | T1=u | W2=形势 | T2=n | subside
-W-2=才 | T-2=d | W-1=算 | T-1=v | W1=； | T1=w | W2=另 | T2=r | subside
-W-2=风波 | T-2=n | W-1=似乎 | T-1=d | W1=了 | T1=y | W2=。 | T2=w | subside
-W-2=洪水 | T-2=n | W-1=已经 | T-1=d | W1=， | T1=w | W2=但 | T2=c | subside
-W-2=遂 | T-2=d | W-1=告 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | subside
+W-1=处置 | T-1=v | W1=海上 | T1=s | 案件 | 打击 | 处置 | 平息 | 抢险 | 救难 | put_down
+W-1=、 | T-1=w | W1=冲突 | T1=vn | 完成 | 人道主义 | 平息 | 调停 | 使命 | put_down
+W-1=共 | T-1=d | W1=纠纷 | T1=n | 法律 | 为主 | 平息 | 纠纷 | 上门 | 提供 | 法律 | put_down
+W-1=俄军 | T-1=j | W1=了 | T1=u | 平息 | 武装 | 分子 | put_down
+W-1=刚刚 | T-1=d | W1=了 | T1=u | 成立 | 时候 | 平息 | 发生 | put_down
+W-1=才 | T-1=d | W1=了 | T1=u | 签发 | 移民 | 签证 | 平息 | 事件 | put_down
+W-1=从而 | T-1=c | W1=了 | T1=u | 政府 | 让位 | 文人 | 政府 | 平息 | 政治 | 经济 | put_down
+W-1=尽快 | T-1=d | W1=下来 | T1=v | 采取 | 措施 | 使 | 事态 | 平息 | 下来 | put_down
+W-1=储备油 | T-1=n | W1=油价 | T1=n | 打算 | 动用 | 战略 | 储备油 | 平息 | 油价 | 涨 | 势头 | put_down
+W-1=以 | T-1=c | W1=最近 | T1=t | 手段 | 平息 | 重镇 | 发生 | put_down
+W-1=以便 | T-1=d | W1=战火 | T1=n | 谅解 | 委员会 | 会议 | 平息 | 战火 | 缓和 | 局势 | put_down
+W-1=基本 | T-1=ad | W1=。 | T1=w | 人员 | 批捕 | 事件 | 平息 | subside
+W-1=完全 | T-1=ad | W1=， | T1=w | 存在 | 军人 | 情绪 | 平息 | 国家 | 财政 | 亏空 | subside
+W-1=悄然 | T-1=d | W1=。 | T1=w | 波澜 | 平息 | subside
+W-1=尚未 | T-1=d | W1=， | T1=w | 地区 | 局势 | 平息 | 可能 | subside
+W-1=难以 | T-1=d | W1=的 | T1=u | 陷于 | 停顿 | 冲突 | 平息 | 形势 | 国际 | 社会 | subside
+W-1=算 | T-1=v | W1=； | T1=w | 乡 | 党委 | 出面 | 协调 | 算 | 平息 | 乡 | subside
+W-1=似乎 | T-1=d | W1=了 | T1=y | 总统 | 晤谈 | 风波 | 平息 | subside
+W-1=已经 | T-1=d | W1=， | T1=w | 洪水 | 平息 | 力量 | subside
+W-1=告 | T-1=v | W1=。 | T1=w | 风波 | 告 | 平息 | subside

@@ -1,110 +1,110 @@
-W-2=只是 | T-2=d | W-1=一心 | T-1=d | W1=着 | T1=u | W2=把 | T2=p | want
-W-2=国家 | T-2=n | W-1=极力 | T-1=d | W1=把 | T1=p | W2=安理会常任理事国 | T2=nt | want
-W-2=小 | T-2=a | W-1=扎耶德 | T-1=nr | W1=不 | T1=d | W2=想 | T2=v | want
-W-2=， | T-2=w | W-1=他们 | T-1=r | W1=见见 | T1=v | W2=你 | T2=r | want
-W-2=“ | T-2=w | W-1=不 | T-1=d | W1=多 | T1=d | W2=生 | T2=v | want
-W-2=读者 | T-2=n | W-1=们 | T-1=k | W1=挤 | T1=v | W2=在 | T2=p | want
-W-2=就 | T-2=d | W-1=是 | T-1=v | W1=为 | T1=p | W2=乡亲 | T2=n | want
-W-2=很多 | T-2=m | W-1=人 | T-1=n | W1=往 | T1=p | W2=外 | T2=f | want
-W-2=一个 | T-2=m | W-1=单位 | T-1=n | W1=办 | T1=v | W2=一个 | T2=m | want
-W-2=就 | T-2=d | W-1=是 | T-1=v | W1=说明 | T1=v | W2=这 | T2=r | want
-W-2=也 | T-2=d | W-1=不仅 | T-1=c | W1=当 | T1=v | W2=政治 | T2=n | want
-W-2=有 | T-2=v | W-1=华人 | T-1=n | W1=移民 | T1=v | W2=加拿大 | T2=ns | want
-W-2=的 | T-2=u | W-1=人 | T-1=n | W1=到 | T1=v | W2=加拿大 | T2=ns | want
-W-2=， | T-2=w | W-1=而且 | T-1=c | W1=听 | T1=v | W2=什么 | T2=r | want
-W-2=， | T-2=w | W-1=他 | T-1=r | W1=借此机会 | T1=l | W2=了解 | T2=v | want
-W-2=“ | T-2=w | W-1=我 | T-1=r | W1=提 | T1=v | W2=一个 | T2=m | want
-W-2=， | T-2=w | W-1=要 | T-1=c | W1=彻底 | T1=ad | W2=杜绝 | T2=v | want
-W-2=我 | T-2=r | W-1=不 | T-1=d | W1=让 | T1=v | W2=你 | T2=r | want
-W-2=不 | T-2=d | W-1=是 | T-1=v | W1=向 | T1=p | W2=东亚 | T2=ns | want
-W-2=但 | T-2=c | W-1=一心 | T-1=d | W1=发财 | T1=v | W2=的 | T2=u | want
-W-2=情不自禁 | T-2=i | W-1=地 | T-1=u | W1=给 | T1=p | W2=它 | T2=r | want
-W-2=， | T-2=w | W-1=很 | T-1=d | W1=知道 | T1=v | W2=动物 | T2=n | want
-W-2=东西 | T-2=n | W-1=要 | T-1=v | W1=为 | T1=p | W2=群众 | T2=n | want
-W-2=节日 | T-2=n | W-1=不 | T-1=d | W1=呆 | T1=v | W2=在 | T2=p | want
-W-2=， | T-2=w | W-1=有的 | T-1=r | W1=找 | T1=v | W2=他 | T2=r | want
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=领导 | T-1=n | W1=安排 | T1=v | W2=另 | T2=r | want
-W-2=多 | T-2=a | W-1=， | T-1=w | W1=一 | T1=m | W2=招 | T2=q | want
-W-2=口子 | T-2=n | W-1=， | T-1=w | W1=吃 | T1=v | W2=蔬菜 | T2=n | want
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=要 | T-1=v | W1=放 | T1=v | W2=到 | T2=v | want
-W-2=， | T-2=w | W-1=没 | T-1=d | W1=着 | T1=u | W2=走 | T2=v | want
-W-2=总 | T-2=d | W-1=会 | T-1=v | W1=点 | T1=q | W2=什么 | T2=r | think
-W-2=这 | T-2=r | W-1=只 | T-1=q | W1=心事 | T1=n | W2=的 | T2=u | think
-W-2=细细 | T-2=d | W-1=究 | T-1=Vg | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | think
-W-2=行动 | T-2=vn | W-1=， | T-1=w | W1=问题 | T1=n | W2=， | T2=w | think
-W-2=， | T-2=w | W-1=她 | T-1=r | W1=了 | T1=u | W2=想 | T2=v | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=敢 | T-1=v | W1=别人 | T1=r | W2=不 | T2=d | think
-W-2=， | T-2=w | W-1=多 | T-1=d | W1=办法 | T1=n | W2=， | T2=w | think
-W-2=思想 | T-2=n | W-1=去 | T-1=v | W1=神 | T1=n | W2=的 | T2=u | think
-W-2=“ | T-2=w | W-1=我 | T-1=r | W1=通 | T1=v | W2=了 | T2=y | think
-W-2=了 | T-2=u | W-1=校园 | T-1=n | W1=的 | T1=u | W2=就 | T2=d | think
-W-2=“ | T-2=w | W-1=当时 | T-1=t | W1=的 | T1=u | W2=也 | T2=d | think
-W-2=和 | T-2=c | W-1=群众 | T-1=n | W1=尽 | T1=v | W2=了 | T2=u | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=谁 | T-1=r | W1=， | T1=w | W2=越 | T2=d | think
-W-2=， | T-2=w | W-1=只 | T-1=d | W1=着 | T1=u | W2=吃 | T2=v | think
-W-2=， | T-2=w | W-1=只是 | T-1=d | W1=得 | T1=u | W2=多 | T2=a | think
-W-2=， | T-2=w | W-1=得 | T-1=v | W1=得 | T1=u | W2=宽 | T2=a | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=是否 | T-1=v | W1=到 | T1=v | W2=芳草 | T2=n | think
-W-2=如何 | T-2=r | W-1=不 | T-1=d | W1=精卫填海 | T1=i | W2=夸父追日 | T2=i | think
-W-2=我 | T-2=r | W-1=常 | T-1=d | W1=， | T1=w | W2=我 | T2=r | think
-W-2=往 | T-2=p | W-1=基层 | T-1=n | W1=， | T1=w | W2=搞 | T2=v | think
-W-2=问题 | T-2=n | W-1=要 | T-1=v | W1=得 | T1=u | W2=长远 | T2=a | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=不曾 | T-1=d | W1=10 | T1=m | W2=年 | T2=q | think
-W-2=骨 | T-2=Ng | W-1=， | T-1=w | W1=着 | T1=u | W2=它们 | T2=r | think
-W-2=一 | T-2=m | W-1=处 | T-1=q | W1=， | T1=w | W2=力 | T2=n | think
-W-2=“ | T-2=w | W-1=现在 | T-1=t | W1=起来 | T1=v | W2=， | T2=w | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=哪 | T-1=r | W1=正 | T1=d | W2=得意 | T2=a | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=她 | T-1=r | W1=， | T1=w | W2=为什么 | T2=r | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=朔伊布勒 | T-1=nr | W1=不 | T1=d | W2=出 | T2=v | think
-W-2=这个 | T-2=r | W-1=思路 | T-1=n | W1=下去 | T1=v | W2=， | T2=w | think
-W-2=他 | T-2=r | W-1=心里 | T-1=s | W1=的 | T1=u | W2=远 | T2=ad | think
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=基于 | T2=p | suppose
-W-2=， | T-2=w | W-1=未曾 | T-1=d | W1=它 | T1=r | W2=在 | T2=p | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=水仙 | T1=n | W2=的 | T2=u | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=也 | T1=d | W2=不用 | T2=d | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=小姚 | T-1=nr | W1=这 | T1=r | W2=位 | T2=q | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=少数 | T1=m | W2=让 | T2=v | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=这些 | T2=r | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=对 | T2=p | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=应该 | T1=v | W2=是 | T2=v | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=这 | T1=r | W2=是 | T2=v | suppose
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=大家 | T1=r | W2=应该 | T2=v | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=正 | T1=d | W2=因为 | T2=c | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=“ | T-1=w | W1=着 | T1=u | W2=你们 | T2=r | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=中国 | T2=ns | suppose
-W-2=， | T-2=w | W-1=这样 | T-1=r | W1=未免 | T1=d | W2=过于 | T2=d | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=他 | T-1=r | W1=， | T1=w | W2=得利斯 | T2=nz | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=患者 | T2=n | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=饮茶 | T2=v | suppose
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=老人 | T1=n | W2=一定 | T2=d | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=“ | T2=w | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=我 | T2=r | suppose
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=， | T1=w | W2=到 | T2=p | suppose
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=， | T1=w | W2=首先 | T2=c | suppose
-W-2=是 | T-2=v | W-1=这么 | T-1=r | W1=， | T1=w | W2=最 | T2=d | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=作为 | T2=p | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=， | T1=w | W2=她 | T2=r | suppose
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=应该 | T1=v | W2=把握 | T2=v | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我们 | T-1=r | W1=， | T1=w | W2=早 | T2=ad | suppose
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=我 | T-1=r | W1=这个 | T1=r | W2=问题 | T2=n | suppose
-W-2=老百姓 | T-2=n | W-1=还 | T-1=d | W1=着 | T1=u | W2=你 | T2=r | miss
-W-2=， | T-2=w | W-1=只 | T-1=d | W1=着 | T1=u | W2=个人 | T2=n | miss
-W-2=人 | T-2=n | W-1=都 | T-1=d | W1=着 | T1=u | W2=托福 | T2=nz | miss
-W-2=“ | T-2=w | W-1=要 | T-1=c | W1=官兵 | T1=n | W2=不 | T2=d | miss
-W-2=是 | T-2=v | W-1=太 | T-1=d | W1=爸爸 | T1=n | W2=了 | T2=y | miss
-W-2=群众 | T-2=n | W-1=、 | T-1=w | W1=着 | T1=u | W2=工作 | T2=vn | miss
-W-2=我 | T-2=r | W-1=很 | T-1=d | W1=你 | T1=r | W2=， | T2=w | miss
-W-2=着 | T-2=u | W-1=《 | T-1=w | W1=你 | T1=r | W2=的 | T2=u | miss
-W-2=前 | T-2=f | W-1=仍 | T-1=d | W1=着 | T1=u | W2=昔日 | T2=t | miss
-W-2=我 | T-2=r | W-1=也 | T-1=d | W1=家 | T1=n | W2=…… | T2=w | miss
-W-2=都 | T-2=d | W-1=会 | T-1=v | W1=它 | T1=r | W2=， | T2=w | miss
-W-2=过年 | T-2=v | W-1=， | T-1=w | W1=不 | T1=d | W2=想 | T2=v | miss
-W-2=要 | T-2=v | W-1=处处 | T-1=d | W1=着 | T1=u | W2=群众 | T2=n | miss
-W-2=有事 | T-2=v | W-1=或 | T-1=c | W1=家 | T1=n | W2=时 | T2=Ng | miss
-W-2=， | T-2=w | W-1=时刻 | T-1=d | W1=着 | T1=u | W2=群众 | T2=n | miss
-W-2=， | T-2=w | W-1=竟 | T-1=d | W1=不 | T1=d | W2=起 | T2=v | miss
-W-2=最 | T-2=d | W-1=不 | T-1=d | W1=家 | T1=n | W2=的 | T2=u | miss
-W-2=最 | T-2=d | W-1=不 | T-1=d | W1=家 | T1=n | W2=的 | T2=u | miss
-W-2=累 | T-2=a | W-1=， | T-1=w | W1=家 | T1=n | W2=； | T2=w | miss
-W-2=一 | T-2=m | W-1=天 | T-1=q | W1=煞 | T1=v | W2=大 | T2=a | miss
-W-2=刘 | T-2=nr | W-1=光亮 | T-1=nr | W1=农 | T1=Ng | W2=难 | T2=Ng | miss
+W-1=一心 | T-1=d | W1=着 | T1=u | 计较 | 想 | 电厂 | 建 | want
+W-1=极力 | T-1=d | W1=把 | T1=p | 提 | 出 | 原则 | 国家 | 想 | 席位 | 金钱 | want
+W-1=扎耶德 | T-1=nr | W1=不 | T1=d | 问 | 想 | 想 | 到 | 去 | 玩 | want
+W-1=他们 | T-1=r | W1=见见 | T1=v | 出 | 来 | 想 | 见见 | want
+W-1=不 | T-1=d | W1=多 | T1=d | 妇女 | 表示 | 想 | 生 | 奔 | want
+W-1=们 | T-1=k | W1=挤 | T1=v | 是 | 读者 | 想 | 挤 | want
+W-1=是 | T-1=v | W1=为 | T1=p | 生意 | 回 | 家乡 | 是 | 想 | 乡亲 | 干 | 事 | want
+W-1=人 | T-1=n | W1=往 | T1=p | 人 | 想 | 搬 | want
+W-1=单位 | T-1=n | W1=办 | T1=v | 有 | 单位 | 想 | 办 | 学校 | want
+W-1=是 | T-1=v | W1=说明 | T1=v | 意思 | 是 | 想 | 说明 | 书 | 是 | 要 | want
+W-1=不仅 | T-1=c | W1=当 | T1=v | 重振 | 大国 | 地位 | 想 | 当 | 政治 | 大国 | 军事 | 大国 | want
+W-1=华人 | T-1=n | W1=移民 | T1=v | 有 | 华人 | 想 | 移民 | 劝 | want
+W-1=人 | T-1=n | W1=到 | T1=v | 团聚 | 有 | 人 | 想 | 到 | 开创 | 事业 | want
+W-1=而且 | T-1=c | W1=听 | T1=v | 打电话 | 能 | 听 | 歌 | 想 | 听 | 可以 | want
+W-1=他 | T-1=r | W1=借此机会 | T1=l | 通知 | 企业 | 上级 | 想 | 了解 | 企业 | want
+W-1=我 | T-1=r | W1=提 | T1=v | 想 | 提 | 建议 | 即 | want
+W-1=要 | T-1=c | W1=彻底 | T1=ad | 想 | 杜绝 | 类似 | want
+W-1=不 | T-1=d | W1=让 | T1=v | 问 | 下去 | 想 | 让 | 追思 | 加重 | want
+W-1=是 | T-1=v | W1=向 | T1=p | 参与 | 是 | 想 | 国家 | 发起 | want
+W-1=一心 | T-1=d | W1=发财 | T1=v | 想 | 发财 | 投资者 | want
+W-1=地 | T-1=u | W1=给 | T1=p | 动物 | 想 | 喂 | 东西 | want
+W-1=很 | T-1=d | W1=知道 | T1=v | 喜欢 | 逛 | 动物园 | 想 | 知道 | 动物 | 是 | 出世 | want
+W-1=要 | T-1=v | W1=为 | T1=p | 东西 | 要 | 想 | 群众 | 接受 | 变为 | want
+W-1=不 | T-1=d | W1=呆 | T1=v | 告诉 | 妻子 | 是 | 节日 | 想 | 呆 | 合同 | want
+W-1=有的 | T-1=r | W1=找 | T1=v | 拉 | 合伙 | 做 | 生意 | 想 | 找 | 做 | 靠山 | want
+W-1=领导 | T-1=n | W1=安排 | T1=v | 领导 | 想 | 安排 | 同志 | 去 | want
+W-1=， | T-1=w | W1=一 | T1=m | 流血 | 想 | 制 | want
+W-1=， | T-1=w | W1=吃 | T1=v | 嘴唇 | 开始 | 裂 | 口子 | 想 | 吃 | 蔬菜 | 补充 | 维生素 | want
+W-1=要 | T-1=v | W1=放 | T1=v | 要 | 想 | 放 | 到 | 放 | want
+W-1=没 | T-1=d | W1=着 | T1=u | 农民 | 冬闲 | 想 | 走 | 出去 | 搞 | want
+W-1=会 | T-1=v | W1=点 | T1=q | 每逢 | 会 | 想 | think
+W-1=只 | T-1=q | W1=心事 | T1=n | 想 | 心事 | 布老虎 | think
+W-1=究 | T-1=Vg | W1=。 | T1=w | 眺望 | 想 | think
+W-1=， | T-1=w | W1=问题 | T1=n | 是 | 共产党员 | 应有 | 想 | 问题 | 办 | 事情 | think
+W-1=她 | T-1=r | W1=了 | T1=u | 问 | 喜欢 | 想 | 想 | 说 | think
+W-1=敢 | T-1=v | W1=别人 | T1=r | 敢 | 想 | 敢 | 想 | 事 | think
+W-1=多 | T-1=d | W1=办法 | T1=n | 项目 | 管理者 | 动脑筋 | 想 | 办法 | 要 | 生存 | think
+W-1=去 | T-1=v | W1=神 | T1=n | 人 | 思想 | 去 | 想 | 神 | 事情 | think
+W-1=我 | T-1=r | W1=通 | T1=v | 想 | 通 | 开始 | think
+W-1=校园 | T-1=n | W1=的 | T1=u | 进 | 校园 | 想 | 是 | think
+W-1=当时 | T-1=t | W1=的 | T1=u | 想 | think
+W-1=群众 | T-1=n | W1=尽 | T1=v | 水 | 问题 | 政府 | 群众 | 想 | 尽 | 办法 | think
+W-1=谁 | T-1=r | W1=， | T1=w | 想 | 休息 | think
+W-1=只 | T-1=d | W1=着 | T1=u | 油条 | 下咽 | 想 | 吃 | 下去 | 是 | think
+W-1=只是 | T-1=d | W1=得 | T1=u | 进行 | 想 | 写 | think
+W-1=得 | T-1=v | W1=得 | T1=u | 说 | 得 | 想 | think
+W-1=是否 | T-1=v | W1=到 | T1=v | 是否 | 想 | 到 | 芳草 | 绿树 | 溪水 | think
+W-1=不 | T-1=d | W1=精卫填海 | T1=i | 色彩 | 叫 | 想 | 意志 | think
+W-1=常 | T-1=d | W1=， | T1=w | 想 | 工作 | 争 | think
+W-1=基层 | T-1=n | W1=， | T1=w | 基层 | 送 | 心 | 基层 | 想 | 搞 | 拴心 | 留 | 人 | think
+W-1=要 | T-1=v | W1=得 | T1=u | 有 | 全局 | 观念 | 问题 | 要 | 想 | 要 | think
+W-1=不曾 | T-1=d | W1=10 | T1=m | 想 | 同 | think
+W-1=， | T-1=w | W1=着 | T1=u | 动物 | 皮 | 想 | 山林 | think
+W-1=处 | T-1=q | W1=， | T1=w | 骨干 | 队伍 | 心 | 想 | 力 | 使 | think
+W-1=现在 | T-1=t | W1=起来 | T1=v | 跟 | 上 | 想 | 起来 | 觉得 | 脸红 | think
+W-1=哪 | T-1=r | W1=正 | T1=d | 想 | 抗战 | 爆发 | think
+W-1=她 | T-1=r | W1=， | T1=w | 想 | 能 | 认养 | think
+W-1=朔伊布勒 | T-1=nr | W1=不 | T1=d | 想 | 出 | 能 | 说服 | think
+W-1=思路 | T-1=n | W1=下去 | T1=v | 思路 | 想 | 下去 | 世界 | think
+W-1=心里 | T-1=s | W1=的 | T1=u | 想 | 是 | think
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 要素 | 条件 | suppose
+W-1=未曾 | T-1=d | W1=它 | T1=r | 想 | 到 | suppose
+W-1=我 | T-1=r | W1=水仙 | T1=n | 想 | 水仙 | 品性 | suppose
+W-1=我 | T-1=r | W1=也 | T1=d | 想 | 发愁 | suppose
+W-1=小姚 | T-1=nr | W1=这 | T1=r | 想 | 旅客 | 上车 | suppose
+W-1=我 | T-1=r | W1=少数 | T1=m | 想 | 让 | 人 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 局长 | 在 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 成立 | suppose
+W-1=我 | T-1=r | W1=应该 | T1=v | 想 | 应该 | 是 | 计算机 | 人 | suppose
+W-1=我 | T-1=r | W1=这 | T1=r | 想 | 是 | 人人 | suppose
+W-1=我 | T-1=r | W1=大家 | T1=r | 讨论 | 问题 | 时候 | 想 | 应该 | 眼界 | 放宽 | 来 | suppose
+W-1=我 | T-1=r | W1=正 | T1=d | 想 | 政治 | 体制 | suppose
+W-1=“ | T-1=w | W1=着 | T1=u | 想 | 来 | 家 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 教练 | 会 | 捍卫 | suppose
+W-1=这样 | T-1=r | W1=未免 | T1=d | 企及 | 想 | suppose
+W-1=他 | T-1=r | W1=， | T1=w | 想 | 要 | 眼光 | 投向 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 患者 | 就医 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 饮茶 | 能 | 饮 | 到 | suppose
+W-1=我 | T-1=r | W1=老人 | T1=n | 感到 | 想 | 老人 | 走 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 廉政 | 台历 | 放 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 地质 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 是 | 需要 | 广告 | 效应 | 想 | 知名度 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 干部 | 想 | 要 | 留 | 精神 | 留 | suppose
+W-1=这么 | T-1=r | W1=， | T1=w | 是 | 想 | 是 | 赢得 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 领导 | 干部 | suppose
+W-1=我 | T-1=r | W1=， | T1=w | 想 | 坦言 | suppose
+W-1=我 | T-1=r | W1=应该 | T1=v | 地方 | 政府 | 去 | 落实 | 想 | 应该 | 把握 | suppose
+W-1=我们 | T-1=r | W1=， | T1=w | 想 | 过 | 保修期 | suppose
+W-1=我 | T-1=r | W1=这个 | T1=r | 想 | 问题 | 不会 | 要 | suppose
+W-1=还 | T-1=d | W1=着 | T1=u | 地方 | 老百姓 | 想 | 是 | miss
+W-1=只 | T-1=d | W1=着 | T1=u | 义务 | 淡忘 | 想 | 个人 | miss
+W-1=都 | T-1=d | W1=着 | T1=u | 大学 | 毕业 | 人 | 想 | miss
+W-1=要 | T-1=c | W1=官兵 | T1=n | 党委 | 想 | 官兵 | 想 | 家 | 部队 | miss
+W-1=太 | T-1=d | W1=爸爸 | T1=n | 是 | 想 | 爸爸 | miss
+W-1=、 | T-1=w | W1=着 | T1=u | 法 | 装 | 群众 | 想 | 到 | 基层 | miss
+W-1=很 | T-1=d | W1=你 | T1=r | 教师 | 想 | 谢谢 | miss
+W-1=《 | T-1=w | W1=你 | T1=r | 唱 | 想 | 时候 | 赢得 | miss
+W-1=仍 | T-1=d | W1=着 | T1=u | 子弟兵 | 回家 | 过年 | 想 | 老朋友 | miss
+W-1=也 | T-1=d | W1=家 | T1=n | 说 | 心里话 | 想 | 家 | miss
+W-1=会 | T-1=v | W1=它 | T1=r | 时间 | 会 | 想 | 回来 | miss
+W-1=， | T-1=w | W1=不 | T1=d | 回家 | 过年 | 想 | 想 | 家 | miss
+W-1=处处 | T-1=d | W1=着 | T1=u | 过程 | 要 | 想 | 群众 | 群众 | miss
+W-1=或 | T-1=c | W1=家 | T1=n | 在外 | 打工 | 有事 | 想 | 家 | 联系 | miss
+W-1=时刻 | T-1=d | W1=着 | T1=u | 着力点 | 放 | 基层 | 想 | 群众 | 相信 | 群众 | miss
+W-1=竟 | T-1=d | W1=不 | T1=d | 叫 | 搜索 | 记忆 | 想 | 起 | miss
+W-1=不 | T-1=d | W1=家 | T1=n | 称为 | 队员 | 想 | 家 | 人 | miss
+W-1=不 | T-1=d | W1=家 | T1=n | 是 | 考察队员 | 想 | 家 | 人 | miss
+W-1=， | T-1=w | W1=家 | T1=n | 想 | 家 | miss
+W-1=天 | T-1=q | W1=煞 | T1=v | 不见 | 想 | 煞 | miss
+W-1=光亮 | T-1=nr | W1=农 | T1=Ng | 想 | 解 | miss

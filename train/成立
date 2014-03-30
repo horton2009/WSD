@@ -1,73 +1,73 @@
-W-2=新 | T-2=a | W-1=中国 | T-1=ns | W1=后 | T1=f | W2=， | T2=w | be_founded
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=西藏图书馆 | T-1=nt | W1=一 | T1=m | W2=年 | T2=q | be_founded
-W-2=于 | T-2=p | W-1=今天 | T-1=t | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_founded
-W-2=今天 | T-2=t | W-1=正式 | T-1=ad | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_founded
-W-2=” | T-2=w | W-1=在 | T-1=p | W1=大会 | T1=n | W2=上 | T2=f | 1-1
-W-2=分裂 | T-2=v | W-1=后 | T-1=f | W1=的 | T1=u | W2=。 | T2=w | be_founded
-W-2=新 | T-2=a | W-1=政府 | T-1=n | W1=后 | T1=f | W2=会见 | T2=v | be_founded
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=国商银行 | T-1=nt | W1=于 | T1=p | W2=１９７２年 | T2=t | be_founded
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=该行 | T-1=r | W1=初期 | T1=t | W2=希望 | T2=v | be_founded
-W-2=新 | T-2=a | W-1=中国 | T-1=ns | W1=之 | T1=u | W2=初 | T2=f | be_founded
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=法律硕士学位教育指导委员会 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | be_founded
-W-2=新 | T-2=a | W-1=中国 | T-1=ns | W1=后 | T1=f | W2=， | T2=w | be_founded
-W-2=工程 | T-2=n | W-1=” | T-1=w | W1=的 | T1=u | W2=消息 | T2=n | be_founded
-W-2=， | T-2=w | W-1=中共太岳特委 | T-1=nt | W1=伊始 | T1=v | W2=， | T2=w | be_founded
-W-2=海外 | T-2=s | W-1=， | T-1=w | W1=之 | T1=u | W2=初 | T2=f | be_founded
-W-2=推出 | T-2=v | W-1=其 | T-1=r | W1=以来 | T1=f | W2=的 | T2=u | be_founded
-W-2=也 | T-2=d | W-1=宣告 | T-1=v | W1=， | T1=w | W2=澳门 | T2=ns | be_founded
-W-2=特别 | T-2=a | W-1=行政区 | T-1=n | W1=后 | T1=f | W2=的 | T2=u | be_founded
-W-2=在 | T-2=p | W-1=四川大学 | T-1=nt | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_founded
-W-2=企业 | T-2=n | W-1=， | T-1=w | W1=时 | T1=Ng | W2=曾 | T2=d | be_founded
-W-2=例如 | T-2=v | W-1=， | T-1=w | W1=于 | T1=p | W2=1984年 | T2=t | be_founded
-W-2=26日 | T-2=t | W-1=正式 | T-1=ad | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_founded
-W-2=1993年 | T-2=t | W-1=2月 | T-1=t | W1=到 | T1=p | W2=今天 | T2=t | be_founded
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=国家煤矿安全监察局 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | be_founded
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=重庆市西部大开发工作领导小组 | T-1=nt | W1=于 | T1=p | W2=去年 | T2=t | be_founded
-W-2=园区 | T-2=n | W-1=挂牌 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_founded
-W-2=在 | T-2=p | W-1=东京 | T-1=ns | W1=， | T1=w | W2=其 | T2=r | be_founded
-W-2=采购 | T-2=vn | W-1=中心 | T-1=n | W1=11 | T1=m | W2=个 | T2=q | be_founded
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=香港中华出入口商会 | T-1=nt | W1=于 | T1=p | W2=一九五四年 | T2=t | be_founded
-W-2=取得 | T-2=v | W-1=了 | T-1=u | W1=以来 | T1=f | W2=从未 | T2=d | be_founded
-W-2=市 | T-2=n | W-1=， | T-1=w | W1=杂文 | T1=n | W2=学会 | T2=n | establish
-W-2=自发 | T-2=d | W-1=组织 | T-1=v | W1=， | T1=w | W2=挖掘 | T2=v | establish
-W-2=１９８９年 | T-2=t | W-1=专门 | T-1=d | W1=西藏藏文古籍出版社 | T1=nt | W2=， | T2=w | establish
-W-2=公司 | T-2=n | W-1=里 | T-1=f | W1=了 | T1=u | W2=民兵 | T2=n | establish
-W-2=， | T-2=w | W-1=李宁集团 | T-1=nt | W1=了 | T1=u | W2=中国 | T2=ns | establish
-W-2=中国 | T-2=ns | W-1=南方 | T-1=f | W1=了 | T1=u | W2=鞋业 | T2=n | establish
-W-2=之一 | T-2=r | W-1=， | T-1=w | W1=了 | T1=u | W2=以 | T2=p | establish
-W-2=支持 | T-2=v | W-1=的 | T-1=u | W1=“ | T1=w | W2=亚洲 | T2=ns | establish
-W-2=１９９７年 | T-2=t | W-1=４月 | T-1=t | W1=了 | T1=u | W2=教导 | T2=vn | establish
-W-2=， | T-2=w | W-1=他们 | T-1=r | W1=了 | T1=u | W2=农民 | T2=n | establish
-W-2=力量 | T-2=n | W-1=； | T-1=w | W1=一个 | T1=m | W2=大 | T2=d | establish
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=如 | T-1=c | W1=俄 | T1=j | W2=白 | T2=j | establish
-W-2=洪都拉斯政府 | T-2=nt | W-1=要 | T-1=v | W1=一个 | T1=m | W2=专门 | T2=b | establish
-W-2=联合 | T-2=v | W-1=组建 | T-1=v | W1=中国广东核电集团公司 | T1=nt | W2=， | T2=w | establish
-W-2=还 | T-2=d | W-1=专门 | T-1=d | W1=了 | T1=u | W2=盘活 | T2=v | establish
-W-2=长沙市纺织工业总公司 | T-2=nt | W-1=还 | T-1=d | W1=了 | T1=u | W2=再 | T2=d | establish
-W-2=， | T-2=w | W-1=警署 | T-1=n | W1=了 | T1=u | W2=一 | T2=m | establish
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=当局 | T-1=n | W1=了 | T1=u | W2=“ | T2=w | establish
-W-2=， | T-2=w | W-1=并 | T-1=c | W1=两 | T1=m | W2=国 | T2=n | establish
-W-2=市 | T-2=n | W-1=分别 | T-1=d | W1=了 | T1=u | W2=由 | T2=p | establish
-W-2=法律 | T-2=n | W-1=程序 | T-1=n | W1=了 | T1=u | W2=两 | T2=m | establish
-W-2=当局 | T-2=n | W-1=已经 | T-1=d | W1=了 | T1=u | W2=一个 | T2=m | establish
-W-2=， | T-2=w | W-1=并 | T-1=c | W1=了 | T1=u | W2=以 | T2=p | establish
-W-2=， | T-2=w | W-1=并 | T-1=c | W1=专门 | T1=b | W2=班子 | T2=n | establish
-W-2=、 | T-2=w | W-1=《 | T-1=w | W1=证券 | T1=n | W2=交易所 | T2=n | establish
-W-2=部门 | T-2=n | W-1=专门 | T-1=d | W1=了 | T1=u | W2=由 | T2=p | establish
-W-2=， | T-2=w | W-1=将 | T-1=d | W1=企业 | T1=n | W2=打假 | T2=vn | establish
-W-2=联合 | T-2=v | W-1=， | T-1=w | W1=了 | T1=u | W2=中央国家机关烹饪协会 | T2=nt | establish
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=四川 | T-1=ns | W1=西部 | T1=f | W2=开发 | T2=v | establish
-W-2=正式 | T-2=ad | W-1=合作 | T-1=v | W1=中国科学院—清华大学国情研究中心 | T1=nt | W2=， | T2=w | establish
-W-2=数字 | T-2=n | W-1=即可 | T-1=v | W1=， | T1=w | W2=如果 | T2=c | be_tenable
-W-2=逻辑 | T-2=n | W-1=可以 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_tenable
-W-2=效果 | T-2=n | W-1=完全 | T-1=ad | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_tenable
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_tenable
-W-2=上述 | T-2=b | W-1=罪名 | T-1=n | W1=， | T1=w | W2=谢里夫 | T2=nr | be_tenable
-W-2=就 | T-2=d | W-1=能够 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | be_tenable
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=， | T1=w | W2=宣告 | T2=v | be_tenable
-W-2=如果 | T-2=c | W-1=罪名 | T-1=n | W1=， | T1=w | W2=谢里夫 | T2=nr | be_tenable
-W-2=合同 | T-2=n | W-1=一经 | T-1=d | W1=， | T1=w | W2=即 | T2=d | be_tenable
-W-2=保险 | T-2=vn | W-1=合同 | T-1=n | W1=后 | T1=f | W2=， | T2=w | be_tenable
-W-2=即 | T-2=d | W-1=告 | T-1=v | W1=， | T1=w | W2=投保人 | T2=n | be_tenable
-W-2=说 | T-2=v | W-1=能 | T-1=v | W1=吗 | T1=y | W2=” | T2=w | be_tenable
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=的 | T1=u | W2=， | T2=w | be_tenable
+W-1=中国 | T-1=ns | W1=后 | T1=f | 成立 | 人民 | be_founded
+W-1=西藏图书馆 | T-1=nt | W1=一 | T1=m | 成立 | be_founded
+W-1=今天 | T-1=t | W1=。 | T1=w | 成立 | be_founded
+W-1=正式 | T-1=ad | W1=。 | T1=w | 成立 | be_founded
+W-1=在 | T-1=p | W1=大会 | T1=n | 大会 | 选举 | 为 | 代表 | 1-1
+W-1=后 | T-1=f | W1=的 | T1=u | 政党 | 是 | 新进党 | 分裂 | 成立 | be_founded
+W-1=政府 | T-1=n | W1=后 | T1=f | 政府 | 成立 | 会见 | 记者 | 表示 | be_founded
+W-1=国商银行 | T-1=nt | W1=于 | T1=p | 成立 | 金融 | be_founded
+W-1=该行 | T-1=r | W1=初期 | T1=t | 成立 | 希望 | 成为 | 第三世界 | 国家 | be_founded
+W-1=中国 | T-1=ns | W1=之 | T1=u | 军人 | 成立 | 战争 | 走向 | be_founded
+W-1=法律硕士学位教育指导委员会 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | 成立 | be_founded
+W-1=中国 | T-1=ns | W1=后 | T1=f | 成立 | be_founded
+W-1=” | T-1=w | W1=的 | T1=u | 是 | 听到 | 工程 | 成立 | 消息 | 捐 | be_founded
+W-1=中共太岳特委 | T-1=nt | W1=伊始 | T1=v | 成立 | 伊始 | 创办 | 党校 | be_founded
+W-1=， | T-1=w | W1=之 | T1=u | 资金 | 来自 | 成立 | 资金 | 总额 | be_founded
+W-1=其 | T-1=r | W1=以来 | T1=f | 新闻 | 发布会 | 宣布 | 推出 | 成立 | be_founded
+W-1=宣告 | T-1=v | W1=， | T1=w | 恢复 | 主权 | 宣告 | 成立 | 回归 | 民族 | be_founded
+W-1=行政区 | T-1=n | W1=后 | T1=f | 行政区 | 成立 | 奠定 | be_founded
+W-1=四川大学 | T-1=nt | W1=。 | T1=w | 研究院 | 成立 | be_founded
+W-1=， | T-1=w | W1=时 | T1=Ng | 人 | 企业 | 成立 | 得到 | be_founded
+W-1=， | T-1=w | W1=于 | T1=p | 例如 | 成立 | 拥有 | be_founded
+W-1=正式 | T-1=ad | W1=。 | T1=w | 成立 | be_founded
+W-1=2月 | T-1=t | W1=到 | T1=p | 成立 | 发展 | 壮大 | be_founded
+W-1=国家煤矿安全监察局 | T-1=nt | W1=NULL_TAIL | T1=NULL_TAIL | 成立 | be_founded
+W-1=重庆市西部大开发工作领导小组 | T-1=nt | W1=于 | T1=p | 成立 | 市委 | 书记 | be_founded
+W-1=挂牌 | T-1=v | W1=。 | T1=w | 中心 | 科技 | 园区 | 挂牌 | 成立 | be_founded
+W-1=东京 | T-1=ns | W1=， | T1=w | 成立 | 宗旨 | 是 | 让 | be_founded
+W-1=中心 | T-1=n | W1=11 | T1=m | 中心 | 成立 | 月 | 节约 | be_founded
+W-1=香港中华出入口商会 | T-1=nt | W1=于 | T1=p | 成立 | 有 | 来自 | be_founded
+W-1=了 | T-1=u | W1=以来 | T1=f | 飞行 | 取得 | 成立 | 出 | 事故 | be_founded
+W-1=， | T-1=w | W1=杂文 | T1=n | 省 | 市 | 成立 | 杂文 | 学会 | 出版 | 杂文 | 报刊 | establish
+W-1=组织 | T-1=v | W1=， | T1=w | 乐队 | 农民 | 组织 | 成立 | 挖掘 | 整理 | 出 | 失传 | establish
+W-1=专门 | T-1=d | W1=西藏藏文古籍出版社 | T1=nt | 成立 | 态度 | establish
+W-1=里 | T-1=f | W1=了 | T1=u | 请求 | 上级 | 军事 | 部门 | 公司 | 成立 | 民兵 | 组织 | 要求 | establish
+W-1=李宁集团 | T-1=nt | W1=了 | T1=u | 成立 | 股份制 | establish
+W-1=南方 | T-1=f | W1=了 | T1=u | 成立 | 鞋业 | 中心 | 聘请 | establish
+W-1=， | T-1=w | W1=了 | T1=u | 领导 | 干部 | 条件 | 成立 | 分局 | 党委 | 书记 | establish
+W-1=的 | T-1=u | W1=“ | T1=w | 国家 | 主张 | 支持 | 成立 | 货币 | 基金 | 计划 | establish
+W-1=４月 | T-1=t | W1=了 | T1=u | 治 | 支队 | 成立 | 大队 | establish
+W-1=他们 | T-1=r | W1=了 | T1=u | 成立 | 农民 | 漫画 | 协会 | establish
+W-1=； | T-1=w | W1=一个 | T1=m | 联合 | 没有 | 力量 | 成立 | 联合 | 政党 | establish
+W-1=如 | T-1=c | W1=俄 | T1=j | 成立 | 联盟 | establish
+W-1=要 | T-1=v | W1=一个 | T1=m | 要 | 成立 | 办公室 | establish
+W-1=组建 | T-1=v | W1=中国广东核电集团公司 | T1=nt | 联合 | 组建 | 成立 | 为 | establish
+W-1=专门 | T-1=d | W1=了 | T1=u | 市政府 | 成立 | 盘活 | 企业 | 存量 | 土地 | establish
+W-1=还 | T-1=d | W1=了 | T1=u | 成立 | 就业 | 中心 | establish
+W-1=警署 | T-1=n | W1=了 | T1=u | 警署 | 成立 | 素质 | establish
+W-1=当局 | T-1=n | W1=了 | T1=u | 当局 | 成立 | 团结 | 联盟 | establish
+W-1=并 | T-1=c | W1=两 | T1=m | 方式 | 解决 | 领土 | 争端 | 成立 | 国 | 委员会 | 加强 | establish
+W-1=分别 | T-1=d | W1=了 | T1=u | 市 | 成立 | 书记 | 市长 | 任 | establish
+W-1=程序 | T-1=n | W1=了 | T1=u | 法律 | 程序 | 成立 | 地区 | 局 | establish
+W-1=已经 | T-1=d | W1=了 | T1=u | 意见 | 运河 | 当局 | 成立 | 顾问 | 委员会 | 邀请 | establish
+W-1=并 | T-1=c | W1=了 | T1=u | 国会 | 通过 | 王冠法 | 成立 | 总统 | 为首 | 王冠 | establish
+W-1=并 | T-1=c | W1=专门 | T1=b | 意见 | 成立 | 班子 | 加大 | 力度 | 推进 | establish
+W-1=《 | T-1=w | W1=证券 | T1=n | 打 | 篮球 | 成立 | 证券 | 交易所 | 是 | establish
+W-1=专门 | T-1=d | W1=了 | T1=u | 地方 | 部门 | 成立 | 党委 | 政府 | establish
+W-1=将 | T-1=d | W1=企业 | T1=n | 理事 | 会议 | 决定 | 成立 | 企业 | 委员会 | 部署 | establish
+W-1=， | T-1=w | W1=了 | T1=u | 公司 | 联合 | 成立 | 中心 | establish
+W-1=四川 | T-1=ns | W1=西部 | T1=f | 成立 | 开发 | 研究院 | establish
+W-1=合作 | T-1=v | W1=中国科学院—清华大学国情研究中心 | T1=nt | 宣布 | 合作 | 成立 | 聘请 | 国情 | establish
+W-1=即可 | T-1=v | W1=， | T1=w | 差 | 乡里 | 数字 | 即可 | 成立 | 超出 | 数 | be_tenable
+W-1=可以 | T-1=v | W1=。 | T1=w | 概念 | 逻辑 | 可以 | 成立 | be_tenable
+W-1=完全 | T-1=ad | W1=。 | T1=w | 手段 | 达到 | 效果 | 成立 | be_tenable
+W-1=能 | T-1=v | W1=。 | T1=w | 吸烟 | 致癌 | 说法 | 能 | 成立 | be_tenable
+W-1=罪名 | T-1=n | W1=， | T1=w | 法庭 | 裁定 | 罪名 | 成立 | 有 | 可能 | be_tenable
+W-1=能够 | T-1=v | W1=。 | T1=w | 罪名 | 能够 | 成立 | be_tenable
+W-1=能 | T-1=v | W1=， | T1=w | 证据 | 罪 | 能 | 成立 | 宣告 | 无罪 | be_tenable
+W-1=罪名 | T-1=n | W1=， | T1=w | 教唆 | 犯罪 | 罪行 | 罪名 | 成立 | 人 | 可能 | be_tenable
+W-1=一经 | T-1=d | W1=， | T1=w | 保险 | 合同 | 成立 | 双方 | 当事人 | be_tenable
+W-1=合同 | T-1=n | W1=后 | T1=f | 合同 | 成立 | 投保人 | 应 | 签订 | be_tenable
+W-1=告 | T-1=v | W1=， | T1=w | 达成 | 协议 | 合同 | 告 | 成立 | 投保人 | 有权 | 保险人 | 处 | be_tenable
+W-1=能 | T-1=v | W1=吗 | T1=y | 技术 | 有 | 难度 | 说 | 能 | 成立 | 清单 | 意识 | be_tenable
+W-1=能 | T-1=v | W1=的 | T1=u | 理由 | 是 | 能 | 成立 | 能 | be_tenable

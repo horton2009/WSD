@@ -1,29 +1,29 @@
-W-2=几乎 | T-2=d | W-1=全部 | T-1=m | W1=自己 | T1=r | W2=纯熟 | T2=ad | repudiate
-W-2=岂 | T-2=d | W-1=容 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | repudiate
-W-2=是 | T-2=v | W-1=想 | T-1=v | W1=牛顿 | T1=nr | W2=、 | T2=w | repudiate
-W-2=也 | T-2=d | W-1=无法 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | repudiate
-W-2=” | T-2=w | W-1=不仅 | T-1=c | W1=不 | T1=d | W2=了 | T2=v | repudiate
-W-2=看待 | T-2=v | W-1=， | T-1=w | W1=了 | T1=u | W2=“ | T2=w | repudiate
-W-2=” | T-2=w | W-1=， | T-1=w | W1=长期 | T1=d | W2=为 | T2=p | repudiate
-W-2=扮演 | T-2=v | W-1=预言 | T-1=n | W1=者 | T1=k | W2=的 | T2=u | repudiate
-W-2=干预 | T-2=v | W-1=， | T-1=w | W1=北领地 | T1=ns | W2=的 | T2=u | repudiate
-W-2=干预 | T-2=v | W-1=和 | T-1=c | W1=领地 | T1=n | W2=的 | T2=u | repudiate
-W-2=取证 | T-2=v | W-1=， | T-1=w | W1=了 | T1=u | W2=先前 | T2=t | repudiate
-W-2=是 | T-2=v | W-1=企图 | T-1=v | W1=和 | T1=c | W2=否定 | T2=v | repudiate
-W-2=， | T-2=w | W-1=法院 | T-1=n | W1=了 | T1=u | W2=移民局 | T2=n | repudiate
-W-2=发现 | T-2=vn | W-1=， | T-1=w | W1=了 | T1=u | W2=“ | T2=w | repudiate
-W-2=， | T-2=w | W-1=事实 | T-1=n | W1=了 | T1=u | W2=日方 | T2=n | repudiate
-W-2=大量 | T-2=m | W-1=要求 | T-1=v | W1=杰克逊 | T1=nr | W2=判决 | T2=vn | repudiate
-W-2=奋斗 | T-2=v | W-1=， | T-1=w | W1=了 | T1=u | W2=封建主义 | T2=n | overthrow
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=叶利钦 | T-1=nr | W1=了 | T1=u | W2=一个 | T2=m | overthrow
-W-2=领导 | T-2=v | W-1=人民 | T-1=n | W1=封建 | T1=a | W2=统治 | T2=vn | overthrow
-W-2=范围 | T-2=n | W-1=内 | T-1=f | W1=种族 | T1=n | W2=隔离 | T2=vn | overthrow
-W-2=辛亥革命 | T-2=nz | W-1=， | T-1=w | W1=了 | T1=u | W2=统治 | T2=v | overthrow
-W-2=中国 | T-2=ns | W-1=人民 | T-1=n | W1=了 | T1=u | W2=三座大山 | T2=l | overthrow
-W-2=， | T-2=w | W-1=为 | T-1=p | W1=“ | T1=w | W2=三座大山 | T2=l | overthrow
-W-2=革命 | T-2=vn | W-1=， | T-1=w | W1=了 | T1=u | W2=“ | T2=w | overthrow
-W-2=进而 | T-2=c | W-1=策划 | T-1=v | W1=马瓦德 | T1=nr | W2=政府 | T2=n | overthrow
-W-2=21日 | T-2=t | W-1=被 | T-1=p | W1=后 | T1=f | W2=由 | T2=p | overthrow
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=了 | T1=u | W2=阶级 | T2=n | overthrow
-W-2=9月 | T-2=t | W-1=4日 | T-1=t | W1=第二 | T1=m | W2=帝国 | T2=n | overthrow
-W-2=起来 | T-2=v | W-1=， | T-1=w | W1=了 | T1=u | W2=三座大山 | T2=l | overthrow
+W-1=全部 | T-1=m | W1=自己 | T1=r | 推翻 | 勾画 | repudiate
+W-1=容 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | 容 | 篡改 | 铁 | 容 | 推翻 | repudiate
+W-1=想 | T-1=v | W1=牛顿 | T1=nr | 学术 | 是 | 想 | 推翻 | 有 | repudiate
+W-1=无法 | T-1=v | W1=。 | T1=w | 无法 | 推翻 | repudiate
+W-1=不仅 | T-1=c | W1=不 | T1=d | 抛 | 出 | 推翻 | 了 | 原则 | repudiate
+W-1=， | T-1=w | W1=了 | T1=u | 作为 | 国家 | 来 | 看待 | 推翻 | repudiate
+W-1=， | T-1=w | W1=长期 | T1=d | 实行 | 干涉主义 | 推翻 | 世界 | 公认 | repudiate
+W-1=预言 | T-1=n | W1=者 | T1=k | 扮演 | 预言 | 推翻 | 角色 | repudiate
+W-1=， | T-1=w | W1=北领地 | T1=ns | 敦促 | 联邦 | 政府 | 出面 | 干预 | 推翻 | 强制 | 判刑 | 法 | repudiate
+W-1=和 | T-1=c | W1=领地 | T1=n | 宪法 | 规定 | 联邦 | 有权 | 干预 | 推翻 | 领地 | 法律 | repudiate
+W-1=， | T-1=w | W1=了 | T1=u | 警方 | 调查 | 取证 | 推翻 | 确认 | repudiate
+W-1=企图 | T-1=v | W1=和 | T1=c | 尊重 | 是 | 企图 | 推翻 | 否定 | 原则 | repudiate
+W-1=法院 | T-1=n | W1=了 | T1=u | 法院 | 推翻 | 移民局 | 决定 | repudiate
+W-1=， | T-1=w | W1=了 | T1=u | 世纪 | 曙猿 | 推翻 | 人类 | 起源 | repudiate
+W-1=事实 | T-1=n | W1=了 | T1=u | 宝钢 | 节省 | 外汇 | 事实 | 推翻 | 日方 | 专家 | 结论 | repudiate
+W-1=要求 | T-1=v | W1=杰克逊 | T1=nr | 文件 | 列举 | 要求 | 推翻 | 理由 | repudiate
+W-1=， | T-1=w | W1=了 | T1=u | 人民 | 奋斗 | 推翻 | 封建主义 | 帝国主义 | 官僚资本主义 | overthrow
+W-1=叶利钦 | T-1=nr | W1=了 | T1=u | 推翻 | 世界 | overthrow
+W-1=人民 | T-1=n | W1=封建 | T1=a | 口号 | 领导 | 人民 | 推翻 | overthrow
+W-1=内 | T-1=f | W1=种族 | T1=n | 点燃 | 全国 | 范围 | 推翻 | 种族 | 制度 | overthrow
+W-1=， | T-1=w | W1=了 | T1=u | 领导 | 推翻 | 统治 | overthrow
+W-1=人民 | T-1=n | W1=了 | T1=u | 核心 | 领导 | 人民 | 推翻 | 赢得 | 人民 | overthrow
+W-1=为 | T-1=p | W1=“ | T1=w | 组织 | 大军 | 推翻 | 建立 | overthrow
+W-1=， | T-1=w | W1=了 | T1=u | 参加 | 推翻 | overthrow
+W-1=策划 | T-1=v | W1=马瓦德 | T1=nr | 法院 | 大厦 | 策划 | 推翻 | 政府 | overthrow
+W-1=被 | T-1=p | W1=后 | T1=f | 是 | 总统 | 推翻 | 总统 | 升 | 为 | overthrow
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=了 | T1=u | 推翻 | 阶级 | 社会 | 生产力 | overthrow
+W-1=4日 | T-1=t | W1=第二 | T1=m | 作 | 推翻 | 帝国 | overthrow
+W-1=， | T-1=w | W1=了 | T1=u | 人民 | 群众 | 组织 | 发动 | 起来 | 推翻 | 建立 | overthrow

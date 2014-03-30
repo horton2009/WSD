@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from nltk.classify import NaiveBayesClassifier
+from NLTK_classify import NaiveBayesClassifier
 
 from base_wsd import BaseWSDI
+import util
 
 
 class NaiveBayesWSD(BaseWSDI):
@@ -19,6 +20,7 @@ class NaiveBayesWSD(BaseWSDI):
 def main():
     wsd = NaiveBayesWSD()
     wsd.run()
+    util.evaluate("../result/NaiveBayesWSD_result.txt", "../result/test_answer")
 
 
 if __name__ == '__main__':

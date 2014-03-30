@@ -126,11 +126,11 @@ class bpTest(object):
 
             bpNet=ANN.BackPropNet()
             bpNet.addinput(inNum)
-            bpNet.addhidden(15)
+            bpNet.addhidden(5)
             bpNet.addouput(outNum)
 
             print "Learning",name
-            bpNet.learn(examplars,80)
+            bpNet.learn(examplars,40)
             print "Predict",name
             results = bpNet.run(inputs)
             print "Writting result..."

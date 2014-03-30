@@ -1,47 +1,47 @@
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=明天 | T-1=t | W1=预报 | T1=vn | W2=（ | T2=w | meteorology
-W-2=的 | T-2=u | W-1=老 | T-1=a | W1=工作者 | T1=n | W2=陈 | T2=nr | meteorology
-W-2=安装 | T-2=v | W-1=当地 | T-1=s | W1=部门 | T1=n | W2=提供 | T2=v | meteorology
-W-2=这种 | T-2=r | W-1=根据 | T-1=p | W1=科学 | T1=ad | W2=安排 | T2=v | meteorology
-W-2=除了 | T-2=p | W-1=与 | T-1=p | W1=部门 | T1=n | W2=合作 | T2=v | meteorology
-W-2=的 | T-2=u | W-1=农业 | T-1=n | W1=服务 | T1=vn | W2=体系 | T2=n | meteorology
-W-2=起 | T-2=v | W-1=了 | T-1=u | W1=微机 | T1=n | W2=终端 | T2=n | meteorology
-W-2=掏钱 | T-2=v | W-1=买 | T-1=v | W1=信息 | T1=n | W2=， | T2=w | meteorology
-W-2=与 | T-2=p | W-1=各级 | T-1=r | W1=部门 | T1=n | W2=建立 | T2=v | meteorology
-W-2=是 | T-2=v | W-1=欧洲 | T-1=ns | W1=研究 | T1=v | W2=的 | T2=u | meteorology
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=专家 | T1=n | W2=提醒 | T2=v | meteorology
-W-2=影响 | T-2=vn | W-1=， | T-1=w | W1=条件 | T1=n | W2=特别 | T2=d | meteorology
-W-2=有利 | T-2=a | W-1=的 | T-1=u | W1=条件 | T1=n | W2=下 | T2=f | meteorology
-W-2=防汛 | T-2=vn | W-1=抗旱 | T-1=vn | W1=预报 | T1=vn | W2=工作 | T2=vn | meteorology
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=部门 | T1=n | W2=预报 | T2=v | meteorology
-W-2=地形 | T-2=n | W-1=和 | T-1=c | W1=原因 | T1=n | W2=， | T2=w | meteorology
-W-2=排放 | T-2=v | W-1=和 | T-1=p | W1=条件 | T1=n | W2=密切 | T2=ad | meteorology
-W-2=扩散 | T-2=v | W-1=的 | T-1=u | W1=条件 | T1=n | W2=， | T2=w | meteorology
-W-2=一定 | T-2=b | W-1=的 | T-1=u | W1=条件 | T1=n | W2=下 | T2=f | meteorology
-W-2=除 | T-2=p | W-1=自然 | T-1=n | W1=因素 | T1=n | W2=外 | T2=f | meteorology
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=报告 | T1=n | W2=说 | T2=v | meteorology
-W-2=美国国家气象局 | T-2=nt | W-1=的 | T-1=u | W1=学家 | T1=n | W2=说 | T2=v | meteorology
-W-2=要 | T-2=v | W-1=加强 | T-1=v | W1=、 | T1=w | W2=水文 | T2=n | meteorology
-W-2=现代化 | T-2=v | W-1=的 | T-1=u | W1=、 | T1=w | W2=水文 | T2=n | meteorology
-W-2=根据 | T-2=p | W-1=新近 | T-1=d | W1=资料 | T1=n | W2=分析 | T2=v | meteorology
-W-2=动物 | T-2=n | W-1=和 | T-1=c | W1=， | T1=w | W2=代表 | T2=v | meteorology
-W-2=库存 | T-2=n | W-1=、 | T-1=w | W1=等 | T1=u | W2=信息 | T2=n | meteorology
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=据 | T-1=p | W1=部门 | T1=n | W2=预报 | T2=v | meteorology
-W-2=科学院 | T-2=n | W-1=农业 | T-1=n | W1=研究所 | T1=n | W2=环境 | T2=n | PW=中国农业科学院农业气象研究所环境工程室 | PT=nt | meteorology
-W-2=气流 | T-2=n | W-1=等 | T-1=u | W1=要素 | T1=n | W2=变化无常 | T2=i | meteorology
-W-2=的 | T-2=u | W-1=新 | T-1=a | W1=、 | T1=w | W2=新 | T2=a | atmosphere
-W-2=有 | T-2=v | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | atmosphere
-W-2=片 | T-2=q | W-1=新 | T-1=a | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | atmosphere
-W-2=千年 | T-2=t | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | atmosphere
-W-2=某些 | T-2=r | W-1=新 | T-1=a | W1=， | T1=w | W2=终于 | T2=d | atmosphere
-W-2=、 | T-2=w | W-1=盛唐 | T-1=t | W1=， | T1=w | W2=我们 | T2=r | atmosphere
-W-2=祖国 | T-2=n | W-1=大地 | T-1=n | W1=常 | T1=d | W2=新 | T2=a | atmosphere
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=新 | T1=a | W2=， | T2=w | atmosphere
-W-2=新春 | T-2=t | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | atmosphere
-W-2=的 | T-2=u | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | atmosphere
-W-2=越 | T-2=d | W-1=感 | T-1=Vg | W1=庄严 | T1=a | W2=， | T2=w | atmosphere
-W-2=， | T-2=w | W-1=节前 | T-1=t | W1=劲 | T1=Ag | W2=吹 | T2=v | atmosphere
-W-2=了 | T-2=u | W-1=新 | T-1=a | W1=、 | T1=w | W2=新 | T2=a | atmosphere
-W-2=的 | T-2=u | W-1=宏大 | T-1=a | W1=， | T1=w | W2=转 | T2=v | atmosphere
-W-2=的 | T-2=u | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | atmosphere
-W-2=的 | T-2=u | W-1=新 | T-1=a | W1=； | T1=w | W2=通过 | T2=p | atmosphere
-W-2=许多 | T-2=m | W-1=新 | T-1=a | W1=， | T1=w | W2=人民 | T2=n | atmosphere
+W-1=明天 | T-1=t | W1=预报 | T1=vn | 气象 | meteorology
+W-1=老 | T-1=a | W1=工作者 | T1=n | 进 | 气象 | 工作者 | meteorology
+W-1=当地 | T-1=s | W1=部门 | T1=n | 热衷 | 家 | 安装 | 气象 | 部门 | 提供 | 天气预报器 | meteorology
+W-1=根据 | T-1=p | W1=科学 | T1=ad | 气象 | 安排 | 现象 | meteorology
+W-1=与 | T-1=p | W1=部门 | T1=n | 气象 | 部门 | 合作 | 农民 | meteorology
+W-1=农业 | T-1=n | W1=服务 | T1=vn | 建立 | 农业 | 气象 | 体系 | meteorology
+W-1=了 | T-1=u | W1=微机 | T1=n | 市 | 建 | 起 | 气象 | 微机 | 终端 | 农民 | 拨 | meteorology
+W-1=买 | T-1=v | W1=信息 | T1=n | 商家 | 重视 | 掏钱 | 买 | 气象 | 信息 | 天机 | meteorology
+W-1=各级 | T-1=r | W1=部门 | T1=n | 商家 | 气象 | 部门 | 建立 | 关系 | meteorology
+W-1=欧洲 | T-1=ns | W1=研究 | T1=v | 洋面 | 大气 | 是 | 气象 | 研究 | 关键 | meteorology
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=专家 | T1=n | 气象 | 专家 | 提醒 | 注意 | 防寒 | 防冻 | meteorology
+W-1=， | T-1=w | W1=条件 | T1=n | 偏 | 暖湿气流 | 气象 | 条件 | 有利于 | 形成 | 降水 | meteorology
+W-1=的 | T-1=u | W1=条件 | T1=n | 增 | 雪 | 可以 | 气象 | 条件 | 增加 | 降水量 | meteorology
+W-1=抗旱 | T-1=vn | W1=预报 | T1=vn | 抗旱 | 做好 | 气象 | meteorology
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=部门 | T1=n | 气象 | 部门 | 预报 | 说 | meteorology
+W-1=和 | T-1=c | W1=原因 | T1=n | 地形 | 气象 | 原因 | 加上 | 经济 | 社会 | meteorology
+W-1=和 | T-1=p | W1=条件 | T1=n | 大气 | 环境 | 质量 | 污染物 | 排放 | 气象 | 条件 | 相关 | meteorology
+W-1=的 | T-1=u | W1=条件 | T1=n | 利于 | 污染物 | 扩散 | 气象 | 条件 | 改善 | 大气 | 环境 | meteorology
+W-1=的 | T-1=u | W1=条件 | T1=n | 气象 | 条件 | 氮氧化物 | 二氧化硫 | meteorology
+W-1=自然 | T-1=n | W1=因素 | T1=n | 自然 | 气象 | 因素 | 地面 | 裸露 | meteorology
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=报告 | T1=n | 气象 | 报告 | 说 | 大旱 | meteorology
+W-1=的 | T-1=u | W1=学家 | T1=n | 气象 | 学家 | 说 | 雪暴 | 是 | meteorology
+W-1=加强 | T-1=v | W1=、 | T1=w | 工程 | 措施 | 要 | 加强 | 气象 | 水文 | 通讯 | meteorology
+W-1=的 | T-1=u | W1=、 | T1=w | 建设 | 现代化 | 气象 | 水文 | 设施 | meteorology
+W-1=新近 | T-1=d | W1=资料 | T1=n | 气象 | 资料 | 分析 | 预计 | meteorology
+W-1=和 | T-1=c | W1=， | T1=w | 导致 | 龙 | 形成 | 动物 | 气象 | 代表 | 古人 | 心目 | meteorology
+W-1=、 | T-1=w | W1=等 | T1=u | 提供 | 价格 | 库存 | 气象 | 信息 | 提供 | 市场 | meteorology
+W-1=据 | T-1=p | W1=部门 | T1=n | 气象 | 部门 | 预报 | meteorology
+W-1=农业 | T-1=n | W1=研究所 | T1=n | PW=中国农业科学院农业气象研究所环境工程室 | PT=nt | 是 | 农业 | 科学院 | 农业 | 气象 | 研究所 | 环境 | 工程室 | 主任 | meteorology
+W-1=等 | T-1=u | W1=要素 | T1=n | 气温 | 气压 | 气流 | 气象 | 要素 | 季节 | 是 | meteorology
+W-1=新 | T-1=a | W1=、 | T1=w | 开放 | 城市 | 乡村 | 气象 | 是 | atmosphere
+W-1=新 | T-1=a | W1=。 | T1=w | 要 | 有 | 气象 | atmosphere
+W-1=新 | T-1=a | W1=NULL_TAIL | T1=NULL_TAIL | 男篮 | 联赛 | 打 | 出 | 气象 | atmosphere
+W-1=新 | T-1=a | W1=。 | T1=w | 是 | 气象 | atmosphere
+W-1=新 | T-1=a | W1=， | T1=w | 带来 | 气象 | atmosphere
+W-1=盛唐 | T-1=t | W1=， | T1=w | 民族 | 雄风 | 气象 | 祖先 | 虎踞 | atmosphere
+W-1=大地 | T-1=n | W1=常 | T1=d | 读书 | 学习 | 愿 | 祖国 | 大地 | 气象 | atmosphere
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=新 | T1=a | 气象 | 好运 | atmosphere
+W-1=的 | T-1=u | W1=。 | T1=w | 土墙 | 土屋 | 增添 | 亮色 | 气象 | atmosphere
+W-1=新 | T-1=a | W1=。 | T1=w | 强化 | 力度 | 气象 | atmosphere
+W-1=感 | T-1=Vg | W1=庄严 | T1=a | 走向 | 纵深 | 气象 | atmosphere
+W-1=节前 | T-1=t | W1=劲 | T1=Ag | 农村 | 气象 | 吹 | 新风 | atmosphere
+W-1=新 | T-1=a | W1=、 | T1=w | 主席 | 有 | 气象 | 希望 | atmosphere
+W-1=宏大 | T-1=a | W1=， | T1=w | 音 | 气象 | 转 | 文人 | 唱词 | atmosphere
+W-1=新 | T-1=a | W1=。 | T1=w | 个体 | 办 | 体育 | 气象 | atmosphere
+W-1=新 | T-1=a | W1=； | T1=w | 出现 | 气象 | 人际 | 关系 | atmosphere
+W-1=新 | T-1=a | W1=， | T1=w | 出现 | 气象 | 人民 | atmosphere

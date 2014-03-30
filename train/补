@@ -1,63 +1,63 @@
-W-2=一 | T-2=m | W-1=部分 | T-1=n | W1=进 | T1=v | W2=了 | T2=u | supply
-W-2=条目 | T-2=n | W-1=， | T-1=w | W1=入 | T1=v | W2=了 | T2=u | supply
-W-2=， | T-2=w | W-1=占 | T-1=v | W1=平衡 | T1=an | W2=并 | T2=c | supply
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=查 | T-1=v | W1=税款 | T1=n | W2=三亿 | T2=m | supply
-W-2=， | T-2=w | W-1=或 | T-1=c | W1=上 | T1=v | W2=老师 | T2=n | supply
-W-2=选用 | T-2=v | W-1=电控 | T-1=v | W1=气 | T1=n | W2=加 | T2=v | supply
-W-2=名 | T-2=q | W-1=劳动者 | T-1=n | W1=签 | T1=v | W2=了 | T2=u | supply
-W-2=野生 | T-2=b | W-1=动物 | T-1=n | W1=上 | T1=v | W2=一 | T2=m | supply
-W-2=占 | T-2=v | W-1=一 | T-1=m | W1=一 | T1=m | W2=； | T2=w | supply
-W-2=的 | T-2=u | W-1=电控 | T-1=vn | W1=气 | T1=n | W2=装置 | T2=n | supply
-W-2=， | T-2=w | W-1=集体 | T-1=n | W1=一点 | T1=m | W2=， | T2=w | supply
-W-2=以 | T-2=p | W-1=劳 | T-1=v | W1=农 | T1=Ng | W2=、 | T2=w | supply
-W-2=缺 | T-2=v | W-1=什么 | T-1=r | W1=什么 | T1=r | W2=， | T2=w | supply
-W-2=奖 | T-2=n | W-1=代 | T-1=v | W1=” | T1=w | W2=政策 | T2=n | supply
-W-2=能 | T-2=v | W-1=尽快 | T-1=d | W1=上 | T1=v | W2=无神论 | T2=n | supply
-W-2=很 | T-2=d | W-1=想 | T-1=v | W1=一 | T1=m | W2=补 | T2=v | supply
-W-2=长 | T-2=Ng | W-1=， | T-1=w | W1=己 | T1=r | W2=之 | T2=u | supply
-W-2=堤 | T-2=n | W-1=外 | T-1=f | W1=” | T1=w | W2=， | T2=w | supply
-W-2=期股 | T-2=n | W-1=收入 | T-1=n | W1=， | T1=w | W2=期股 | T2=n | supply
-W-2=实股 | T-2=n | W-1=收入 | T-1=n | W1=， | T1=w | W2=实股 | T2=n | supply
-W-2=缺 | T-2=n | W-1=， | T-1=w | W1=社会 | T1=n | W2=之 | T2=u | supply
-W-2=给 | T-2=p | W-1=它 | T-1=r | W1=民主 | T1=a | W2=课 | T2=n | supply
-W-2=退 | T-2=v | W-1=少 | T-1=d | W1=， | T1=w | W2=事实上 | T2=l | supply
-W-2=之 | T-2=u | W-1=长 | T-1=Ng | W1=己 | T1=r | W2=不足 | T2=vn | supply
-W-2=损失 | T-2=n | W-1=市场 | T-1=n | W1=” | T1=w | W2=的 | T2=u | supply
-W-2=收入 | T-2=n | W-1=不仅 | T-1=c | W1=上 | T1=v | W2=了 | T2=u | supply
-W-2=林地 | T-2=n | W-1=上 | T-1=f | W1=植 | T1=v | W2=了 | T2=u | supply
-W-2=要求 | T-2=v | W-1=临时 | T-1=d | W1=聘 | T1=v | W2=服务 | T2=vn | supply
-W-2=损失 | T-2=v | W-1=课外 | T-1=t | W1=” | T1=w | W2=， | T2=w | supply
-W-2=出 | T-2=v | W-1=要 | T-1=v | W1=中国 | T1=ns | W2=历史 | T2=n | supply
-W-2=， | T-2=w | W-1=那 | T-1=r | W1=了 | T1=u | W2=又 | T2=d | repair
-W-2=东 | T-2=f | W-1=墙 | T-1=n | W1=西 | T1=f | W2=墙 | T2=n | repair
-W-2=修车 | T-2=v | W-1=、 | T-1=w | W1=鞋 | T1=n | W2=、 | T2=w | repair
-W-2=洞 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=大 | T2=a | repair
-W-2=洞 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=大 | T2=a | repair
-W-2=查 | T-2=v | W-1=漏 | T-1=v | W1=洞 | T1=n | W2=、 | T2=w | repair
-W-2=都 | T-2=d | W-1=要 | T-1=v | W1=上 | T1=v | W2=几 | T2=m | repair
-W-2=渔漂 | T-2=n | W-1=， | T-1=w | W1=扇贝 | T1=n | W2=笼 | T2=Ng | repair
-W-2=为 | T-2=p | W-1=找钱 | T-1=v | W1=窟窿 | T1=n | W2=着急 | T2=a | repair
-W-2=“ | T-2=w | W-1=进 | T-1=v | W1=” | T1=w | W2=， | T2=w | nourish
-W-2=那么 | T-2=r | W-1=“ | T-1=w | W1=” | T1=w | W2=吗 | T2=y | nourish
-W-2=， | T-2=w | W-1=进 | T-1=v | W1=不 | T1=d | W2=成 | T2=v | nourish
-W-2=髓 | T-2=Ng | W-1=、 | T-1=w | W1=精 | T1=Ng | W2=益 | T2=Vg | nourish
-W-2=胡乱 | T-2=d | W-1=进 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | nourish
-W-2=比如 | T-2=v | W-1=， | T-1=w | W1=钙 | T1=n | W2=类 | T2=n | nourish
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=钙 | T1=n | W2=是 | T2=v | nourish
-W-2=吃 | T-2=v | W-1=什么 | T-1=r | W1=什么 | T1=r | W2=” | T2=w | nourish
-W-2=新鲜 | T-2=a | W-1=猪肝 | T-1=n | W1=身体 | T1=n | W2=， | T2=w | nourish
-W-2=的 | T-2=u | W-1=“ | T-1=w | W1=肾 | T1=n | W2=” | T2=w | nourish
-W-2=， | T-2=w | W-1=以 | T-1=p | W1=肾 | T1=n | W2=中药 | T2=n | nourish
-W-2=吃 | T-2=v | W-1=乱 | T-1=d | W1=， | T1=w | W2=公款 | T2=n | nourish
-W-2=身体 | T-2=n | W-1=无 | T-1=v | W1=， | T1=w | W2=而且 | T2=c | nourish
-W-2=产品 | T-2=n | W-1=安神 | T-1=v | W1=脑 | T1=n | W2=液 | T2=Ng | nourish
-W-2=当 | T-2=p | W-1=安神 | T-1=v | W1=脑 | T1=n | W2=液 | T2=Ng | nourish
-W-2=， | T-2=w | W-1=安神 | T-1=v | W1=脑 | T1=n | W2=液 | T2=Ng | nourish
-W-2=改造 | T-2=v | W-1=安神 | T-1=v | W1=脑 | T1=n | W2=液 | T2=Ng | nourish
-W-2=新品 | T-2=n | W-1=安神 | T-1=v | W1=脑 | T1=n | W2=液 | T2=Ng | nourish
-W-2=敖东牌 | T-2=nz | W-1=安神 | T-1=v | W1=脑 | T1=n | W2=液 | T2=Ng | nourish
-W-2=、 | T-2=w | W-1=静脉 | T-1=n | W1=液 | T1=Ng | W2=和 | T2=c | nourish
-W-2=国安队 | T-2=nt | W-1=“ | T-1=w | W1=钙 | T1=n | W2=” | T2=w | nourish
-W-2=指定 | T-2=v | W-1=专用 | T-1=vn | W1=钙 | T1=n | W2=产品 | T2=n | nourish
-W-2=急需 | T-2=v | W-1=‘ | T-1=w | W1=钙 | T1=n | W2=’ | T2=w | nourish
-W-2=素质 | T-2=n | W-1=需要 | T-1=v | W1=钙 | T1=n | W2=， | T2=w | nourish
+W-1=部分 | T-1=n | W1=进 | T1=v | 交 | 党费 | 部分 | 补 | 进 | 伙食 | supply
+W-1=， | T-1=w | W1=入 | T1=v | 家政 | 方面 | 条目 | 补 | 入 | 版 | 问世 | supply
+W-1=占 | T-1=v | W1=平衡 | T1=an | 开发 | 复垦 | 耕地 | 占 | 补 | 有 | 盈余 | supply
+W-1=查 | T-1=v | W1=税款 | T1=n | 查 | 补 | 税款 | supply
+W-1=或 | T-1=c | W1=上 | T1=v | 老师 | 无 | 款 | 作品 | 补 | 上 | 老师 | 名款 | 印章 | supply
+W-1=电控 | T-1=v | W1=气 | T1=n | 选用 | 电控 | 补 | 气 | 加 | 装置 | supply
+W-1=劳动者 | T-1=n | W1=签 | T1=v | 责令 | 单位 | 劳动者 | 补 | 签 | 合同 | 责令 | supply
+W-1=动物 | T-1=n | W1=上 | T1=v | 毒死 | 动物 | 补 | 上 | 卖 | supply
+W-1=一 | T-1=m | W1=一 | T1=m | 建设 | 复垦 | 占 | 补 | 可 | 造 | supply
+W-1=电控 | T-1=vn | W1=气 | T1=n | 安装 | 指定 | 补 | 气 | 装置 | 到 | supply
+W-1=集体 | T-1=n | W1=一点 | T1=m | 国家 | 扶持 | 集体 | 补 | 单位 | 援助 | supply
+W-1=劳 | T-1=v | W1=农 | T1=Ng | 开展 | 劳 | 补 | 钱 | 补 | 粮 | supply
+W-1=什么 | T-1=r | W1=什么 | T1=r | 实践 | 学习 | 缺 | 补 | 方面 | 知识 | supply
+W-1=代 | T-1=v | W1=” | T1=w | 采取 | 奖 | 代 | 补 | 政策 | supply
+W-1=尽快 | T-1=d | W1=上 | T1=v | 希望 | 能 | 补 | 上 | 无神论 | 唯物主义 | supply
+W-1=想 | T-1=v | W1=一 | T1=m | 想 | 补 | 补 | 基本功 | 缺欠 | supply
+W-1=， | T-1=w | W1=己 | T1=r | 学 | 人 | 补 | 深入 | 基层 | supply
+W-1=外 | T-1=f | W1=” | T1=w | 损失 | 堤 | 补 | 发展 | supply
+W-1=收入 | T-1=n | W1=， | T1=w | 期股 | 收入 | 补 | 期股 | 收入 | 期股 | 总额 | supply
+W-1=收入 | T-1=n | W1=， | T1=w | 实股 | 收入 | 补 | 实股 | 收入 | 实股 | supply
+W-1=， | T-1=w | W1=社会 | T1=n | 拾 | 社会 | 缺 | 补 | 社会 | supply
+W-1=它 | T-1=r | W1=民主 | T1=a | 需要 | 补 | 课 | supply
+W-1=少 | T-1=d | W1=， | T1=w | 费用 | 说 | 是 | 退 | 补 | 收 | supply
+W-1=长 | T-1=Ng | W1=己 | T1=r | 产品 | 人 | 补 | supply
+W-1=市场 | T-1=n | W1=” | T1=w | 采取 | 港口 | 损失 | 市场 | 补 | 策略 | supply
+W-1=不仅 | T-1=c | W1=上 | T1=v | 进款 | 收入 | 补 | 上 | supply
+W-1=上 | T-1=f | W1=植 | T1=v | 人 | 毁 | 林地 | 补 | 植 | 落叶松 | supply
+W-1=临时 | T-1=d | W1=聘 | T1=v | 说 | 要求 | 补 | 聘 | 人员 | 电话 | supply
+W-1=课外 | T-1=t | W1=” | T1=w | 学校 | 损失 | 补 | 开办 | 补习班 | supply
+W-1=要 | T-1=v | W1=中国 | T1=ns | 提 | 出 | 要 | 补 | 历史 | 毕业 | supply
+W-1=那 | T-1=r | W1=了 | T1=u | 手表 | 补 | 补 | 睡衣 | repair
+W-1=墙 | T-1=n | W1=西 | T1=f | 是 | 拆 | 墙 | 补 | 墙 | 保障 | 经济 | repair
+W-1=、 | T-1=w | W1=鞋 | T1=n | 提供 | 修车 | 补 | 鞋 | 修 | 电器 | 医疗 | repair
+W-1=不 | T-1=d | W1=， | T1=w | 说 | 洞 | 补 | 洞 | 堵 | repair
+W-1=不 | T-1=d | W1=， | T1=w | 说 | 洞 | 补 | 洞 | 堵 | repair
+W-1=漏 | T-1=v | W1=洞 | T1=n | 做到 | 查 | 漏 | 补 | 洞 | 切 | 问 | 病 | repair
+W-1=要 | T-1=v | W1=上 | T1=v | 内裤 | 要 | 补 | 上 | 补钉 | repair
+W-1=， | T-1=w | W1=扇贝 | T1=n | 放 | 渔漂 | 补 | 扇贝 | repair
+W-1=找钱 | T-1=v | W1=窟窿 | T1=n | 村干部 | 知 | 找钱 | 补 | 窟窿 | repair
+W-1=进 | T-1=v | W1=” | T1=w | 市民 | 喝 | 蛇血 | 进 | 补 | 想 | 补 | nourish
+W-1=“ | T-1=w | W1=” | T1=w | 蛇 | 肉 | 补 | nourish
+W-1=进 | T-1=v | W1=不 | T1=d | 动物 | 进 | 补 | 成 | 受 | 害 | nourish
+W-1=、 | T-1=w | W1=精 | T1=Ng | 中医 | 壮 | 生 | 补 | 血 | 治则 | nourish
+W-1=进 | T-1=v | W1=。 | T1=w | 找 | 医生 | 进 | 补 | nourish
+W-1=， | T-1=w | W1=钙 | T1=n | 比如 | 补 | 钙 | 类 | 保健 | 食品 | 包装 | nourish
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=钙 | T1=n | 补 | 钙 | 是 | 好事 | 吃 | nourish
+W-1=什么 | T-1=r | W1=什么 | T1=r | 盛 | 有 | 吃 | 补 | 观念 | nourish
+W-1=猪肝 | T-1=n | W1=身体 | T1=n | 猪肝 | 补 | 身体 | 煎 | 炒 | nourish
+W-1=“ | T-1=w | W1=肾 | T1=n | 补 | 肾 | 肾 | nourish
+W-1=以 | T-1=p | W1=肾 | T1=n | 皮质 | 类固醇 | 值 | 补 | 肾 | 中药 | 治疗 | 可 | nourish
+W-1=乱 | T-1=d | W1=， | T1=w | 乡 | 村 | 干部 | 吃 | 补 | 公款 | 旅游 | 有 | nourish
+W-1=无 | T-1=v | W1=， | T1=w | 进补 | 身体 | 无 | 补 | 会 | 吃 | 出 | nourish
+W-1=安神 | T-1=v | W1=脑 | T1=n | 打 | 产品 | 安神 | 补 | 脑 | 是 | nourish
+W-1=安神 | T-1=v | W1=脑 | T1=n | 安神 | 补 | 脑 | 处在 | 市场 | nourish
+W-1=安神 | T-1=v | W1=脑 | T1=n | 安神 | 补 | 脑 | 利脑心 | 血府逐瘀 | nourish
+W-1=安神 | T-1=v | W1=脑 | T1=n | 液相 | 检测仪 | 改造 | 安神 | 补 | 脑 | 工艺 | nourish
+W-1=安神 | T-1=v | W1=脑 | T1=n | 流程 | 推出 | 新品 | 安神 | 补 | 脑 | 质量 | 稳定性 | nourish
+W-1=安神 | T-1=v | W1=脑 | T1=n | 安神 | 补 | 脑 | 获得 | nourish
+W-1=静脉 | T-1=n | W1=液 | T1=Ng | 心 | 扩张 | 血管 | 静脉 | 补 | 纠正 | 酸中毒 | 手段 | nourish
+W-1=“ | T-1=w | W1=钙 | T1=n | 补 | 钙 | nourish
+W-1=专用 | T-1=vn | W1=钙 | T1=n | 钙 | 指定 | 补 | 钙 | 产品 | 新闻 | 发布会 | nourish
+W-1=‘ | T-1=w | W1=钙 | T1=n | 急需 | 补 | 钙 | nourish
+W-1=需要 | T-1=v | W1=钙 | T1=n | 队员 | 要 | 提高 | 身体 | 素质 | 需要 | 补 | 钙 | nourish

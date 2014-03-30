@@ -1,39 +1,39 @@
-W-2=春天 | T-2=t | W-1=的 | T-1=u | W1=： | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=的 | T-2=u | W-1=时代 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=艺术 | T-2=n | W-1=的 | T-1=u | W1=我 | T1=r | W2=感到 | T2=v | spirit
-W-2=节日 | T-2=n | W-1=喜庆 | T-1=vn | W1=扑面而来 | T1=l | W2=。 | T2=w | spirit
-W-2=一点 | T-2=m | W-1=现代化 | T-1=vn | W1=就 | T1=d | W2=只 | T2=d | spirit
-W-2=和 | T-2=c | W-1=地方 | T-1=n | W1=， | T1=w | W2=折射 | T2=v | spirit
-W-2=的 | T-2=u | W-1=书画 | T-1=n | W1=…… | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=充满 | T-2=v | W-1=青春 | T-1=n | W1=的 | T1=u | W2=卡通 | T2=n | spirit
-W-2=充满 | T-2=v | W-1=文人 | T-1=n | W1=的 | T1=u | W2=叙述 | T2=vn | spirit
-W-2=酷烈 | T-2=a | W-1=的 | T-1=u | W1=以及 | T1=c | W2=水墨 | T2=n | spirit
-W-2=， | T-2=w | W-1=文化 | T-1=n | W1=异常 | T1=a | W2=的 | T2=u | spirit
-W-2=的 | T-2=u | W-1=人文 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=的 | T-2=u | W-1=生活 | T-1=vn | W1=和 | T1=c | W2=较 | T2=d | spirit
-W-2=富有 | T-2=v | W-1=现代 | T-1=t | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=联合国 | T-2=nt | W-1=官僚 | T-1=n | W1=十足 | T1=z | W2=， | T2=w | spirit
-W-2=浓浓的 | T-2=z | W-1=新春 | T-1=t | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=浓郁 | T-2=a | W-1=时代 | T-1=n | W1=的 | T1=u | W2=表演 | T2=vn | spirit
-W-2=浪漫 | T-2=a | W-1=温馨 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=富 | T-2=Vg | W-1=现代 | T-1=t | W1=的 | T1=u | W2=大 | T2=a | spirit
-W-2=里 | T-2=f | W-1=文化 | T-1=n | W1=更 | T1=d | W2=重 | T2=a | spirit
-W-2=与 | T-2=p | W-1=春天 | T-1=t | W1=相 | T1=d | W2=适应 | T2=v | spirit
-W-2=现代 | T-2=t | W-1=文明 | T-1=n | W1=的 | T1=u | W2=新型 | T2=b | spirit
-W-2=的 | T-2=u | W-1=青春 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | spirit
-W-2=一 | T-2=m | W-1=种 | T-1=q | W1=、 | T1=w | W2=状态 | T2=n | spirit
-W-2=早春 | T-2=t | W-1=的 | T-1=u | W1=， | T1=w | W2=也 | T2=d | spirit
-W-2=的 | T-2=u | W-1=生命 | T-1=n | W1=， | T1=w | W2=同时 | T2=c | spirit
-W-2=的 | T-2=u | W-1=艺术 | T-1=n | W1=和 | T1=c | W2=精湛 | T2=a | spirit
-W-2=出 | T-2=v | W-1=现代 | T-1=t | W1=， | T1=w | W2=就 | T2=d | spirit
-W-2=着 | T-2=u | W-1=艺术 | T-1=n | W1=的 | T1=u | W2=城市 | T2=n | spirit
-W-2=丁点 | T-2=m | W-1=现代化 | T-1=vn | W1=， | T1=w | W2=但 | T2=c | spirit
-W-2=烫 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | smell
-W-2=清新 | T-2=a | W-1=的 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | smell
-W-2=的 | T-2=u | W-1=芬芳 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | smell
-W-2=清爽 | T-2=a | W-1=的 | T-1=u | W1=扑面 | T1=v | W2=， | T2=w | smell
-W-2=雪山 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=森林 | T2=n | smell
-W-2=树叶 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=清凉 | T2=a | smell
-W-2=泥土 | T-2=n | W-1=的 | T-1=u | W1=， | T1=w | W2=多 | T2=v | smell
-W-2=春 | T-2=Tg | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | smell
-W-2=春天 | T-2=t | W-1=的 | T-1=u | W1=已经 | T1=d | W2=弥漫 | T2=v | smell
+W-1=的 | T-1=u | W1=： | T1=w | 洋溢 | 气息 | spirit
+W-1=时代 | T-1=n | W1=。 | T1=w | 洋溢 | 时代 | 气息 | spirit
+W-1=的 | T-1=u | W1=我 | T1=r | 难忘 | 生命 | 艺术 | 气息 | 感到 | 女神 | spirit
+W-1=喜庆 | T-1=vn | W1=扑面而来 | T1=l | 节日 | 气息 | spirit
+W-1=现代化 | T-1=vn | W1=就 | T1=d | 剩下 | 气息 | 有 | 年代 | spirit
+W-1=地方 | T-1=n | W1=， | T1=w | 时代 | 色彩 | 地方 | 气息 | 折射 | 出 | 女人 | spirit
+W-1=书画 | T-1=n | W1=…… | T1=w | 散发 | 书画 | 气息 | spirit
+W-1=青春 | T-1=n | W1=的 | T1=u | 充满 | 青春 | 气息 | 卡通 | 形象 | spirit
+W-1=文人 | T-1=n | W1=的 | T1=u | 浪漫主义 | 情调 | 充满 | 文人 | 气息 | spirit
+W-1=的 | T-1=u | W1=以及 | T1=c | 浩荡 | 才情 | 气息 | 水墨 | 狂涛 | 激浪 | 卷入 | spirit
+W-1=文化 | T-1=n | W1=异常 | T1=a | 迁徙 | 去 | 土地 | 文化 | 气息 | 沉滞 | spirit
+W-1=人文 | T-1=n | W1=。 | T1=w | 醉人 | 人文 | 气息 | spirit
+W-1=生活 | T-1=vn | W1=和 | T1=c | 生命力 | 气息 | 艺术 | 质量 | spirit
+W-1=现代 | T-1=t | W1=。 | T1=w | 古都 | 风貌 | 要 | 富有 | 气息 | spirit
+W-1=官僚 | T-1=n | W1=十足 | T1=z | 骂 | 官僚 | 气息 | 原定 | spirit
+W-1=新春 | T-1=t | W1=。 | T1=w | 让 | 人们 | 提前 | 感受 | 到 | 气息 | spirit
+W-1=时代 | T-1=n | W1=的 | T1=u | 具有 | 时代 | 气息 | spirit
+W-1=温馨 | T-1=a | W1=。 | T1=w | 笑料 | 不乏 | 气息 | spirit
+W-1=现代 | T-1=t | W1=的 | T1=u | 乐曲 | 气息 | 舞台 | 交响乐 | spirit
+W-1=文化 | T-1=n | W1=更 | T1=d | 年味 | 文化 | 气息 | spirit
+W-1=春天 | T-1=t | W1=相 | T1=d | 人 | 缺乏 | 气息 | 适应 | spirit
+W-1=文明 | T-1=n | W1=的 | T1=u | 加工区 | 一身 | 具有 | 文明 | 气息 | 城镇 | 崛起 | spirit
+W-1=青春 | T-1=n | W1=。 | T1=w | 洋溢 | 青春 | 气息 | spirit
+W-1=种 | T-1=q | W1=、 | T1=w | 精神 | 是 | 气息 | 状态 | 作风 | spirit
+W-1=的 | T-1=u | W1=， | T1=w | 人 | 习惯 | 气息 | 有 | 人 | spirit
+W-1=生命 | T-1=n | W1=， | T1=w | 充溢 | 生命 | 气息 | 形象 | spirit
+W-1=艺术 | T-1=n | W1=和 | T1=c | 书画 | 艺术 | 气息 | 艺术 | spirit
+W-1=现代 | T-1=t | W1=， | T1=w | 旧作 | 散发 | 出 | 气息 | 好像 | 时人 | 新作 | spirit
+W-1=艺术 | T-1=n | W1=的 | T1=u | 弥漫 | 艺术 | 气息 | 城市 | spirit
+W-1=现代化 | T-1=vn | W1=， | T1=w | 饭馆 | 无 | 气息 | 体现 | spirit
+W-1=的 | T-1=u | W1=。 | T1=w | 空气 | 散发 | 气息 | smell
+W-1=的 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | 气息 | smell
+W-1=芬芳 | T-1=n | W1=。 | T1=w | 散发 | 出 | 芬芳 | 气息 | smell
+W-1=的 | T-1=u | W1=扑面 | T1=v | 风 | 和 | 有 | 气息 | 扑面 | 富有 | 意境 | 哲理 | smell
+W-1=的 | T-1=u | W1=， | T1=w | 空气 | 弥漫 | 雪山 | 气息 | 森林 | 气息 | 草地 | smell
+W-1=的 | T-1=u | W1=， | T1=w | 雨水 | 濡湿 | 树叶 | 气息 | 芬芳 | smell
+W-1=的 | T-1=u | W1=， | T1=w | 多 | 泥土 | 气息 | 多 | 山花 | 芬芳 | smell
+W-1=的 | T-1=u | W1=。 | T1=w | 弥漫 | 气息 | smell
+W-1=的 | T-1=u | W1=已经 | T1=d | 有 | 寒意 | 气息 | 弥漫 | 山冈 | smell

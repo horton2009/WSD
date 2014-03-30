@@ -1,58 +1,58 @@
-W-2=嘴唇 | T-2=n | W-1=微 | T-1=Ag | W1=， | T1=w | W2=人们 | T2=n | act
-W-2=时 | T-2=Ng | W-1=而 | T-1=c | W1=， | T1=w | W2=顺势 | T2=d | act
-W-2=“ | T-2=w | W-1=一 | T-1=m | W1=而 | T1=c | W2=全 | T2=d | act
-W-2=吹 | T-2=v | W-1=叶 | T-1=Ng | W1=的 | T1=u | W2=沙沙 | T2=o | act
-W-2=上 | T-2=f | W-1=再也 | T-1=d | W1=不 | T1=d | W2=了 | T2=v | act
-W-2=手 | T-2=n | W-1=勿 | T-1=d | W1=” | T1=w | W2=。 | T2=w | act
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=， | T1=w | W2=急 | T2=v | act
-W-2=“ | T-2=w | W-1=不许 | T-1=d | W1=！ | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | act
-W-2=， | T-2=w | W-1=或 | T-1=d | W1=或 | T1=d | W2=静 | T2=a | act
-W-2=联络 | T-2=vn | W-1=“ | T-1=w | W1=中 | T1=f | W2=通 | T2=v | act
-W-2=静 | T-2=a | W-1=似 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | act
-W-2=潮流 | T-2=n | W-1=而 | T-1=c | W1=， | T1=w | W2=加快 | T2=v | act
-W-2=工程 | T-2=n | W-1=前期 | T-1=f | W1=拆迁 | T1=v | W2=和 | T2=c | act
-W-2=潮流 | T-2=n | W-1=而 | T-1=c | W1=的 | T1=u | W2=事 | T2=n | act
-W-2=， | T-2=w | W-1=总是 | T-1=d | W1=与 | T1=c | W2=静 | T2=a | act
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=没有 | T-1=d | W1=， | T1=w | W2=什么 | T2=r | act
-W-2=票价 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=教师 | T2=n | act
-W-2=拨 | T-2=v | W-1=一下 | T-1=m | W1=一下 | T1=m | W2=。 | T2=w | act
-W-2=摇 | T-2=v | W-1=地 | T-1=n | W1=中 | T1=f | W2=， | T2=w | act
-W-2=、 | T-2=w | W-1=一起 | T-1=d | W1=、 | T1=w | W2=一起 | T2=d | act
-W-2=形 | T-2=Ng | W-1=俱 | T-1=Dg | W1=， | T1=w | W2=绝非 | T2=v | act
-W-2=“ | T-2=w | W-1=莲 | T-1=Ng | W1=” | T1=w | W2=也罢 | T2=y | act
-W-2=静 | T-2=a | W-1=怕 | T-1=v | W1=的 | T1=u | W2=性格 | T2=n | act
-W-2=潮流 | T-2=n | W-1=而 | T-1=c | W1=， | T1=w | W2=执意 | T2=d | act
-W-2=英特尔 | T-2=nz | W-1=而 | T-1=c | W1=， | T1=w | W2=始终 | T2=d | act
-W-2=男子 | T-2=n | W-1=不准 | T-1=v | W1=， | T1=w | W2=但 | T2=c | act
-W-2=“ | T-2=w | W-1=不许 | T-1=d | W1=” | T1=w | W2=的 | T2=u | act
-W-2=着 | T-2=u | W-1=未 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | act
-W-2=上下 | T-2=f | W-1=齐 | T-1=d | W1=， | T1=w | W2=下面 | T2=f | act
-W-2=及 | T-2=c | W-1=风 | T-1=n | W1=沙 | T1=n | W2=奔 | T2=v | act
-W-2=为 | T-2=p | W-1=之 | T-1=r | W1=脑 | T1=n | W2=， | T2=w | use
-W-2=就是 | T-2=d | W-1=不 | T-1=d | W1=这个 | T1=r | W2=『 | T2=w | use
-W-2=“ | T-2=w | W-1=君子 | T-1=n | W1=口 | T1=n | W2=不 | T2=d | use
-W-2=结合 | T-2=v | W-1=， | T-1=w | W1=口 | T1=n | W2=、 | T2=w | use
-W-2=安排 | T-2=vn | W-1=上 | T-1=f | W1=了 | T1=u | W2=不少 | T2=m | use
-W-2=说 | T-2=v | W-1=是 | T-1=v | W1=了 | T1=u | W2=脑筋 | T2=n | use
-W-2=初五 | T-2=t | W-1=不准 | T-1=v | W1=刀 | T1=n | W2=动 | T2=v | use
-W-2=就 | T-2=d | W-1=扣 | T-1=v | W1=了 | T1=u | W2=观众 | T2=n | off
-W-2=买 | T-2=v | W-1=不 | T-1=d | W1=区区 | T1=z | W2=一 | T2=m | off
-W-2=改 | T-2=v | W-1=不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | off
-W-2=销售 | T-2=v | W-1=不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | off
-W-2=开 | T-2=v | W-1=得 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | off
-W-2=卖 | T-2=v | W-1=不 | T-1=d | W1=， | T1=w | W2=每年 | T2=r | off
-W-2=卖 | T-2=v | W-1=不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | off
-W-2=“ | T-2=w | W-1=欲 | T-1=d | W1=天下 | T1=n | W2=者 | T2=k | touch
-W-2=以 | T-2=p | W-1=情 | T-1=n | W1=人 | T1=n | W2=， | T2=w | touch
-W-2=以 | T-2=p | W-1=情 | T-1=n | W1=人 | T1=n | W2=” | T2=w | touch
-W-2=丝毫 | T-2=m | W-1=没 | T-1=d | W1=过 | T1=u | W2=心 | T2=n | touch
-W-2=春雨 | T-2=n | W-1=绵绵 | T-1=z | W1=乡愁 | T1=n | W2=” | T2=w | touch
-W-2=得 | T-2=v | W-1=众 | T-1=Ag | W1=天 | T1=n | W2=， | T2=w | touch
-W-2=一定 | T-2=d | W-1=要 | T-1=v | W1=感情 | T1=n | W2=、 | T2=w | touch
-W-2=山里 | T-2=s | W-1=汉子 | T-1=n | W1=了 | T1=u | W2=感情 | T2=n | touch
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | W2=办 | T2=v | touch
-W-2=问题 | T-2=n | W-1=上 | T-1=f | W1=真情 | T1=n | W2=、 | T2=w | touch
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | W2=、 | T2=w | touch
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | W2=， | T2=w | touch
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | W2=， | T2=w | touch
-W-2=之 | T-2=r | W-1=所 | T-1=u | W1=， | T1=w | W2=没有 | T2=v | touch
+W-1=微 | T-1=Ag | W1=， | T1=w | 抱 | 住 | 嘴唇 | 动 | 人们 | 听到 | act
+W-1=而 | T-1=c | W1=， | T1=w | 任务 | 动 | 行 | 驾驭 | act
+W-1=一 | T-1=m | W1=而 | T1=c | 医院 | 起 | 到 | 动 | 动 | act
+W-1=叶 | T-1=Ng | W1=的 | T1=u | 听 | 风 | 吹 | 动 | 声 | 好像 | 大自然 | act
+W-1=再也 | T-1=d | W1=不 | T1=d | 躺 | 床 | 动 | 了 | act
+W-1=勿 | T-1=d | W1=” | T1=w | 进去 | 眼 | 看 | 手 | 动 | act
+W-1=能 | T-1=v | W1=， | T1=w | 瘫 | 床 | 能 | 动 | 急 | 知 | act
+W-1=不许 | T-1=d | W1=！ | T1=w | 动 | act
+W-1=或 | T-1=d | W1=或 | T1=d | 增多 | 动 | 往返 | 穿插 | act
+W-1=“ | T-1=w | W1=中 | T1=f | 科研 | 实现 | 信息 | 动 | 通 | act
+W-1=似 | T-1=d | W1=。 | T1=w | 岛 | 动 | act
+W-1=而 | T-1=c | W1=， | T1=w | 势力 | 历史 | 潮流 | 动 | 加快 | 分裂 | act
+W-1=前期 | T-1=f | W1=拆迁 | T1=v | 工程 | 动 | 拆迁 | 绿化 | 费用 | 负担 | act
+W-1=而 | T-1=c | W1=的 | T1=u | 做 | 历史 | 潮流 | 动 | 事 | act
+W-1=总是 | T-1=d | W1=与 | T1=c | 社会 | 动 | act
+W-1=没有 | T-1=d | W1=， | T1=w | 动 | act
+W-1=不 | T-1=d | W1=， | T1=w | 是 | 民航 | 票价 | 动 | 教师 | 学生 | 可以 | 享受 | act
+W-1=一下 | T-1=m | W1=一下 | T1=m | 是 | 算盘 | 珠子 | 拨 | 动 | act
+W-1=地 | T-1=n | W1=中 | T1=f | 楼 | 摇 | 地 | 动 | 人们 | 感到 | act
+W-1=一起 | T-1=d | W1=、 | T1=w | 跟着 | 唱 | 动 | act
+W-1=俱 | T-1=Dg | W1=， | T1=w | 心 | 动 | 绝非 | 大将 | 辈 | act
+W-1=莲 | T-1=Ng | W1=” | T1=w | 动 | act
+W-1=怕 | T-1=v | W1=的 | T1=u | 分析 | 好 | 怕 | 动 | 性格 | 弱点 | 商定 | act
+W-1=而 | T-1=c | W1=， | T1=w | 指出 | 历史 | 潮流 | 动 | act
+W-1=而 | T-1=c | W1=， | T1=w | 时价 | 政策 | 即 | 动 | 价格 | act
+W-1=不准 | T-1=v | W1=， | T1=w | 情况 | 喝令 | 男子 | 不准 | 动 | 口袋 | act
+W-1=不许 | T-1=d | W1=” | T1=w | 是 | 喝令 | 动 | 情况 | 掏 | act
+W-1=未 | T-1=d | W1=。 | T1=w | 疑惑 | 解 | 愣 | 动 | act
+W-1=齐 | T-1=d | W1=， | T1=w | 说 | 改革 | 要 | 动 | 要 | 改 | act
+W-1=风 | T-1=n | W1=沙 | T1=n | 进 | 高原 | 风 | 动 | 沙 | 奔 | 大漠 | act
+W-1=之 | T-1=r | W1=脑 | T1=n | 动 | 脑 | 效果 | use
+W-1=不 | T-1=d | W1=这个 | T1=r | 名气 | 挣钱 | 动 | 心眼 | use
+W-1=君子 | T-1=n | W1=口 | T1=n | 观赏 | 君子 | 动 | 口 | 动手 | 有 | use
+W-1=， | T-1=w | W1=口 | T1=n | 是 | 开卷 | 闭卷 | 结合 | 动 | 口 | 动手 | 动笔 | 结合 | use
+W-1=上 | T-1=f | W1=了 | T1=u | 董事会 | 人员 | 动 | 心思 | use
+W-1=是 | T-1=v | W1=了 | T1=u | 应该 | 说 | 是 | 动 | 脑筋 | 下 | 功夫 | use
+W-1=不准 | T-1=v | W1=刀 | T1=n | 放假 | 过 | 不准 | 动 | 刀 | 动 | 不准 | 倒 | use
+W-1=扣 | T-1=v | W1=了 | T1=u | 扣 | 动 | 观众 | 心弦 | 礼堂 | off
+W-1=不 | T-1=d | W1=区区 | T1=z | 买 | 动 | 黑板 | off
+W-1=不 | T-1=d | W1=。 | T1=w | 企业 | 想 | 改 | 改 | 动 | off
+W-1=不 | T-1=d | W1=。 | T1=w | 有 | 商品 | 销售 | 动 | off
+W-1=得 | T-1=u | W1=。 | T1=w | 做到 | 拉 | 出 | 开 | 动 | off
+W-1=不 | T-1=d | W1=， | T1=w | 产品 | 积压 | 卖 | 动 | 得 | 花 | off
+W-1=不 | T-1=d | W1=。 | T1=w | 市场 | 桃子 | 卖 | 动 | off
+W-1=欲 | T-1=d | W1=天下 | T1=n | 动 | 天下 | 动 | 天下 | touch
+W-1=情 | T-1=n | W1=人 | T1=n | 备 | 能 | 情 | 动 | 人 | 得 | 到 | touch
+W-1=情 | T-1=n | W1=人 | T1=n | 行政 | 情 | 动 | 人 | 能 | touch
+W-1=没 | T-1=d | W1=过 | T1=u | 夸张 | 说 | 动 | 心 | touch
+W-1=绵绵 | T-1=z | W1=乡愁 | T1=n | 舅 | 春雨 | 动 | 乡愁 | 时候 | touch
+W-1=众 | T-1=Ag | W1=天 | T1=n | 勤政 | 得 | 动 | 天 | 生 | 无后 | touch
+W-1=要 | T-1=v | W1=感情 | T1=n | 要 | 动 | 感情 | 动脑筋 | touch
+W-1=汉子 | T-1=n | W1=了 | T1=u | 淋 | 惯 | 山雨 | 汉子 | 动 | 感情 | 讲 | 起 | touch
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | 动 | 真情 | 办 | 实事 | touch
+W-1=上 | T-1=f | W1=真情 | T1=n | 解决 | 青年 | 教师 | 住房 | 问题 | 动 | 真情 | 办 | 实事 | touch
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | 动 | 真情 | 办 | 实事 | 激发 | touch
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | 动 | 真情 | 能 | 办 | 实事 | touch
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=真情 | T1=n | 动 | 真情 | 办 | 实事 | 特事 | touch
+W-1=所 | T-1=u | W1=， | T1=w | 官兵 | 没有 | 人 | 动 | 没有 | 人 | 走漏 | touch

@@ -1,50 +1,50 @@
-W-2=办公厅 | T-2=n | W-1=等 | T-1=u | W1=主办 | T1=v | W2=的 | T2=u | organization
-W-2=部门 | T-2=n | W-1=和 | T-1=c | W1=， | T1=w | W2=要 | T2=v | organization
-W-2=本地 | T-2=r | W-1=本 | T-1=r | W1=的 | T1=u | W2=实际 | T2=n | organization
-W-2=各 | T-2=r | W-1=机关 | T-1=n | W1=的 | T1=u | W2=大门口 | T2=s | organization
-W-2=中国油画学会 | T-2=nt | W-1=等 | T-1=u | W1=主办 | T1=v | W2=， | T2=w | organization
-W-2=车主 | T-2=n | W-1=、 | T-1=w | W1=、 | T1=w | W2=住址 | T2=n | organization
-W-2=建设 | T-2=vn | W-1=先进 | T-1=a | W1=， | T1=w | W2=涌现 | T2=v | organization
-W-2=家 | T-2=q | W-1=企事业 | T-1=n | W1=； | T1=w | W2=建堤 | T2=v | organization
-W-2=发票 | T-2=n | W-1=的 | T-1=u | W1=名称栏 | T1=n | W2=上 | T2=f | organization
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=工作 | T-1=vn | W1=上海西部企业集团中山物业有限公司 | T1=nt | W2=NULL_TAIL | T2=NULL_TAIL | organization
-W-2=多 | T-2=m | W-1=个 | T-1=q | W1=， | T1=w | W2=宣传 | T2=v | organization
-W-2=评价 | T-2=v | W-1=经营 | T-1=vn | W1=经理 | T1=n | W2=的 | T2=u | organization
-W-2=其他 | T-2=r | W-1=经营 | T-1=vn | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | organization
-W-2=企业 | T-2=n | W-1=和 | T-1=c | W1=进一步 | T1=d | W2=走向 | T2=v | organization
-W-2=所 | T-2=u | W-1=属 | T-1=v | W1=１９９６年 | T1=t | W2=以来 | T2=f | organization
-W-2=有 | T-2=v | W-1=一个 | T-1=m | W1=想 | T1=v | W2=办 | T2=v | organization
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=领导 | T1=n | W2=跟 | T2=p | organization
-W-2=许多 | T-2=m | W-1=施工 | T-1=vn | W1=考察 | T1=v | W2=后 | T2=f | organization
-W-2=十 | T-2=m | W-1=个 | T-1=q | W1=向 | T1=p | W2=全市 | T2=n | organization
-W-2=区 | T-2=n | W-1=直属机关 | T-1=l | W1=的 | T1=u | W2=领导 | T2=n | organization
-W-2=评议 | T-2=v | W-1=区直 | T-1=j | W1=的 | T1=u | W2=活动 | T2=vn | organization
-W-2=个别 | T-2=a | W-1=机关 | T-1=n | W1=中 | T1=f | W2=存在 | T2=v | organization
-W-2=以上 | T-2=f | W-1=的 | T-1=u | W1=填写 | T1=v | W2=意见 | T2=n | organization
-W-2=区直 | T-2=j | W-1=机关 | T-1=n | W1=工作 | T1=vn | W2=作风 | T2=n | organization
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=哪些 | T-1=r | W1=“ | T1=w | W2=门 | T2=n | organization
-W-2=” | T-2=w | W-1=文明 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | organization
-W-2=差 | T-2=a | W-1=的 | T-1=u | W1=和 | T1=c | W2=个人 | T2=n | organization
-W-2=； | T-2=w | W-1=有的 | T-1=r | W1=用 | T1=p | W2=优越 | T2=a | organization
-W-2=中央美院 | T-2=nt | W-1=等 | T-1=u | W1=主办 | T1=v | W2=。 | T2=w | organization
-W-2=１３ | T-2=m | W-1=个 | T-1=q | W1=的 | T1=u | W2=１４ | T2=m | organization
-W-2=增加 | T-2=v | W-1=， | T-1=w | W1=产品 | T1=n | W2=成本 | T2=n | unit
-W-2=而 | T-2=c | W-1=使 | T-1=v | W1=储藏 | T1=vn | W2=成本 | T2=n | unit
-W-2=为 | T-2=v | W-1=参赛 | T-1=vn | W1=， | T1=w | W2=以 | T2=p | unit
-W-2=、 | T-2=w | W-1=计价 | T-1=vn | W1=、 | T1=w | W2=价格 | T2=n | unit
-W-2=厂 | T-2=n | W-1=为 | T-1=v | W1=， | T1=w | W2=事实 | T2=n | unit
-W-2=市 | T-2=n | W-1=为 | T-1=v | W1=， | T1=w | W2=总体 | T2=n | unit
-W-2=降低 | T-2=v | W-1=平均 | T-1=a | W1=成本 | T1=n | W2=， | T2=w | unit
-W-2=欧洲 | T-2=ns | W-1=货币 | T-1=n | W1=和 | T1=c | W2=已 | T2=d | unit
-W-2=之一 | T-2=r | W-1=， | T-1=w | W1=能耗 | T1=n | W2=量 | T2=n | unit
-W-2=支 | T-2=q | W-1=为 | T-1=v | W1=卖 | T1=v | W2=给 | T2=p | unit
-W-2=每 | T-2=r | W-1=一 | T-1=m | W1=产值 | T1=n | W2=所 | T2=u | unit
-W-2=户 | T-2=Ng | W-1=为 | T-1=v | W1=进行 | T1=v | W2=登记 | T2=vn | unit
-W-2=小区 | T-2=n | W-1=为 | T-1=v | W1=分别 | T1=d | W2=装入 | T2=v | unit
-W-2=普查区 | T-2=n | W-1=为 | T-1=v | W1=装入 | T1=v | W2=相应 | T2=v | unit
-W-2=人民币 | T-2=n | W-1=的 | T-1=u | W1=为 | T1=v | W2=元 | T2=Ng | unit
-W-2=， | T-2=w | W-1=超稠油 | T-1=n | W1=操作 | T1=vn | W2=成本 | T2=n | unit
-W-2=名称 | T-2=n | W-1=计量 | T-1=vn | W1=绝对数 | T1=n | W2=比 | T2=p | unit
-W-2=0．0005 | T-2=m | W-1=天文 | T-1=n | W1=（ | T1=w | W2=天文学 | T2=n | unit
-W-2=） | T-2=w | W-1=（ | T-1=w | W1=： | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | unit
-W-2=收入 | T-2=n | W-1=职务 | T-1=n | W1=年薪 | T1=n | W2=（ | T2=w | unit
+W-1=等 | T-1=u | W1=主办 | T1=v | 市政府 | 办公厅 | 单位 | 主办 | 题 | 为 | 世纪 | organization
+W-1=和 | T-1=c | W1=， | T1=w | 任务 | 地方 | 部门 | 单位 | 要 | 发扬 | organization
+W-1=本 | T-1=r | W1=的 | T1=u | 路线 | 方针 | 政策 | 单位 | 实际 | 结合 | 起来 | organization
+W-1=机关 | T-1=n | W1=的 | T1=u | 机关 | 单位 | 挂 | 起 | organization
+W-1=等 | T-1=u | W1=主办 | T1=v | 单位 | 主办 | 展出 | organization
+W-1=、 | T-1=w | W1=、 | T1=w | 输入 | 车辆 | 号码 | 车主 | 单位 | 住址 | 方法 | organization
+W-1=先进 | T-1=a | W1=， | T1=w | 评为 | 精神文明 | 单位 | 涌现 | 出 | organization
+W-1=企事业 | T-1=n | W1=； | T1=w | 居民 | 企事业 | 单位 | 建堤 | 架桥 | 筑坝 | organization
+W-1=的 | T-1=u | W1=名称栏 | T1=n | 发票 | 单位 | 名称栏 | 写 | 是 | organization
+W-1=工作 | T-1=vn | W1=上海西部企业集团中山物业有限公司 | T1=nt | 单位 | organization
+W-1=个 | T-1=q | W1=， | T1=w | 学校 | 单位 | 宣传 | 精神 | organization
+W-1=经营 | T-1=vn | W1=经理 | T1=n | 运用 | 有 | 知识 | 评价 | 单位 | 经理 | 建议 | 业绩 | organization
+W-1=经营 | T-1=vn | W1=。 | T1=w | 出售 | 分支 | 机构 | 单位 | organization
+W-1=和 | T-1=c | W1=进一步 | T1=d | 主体 | 使 | 企业 | 单位 | 走向 | 市场 | organization
+W-1=属 | T-1=v | W1=１９９６年 | T1=t | 范围 | 是 | 劳动部门 | 属 | 单位 | 发生 | organization
+W-1=一个 | T-1=m | W1=想 | T1=v | 有 | 单位 | 想 | 办 | 学校 | organization
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=领导 | T1=n | 单位 | 领导 | organization
+W-1=施工 | T-1=vn | W1=考察 | T1=v | 求援 | 单位 | 考察 | 感到 | 胜任 | organization
+W-1=个 | T-1=q | W1=向 | T1=p | 市委 | 办公厅 | 单位 | 全市 | 发出 | 倡议书 | 倡议 | organization
+W-1=直属机关 | T-1=l | W1=的 | T1=u | 区 | 单位 | 领导 | 干部 | 开始 | 感到 | organization
+W-1=区直 | T-1=j | W1=的 | T1=u | 基层 | 评议 | 单位 | 使 | organization
+W-1=机关 | T-1=n | W1=中 | T1=f | 机关 | 单位 | 存在 | 门 | organization
+W-1=的 | T-1=u | W1=填写 | T1=v | 市 | 单位 | 填写 | 意见 | organization
+W-1=机关 | T-1=n | W1=工作 | T1=vn | 认为 | 机关 | 单位 | 作风 | organization
+W-1=哪些 | T-1=r | W1=“ | T1=w | 单位 | 门 | 进 | 脸 | organization
+W-1=文明 | T-1=a | W1=。 | T1=w | 单位 | organization
+W-1=的 | T-1=u | W1=和 | T1=c | 群众 | 意见 | 作风 | 单位 | 个人 | organization
+W-1=有的 | T-1=r | W1=用 | T1=p | 谢绝 | 单位 | 条件 | 挖 | organization
+W-1=等 | T-1=u | W1=主办 | T1=v | 单位 | 主办 | organization
+W-1=个 | T-1=q | W1=的 | T1=u | 单位 | 科技 | 工作者 | organization
+W-1=， | T-1=w | W1=产品 | T1=n | 产出 | 增加 | 单位 | 产品 | 成本 | 降低 | unit
+W-1=使 | T-1=v | W1=储藏 | T1=vn | 数量 | 使 | 单位 | 成本 | 减少 | unit
+W-1=参赛 | T-1=vn | W1=， | T1=w | 人 | 岗 | 为 | 单位 | 责任心 | 质量 | unit
+W-1=计价 | T-1=vn | W1=、 | T1=w | 产地 | 规格 | 等级 | 单位 | 价格 | 服务 | 项目 | unit
+W-1=为 | T-1=v | W1=， | T1=w | 压锭 | 是 | 厂 | 为 | 单位 | 事实 | 证明 | 效果 | unit
+W-1=为 | T-1=v | W1=， | T1=w | 地区 | 省 | 市 | 为 | 单位 | 总体 | 规划 | 整体 | 调整 | unit
+W-1=平均 | T-1=a | W1=成本 | T1=n | 集中度 | 提高 | 降低 | 单位 | 成本 | 提高 | 劳动生产率 | 产生 | unit
+W-1=货币 | T-1=n | W1=和 | T1=c | 总额 | 货币 | 单位 | 采用 | 欧元 | unit
+W-1=， | T-1=w | W1=能耗 | T1=n | 能耗 | 效率 | 国家 | 单位 | 能耗 | 量 | 高 | unit
+W-1=为 | T-1=v | W1=卖 | T1=v | 香烟 | 拆开 | 为 | 单位 | 卖 | 顾客 | unit
+W-1=一 | T-1=m | W1=产值 | T1=n | 数据 | 减少 | 生产 | 单位 | 产值 | 需 | 时间 | unit
+W-1=为 | T-1=v | W1=进行 | T1=v | 人口 | 为 | 单位 | 进行 | unit
+W-1=为 | T-1=v | W1=分别 | T1=d | 表 | 小区 | 为 | 单位 | 装入 | 包装袋 | unit
+W-1=为 | T-1=v | W1=装入 | T1=v | 人口 | 调查表 | 普查区 | 为 | 单位 | 装入 | 相应 | 包装袋 | unit
+W-1=的 | T-1=u | W1=为 | T1=v | 人民币 | 单位 | 为 | 人民币 | 辅币 | 单位 | unit
+W-1=超稠油 | T-1=n | W1=操作 | T1=vn | 总收入 | 达到 | 超稠油 | 单位 | 成本 | 下降 | unit
+W-1=计量 | T-1=vn | W1=绝对数 | T1=n | 产品 | 名称 | 单位 | 绝对数 | 增长 | unit
+W-1=天文 | T-1=n | W1=（ | T1=w | 距离 | 小于 | 天文 | 单位 | 天文学 | 太阳 | 地球 | unit
+W-1=（ | T-1=w | W1=： | T1=w | 超过 | 公司 | 单位 | unit
+W-1=职务 | T-1=n | W1=年薪 | T1=n | 公司 | 经营者 | 年薪 | 收入 | 职务 | 单位 | 年薪 | 总裁 | unit

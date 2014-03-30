@@ -1,47 +1,47 @@
-W-2=决心 | T-2=n | W-1=未 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=年 | T-2=q | W-1=， | T-1=w | W1=不得 | T1=v | W2=。 | T2=w | shake
-W-2=路线 | T-2=n | W-1=不 | T-1=d | W1=是 | T1=v | W2=实现 | T2=v | shake
-W-2=绝不 | T-2=d | W-1=能 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=政策 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=积极 | T2=ad | shake
-W-2=方针 | T-2=n | W-1=不 | T-1=d | W1=的 | T1=u | W2=决心 | T2=n | shake
-W-2=农业 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=就是 | T2=v | shake
-W-2=方针 | T-2=n | W-1=不 | T-1=d | W1=的 | T1=u | W2=结果 | T2=n | shake
-W-2=没有 | T-2=d | W-1=一点 | T-1=m | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=便 | T-2=d | W-1=开始 | T-1=v | W1=了 | T1=y | W2=。 | T2=w | shake
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=发生 | T-2=v | W-1=了 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=时 | T-2=Ng | W-1=从不 | T-1=d | W1=充满 | T1=v | W2=乐观 | T2=a | shake
-W-2=信念 | T-2=n | W-1=有所 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=就 | T-2=d | W-1=开始 | T-1=v | W1=了 | T1=y | W2=。 | T2=w | shake
-W-2=的 | T-2=u | W-1=信心 | T-1=n | W1=” | T1=w | W2=， | T2=w | shake
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=的 | T1=u | W2=。 | T2=w | shake
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=， | T1=w | W2=同时 | T2=c | shake
-W-2=丝毫 | T-2=m | W-1=没有 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=思想 | T-2=n | W-1=不 | T-1=d | W1=、 | T1=w | W2=基本 | T2=a | shake
-W-2=， | T-2=w | W-1=有的 | T-1=r | W1=甚至 | T1=d | W2=丧失 | T2=v | shake
-W-2=年 | T-2=q | W-1=不 | T-1=d | W1=， | T1=w | W2=不论 | T2=c | shake
-W-2=地位 | T-2=n | W-1=也 | T-1=d | W1=了 | T1=y | W2=。 | T2=w | shake
-W-2=原则 | T-2=n | W-1=决不 | T-1=d | W1=， | T1=w | W2=“ | T2=w | shake
-W-2=信念 | T-2=n | W-1=不 | T-1=d | W1=， | T1=w | W2=坚持 | T2=v | shake
-W-2=含糊 | T-2=an | W-1=和 | T-1=c | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=怀疑 | T-2=v | W-1=和 | T-1=c | W1=， | T1=w | W2=在 | T2=p | shake
-W-2=， | T-2=w | W-1=决不 | T-1=d | W1=； | T1=w | W2=不断 | T2=d | shake
-W-2=原则 | T-2=n | W-1=不 | T-1=d | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | shake
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=， | T1=w | W2=对 | T2=p | shake
-W-2=程度 | T-2=n | W-1=上 | T-1=f | W1=了 | T1=u | W2=人们 | T2=n | vacillate
-W-2=地位 | T-2=n | W-1=被 | T-1=p | W1=了 | T1=y | W2=， | T2=w | vacillate
-W-2=发展 | T-2=vn | W-1=将 | T-1=d | W1=传统 | T1=a | W2=电信 | T2=n | vacillate
-W-2=“ | T-2=w | W-1=开始 | T-1=v | W1=高考 | T1=vn | W2=‘ | T2=w | vacillate
-W-2=就 | T-2=d | W-1=会 | T-1=v | W1=我们 | T1=r | W2=的 | T2=u | vacillate
-W-2=稳定 | T-2=vn | W-1=， | T-1=w | W1=联合国 | T1=nt | W2=的 | T2=u | vacillate
-W-2=根本 | T-2=n | W-1=上 | T-1=f | W1=长年 | T1=d | W2=积累 | T2=v | vacillate
-W-2=根本 | T-2=n | W-1=上 | T-1=f | W1=萨达姆 | T1=nr | W2=的 | T2=u | vacillate
-W-2=根本 | T-2=n | W-1=上 | T-1=f | W1=国际 | T1=n | W2=和平 | T2=n | vacillate
-W-2=努力 | T-2=ad | W-1=杜绝 | T-1=v | W1=中 | T1=j | W2=美 | T2=j | vacillate
-W-2=决不 | T-2=d | W-1=可能 | T-1=v | W1=伟大 | T1=a | W2=中华民族 | T2=n | vacillate
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=黎 | T1=j | W2=人民 | T2=n | vacillate
-W-2=入党 | T-2=v | W-1=会 | T-1=v | W1=自己 | T1=r | W2=的 | T2=u | vacillate
-W-2=丝毫 | T-2=m | W-1=没有 | T-1=d | W1=法国 | T1=ns | W2=打击 | T2=v | vacillate
-W-2=忽视 | T-2=v | W-1=和 | T-1=c | W1=农业 | T1=n | W2=的 | T2=u | vacillate
-W-2=群众 | T-2=n | W-1=， | T-1=w | W1=了 | T1=u | W2=基层 | T2=n | vacillate
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=如果 | T-1=c | W1=了 | T1=u | W2=马克思主义 | T2=n | vacillate
+W-1=未 | T-1=d | W1=。 | T1=w | 人 | 决心 | 动摇 | shake
+W-1=， | T-1=w | W1=不得 | T1=v | 路线 | 要 | 管 | 动摇 | 不得 | shake
+W-1=不 | T-1=d | W1=是 | T1=v | 证明 | 坚持 | 路线 | 动摇 | 是 | 实现 | shake
+W-1=能 | T-1=v | W1=。 | T1=w | 是 | 能 | 动摇 | shake
+W-1=不 | T-1=d | W1=， | T1=w | 党 | 农村 | 政策 | 动摇 | 优化 | 调整 | 产业 | 产品 | shake
+W-1=不 | T-1=d | W1=的 | T1=u | 坚持 | 稳定 | 加强 | 农业 | 方针 | 动摇 | 决心 | shake
+W-1=不 | T-1=d | W1=， | T1=w | 坚持 | 稳定 | 加强 | 农业 | 动摇 | 就是 | 要 | 坚持 | 农业 | shake
+W-1=不 | T-1=d | W1=的 | T1=u | 经济 | 方针 | 动摇 | 结果 | shake
+W-1=一点 | T-1=m | W1=。 | T1=w | 信仰 | 动摇 | shake
+W-1=开始 | T-1=v | W1=了 | T1=y | 开始 | 动摇 | shake
+W-1=能 | T-1=v | W1=。 | T1=w | 本 | 时候 | 能 | 动摇 | shake
+W-1=了 | T-1=u | W1=。 | T1=w | 警察 | 发生 | 动摇 | shake
+W-1=从不 | T-1=d | W1=充满 | T1=v | 一生 | 动摇 | 充满 | 信念 | 人 | shake
+W-1=有所 | T-1=v | W1=。 | T1=w | 确有 | 同志 | 理想 | 信念 | 有所 | 动摇 | shake
+W-1=开始 | T-1=v | W1=了 | T1=y | 伙伴 | 开始 | 动摇 | shake
+W-1=信心 | T-1=n | W1=” | T1=w | 机构 | 信心 | 动摇 | 觉得 | 机构 | shake
+W-1=能 | T-1=v | W1=的 | T1=u | 原则 | 是 | 能 | 动摇 | shake
+W-1=能 | T-1=v | W1=， | T1=w | 坚持 | 经济 | 为 | 中心 | 能 | 动摇 | 要 | 抓好 | 社会主义 | shake
+W-1=没有 | T-1=d | W1=。 | T1=w | 经济 | 中心 | 动摇 | shake
+W-1=不 | T-1=d | W1=、 | T1=w | 做到 | 坚持 | 思想 | 动摇 | 原则 | 改变 | shake
+W-1=有的 | T-1=r | W1=甚至 | T1=d | 价值观 | 发生 | 动摇 | 丧失 | 共产主义 | 理想 | shake
+W-1=不 | T-1=d | W1=， | T1=w | 党 | 路线 | 动摇 | 发生 | shake
+W-1=也 | T-1=d | W1=了 | T1=y | 小菜 | 地位 | 动摇 | shake
+W-1=决不 | T-1=d | W1=， | T1=w | 是 | 坚持 | 原则 | 动摇 | 统一 | shake
+W-1=不 | T-1=d | W1=， | T1=w | 坚定 | 学 | 信念 | 动摇 | 坚持 | 开展 | 学 | shake
+W-1=和 | T-1=c | W1=。 | T1=w | 能 | 有 | 动摇 | shake
+W-1=和 | T-1=c | W1=， | T1=w | 遇到 | 产生 | 怀疑 | 动摇 | 原则 | 问题 | shake
+W-1=决不 | T-1=d | W1=； | T1=w | 摆 | 位置 | 动摇 | 加大 | 力度 | shake
+W-1=不 | T-1=d | W1=。 | T1=w | 保护 | 原则 | 动摇 | shake
+W-1=能 | T-1=v | W1=， | T1=w | 农业 | 地位 | 能 | 动摇 | 粮食 | 生产 | 能 | shake
+W-1=上 | T-1=f | W1=了 | T1=u | 事件 | 程度 | 动摇 | 人们 | 经济 | 体系 | vacillate
+W-1=被 | T-1=p | W1=了 | T1=y | 科技 | 大国 | 地位 | 动摇 | vacillate
+W-1=将 | T-1=d | W1=传统 | T1=a | 技术 | 动摇 | 电信 | 基础 | 互联网 | vacillate
+W-1=开始 | T-1=v | W1=高考 | T1=vn | 人士 | 媒体 | 誉为 | 开始 | 动摇 | 独木桥 | 地位 | vacillate
+W-1=会 | T-1=v | W1=我们 | T1=r | 阵地 | 舞台 | 会 | 动摇 | 信念 | 瓦解 | vacillate
+W-1=， | T-1=w | W1=联合国 | T1=nt | 影响 | 国际 | 动摇 | 地位 | vacillate
+W-1=上 | T-1=f | W1=长年 | T1=d | 人民 | 感情 | 根本 | 动摇 | 积累 | 起来 | vacillate
+W-1=上 | T-1=f | W1=萨达姆 | T1=nr | 拖 | 下去 | 根本 | 动摇 | 基础 | vacillate
+W-1=上 | T-1=f | W1=国际 | T1=n | 后果 | 导致 | 根本 | 动摇 | 国际 | 和平 | 不可 | 缺少 | vacillate
+W-1=杜绝 | T-1=v | W1=中 | T1=j | 关系 | 杜绝 | 动摇 | 关系 | 基石 | vacillate
+W-1=可能 | T-1=v | W1=伟大 | T1=a | 政客 | 可能 | 动摇 | 中华民族 | vacillate
+W-1=能 | T-1=v | W1=黎 | T1=j | 发动 | 空袭 | 能 | 动摇 | 人民 | 抗击 | 占领 | vacillate
+W-1=会 | T-1=v | W1=自己 | T1=r | 害怕 | 发展 | 青年 | 农民 | 入党 | 会 | 动摇 | 地位 | vacillate
+W-1=没有 | T-1=d | W1=法国 | T1=ns | 动摇 | 打击 | 邪教 | 决心 | vacillate
+W-1=和 | T-1=c | W1=农业 | T1=n | 情况 | 能 | 忽视 | 动摇 | 农业 | 基础 | 地位 | vacillate
+W-1=， | T-1=w | W1=了 | T1=u | 结果 | 是 | 脱离 | 人民 | 群众 | 动摇 | 基层 | 政权 | 影响 | vacillate
+W-1=如果 | T-1=c | W1=了 | T1=u | 动摇 | 马克思主义 | 地位 | vacillate

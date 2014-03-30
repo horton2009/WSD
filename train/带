@@ -1,197 +1,197 @@
-W-2=把 | T-2=p | W-1=人们 | T-1=n | W1=到 | T1=v | W2=了 | T2=u | lead
-W-2=旅客 | T-2=n | W-1=所 | T-1=u | W1=小孩 | T1=n | W2=未 | T2=d | lead
-W-2=他 | T-2=r | W-1=决定 | T-1=v | W1=五 | T1=m | W2=套 | T2=q | lead
-W-2=将 | T-2=p | W-1=我 | T-1=r | W1=进 | T1=v | W2=了 | T2=u | lead
-W-2=赵 | T-2=nr | W-1=文军 | T-1=nr | W1=着 | T1=u | W2=儿子 | T2=n | lead
-W-2=钱 | T-2=n | W-1=， | T-1=w | W1=一 | T1=m | W2=次 | T2=q | lead
-W-2=和 | T-2=c | W-1=妻子 | T-1=n | W1=着 | T1=u | W2=一个 | T2=m | lead
-W-2=将 | T-2=p | W-1=观众 | T-1=n | W1=回到 | T1=v | W2=４７ | T2=m | lead
-W-2=携 | T-2=v | W-1=老 | T-1=a | W1=小 | T1=a | W2=， | T2=w | lead
-W-2=主辩人 | T-2=n | W-1=， | T-1=w | W1=着 | T1=u | W2=那天 | T2=r | lead
-W-2=儿 | T-2=Ng | W-1=又 | T-1=d | W1=女 | T1=Ng | W2=， | T2=w | lead
-W-2=把 | T-2=p | W-1=澳门 | T-1=ns | W1=向 | T1=p | W2=美好 | T2=a | lead
-W-2=基础 | T-2=n | W-1=， | T-1=w | W1=好 | T1=a | W2=我们 | T2=r | lead
-W-2=上班 | T-2=v | W-1=被 | T-1=p | W1=进 | T1=v | W2=了 | T2=u | lead
-W-2=年 | T-2=q | W-1=不 | T-1=d | W1=孩子 | T1=n | W2=去 | T2=v | lead
-W-2=和 | T-2=c | W-1=继父 | T-1=n | W1=着 | T1=u | W2=偷渡 | T2=v | lead
-W-2=黎明 | T-2=t | W-1=已 | T-1=d | W1=我 | T1=r | W2=上路 | T2=v | lead
-W-2=路段 | T-2=n | W-1=上 | T-1=f | W1=客 | T1=Ng | W2=， | T2=w | lead
-W-2=李 | T-2=nr | W-1=书记 | T-1=nr | W1=人 | T1=n | W2=给 | T2=p | lead
-W-2=将 | T-2=p | W-1=人们 | T-1=n | W1=上 | T1=v | W2=一个 | T2=m | lead
-W-2=专车 | T-2=n | W-1=立即 | T-1=d | W1=律师 | T1=n | W2=、 | T2=w | lead
-W-2=古巴 | T-2=ns | W-1=移民 | T-1=n | W1=来 | T1=v | W2=美国 | T2=ns | lead
-W-2=许多 | T-2=m | W-1=家长 | T-1=n | W1=孩子 | T1=n | W2=来 | T2=v | lead
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=妻子 | T-1=n | W1=他 | T1=r | W2=去 | T2=v | lead
-W-2=先是 | T-2=d | W-1=被 | T-1=p | W1=到 | T1=v | W2=梁园区公安分局 | T2=nt | lead
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=继母 | T-1=n | W1=双喜 | T1=nr | W2=下 | T2=v | lead
-W-2=要 | T-2=v | W-1=先 | T-1=d | W1=客人 | T1=n | W2=去 | T2=v | lead
-W-2=扬 | T-2=nr | W-1=今天 | T-1=t | W1=着 | T1=u | W2=审判 | T2=vn | lead
-W-2=他 | T-2=r | W-1=不 | T-1=d | W1=仪仗队 | T1=n | W2=， | T2=w | lead
-W-2=携 | T-2=v | W-1=妻 | T-1=Ng | W1=子 | T1=Ng | W2=， | T2=w | lead
-W-2=模范 | T-2=n | W-1=行动 | T-1=vn | W1=出 | T1=v | W2=了 | T2=u | instruct
-W-2=， | T-2=w | W-1=终于 | T-1=d | W1=出 | T1=v | W2=了 | T2=u | instruct
-W-2=后 | T-2=f | W-1=得 | T-1=v | W1=孩子 | T1=n | W2=， | T2=w | instruct
-W-2=， | T-2=w | W-1=他 | T-1=r | W1=出 | T1=v | W2=的 | T2=u | instruct
-W-2=被 | T-2=p | W-1=他 | T-1=r | W1=成 | T1=v | W2=了 | T2=u | instruct
-W-2=、 | T-2=w | W-1=名师 | T-1=n | W1=高徒 | T1=n | W2=包 | T2=v | instruct
-W-2=头 | T-2=q | W-1=、 | T-1=w | W1=中间 | T1=f | W2=” | T2=w | instruct
-W-2=班子 | T-2=n | W-1=、 | T-1=w | W1=队伍 | T1=n | W2=、 | T2=w | instruct
-W-2=演练 | T-2=v | W-1=， | T-1=w | W1=出 | T1=v | W2=了 | T2=u | instruct
-W-2=一流 | T-2=b | W-1=班子 | T-1=n | W1=一流 | T1=b | W2=队伍 | T2=n | instruct
-W-2=已 | T-2=d | W-1=接连 | T-1=d | W1=出 | T1=v | W2=几 | T2=m | instruct
-W-2=， | T-2=w | W-1=免得 | T-1=v | W1=坏 | T1=a | W2=其他 | T2=r | instruct
-W-2=班子 | T-2=n | W-1=、 | T-1=w | W1=队伍 | T1=n | W2=、 | T2=w | instruct
-W-2=张 | T-2=nr | W-1=郁 | T-1=nr | W1=出 | T1=v | W2=了 | T2=u | instruct
-W-2=我 | T-2=r | W-1=所 | T-1=u | W1=的 | T1=u | W2=班上 | T2=s | instruct
-W-2=是 | T-2=v | W-1=怎么 | T-1=r | W1=出来 | T1=v | W2=的 | T2=u | instruct
-W-2=马 | T-2=nr | W-1=俊仁 | T-1=nr | W1=出 | T1=v | W2=的 | T2=u | instruct
-W-2=俊仁 | T-2=nr | W-1=所 | T-1=u | W1=队伍 | T1=n | W2=又 | T2=d | instruct
-W-2=终于 | T-2=d | W-1=亲力亲为 | T-1=l | W1=队伍 | T1=n | W2=， | T2=w | instruct
-W-2=俊仁 | T-2=nr | W-1=所 | T-1=u | W1=队员 | T1=n | W2=的 | T2=u | instruct
-W-2=各级 | T-2=r | W-1=干部 | T-1=n | W1=个 | T1=q | W2=好头 | T2=n | instruct
-W-2=由于 | T-2=c | W-1=缺乏 | T-1=v | W1=双 | T1=m | W2=仔 | T2=Ng | instruct
-W-2=一 | T-2=m | W-1=级 | T-1=q | W1=一 | T1=m | W2=级 | T2=q | instruct
-W-2=却 | T-2=d | W-1=在 | T-1=p | W1=岗 | T1=n | W2=、 | T2=w | instruct
-W-2=接着 | T-2=c | W-1=就 | T-1=d | W1=我们 | T1=r | W2=参观 | T2=v | instruct
-W-2=， | T-2=w | W-1=连 | T-1=n | W1=一 | T1=m | W2=屯 | T2=Ng | instruct
-W-2=形象 | T-2=n | W-1=， | T-1=w | W1=公安 | T1=n | W2=队伍 | T2=n | instruct
-W-2=时 | T-2=Ng | W-1=我 | T-1=r | W1=他们 | T1=r | W2=到 | T2=v | instruct
-W-2=， | T-2=w | W-1=在家 | T-1=v | W1=孙子 | T1=n | W2=， | T2=w | instruct
-W-2=金艳 | T-2=nr | W-1=孤身一人 | T-1=l | W1=着 | T1=u | W2=三 | T2=m | instruct
-W-2=麻袋 | T-2=n | W-1=还 | T-1=d | W1=着 | T1=u | W2=泥土 | T2=n | have
-W-2=顿时 | T-2=d | W-1=面 | T-1=n | W1=难色 | T1=n | W2=， | T2=w | have
-W-2=扬 | T-2=Vg | W-1=起 | T-1=v | W1=血 | T1=n | W2=的 | T2=u | have
-W-2=主妇 | T-2=n | W-1=面 | T-1=n | W1=笑容 | T1=n | W2=， | T2=w | have
-W-2=若干 | T-2=m | W-1=次 | T-1=q | W1=决定性 | T1=n | W2=的 | T2=u | have
-W-2=为 | T-2=v | W-1=《 | T-1=w | W1=着 | T1=u | W2=安详 | T2=a | have
-W-2=时 | T-2=Ng | W-1=则 | T-1=d | W1=负电 | T1=n | W2=。 | T2=w | have
-W-2=对 | T-2=p | W-1=不 | T-1=d | W1=病 | T1=n | W2=回乡 | T2=v | have
-W-2=照相机 | T-2=n | W-1=， | T-1=w | W1=着 | T1=u | W2=摇柄 | T2=n | have
-W-2=花哨 | T-2=a | W-1=或 | T-1=c | W1=立体几何 | T1=n | W2=图案 | T2=n | have
-W-2=嬉笑 | T-2=v | W-1=间 | T-1=f | W1=着 | T1=u | W2=严肃 | T2=a | have
-W-2=豪华 | T-2=a | W-1=自 | T-1=r | W1=音乐 | T1=n | W2=的 | T2=u | have
-W-2=故事 | T-2=n | W-1=颇 | T-1=d | W1=浪漫 | T1=a | W2=悲壮 | T2=a | have
-W-2=和 | T-2=c | W-1=“ | T-1=w | W1=职 | T1=Ng | W2=分流 | T2=v | have
-W-2=后 | T-2=f | W-1=它 | T-1=r | W1=一定 | T1=b | W2=电荷 | T2=n | have
-W-2=特殊 | T-2=a | W-1=处理 | T-1=vn | W1=抗菌剂 | T1=n | W2=的 | T2=u | have
-W-2=规定 | T-2=n | W-1=， | T-1=w | W1=疫病 | T1=n | W2=的 | T2=u | have
-W-2=连 | T-2=u | W-1=汤 | T-1=n | W1=渣 | T1=Ng | W2=一 | T2=m | have
-W-2=工地 | T-2=n | W-1=不 | T-1=d | W1=泥 | T1=n | W2=， | T2=w | have
-W-2=将 | T-2=p | W-1=法国 | T-1=ns | W1=酸味 | T1=n | W2=的 | T2=u | have
-W-2=、 | T-2=w | W-1=“ | T-1=w | W1=根本 | T1=a | W2=性质 | T2=n | have
-W-2=甜 | T-2=a | W-1=中 | T-1=f | W1=酸 | T1=n | W2=， | T2=w | have
-W-2=成 | T-2=v | W-1=捆 | T-1=Ng | W1=绿叶 | T1=n | W2=的 | T2=u | have
-W-2=经营 | T-2=v | W-1=起 | T-1=v | W1=料 | T1=n | W2=加工 | T2=v | have
-W-2=生产 | T-2=v | W-1=这种 | T-1=r | W1=缺陷 | T1=n | W2=的 | T2=u | have
-W-2=发现 | T-2=v | W-1=一些 | T-1=m | W1=倾向性 | T1=n | W2=、 | T2=w | have
-W-2=月 | T-2=n | W-1=的 | T-1=u | W1=薪 | T1=Ng | W2=产假 | T2=n | have
-W-2=犯罪 | T-2=v | W-1=和 | T-1=c | W1=黑社会 | T1=n | W2=性质 | T2=n | have
-W-2=， | T-2=w | W-1=我 | T-1=r | W1=回 | T1=v | W2=的 | T2=u | carry_with
-W-2=就 | T-2=d | W-1=这样 | T-1=r | W1=着 | T1=u | W2=春 | T2=Tg | carry_with
-W-2=的 | T-2=u | W-1=风筝 | T-1=n | W1=着 | T1=u | W2=人们 | T2=n | carry_with
-W-2=管理 | T-2=vn | W-1=经验 | T-1=n | W1=回来 | T1=v | W2=。 | T2=w | carry_with
-W-2=军旅 | T-2=n | W-1=作风 | T-1=n | W1=到 | T1=v | W2=地质 | T2=n | carry_with
-W-2=这种 | T-2=r | W-1=典范 | T-1=n | W1=给 | T1=p | W2=我们 | T2=r | carry_with
-W-2=， | T-2=w | W-1=前线话剧团 | T-1=nt | W1=着 | T1=u | W2=这 | T2=r | carry_with
-W-2=把 | T-2=p | W-1=音乐会 | T-1=n | W1=到 | T1=v | W2=北京 | T2=ns | carry_with
-W-2=与 | T-2=c | W-1=自信 | T-1=vn | W1=进 | T1=v | W2=新 | T2=a | carry_with
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | W2=这些 | T2=r | carry_with
-W-2=文化 | T-2=n | W-1=， | T-1=w | W1=给 | T1=p | W2=人们 | T2=n | carry_with
-W-2=我们 | T-2=r | W-1=将 | T-1=d | W1=着 | T1=u | W2=对 | T2=p | carry_with
-W-2=体验 | T-2=v | W-1=奥运会 | T-1=j | W1=给 | T1=p | W2=人们 | T2=n | carry_with
-W-2=愿 | T-2=v | W-1=新年 | T-1=t | W1=给 | T1=p | W2=他们 | T2=r | carry_with
-W-2=以 | T-2=j | W-1=谈判 | T-1=vn | W1=出 | T1=v | W2=死胡同 | T2=n | carry_with
-W-2=会 | T-2=v | W-1=是 | T-1=v | W1=给 | T1=p | W2=新 | T2=a | carry_with
-W-2=世纪 | T-2=n | W-1=将 | T-1=d | W1=给 | T1=p | W2=我们 | T2=r | carry_with
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | W2=这个 | T2=r | carry_with
-W-2=能 | T-2=v | W-1=再 | T-1=d | W1=到 | T1=v | W2=二十一 | T2=m | carry_with
-W-2=” | T-2=w | W-1=， | T-1=w | W1=着 | T1=u | W2=群众 | T2=n | carry_with
-W-2=它 | T-2=r | W-1=” | T-1=w | W1=给 | T1=p | W2=大众 | T2=n | carry_with
-W-2=， | T-2=w | W-1=网络 | T-1=n | W1=给 | T1=p | W2=人类 | T2=n | carry_with
-W-2=现代 | T-2=t | W-1=文明 | T-1=n | W1=进 | T1=v | W2=了 | T2=u | carry_with
-W-2=把 | T-2=p | W-1=文明 | T-1=n | W1=回 | T1=v | W2=家 | T2=n | carry_with
-W-2=他们 | T-2=r | W-1=提前 | T-1=v | W1=去 | T1=v | W2=了 | T2=u | carry_with
-W-2=又 | T-2=d | W-1=是 | T-1=v | W1=着 | T1=u | W2=社会主义 | T2=n | carry_with
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=去 | T1=v | W2=党 | T2=n | carry_with
-W-2=的 | T-2=u | W-1=温暖 | T-1=an | W1=到 | T1=v | W2=每 | T2=r | carry_with
-W-2=全球化 | T-2=v | W-1=正 | T-1=d | W1=给 | T1=p | W2=我们 | T2=r | carry_with
-W-2=一 | T-2=m | W-1=户 | T-1=q | W1=数 | T1=m | W2=户 | T2=q | promote
-W-2=以 | T-2=p | W-1=效 | T-1=Ng | W1=水 | T1=n | W2=的 | T2=u | promote
-W-2=给 | T-2=p | W-1=基层 | T-1=n | W1=了 | T1=u | W2=个 | T2=q | promote
-W-2=两头 | T-2=f | W-1=、 | T-1=w | W1=中间 | T1=f | W2=， | T2=w | promote
-W-2=以 | T-2=p | W-1=粮 | T-1=n | W1=赈 | T1=Vg | W2=， | T2=w | promote
-W-2=以 | T-2=p | W-1=游 | T-1=v | W1=农 | T1=Ng | W2=， | T2=w | promote
-W-2=一 | T-2=m | W-1=级 | T-1=q | W1=一 | T1=m | W2=级 | T2=q | promote
-W-2=以 | T-2=p | W-1=军品 | T-1=n | W1=民品 | T1=n | W2=、 | T2=w | promote
-W-2=四 | T-2=m | W-1=老 | T-1=a | W1=二 | T1=m | W2=新 | T2=a | promote
-W-2=以 | T-2=p | W-1=点 | T-1=n | W1=面 | T1=n | W2=， | T2=w | promote
-W-2=大 | T-2=a | W-1=城市 | T-1=n | W1=大 | T1=a | W2=农村 | T2=n | promote
-W-2=以 | T-2=p | W-1=城 | T-1=n | W1=乡 | T1=n | W2=， | T2=w | promote
-W-2=以 | T-2=p | W-1=工 | T-1=n | W1=农 | T1=Ng | W2=” | T2=w | promote
-W-2=以 | T-2=p | W-1=创新 | T-1=v | W1=学习 | T1=v | W2=。 | T2=w | promote
-W-2=老百姓 | T-2=n | W-1=欢笑 | T-1=v | W1=起来 | T1=v | W2=， | T2=w | promote
-W-2=客户 | T-2=n | W-1=， | T-1=w | W1=起 | T1=v | W2=了 | T2=u | promote
-W-2=一 | T-2=m | W-1=业 | T-1=Ng | W1=百 | T1=m | W2=业 | T2=Ng | promote
-W-2=由 | T-2=p | W-1=政府 | T-1=n | W1=企业 | T1=n | W2=推介 | T2=v | promote
-W-2=以 | T-2=p | W-1=公司 | T-1=n | W1=农户 | T1=n | W2=为 | T2=v | promote
-W-2=依靠 | T-2=v | W-1=支部 | T-1=n | W1=连队 | T1=n | W2=、 | T2=w | promote
-W-2=以 | T-2=p | W-1=老 | T-1=a | W1=新 | T1=a | W2=， | T2=w | promote
-W-2=、 | T-2=w | W-1=龙头 | T-1=n | W1=基地 | T1=n | W2=、 | T2=w | promote
-W-2=以 | T-2=p | W-1=公司 | T-1=n | W1=农户 | T1=n | W2=的 | T2=u | promote
-W-2=以 | T-2=p | W-1=老 | T-1=a | W1=新 | T1=a | W2=法 | T2=n | promote
-W-2=以 | T-2=p | W-1=内 | T-1=f | W1=外 | T1=f | W2=” | T2=w | promote
-W-2=都 | T-2=d | W-1=被 | T-1=p | W1=活 | T1=a | W2=； | T2=w | promote
-W-2=“ | T-2=w | W-1=党员 | T-1=n | W1=了 | T1=u | W2=头 | T2=n | promote
-W-2=、 | T-2=w | W-1=“ | T-1=w | W1=小 | T1=a | W2=” | T2=w | promote
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=户 | T-1=Ng | W1=户 | T1=Ng | W2=， | T2=w | promote
-W-2=以 | T-2=p | W-1=龙头 | T-1=n | W1=基地 | T1=n | W2=、 | T2=w | promote
-W-2=同志 | T-2=n | W-1=， | T-1=w | W1=着 | T1=u | W2=慰问品 | T2=n | take
-W-2=不 | T-2=d | W-1=敢 | T-1=v | W1=出 | T1=v | W2=海关 | T2=n | take
-W-2=， | T-2=w | W-1=并 | T-1=c | W1=去 | T1=v | W2=了 | T2=u | take
-W-2=外出 | T-2=v | W-1=旅游 | T-1=v | W1=什么 | T1=r | W2=NULL_TAIL | T2=NULL_TAIL | take
-W-2=， | T-2=w | W-1=他 | T-1=r | W1=回 | T1=v | W2=了 | T2=u | take
-W-2=不 | T-2=d | W-1=能 | T-1=v | W1=的 | T1=u | W2=东西 | T2=n | take
-W-2=的 | T-2=u | W-1=妈妈 | T-1=n | W1=回来 | T1=v | W2=两 | T2=m | take
-W-2=他们 | T-2=r | W-1=自 | T-1=r | W1=干粮 | T1=n | W2=， | T2=w | take
-W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | W2=手机 | T2=n | take
-W-2=走亲访友 | T-2=l | W-1=不用 | T-1=d | W1=烟 | T1=n | W2=带 | T2=v | take
-W-2=那么 | T-2=c | W-1=所 | T-1=u | W1=之 | T1=u | W2=物 | T2=Ng | take
-W-2=我 | T-2=r | W-1=也 | T-1=d | W1=两 | T1=m | W2=根 | T2=q | take
-W-2=， | T-2=w | W-1=自 | T-1=r | W1=工具 | T1=n | W2=、 | T2=w | take
-W-2=驾车 | T-2=v | W-1=和 | T-1=c | W1=车 | T1=n | W2=100 | T2=m | take
-W-2=学生 | T-2=n | W-1=自己 | T-1=r | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | take
-W-2=旅游 | T-2=vn | W-1=不 | T-1=d | W1=钱 | T1=n | W2=持卡 | T2=v | take
-W-2=人员 | T-2=n | W-1=可 | T-1=v | W1=薪 | T1=Ng | W2=分流 | T2=v | take
-W-2=人 | T-2=n | W-1=还要 | T-1=v | W1=着 | T1=u | W2=午饭 | T2=n | take
-W-2=注意 | T-2=v | W-1=多 | T-1=d | W1=电池 | T1=n | W2=。 | T2=w | take
-W-2=文艺 | T-2=n | W-1=节目 | T-1=n | W1=到 | T1=v | W2=了 | T2=u | take
-W-2=外出 | T-2=v | W-1=时 | T-1=Ng | W1=的 | T1=u | W2=东西 | T2=n | take
-W-2=怕 | T-2=v | W-1=东西 | T-1=n | W1=多 | T1=a | W2=了 | T2=u | take
-W-2=给 | T-2=p | W-1=学生 | T-1=n | W1=月饼 | T1=n | W2=吃 | T2=v | take
-W-2=， | T-2=w | W-1=免不了 | T-1=v | W1=些 | T1=q | W2=糕点 | T2=n | take
-W-2=们 | T-2=k | W-1=纷纷 | T-1=d | W1=上 | T1=v | W2=工具 | T2=n | take
-W-2=绿茵场 | T-2=n | W-1=上 | T-1=f | W1=球 | T1=n | W2=驰骋 | T2=v | take
-W-2=和 | T-2=c | W-1=所 | T-1=u | W1=印鉴 | T1=n | W2=， | T2=w | take
-W-2=， | T-2=w | W-1=并 | T-1=c | W1=去 | T1=v | W2=了 | T2=u | take
-W-2=开始 | T-2=v | W-1=自费 | T-1=d | W1=着 | T1=u | W2=这些 | T2=r | take
-W-2=的 | T-2=u | W-1=时候 | T-1=n | W1=了 | T1=u | W2=些 | T2=q | take
-W-2=连 | T-2=p | W-1=题目 | T-1=n | W1=标点符号 | T1=n | W2=不足 | T2=v | and
-W-2=连 | T-2=p | W-1=车 | T-1=n | W1=人 | T1=n | W2=撞 | T2=v | and
-W-2=连 | T-2=u | W-1=拉 | T-1=v | W1=扯 | T1=v | W2=地 | T2=u | and
-W-2=连 | T-2=p | W-1=人 | T-1=n | W1=车 | T1=n | W2=都 | T2=d | and
-W-2=连 | T-2=p | W-1=蹦 | T-1=v | W1=跳 | T1=v | W2=地 | T2=u | and
-W-2=连 | T-2=p | W-1=跑 | T-1=v | W1=颠 | T1=Vg | W2=地 | T2=u | and
-W-2=专家 | T-2=n | W-1=会诊 | T-1=vn | W1=教 | T1=v | W2=计划 | T2=n | and
-W-2=连 | T-2=p | W-1=走 | T-1=v | W1=吃 | T1=v | W2=。 | T2=w | and
-W-2=连 | T-2=p | W-1=本 | T-1=n | W1=利 | T1=n | W2=整 | T2=m | and
-W-2=连 | T-2=p | W-1=本 | T-1=n | W1=息 | T1=Ng | W2=取出 | T2=v | and
-W-2=连 | T-2=p | W-1=跳 | T-1=v | W1=跌 | T1=v | W2=， | T2=w | and
-W-2=连 | T-2=p | W-1=吃 | T-1=v | W1=玩 | T1=v | W2=度 | T2=v | and
-W-2=只 | T-2=d | W-1=需 | T-1=v | W1=上 | T1=v | W2=一 | T2=m | wear
-W-2=盲人 | T-2=n | W-1=所 | T-1=u | W1=的 | T1=u | W2=特殊 | T2=a | wear
-W-2=， | T-2=w | W-1=臂 | T-1=Ng | W1=袖标 | T1=n | W2=， | T2=w | wear
-W-2=， | T-2=w | W-1=脸 | T-1=n | W1=死亡 | T1=vn | W2=面具 | T2=n | wear
-W-2=了 | T-2=u | W-1=《 | T-1=w | W1=口罩 | T1=n | W2=的 | T2=u | wear
-W-2=双 | T-2=q | W-1=儿女 | T-1=n | W1=着 | T1=u | W2=黑纱 | T2=n | wear
-W-2=电池 | T-2=n | W-1=， | T-1=w | W1=上 | T1=v | W2=耳机 | T2=n | wear
-W-2=住 | T-2=v | W-1=， | T-1=w | W1=上 | T1=v | W2=手铐 | T2=n | wear
+W-1=人们 | T-1=n | W1=到 | T1=v | 声 | 人们 | 带 | 到 | 田野 | lead
+W-1=所 | T-1=u | W1=小孩 | T1=n | 能 | 乘 | 机 | 旅客 | 带 | 小孩 | 票 | 旅客 | lead
+W-1=决定 | T-1=v | W1=五 | T1=m | 下来 | 决定 | 带 | 班子 | 领导 | 到 | lead
+W-1=我 | T-1=r | W1=进 | T1=v | 目光 | 带 | 进 | 冰雪 | lead
+W-1=文军 | T-1=nr | W1=着 | T1=u | 带 | 儿子 | 来到 | lead
+W-1=， | T-1=w | W1=一 | T1=m | 值 | 了 | 钱 | 带 | 路 | 是 | 小事 | lead
+W-1=妻子 | T-1=n | W1=着 | T1=u | 妻子 | 带 | lead
+W-1=观众 | T-1=n | W1=回到 | T1=v | 历史 | 氛围 | 观众 | 带 | 回到 | lead
+W-1=老 | T-1=a | W1=小 | T1=a | 富人 | 携 | 带 | 移居 | lead
+W-1=， | T-1=w | W1=着 | T1=u | 辩论会 | 主辩人 | 带 | 帮 | 穿 | 大衣 | lead
+W-1=又 | T-1=d | W1=女 | T1=Ng | 来 | 相会 | 拖 | 带 | 人 | lead
+W-1=澳门 | T-1=ns | W1=向 | T1=p | 认为 | 特区 | 政府 | 能 | 带 | lead
+W-1=， | T-1=w | W1=好 | T1=a | 夯 | 企业 | 基础 | 带 | 队伍 | lead
+W-1=被 | T-1=p | W1=进 | T1=v | 上班 | 带 | 进 | 所里 | 荣誉室 | lead
+W-1=不 | T-1=d | W1=孩子 | T1=n | 人 | 带 | 孩子 | 去 | lead
+W-1=继父 | T-1=n | W1=着 | T1=u | 母亲 | 继父 | 带 | 偷渡 | 前往 | 船 | lead
+W-1=已 | T-1=d | W1=我 | T1=r | 带 | 上路 | 能 | lead
+W-1=上 | T-1=f | W1=客 | T1=Ng | 车辆 | 路段 | 带 | 上车 | 收取 | lead
+W-1=书记 | T-1=nr | W1=人 | T1=n | 停 | 带 | 人 | 劳模 | lead
+W-1=人们 | T-1=n | W1=上 | T1=v | 面向 | 人们 | 带 | 上 | 高峰 | lead
+W-1=立即 | T-1=d | W1=律师 | T1=n | 纠纷 | 案件 | 专车 | 带 | 律师 | 调解 | 人员 | 赶赴 | lead
+W-1=移民 | T-1=n | W1=来 | T1=v | 宣布 | 移民 | 带 | 来 | 男童 | lead
+W-1=家长 | T-1=n | W1=孩子 | T1=n | 家长 | 带 | 孩子 | 来 | 咨询 | lead
+W-1=妻子 | T-1=n | W1=他 | T1=r | 妻子 | 带 | 去 | 邻家 | 串门 | lead
+W-1=被 | T-1=p | W1=到 | T1=v | 家 | 父子 | 带 | 到 | lead
+W-1=继母 | T-1=n | W1=双喜 | T1=nr | 继母 | 带 | 下 | 车 | 走 | lead
+W-1=先 | T-1=d | W1=客人 | T1=n | 要 | 带 | 客人 | 去 | 到 | lead
+W-1=今天 | T-1=t | W1=着 | T1=u | 院长 | 带 | 业务 | 部门 | 负责人 | 来到 | lead
+W-1=不 | T-1=d | W1=仪仗队 | T1=n | 带 | 仪仗队 | 骑马 | lead
+W-1=妻 | T-1=Ng | W1=子 | T1=Ng | 基础 | 携 | 带 | 子女 | 入学 | 成 | lead
+W-1=行动 | T-1=vn | W1=出 | T1=v | 模范 | 带 | 出 | 士兵 | instruct
+W-1=终于 | T-1=d | W1=出 | T1=v | 倾注 | 心血 | 带 | 出 | instruct
+W-1=得 | T-1=v | W1=孩子 | T1=n | 事业 | 下班 | 回来 | 得 | 带 | 孩子 | 做饭 | 照顾 | 婆婆 | instruct
+W-1=他 | T-1=r | W1=出 | T1=v | 带 | 出 | 弟子 | 成 | instruct
+W-1=他 | T-1=r | W1=成 | T1=v | 共产党员 | 加油站 | 带 | 成 | 加油站 | instruct
+W-1=名师 | T-1=n | W1=高徒 | T1=n | 赛 | 体育 | 名师 | 带 | 高徒 | 包 | 教 | 包 | 会赛 | instruct
+W-1=、 | T-1=w | W1=中间 | T1=f | 改变 | 抓 | 带 | 方法 | instruct
+W-1=、 | T-1=w | W1=队伍 | T1=n | 坚持 | 抓 | 班子 | 带 | 队伍 | 素质 | instruct
+W-1=， | T-1=w | W1=出 | T1=v | 部门 | 演练 | 带 | 出 | 能 | 打 | 善战 | instruct
+W-1=班子 | T-1=n | W1=一流 | T1=b | 建 | 班子 | 带 | 队伍 | instruct
+W-1=接连 | T-1=d | W1=出 | T1=v | 书法家 | 带 | 出 | 书法 | 硕士 | 研究生 | instruct
+W-1=免得 | T-1=v | W1=坏 | T1=a | 办法 | 是 | 进 | 监狱 | 免得 | 带 | 青年 | instruct
+W-1=、 | T-1=w | W1=队伍 | T1=n | 提 | 出 | 抓 | 班子 | 带 | 队伍 | 立 | 规矩 | 走 | instruct
+W-1=郁 | T-1=nr | W1=出 | T1=v | 人格 | 魅力 | 带 | 出 | 思想 | instruct
+W-1=所 | T-1=u | W1=的 | T1=u | 学期 | 带 | 开展 | instruct
+W-1=怎么 | T-1=r | W1=出来 | T1=v | 队伍 | 是 | 带 | 出来 | instruct
+W-1=俊仁 | T-1=nr | W1=出 | T1=v | 带 | 出 | 运动员 | instruct
+W-1=所 | T-1=u | W1=队伍 | T1=n | 带 | 队伍 | 有 | 情况 | instruct
+W-1=亲力亲为 | T-1=l | W1=队伍 | T1=n | 带 | 队伍 | 指导 | 训练 | instruct
+W-1=所 | T-1=u | W1=队员 | T1=n | 去 | 看 | 带 | 队员 | 情况 | instruct
+W-1=干部 | T-1=n | W1=个 | T1=q | 做 | 起 | 干部 | 带 | 好头 | instruct
+W-1=缺乏 | T-1=v | W1=双 | T1=m | 缺乏 | 带 | 能力 | instruct
+W-1=级 | T-1=q | W1=一 | T1=m | 抓 | 带 | 抓紧 | instruct
+W-1=在 | T-1=p | W1=岗 | T1=n | 回家 | 团圆 | 带 | 岗 | 巡查 | 看望 | 值 | instruct
+W-1=就 | T-1=d | W1=我们 | T1=r | 大概 | 情况 | 带 | 参观 | 集体 | 食堂 | instruct
+W-1=连 | T-1=n | W1=一 | T1=m | 班 | 帮 | 连 | 带 | 营 | 助 | instruct
+W-1=， | T-1=w | W1=公安 | T1=n | 开展 | 树 | 党员 | 形象 | 带 | 公安 | 队伍 | 保 | instruct
+W-1=我 | T-1=r | W1=他们 | T1=r | 朋友 | 来京 | 出差 | 临走 | 带 | 到 | 报社 | instruct
+W-1=在家 | T-1=v | W1=孙子 | T1=n | 老父亲 | 在家 | 带 | 孙子 | 没有 | 劳力 | instruct
+W-1=孤身一人 | T-1=l | W1=着 | T1=u | 妇女 | 带 | 孩子 | 度日 | instruct
+W-1=还 | T-1=d | W1=着 | T1=u | 双手 | 麻袋 | 带 | 泥土 | 芳香 | 花生 | 倒 | have
+W-1=面 | T-1=n | W1=难色 | T1=n | 过去 | 说明 | 来意 | 面 | 带 | 难色 | 沙发 | have
+W-1=起 | T-1=v | W1=血 | T1=n | 歹徒 | 返 | 起 | 带 | 血 | 尖刀 | 叫 | have
+W-1=面 | T-1=n | W1=笑容 | T1=n | 家庭 | 主妇 | 面 | 带 | 笑容 | 回答 | have
+W-1=次 | T-1=q | W1=决定性 | T1=n | 统治区 | 应 | 准备 | 带 | 决定性 | 大会战 | have
+W-1=《 | T-1=w | W1=着 | T1=u | 题 | 为 | 带 | 面孔 | 逝去 | 伟人 | have
+W-1=则 | T-1=d | W1=负电 | T1=n | 带电 | 牙刷毛 | 刷牙 | 带 | 负电 | have
+W-1=不 | T-1=d | W1=病 | T1=n | 医疗 | 方面 | 带 | 病 | 回乡 | 复员军人 | 医疗费 | have
+W-1=， | T-1=w | W1=着 | T1=u | 蒙 | 黑布 | 照相机 | 带 | 摇柄 | 喇叭 | 留声机 | have
+W-1=或 | T-1=c | W1=立体几何 | T1=n | 不宜 | 选择 | 带 | 立体几何 | 图案 | 瓷砖 | have
+W-1=间 | T-1=f | W1=着 | T1=u | 透 | 嬉笑 | 带 | have
+W-1=自 | T-1=r | W1=音乐 | T1=n | 有 | 带 | 音乐 | 有 | 价 | have
+W-1=颇 | T-1=d | W1=浪漫 | T1=a | 故事 | 带 | 色彩 | 叫 | have
+W-1=“ | T-1=w | W1=职 | T1=Ng | 考评 | 组织 | 决定 | 带 | 分流 | 培训 | have
+W-1=它 | T-1=r | W1=一定 | T1=b | 制 | 成 | 经 | 带 | 电荷 | have
+W-1=处理 | T-1=vn | W1=抗菌剂 | T1=n | 经过 | 带 | 抗菌剂 | 沙土 | 用于 | 幼儿园 | have
+W-1=， | T-1=w | W1=疫病 | T1=n | 国家 | 规定 | 带 | 疫病 | 病 | 猪 | 要 | have
+W-1=汤 | T-1=n | W1=渣 | T1=Ng | 是 | 汤 | 带 | have
+W-1=不 | T-1=d | W1=泥 | T1=n | 密闭 | 运输 | 车轮 | 出入 | 工地 | 带 | 泥 | 禁止 | 搅拌 | 混凝土 | have
+W-1=法国 | T-1=ns | W1=酸味 | T1=n | 改进 | 工艺 | 带 | 酸味 | 酒 | 人 | have
+W-1=“ | T-1=w | W1=根本 | T1=a | 命运 | 问题 | 带 | 性质 | 问题 | have
+W-1=中 | T-1=f | W1=酸 | T1=n | 沙棘汁 | 带 | 酸 | 酸 | 有 | have
+W-1=捆 | T-1=Ng | W1=绿叶 | T1=n | 会 | 发现 | 小贩 | 出售 | 成 | 带 | 绿叶 | 树枝 | have
+W-1=起 | T-1=v | W1=料 | T1=n | 经营 | 起 | 带 | 料 | 加工 | 生意 | 搞 | have
+W-1=这种 | T-1=r | W1=缺陷 | T1=n | 等于 | 告诉 | 可以 | 继续 | 生产 | 带 | 缺陷 | 冰箱 | 是 | have
+W-1=一些 | T-1=m | W1=倾向性 | T1=n | 县 | 民政部门 | 发现 | 带 | 倾向性 | 规律性 | 东西 | have
+W-1=的 | T-1=u | W1=薪 | T1=Ng | 职工 | 享有 | 月 | 带 | 产假 | have
+W-1=和 | T-1=c | W1=黑社会 | T1=n | 枪 | 爆 | 犯罪 | 带 | 黑社会 | 性质 | 团伙 | 犯罪 | have
+W-1=我 | T-1=r | W1=回 | T1=v | 是 | 带 | 回 | 还有 | 时代 | carry_with
+W-1=这样 | T-1=r | W1=着 | T1=u | 带 | 气息 | carry_with
+W-1=风筝 | T-1=n | W1=着 | T1=u | 人群 | 风筝 | 带 | 人们 | 心愿 | carry_with
+W-1=经验 | T-1=n | W1=回来 | T1=v | 技术 | 经验 | 带 | 回来 | carry_with
+W-1=作风 | T-1=n | W1=到 | T1=v | 形成 | 传统 | 军旅 | 作风 | 带 | 到 | 地质 | 结合 | carry_with
+W-1=典范 | T-1=n | W1=给 | T1=p | 典范 | 带 | 民族 | carry_with
+W-1=前线话剧团 | T-1=nt | W1=着 | T1=u | 带 | 戏 | 深入 | 农村 | carry_with
+W-1=音乐会 | T-1=n | W1=到 | T1=v | 文化界 | 催促 | 音乐会 | 带 | 到 | carry_with
+W-1=自信 | T-1=vn | W1=进 | T1=v | 回归 | 庆典 | 豪情 | 带 | 进 | 世纪 | carry_with
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | 带 | 问题 | 记者 | 采访 | carry_with
+W-1=， | T-1=w | W1=给 | T1=p | 饮食 | 文化 | 带 | 人们 | carry_with
+W-1=将 | T-1=d | W1=着 | T1=u | 带 | 人民 | 群众 | carry_with
+W-1=奥运会 | T-1=j | W1=给 | T1=p | 参与 | 体验 | 带 | 人们 | 激奋 | 情 | carry_with
+W-1=新年 | T-1=t | W1=给 | T1=p | 矿工 | 创伤 | 愿 | 带 | 吉祥 | carry_with
+W-1=谈判 | T-1=vn | W1=出 | T1=v | 斡旋 | 旨在 | 带 | 出 | 死胡同 | 未能 | 如愿 | carry_with
+W-1=是 | T-1=v | W1=给 | T1=p | 情感 | 会 | 是 | 带 | carry_with
+W-1=将 | T-1=d | W1=给 | T1=p | 世纪 | 带 | 令 | 人 | carry_with
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | 带 | 问题 | 驻外 | carry_with
+W-1=再 | T-1=d | W1=到 | T1=v | 轻视 | 知识 | 陋习 | 能 | 带 | 到 | 世纪 | carry_with
+W-1=， | T-1=w | W1=着 | T1=u | 功 | 做 | 带 | 群众 | 观念 | 群众 | carry_with
+W-1=” | T-1=w | W1=给 | T1=p | 带 | 大众 | carry_with
+W-1=网络 | T-1=n | W1=给 | T1=p | 信息 | 时代 | 骄子 | 网络 | 带 | 人类 | carry_with
+W-1=文明 | T-1=n | W1=进 | T1=v | 留给 | 历史 | 文明 | 带 | 进 | 是 | 改革 | carry_with
+W-1=文明 | T-1=n | W1=回 | T1=v | 进城 | 务工 | 青年 | 文明 | 带 | 回 | 家 | 拉开 | carry_with
+W-1=提前 | T-1=v | W1=去 | T1=v | 能手 | 提前 | 带 | 去 | carry_with
+W-1=是 | T-1=v | W1=着 | T1=u | 世纪 | 是 | 带 | 社会主义 | 成就 | carry_with
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=去 | T1=v | 带 | 去 | 党 | 政府 | 工会 | carry_with
+W-1=温暖 | T-1=an | W1=到 | T1=v | 党 | 带 | 到 | 老同志 | 心坎 | carry_with
+W-1=正 | T-1=d | W1=给 | T1=p | 全球化 | 带 | carry_with
+W-1=户 | T-1=q | W1=数 | T1=m | 能人 | 牵头 | 带 | 发展 | promote
+W-1=效 | T-1=Ng | W1=水 | T1=n | 水 | 促 | 带 | 水 | promote
+W-1=基层 | T-1=n | W1=了 | T1=u | 开端 | 基层 | 带 | 好头 | promote
+W-1=、 | T-1=w | W1=中间 | T1=f | 要 | 注意 | 抓 | 带 | 做好 | 面 | promote
+W-1=粮 | T-1=n | W1=赈 | T1=Vg | 扩大 | 天然林 | 范围 | 粮 | 带 | 制定 | 政策 | 鼓励 | promote
+W-1=游 | T-1=v | W1=农 | T1=Ng | 游 | 带 | 促 | 游 | promote
+W-1=级 | T-1=q | W1=一 | T1=m | 抓 | 带 | 促 | promote
+W-1=军品 | T-1=n | W1=民品 | T1=n | 两用 | 高新技术 | 军品 | 带 | 民品 | 民品 | 促 | 军品 | promote
+W-1=老 | T-1=a | W1=二 | T1=m | 排 | 出 | 带 | 阵容 | promote
+W-1=点 | T-1=n | W1=面 | T1=n | 塑造 | 典型 | 点 | 带 | 面 | 能 | 体现 | promote
+W-1=城市 | T-1=n | W1=大 | T1=a | 库区 | 生态 | 城市 | 带 | 农村 | 任务 | promote
+W-1=城 | T-1=n | W1=乡 | T1=n | 座谈会 | 着重 | 推广 | 城 | 带 | 乡 | 城乡 | 联动 | promote
+W-1=工 | T-1=n | W1=农 | T1=Ng | 发展 | 农村 | 经济 | 工 | 带 | 乡 | promote
+W-1=创新 | T-1=v | W1=学习 | T1=v | 学习 | 促 | 创新 | 创新 | 带 | 学习 | promote
+W-1=欢笑 | T-1=v | W1=起来 | T1=v | 减少 | 力争 | 老百姓 | 欢笑 | 带 | 起来 | 观众 | promote
+W-1=， | T-1=w | W1=起 | T1=v | 客户 | 带 | 起 | 加工点 | promote
+W-1=业 | T-1=Ng | W1=百 | T1=m | 技术 | 水平 | 做到 | 带 | 形成 | promote
+W-1=政府 | T-1=n | W1=企业 | T1=n | 尝试 | 政府 | 带 | 企业 | 推介 | promote
+W-1=公司 | T-1=n | W1=农户 | T1=n | 公司 | 带 | 农户 | 为 | 形式 | 农业 | promote
+W-1=支部 | T-1=n | W1=连队 | T1=n | 依靠 | 支部 | 带 | 连队 | 科技 | 兴 | 连队 | promote
+W-1=老 | T-1=a | W1=新 | T1=a | 主力 | 队员 | 带 | 参加 | 联赛 | promote
+W-1=龙头 | T-1=n | W1=基地 | T1=n | 形成 | 市场 | 牵 | 龙头 | 龙头 | 带 | 基地 | 基地 | 连 | 农户 | promote
+W-1=公司 | T-1=n | W1=农户 | T1=n | 公司 | 带 | 农户 | 模式 | promote
+W-1=老 | T-1=a | W1=新 | T1=a | 填补 | 人才 | 断层 | 带 | 法 | promote
+W-1=内 | T-1=f | W1=外 | T1=f | 省 | 带 | 发展 | 妇女 | promote
+W-1=被 | T-1=p | W1=活 | T1=a | 发 | 全队 | 带 | promote
+W-1=党员 | T-1=n | W1=了 | T1=u | 党员 | 带 | 头 | 群众 | 有 | 奔头儿 | promote
+W-1=“ | T-1=w | W1=小 | T1=a | 要 | 扶 | 带 | promote
+W-1=户 | T-1=Ng | W1=户 | T1=Ng | 带 | 村 | 带 | 村 | promote
+W-1=龙头 | T-1=n | W1=基地 | T1=n | 优势 | 形成 | 龙头 | 带 | 基地 | 基地 | 带 | 农户 | promote
+W-1=， | T-1=w | W1=着 | T1=u | 部门 | 同志 | 带 | 慰问品 | 去 | 看望 | 企业 | take
+W-1=敢 | T-1=v | W1=出 | T1=v | 羽毛 | 敢 | 带 | 出 | 海关 | take
+W-1=并 | T-1=c | W1=去 | T1=v | 关系 | 到 | 带 | 去 | 礼品 | take
+W-1=旅游 | T-1=v | W1=什么 | T1=r | 外出 | 旅游 | 带 | take
+W-1=他 | T-1=r | W1=回 | T1=v | 时分 | 带 | 回 | 签订 | 合同 | take
+W-1=能 | T-1=v | W1=的 | T1=u | 群众 | 毁 | 掉 | 能 | 带 | 东西 | 填 | 埋 | take
+W-1=妈妈 | T-1=n | W1=回来 | T1=v | 部队 | 工作 | 妈妈 | 带 | 回来 | 玉米饼 | 烤 | take
+W-1=自 | T-1=r | W1=干粮 | T1=n | 带 | 干粮 | 往返 | take
+W-1=NULL_HEAD | T-1=NULL_HEAD | W1=着 | T1=u | 带 | 手机 | 人们 | take
+W-1=不用 | T-1=d | W1=烟 | T1=n | 时候 | 老百姓 | 带 | 烟 | 带 | 酒 | 捎 | 上 | take
+W-1=所 | T-1=u | W1=之 | T1=u | 购物 | 为 | 内容 | 带 | take
+W-1=也 | T-1=d | W1=两 | T1=m | 想 | 吃 | 带 | 回来 | take
+W-1=自 | T-1=r | W1=工具 | T1=n | 村 | 村民 | 带 | 工具 | 带 | 粮食 | take
+W-1=和 | T-1=c | W1=车 | T1=n | 参谋长 | 驾车 | 带 | 车 | 穿越 | 世界屋脊 | take
+W-1=自己 | T-1=r | W1=。 | T1=w | 桌椅 | 教具 | 让 | 学生 | 带 | take
+W-1=不 | T-1=d | W1=钱 | T1=n | 冰雪 | 带 | 钱 | 持卡 | 消费 | 热 | take
+W-1=可 | T-1=v | W1=薪 | T1=Ng | 民主党派 | 人员 | 可 | 带 | 分流 | 去 | 领办 | 创办 | take
+W-1=还要 | T-1=v | W1=着 | T1=u | 电报 | 大楼 | 打电话 | 人 | 还要 | 带 | 午饭 | 去 | 排队 | take
+W-1=多 | T-1=d | W1=电池 | T1=n | 使用 | 注意 | 带 | 电池 | take
+W-1=节目 | T-1=n | W1=到 | T1=v | 文艺 | 节目 | 带 | 到 | take
+W-1=时 | T-1=Ng | W1=的 | T1=u | 体力 | 出 | 汗 | 外出 | 带 | 东西 | take
+W-1=东西 | T-1=n | W1=多 | T1=a | 下乡 | 怕 | 东西 | 带 | 卖 | 掉 | take
+W-1=学生 | T-1=n | W1=月饼 | T1=n | 残疾 | 青年 | 上课 | 学生 | 带 | 月饼 | 吃 | 出差 | 捎 | 茯苓饼 | take
+W-1=免不了 | T-1=v | W1=些 | T1=q | 去 | 亲朋 | 家 | 做客 | 免不了 | 带 | 糕点 | 水果 | take
+W-1=纷纷 | T-1=d | W1=上 | T1=v | 草原 | 牧民 | 带 | 上 | 工具 | 加入 | take
+W-1=上 | T-1=f | W1=球 | T1=n | 像 | 足球 | 明星 | 绿茵场 | 带 | 球 | 驰骋 | 像 | 杂耍 | 演员 | take
+W-1=所 | T-1=u | W1=印鉴 | T1=n | 外出 | 利用 | 职权 | 带 | 印鉴 | 伪造 | 董事会 | 决议 | take
+W-1=并 | T-1=c | W1=去 | T1=v | 职工 | 进行 | 带 | 去 | 面粉 | 慰问金 | take
+W-1=自费 | T-1=d | W1=着 | T1=u | 华人 | 开始 | 带 | 作品 | 到 | 巡回 | take
+W-1=时候 | T-1=n | W1=了 | T1=u | 来 | 时候 | 带 | 鱼 | 肉 | take
+W-1=题目 | T-1=n | W1=标点符号 | T1=n | 版 | 有 | 题目 | 带 | 标点符号 | 不足 | 字 | and
+W-1=车 | T-1=n | W1=人 | T1=n | 三轮车 | 卖 | 菜 | 车 | 带 | 人 | 撞 | 倒 | 送 | and
+W-1=拉 | T-1=v | W1=扯 | T1=v | 引力 | 拉 | 带 | 扯 | 星系 | and
+W-1=人 | T-1=n | W1=车 | T1=n | 人 | 带 | 车 | 要 | 栽倒 | and
+W-1=蹦 | T-1=v | W1=跳 | T1=v | 北风 | 蹦 | 带 | 跳 | and
+W-1=跑 | T-1=v | W1=颠 | T1=Vg | 跑 | 带 | 忙 | 过 | and
+W-1=会诊 | T-1=vn | W1=教 | T1=v | 实施 | 专家 | 带 | 教 | 计划 | and
+W-1=走 | T-1=v | W1=吃 | T1=v | 可以 | 拿 | 走 | 带 | 吃 | and
+W-1=本 | T-1=n | W1=利 | T1=n | 本 | 带 | 利 | 转入 | and
+W-1=本 | T-1=n | W1=息 | T1=Ng | 存单 | 到期 | 开始 | 本 | 带 | 取出 | 转 | 存 | and
+W-1=跳 | T-1=v | W1=跌 | T1=v | 手 | 摸爬 | 跳 | 带 | 跌 | 太阳 | 收尽 | and
+W-1=吃 | T-1=v | W1=玩 | T1=v | 去 | 农家乐 | 吃 | 带 | 玩 | 度 | 节省 | and
+W-1=需 | T-1=v | W1=上 | T1=v | 需要 | 翻译 | 陪同 | 需 | 带 | 上 | 耳机 | wear
+W-1=所 | T-1=u | W1=的 | T1=u | 盲人 | 带 | 眼镜 | 装 | 有 | wear
+W-1=臂 | T-1=Ng | W1=袖标 | T1=n | 扛 | 队旗 | 带 | 袖标 | 做 | wear
+W-1=脸 | T-1=n | W1=死亡 | T1=vn | 百姓 | 手 | 脸 | 带 | 面具 | 高举 | 受害者 | wear
+W-1=《 | T-1=w | W1=口罩 | T1=n | 孩子 | 准备 | 带 | 口罩 | 狗 | wear
+W-1=儿女 | T-1=n | W1=着 | T1=u | 病卧 | 床 | 儿女 | 带 | 黑纱 | 守 | 母亲 | wear
+W-1=， | T-1=w | W1=上 | T1=v | 装 | 上 | 电池 | 带 | 上 | 耳机 | 打开 | 开关 | wear
+W-1=， | T-1=w | W1=上 | T1=v | 手脚 | 锁 | 住 | 带 | 上 | 手铐 | 脚镣 | wear

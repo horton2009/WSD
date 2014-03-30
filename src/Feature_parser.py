@@ -4,7 +4,7 @@ from io import StringIO
 from lxml import etree
 
 
-def Feature_extract(lexelt,dirout,ftype,Cwnd,wnd,sparator):
+def Feature_extract(lexelt,dirout,ftype,CWnd,Wnd_l,Wnd_r,sparator):
     # lexelt: the string contain a segment of a XML file, including all sample of one word 
     # dirout: the directory of the train data, where the extracted features of each word 
     #         would be a single file 
@@ -13,7 +13,7 @@ def Feature_extract(lexelt,dirout,ftype,Cwnd,wnd,sparator):
     #------------------------------- get the key word -------------------------------------
     root=etree.XML(lexelt)
     word = root.xpath("./@item")[0].encode('utf-8')
-    print word
+    print "Extract",word,"for",ftype
 
     fout = open(dirout+word,"w")
 
@@ -70,8 +70,8 @@ def Feature_extract(lexelt,dirout,ftype,Cwnd,wnd,sparator):
             index = index + subtokens.index(word)
         #----------------------------- get Features of key word -----------------------------
         #------------- 1. W-wnd ~ Wwnd, T-wnd~Twnd
-        scale = range(-wnd,wnd+1)
-        del scale[wnd]
+        scale = range(-Wnd_l,Wnd_r+1)
+        del scale[Wnd_l]
         FeatureString = ""
         length = len(tokens)
         for i in scale:
@@ -92,7 +92,7 @@ def Feature_extract(lexelt,dirout,ftype,Cwnd,wnd,sparator):
             FeatureString = FeatureString + "PW" + "=" + embed_phrase + sparator
             FeatureString = FeatureString + "PT" + "=" + phrase_pos + sparator
         #-------------3. Content Word
-        scale = range(-Cwnd,Cwnd)
+        scale = range(-CWnd,CWnd)
         for i in scale:
             if(i<0 and (index+i)<0):
                 pass
