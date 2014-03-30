@@ -155,8 +155,11 @@ def main():
     #trainfile = "../train/中医"
     #testfile = "../test/中医"
     #bpt = bpTest(trainfile, testfile)
-    #outfile = bpt.predict("../train/","../test/","../result/")
-    util.evaluate("../result/Result_ANN_Mon Mar 24 15:01:55 2014", "../result/test_answer")
+
+
+    bpt = bpTest()
+    outfile = bpt.predict("../train/","../test/","../result/")
+    util.evaluate(outfile, "../result/test_answer")
     
 
 if __name__=="__main__":

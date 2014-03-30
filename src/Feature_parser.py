@@ -4,7 +4,7 @@ from io import StringIO
 from lxml import etree
 
 
-def Feature_extract(lexelt,dirout,ftype="train",wnd=2,sparator=" | "):
+def Feature_extract(lexelt,dirout,ftype,Cwnd,wnd,sparator):
     # lexelt: the string contain a segment of a XML file, including all sample of one word 
     # dirout: the directory of the train data, where the extracted features of each word 
     #         would be a single file 
@@ -69,6 +69,7 @@ def Feature_extract(lexelt,dirout,ftype="train",wnd=2,sparator=" | "):
 
             index = index + subtokens.index(word)
         #----------------------------- get Features of key word -----------------------------
+        #------------- 1. W-wnd ~ Wwnd, T-wnd~Twnd
         scale = range(-wnd,wnd+1)
         del scale[wnd]
         FeatureString = ""
@@ -86,11 +87,21 @@ def Feature_extract(lexelt,dirout,ftype="train",wnd=2,sparator=" | "):
 
             FeatureString = FeatureString + "W" + str(i) + "=" + token + sparator
             FeatureString = FeatureString + "T" + str(i) + "=" + tag + sparator
-
+        #-------------2. PW, PT
         if(""!=embed_phrase):
             FeatureString = FeatureString + "PW" + "=" + embed_phrase + sparator
             FeatureString = FeatureString + "PT" + "=" + phrase_pos + sparator
-
+        #-------------3. Content Word
+        scale = range(-Cwnd,Cwnd)
+        for i in scale:
+            if(i<0 and (index+i)<0):
+                pass
+            elif(i>0 and (index+i)>=length):    # last one is length-1
+                pass
+            else:
+                if(postags[index+i] in ["n","v"]):
+                    FeatureString = FeatureString + tokens[index+i] + sparator
+        #-------------4. Sense
         FeatureString = FeatureString + sense +"\n"
 
         fout.write(FeatureString)

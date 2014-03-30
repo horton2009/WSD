@@ -46,12 +46,15 @@ class Reader(threading.Thread):
 # ------------ Extract the feature the features and write into the specified directory --------------
 class Extracter(threading.Thread):
 
-    def __init__(self,dirout,ftype,sleeptime):
+    def __init__(self,dirout,sleeptime,ftype,Cwnd,Wnd,sparator):
 
         threading.Thread.__init__(self)
         self.dirout = dirout
         self.ftype = ftype
         self.sleeptime = sleeptime
+        self.Cwnd = Cwnd
+        self.Wnd = Wnd
+        self.sparator = sparator
     
     def run(self):
         global q
@@ -70,15 +73,16 @@ class Extracter(threading.Thread):
             lexelt = q.get()
             q.task_done()
 
-            name = Feature_parser.Feature_extract(lexelt, self.dirout,self.ftype)
+            name = Feature_parser.Feature_extract(lexelt, self.dirout,self.ftype,self.Cwnd,self.Wnd,self.sparator)
             mutex.acquire()
-            Names.append(name)
+            if("test"==self.ftype):
+                Names.append(name)
             mutex.release()
 
         print "finished in ",self.name
 
 
-def extract(infile,dirout,ftype="train"):
+def extract(infile,dirout,ftype="train",Cwnd=10,Wnd=2,sparator=" | "):
     global Names
     f=open(infile)
     if("train"==ftype):
@@ -91,7 +95,7 @@ def extract(infile,dirout,ftype="train"):
     tR = Reader(f,sleeptime)
     tE = []
     for i in range(tnum):
-        tE.append(Extracter(dirout,ftype,sleeptime))
+        tE.append(Extracter(dirout,sleeptime,ftype,Cwnd,Wnd,sparator))
 
     tR.start()    
     for i in range(tnum):
@@ -103,9 +107,11 @@ def extract(infile,dirout,ftype="train"):
     for i in range(tnum):
         tE[i].join
 
-    util.writeNames(dirout+"namefile", Names)
+    if("test"==ftype):
+        util.writeNames(dirout+"namefile", Names)
 
     
 
 if __name__ == '__main__':
-    extract("../corpus/train_corpus.xml","../train/")
+#    extract("../corpus/train_corpus.xml","../train/","train",0,2," | ")
+    extract("../corpus/test_corpus.xml","../test/","test",0,2," | ")

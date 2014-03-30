@@ -85,8 +85,9 @@ class NaiveBayes(object):
         numWords = len(trainMatrix[0])
         for c in set(self.classVec):
             self.PcMap[c] = (self.classVec.count(c))/float(numTrainDocs)
-            self.Pc_xMap[c] = ones(numWords)    # ones(): return a array with elements of float type
-        
+            #////////////////////////////////////////////////////////////////////
+            self.Pc_xMap[c] =  array([0.05]*numWords)    
+            #////////////////////////////////////////////////////////////////////
         ctotal = {}                             # record the total none zero feature number of samples for each class
         for i in range(numTrainDocs):
             c = self.classVec[i]
@@ -120,11 +121,12 @@ class NaiveBayes(object):
     def classify(self,vec2Classify):
         result = {}
         for c in set(self.classVec):
-            result[c] = sum(vec2Classify * self.Pc_xMap[c]) + log(self.PcMap[c])
+            for  v in (vec2Classify * self.Pc_xMap[c]):
+                if(v>0):
+                    result[c] = result.get(c,0.) + log(v) 
+            result[c] = result.get(c,0.) + log(self.PcMap[c])
         import operator
         result = sorted(result.iteritems(), key=operator.itemgetter(1),reverse=True)
-        #for r in result:
-        #    print "in classify:",r[0],r[1]
         return result[0][0]                           # sorted result is in type like [(c1, p1),(c2,p2)...]
 
 
@@ -152,6 +154,8 @@ class NaiveBayes(object):
                 testVec = self.bagOfWords2Vec(tesfFeatures)
                 result = self.classify(testVec)
                 fout.write(name+" "+self.testName[i]+" "+result+"\n")
+
+        fout.close()
 
         return outfile      # for evaluate
 
@@ -216,8 +220,8 @@ def main():
         fout.write(result)
     '''
 
-
-    Feature_Extractor.extract("../corpus/test_corpus.xml", "../test/","test")
+#    Feature_Extractor.extract("../corpus/train_corpus.xml", "../train/","train",0,3," | ")
+#    Feature_Extractor.extract("../corpus/test_corpus.xml", "../test/","test",0,3," | ")
 
     for name in Feature_Extractor.Names:
         print name
