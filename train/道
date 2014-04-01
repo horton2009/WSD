@@ -1,53 +1,53 @@
-W-1=之 | T-1=u | W1=找到 | T1=v | 市 | 领导 | 寻求 | 生存 | 道 | 找到 | technique
-W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | 走向 | 揭示 | 道 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 是 | 取胜 | 道 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 成为 | 解决 | 道 | technique
-W-1=之 | T-1=u | W1=， | T1=w | 钢琴 | 道 | 是 | technique
-W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | 健身 | 道 | technique
-W-1=之 | T-1=u | W1=、 | T1=w | 群体 | 揭示 | 成才 | 道 | 将 | 道 | technique
-W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | 经营 | 道 | technique
-W-1=之 | T-1=u | W1=， | T1=w | 成绩 | 探讨 | 经营 | 道 | 取得 | 秘诀 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 是 | 道 | technique
-W-1=之 | T-1=u | W1=， | T1=w | 正是 | 取胜 | 道 | 是 | 祖国 | 夺得 | 荣誉 | technique
-W-1=之 | T-1=u | W1=， | T1=w | 应 | 马 | 为 | 师 | 道 | 得益 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 正道 | 是 | 道 | technique
-W-1=之 | T-1=u | W1=， | T1=w | 预防 | 道 | 网站 | 需用 | 技术 | technique
-W-1=之 | T-1=u | W1=， | T1=w | 保险 | 理解 | 为 | 发财 | 道 | 想 | 能 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 是 | 大学 | 治校 | 道 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 生存 | 本 | 发展 | 道 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 走 | 上 | 修正 | 道 | technique
-W-1=之 | T-1=u | W1=。 | T1=w | 对方 | 讨教 | 起 | 发财 | 道 | technique
-W-1=“ | T-1=w | W1=” | T1=w | 培养 | 道德 | 砥励 | 精神 | 道 | technique
-W-1=占 | T-1=v | W1=是 | T1=v | 摆 | 摊点 | 建筑 | 占 | 道 | 是 | 影响 | 道路 | 秩序 | 老大难 | road
-W-1=占 | T-1=v | W1=摊贩 | T1=n | 占 | 道 | 摊贩 | 引进 | 商业点 | road
-W-1=占 | T-1=v | W1=摊点 | T1=n | 清除 | 违章 | 占 | 道 | 摊点 | 清理 | 出 | road
-W-1=漫步 | T-1=v | W1=上 | T1=f | 甬道 | 流淌 | 人们 | 漫步 | 道 | 人影 | 倒映 | road
-W-1=登山 | T-1=vn | W1=上 | T1=f | 道 | 标语 | road
-W-1=封 | T-1=v | W1=栏杆 | T1=n | 路口 | 封 | 道 | 栏杆 | 悬挂 | road
-W-1=打 | T-1=v | W1=离开 | T1=v | 塞 | 转身 | 打 | 道 | 离开 | road
-W-1=石板 | T-1=n | W1=、 | T1=w | 鸟瞰 | 世界 | 风云 | 石板 | 道 | 水泥 | 阶梯 | 路 | road
-W-1=劫 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | 车匪 | 劫 | 道 | road
-W-1=胆 | T-1=n | W1=合并症 | T1=n | 肝 | 动脉 | 栓塞 | 胆 | 道 | 合并症 | 提供 | road
-W-1=满 | T-1=v | W1=， | T1=w | 下雨 | 满 | 道 | 无法 | 行走 | road
-W-1=上 | T-1=v | W1=和 | T1=c | 完成 | 提速 | 锁 | 闭 | 道岔 | 上 | 道 | road
-W-1=第一 | T-1=m | W1=” | T1=w | 道 | 绿色 | 通道 | 工程 | 启动 | road
-W-1=第一 | T-1=m | W1=” | T1=w | 有 | 道 | 美称 | road
-W-1=第一 | T-1=m | W1=” | T1=w | 有 | 道 | 美誉 | road
-W-1=借 | T-1=v | W1=也 | T1=d | 精通 | 原有 | 商业 | 网络 | 借 | 道 | road
-W-1=之 | T-1=u | W1=上 | T1=f | 艺术 | 道 | 走 | 到 | road
-W-1=材料 | T-1=n | W1=向 | T1=p | 抢险点 | 材料 | 道 | 打开 | 通往 | 矿工 | road
-W-1=材料 | T-1=n | W1=外 | T1=f | 可能 | 集中 | 工作面 | 材料 | 道 | 地段 | road
-W-1=材料 | T-1=n | W1=的 | T1=u | 确定 | 向上 | 打通 | 材料 | 道 | 路 | road
-W-1=暗 | T-1=a | W1=和 | T1=c | 环节 | 成为 | 资产 | 流失 | 道 | 滋生 | 温床 | road
-W-1=有 | T-1=v | W1=闯 | T1=v | 有 | 道 | 闯 | 为 | road
-W-1=联络 | T-1=v | W1=已 | T1=d | 出口 | 滑行道 | 联络 | 道 | 建成 | 剩下 | road
-W-1=沟 | T-1=n | W1=堵塞 | T1=v | 拉 | 住 | 反映 | 沟 | 道 | 堵塞 | 问题 | road
-W-1=县乡 | T-1=n | W1=， | T1=w | 省道 | 县乡 | 道 | 里程 | road
-W-1=狭 | T-1=Ag | W1=中 | T1=f | 人 | 道 | 走 | 马 | 碰碰撞撞 | road
-W-1=求 | T-1=v | W1=” | T1=w | 绘画 | 实践 | 看作 | 求 | 道 | 门途 | 线条 | doctrine
-W-1=求 | T-1=v | W1=” | T1=w | 艺术 | 求 | 道 | 生长 | 磨难 | doctrine
-W-1=立 | T-1=v | W1=始 | T1=d | 立 | 道 | 求 | doctrine
-W-1=殉 | T-1=Vg | W1=精神 | T1=n | 有 | 道 | 精神 | 是 | doctrine
-W-1=有 | T-1=v | W1=是 | T1=v | 有 | 道 | 是 | doctrine
-W-1=得 | T-1=v | W1=” | T1=w | 镜子 | 遮拦 | 得 | 道 | doctrine
-W-1=得 | T-1=v | W1=” | T1=w | 求得 | 个人 | 得 | 道 | 成 | 佛 | doctrine
+W-3=人民布厂 | T-3=nt | W-2=生存 | T-2=v | W-1=之 | T-1=u | W1=找到 | T1=v | W2=盛 | T2=nr | 市 | 领导 | 寻求 | 生存 | 道 | 找到 | technique
+W-3=揭示 | T-3=v | W-2=成功 | T-2=a | W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 走向 | 揭示 | 道 | technique
+W-3=是 | T-3=v | W-2=取胜 | T-2=v | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 是 | 取胜 | 道 | technique
+W-3=的 | T-3=u | W-2=解决 | T-2=v | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 成为 | 解决 | 道 | technique
+W-3=的 | T-3=u | W-2=成功 | T-2=a | W-1=之 | T-1=u | W1=， | T1=w | W2=就 | T2=d | 钢琴 | 道 | 是 | technique
+W-3=的 | T-3=u | W-2=健身 | T-2=v | W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 健身 | 道 | technique
+W-3=了 | T-3=u | W-2=成才 | T-2=v | W-1=之 | T-1=u | W1=、 | T1=w | W2=为 | T2=Vg | 群体 | 揭示 | 成才 | 道 | 将 | 道 | technique
+W-3=的 | T-3=u | W-2=经营 | T-2=v | W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 经营 | 道 | technique
+W-3=的 | T-3=u | W-2=经营 | T-2=v | W-1=之 | T-1=u | W1=， | T1=w | W2=取得 | T2=v | 成绩 | 探讨 | 经营 | 道 | 取得 | 秘诀 | technique
+W-3=拒 | T-3=Vg | W-2=假 | T-2=a | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 是 | 道 | technique
+W-3=的 | T-3=u | W-2=取胜 | T-2=v | W-1=之 | T-1=u | W1=， | T1=w | W2=是 | T2=v | 正是 | 取胜 | 道 | 是 | 祖国 | 夺得 | 荣誉 | technique
+W-3=师 | T-3=n | W-2=” | T-2=w | W-1=之 | T-1=u | W1=， | T1=w | W2=并 | T2=c | 应 | 马 | 为 | 师 | 道 | 得益 | technique
+W-3=是 | T-3=v | W-2=合法 | T-2=a | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 正道 | 是 | 道 | technique
+W-3=作为 | T-3=p | W-2=预防 | T-2=v | W-1=之 | T-1=u | W1=， | T1=w | W2=网站 | T2=n | 预防 | 道 | 网站 | 需用 | 技术 | technique
+W-3=为 | T-3=v | W-2=发财 | T-2=v | W-1=之 | T-1=u | W1=， | T1=w | W2=总 | T2=d | 保险 | 理解 | 为 | 发财 | 道 | 想 | 能 | technique
+W-3=的 | T-3=u | W-2=治校 | T-2=v | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 是 | 大学 | 治校 | 道 | technique
+W-3=， | T-3=w | W-2=发展 | T-2=v | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 生存 | 本 | 发展 | 道 | technique
+W-3=修正 | T-3=v | W-2=” | T-2=w | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 走 | 上 | 修正 | 道 | technique
+W-3=起 | T-3=v | W-2=发财 | T-2=v | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 对方 | 讨教 | 起 | 发财 | 道 | technique
+W-3=精神 | T-3=n | W-2=之 | T-2=u | W-1=“ | T-1=w | W1=” | T1=w | W2=。 | T2=w | 培养 | 道德 | 砥励 | 精神 | 道 | technique
+W-3=建筑 | T-3=n | W-2=乱 | T-2=d | W-1=占 | T-1=v | W1=是 | T1=v | W2=影响 | T2=v | 摆 | 摊点 | 建筑 | 占 | 道 | 是 | 影响 | 道路 | 秩序 | 老大难 | road
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=对 | T-2=p | W-1=占 | T-1=v | W1=摊贩 | T1=n | W2=， | T2=w | 占 | 道 | 摊贩 | 引进 | 商业点 | road
+W-3=清除 | T-3=v | W-2=违章 | T-2=v | W-1=占 | T-1=v | W1=摊点 | T1=n | W2=２５６８ | T2=m | 清除 | 违章 | 占 | 道 | 摊点 | 清理 | 出 | road
+W-3=， | T-3=w | W-2=人们 | T-2=n | W-1=漫步 | T-1=v | W1=上 | T1=f | W2=， | T2=w | 甬道 | 流淌 | 人们 | 漫步 | 道 | 人影 | 倒映 | road
+W-3=工作 | T-3=vn | W-2=， | T-2=w | W-1=登山 | T-1=vn | W1=上 | T1=f | W2=， | T2=w | 道 | 标语 | road
+W-3=路口 | T-3=n | W-2=的 | T-2=u | W-1=封 | T-1=v | W1=栏杆 | T1=n | W2=上 | T2=f | 路口 | 封 | 道 | 栏杆 | 悬挂 | road
+W-3=欲 | T-3=d | W-2=转身 | T-2=v | W-1=打 | T-1=v | W1=离开 | T1=v | W2=。 | T2=w | 塞 | 转身 | 打 | 道 | 离开 | road
+W-3=’ | T-3=w | W-2=的 | T-2=u | W-1=石板 | T-1=n | W1=、 | T1=w | W2=水泥 | T2=n | 鸟瞰 | 世界 | 风云 | 石板 | 道 | 水泥 | 阶梯 | 路 | road
+W-3=境 | T-3=Ng | W-2=车匪 | T-2=n | W-1=劫 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 车匪 | 劫 | 道 | road
+W-3=栓塞 | T-3=n | W-2=、 | T-2=w | W-1=胆 | T-1=n | W1=合并症 | T1=n | W2=以及 | T2=c | 肝 | 动脉 | 栓塞 | 胆 | 道 | 合并症 | 提供 | road
+W-3=就 | T-3=d | W-2=泥泞 | T-2=a | W-1=满 | T-1=v | W1=， | T1=w | W2=无法 | T2=v | 下雨 | 满 | 道 | 无法 | 行走 | road
+W-3=闭 | T-3=v | W-2=道岔 | T-2=n | W-1=上 | T-1=v | W1=和 | T1=c | W2=自动 | T2=b | 完成 | 提速 | 锁 | 闭 | 道岔 | 上 | 道 | road
+W-3=“ | T-3=w | W-2=西北 | T-2=s | W-1=第一 | T-1=m | W1=” | T1=w | W2=两侧 | T2=f | 道 | 绿色 | 通道 | 工程 | 启动 | road
+W-3=“ | T-3=w | W-2=西北 | T-2=s | W-1=第一 | T-1=m | W1=” | T1=w | W2=美称 | T2=n | 有 | 道 | 美称 | road
+W-3=“ | T-3=w | W-2=西北 | T-2=s | W-1=第一 | T-1=m | W1=” | T1=w | W2=之 | T2=u | 有 | 道 | 美誉 | road
+W-3=商业 | T-3=n | W-2=网络 | T-2=n | W-1=借 | T-1=v | W1=也 | T1=d | W2=容易 | T2=a | 精通 | 原有 | 商业 | 网络 | 借 | 道 | road
+W-3=的 | T-3=u | W-2=艺术 | T-2=n | W-1=之 | T-1=u | W1=上 | T1=f | W2=走 | T2=v | 艺术 | 道 | 走 | 到 | road
+W-3=320 | T-3=m | W-2=米 | T-2=q | W-1=材料 | T-1=n | W1=向 | T1=p | W2=下 | T2=f | 抢险点 | 材料 | 道 | 打开 | 通往 | 矿工 | road
+W-3=工作面 | T-3=n | W-2=上 | T-2=f | W-1=材料 | T-1=n | W1=外 | T1=f | W2=15 | T2=m | 可能 | 集中 | 工作面 | 材料 | 道 | 地段 | road
+W-3=向上 | T-3=v | W-2=打通 | T-2=v | W-1=材料 | T-1=n | W1=的 | T1=u | W2=自救 | T2=vn | 确定 | 向上 | 打通 | 材料 | 道 | 路 | road
+W-3=流失 | T-3=v | W-2=的 | T-2=u | W-1=暗 | T-1=a | W1=和 | T1=c | W2=滋生 | T2=v | 环节 | 成为 | 资产 | 流失 | 道 | 滋生 | 温床 | road
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=华山 | T-2=ns | W-1=有 | T-1=v | W1=闯 | T1=v | W2=为 | T2=v | 有 | 道 | 闯 | 为 | road
+W-3=条 | T-3=q | W-2=端 | T-2=Ng | W-1=联络 | T-1=v | W1=已 | T1=d | W2=基本 | T2=ad | 出口 | 滑行道 | 联络 | 道 | 建成 | 剩下 | road
+W-3=他 | T-3=r | W-2=反映 | T-2=v | W-1=沟 | T-1=n | W1=堵塞 | T1=v | W2=的 | T2=u | 拉 | 住 | 反映 | 沟 | 道 | 堵塞 | 问题 | road
+W-3=208 | T-3=m | W-2=条 | T-2=q | W-1=县乡 | T-1=n | W1=， | T1=w | W2=总 | T2=b | 省道 | 县乡 | 道 | 里程 | road
+W-3=在 | T-3=p | W-2=这 | T-2=r | W-1=狭 | T-1=Ag | W1=中 | T1=f | W2=走 | T2=v | 人 | 道 | 走 | 马 | 碰碰撞撞 | road
+W-3=看作 | T-3=v | W-2=“ | T-2=w | W-1=求 | T-1=v | W1=” | T1=w | W2=门途 | T2=n | 绘画 | 实践 | 看作 | 求 | 道 | 门途 | 线条 | doctrine
+W-3=在 | T-3=p | W-2=“ | T-2=w | W-1=求 | T-1=v | W1=” | T1=w | W2=途中 | T2=s | 艺术 | 求 | 道 | 生长 | 磨难 | doctrine
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=立 | T-1=v | W1=始 | T1=d | W2=求 | T2=v | 立 | 道 | 求 | doctrine
+W-3=式 | T-3=k | W-2=的 | T-2=u | W-1=殉 | T-1=Vg | W1=精神 | T1=n | W2=的 | T2=u | 有 | 道 | 精神 | 是 | doctrine
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=有 | T-1=v | W1=是 | T1=v | W2=： | T2=w | 有 | 道 | 是 | doctrine
+W-3=而 | T-3=c | W-2=“ | T-2=w | W-1=得 | T-1=v | W1=” | T1=w | W2=的 | T2=u | 镜子 | 遮拦 | 得 | 道 | doctrine
+W-3=的 | T-3=u | W-2=“ | T-2=w | W-1=得 | T-1=v | W1=” | T1=w | W2=和 | T2=c | 求得 | 个人 | 得 | 道 | 成 | 佛 | doctrine

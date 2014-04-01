@@ -1,56 +1,56 @@
-W-1=、 | T-1=w | W1=、 | T1=w | 山区 | 乡镇 | 涌现 | 出 | 菜 | 西瓜 | 专业村 | 带头人 | vegetable
-W-1=鲜 | T-1=a | W1=绿 | T1=a | 花 | 菜 | vegetable
-W-1=年 | T-1=q | W1=， | T1=w | 兵 | 种 | 菜 | 组织 | vegetable
-W-1=到 | T-1=v | W1=， | T1=w | 找 | 到 | 菜 | 种 | vegetable
-W-1=的 | T-1=u | W1=， | T1=w | 吸水性 | 种 | 下 | 菜 | 浇 | vegetable
-W-1=卖 | T-1=v | W1=的 | T1=u | 返回 | 骑 | 三轮车 | 卖 | 菜 | 车 | 带 | 人 | vegetable
-W-1=、 | T-1=w | W1=、 | T1=w | 菜篮子 | 发展 | 粮 | 菜 | 肉 | 蛋 | 供应 | vegetable
-W-1=买 | T-1=v | W1=， | T1=w | 有 | 上街 | 买 | 菜 | 摔倒 | 小巷 | vegetable
-W-1=如 | T-1=v | W1=， | T1=w | 环境 | 脸色 | 如 | 菜 | vegetable
-W-1=种 | T-1=v | W1=” | T1=w | 为 | 种 | 种 | 菜 | 有 | vegetable
-W-1=是 | T-1=v | W1=” | T1=w | 方向 | 拣到 | 篮子 | 是 | 菜 | 经济 | 模式 | vegetable
-W-1=买 | T-1=v | W1=， | T1=w | 零花钱 | 分组 | 去 | 买 | 菜 | 学生 | 动手 | 做 | vegetable
-W-1=买 | T-1=v | W1=、 | T1=w | 病体 | 买 | 菜 | 做饭 | 洗衣 | 拖地 | vegetable
-W-1=夏 | T-1=Tg | W1=自给 | T1=v | 使 | 部队 | 所属 | 单位 | 实现 | 菜 | 自给 | 有 | 鲜菜 | vegetable
-W-1=卖 | T-1=v | W1=的 | T1=u | 公司 | 经理 | 是 | 卖 | 菜 | 工程 | 法人 | vegetable
-W-1=瓜 | T-1=n | W1=香 | T1=a | 大棚 | 在 | 雪域 | 瓜 | 菜 | vegetable
-W-1=肉 | T-1=n | W1=自给 | T1=v | 武警 | 官兵 | 实现 | 肉 | 菜 | 自给 | vegetable
-W-1=产 | T-1=v | W1=180万 | T1=m | 全区 | 武警 | 部队 | 产 | 菜 | 产 | 肉 | vegetable
-W-1=而 | T-1=c | W1=、 | T1=w | 集约化 | 生产 | 成本 | 降低 | 菜 | 花 | 需 | vegetable
-W-1=进 | T-1=v | W1=的 | T1=u | 出来 | 前来 | 进 | 菜 | 客商 | 会 | vegetable
-W-1=装 | T-1=v | W1=的 | T1=u | 手 | 挽 | 起 | 装 | 菜 | 篮子 | 迈 | vegetable
-W-1=瓜 | T-1=n | W1=产值 | T1=n | 全省 | 瓜 | 菜 | 产值 | 达到 | 超过 | vegetable
-W-1=卖 | T-1=v | W1=更 | T1=d | 过 | 上 | 炕 | 卖 | 菜 | 种菜 | vegetable
-W-1=猪食 | T-1=n | W1=。 | T1=w | 到 | 园田地 | 挖 | 猪食 | 菜 | vegetable
-W-1=南 | T-1=f | W1=货源 | T1=n | 肉 | 菜 | 货源 | vegetable
-W-1=瓜 | T-1=n | W1=每日 | T1=r | 瓜 | 菜 | 运 | vegetable
-W-1=瓜 | T-1=n | W1=车 | T1=n | 出 | 岛 | 瓜 | 菜 | 车 | 增加 | vegetable
-W-1=瓜 | T-1=n | W1=156万 | T1=m | 计划 | 种植 | 瓜 | 菜 | 增长 | vegetable
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=售出 | T1=v | 菜 | 售出 | 发生 | 农药 | vegetable
-W-1=买 | T-1=v | W1=的 | T1=u | 过年 | 家 | 买 | 菜 | 钱 | 没有 | 着落 | vegetable
-W-1=道 | T-1=q | W1=是 | T1=v | 菜 | 是 | 鱼汤 | dish
-W-1=普通 | T-1=a | W1=） | T1=w | 菜 | dish
-W-1=好 | T-1=a | W1=， | T1=w | 能 | 做 | 菜 | 是 | dish
-W-1=桌 | T-1=q | W1=摆 | T1=v | 菜 | 摆 | 是 | dish
-W-1=的 | T-1=u | W1=盘子 | T1=n | 省政府 | 让 | 武警 | 部队 | 官兵 | 菜 | 盘子 | 研究 | dish
-W-1=上 | T-1=v | W1=的 | T1=u | 上 | 菜 | 太监 | 馋相 | 祖父 | dish
-W-1=点 | T-1=v | W1=吃饭 | T1=v | 乘客 | 点 | 菜 | 吃饭 | 是 | 骂 | dish
-W-1=“ | T-1=w | W1=” | T1=w | 跟进 | 菜 | dish
-W-1=“ | T-1=w | W1=” | T1=w | 道 | 菜 | dish
-W-1=道 | T-1=q | W1=还 | T1=d | 朝阳 | 四射 | 嗓子 | 菜 | 是 | 烧 | dish
-W-1=道 | T-1=q | W1=， | T1=w | 上 | 菜 | 看到 | 菜 | dish
-W-1=道 | T-1=q | W1=按 | T1=p | 菜 | 话 | 叫 | 肉圆子 | dish
-W-1=道 | T-1=q | W1=的 | T1=u | 菜 | 原料 | dish
-W-1=道 | T-1=q | W1=给 | T1=p | 母亲 | 要 | 做 | 菜 | 饯行 | dish
-W-1=道 | T-1=q | W1=不仅 | T1=c | 菜 | 食味 | dish
-W-1=道 | T-1=q | W1=了 | T1=y | 到 | 吃 | 到 | 菜 | dish
-W-1=速冻 | T-1=vn | W1=、 | T1=w | 肉食 | 海产品 | 菜 | 水果 | 奶制品 | dish
-W-1=拿手 | T-1=a | W1=， | T1=w | 人们 | 品尝 | 带来 | 菜 | 举杯 | 叙 | 俱乐部 | 成立 | dish
-W-1=道 | T-1=q | W1=呢 | T1=y | 加 | 菜 | dish
-W-1=名贵 | T-1=a | W1=， | T1=w | 能 | 吃 | 到 | 菜 | 登 | 上 | dish
-W-1=时髦 | T-1=a | W1=” | T1=w | 海鲜 | 类 | 菜 | 占 | dish
-W-1=家乡 | T-1=n | W1=， | T1=w | 孩子 | 做 | 风味 | 家乡 | 菜 | 如 | 米粉肉 | 豆豉鱼 | dish
-W-1=中国 | T-1=ns | W1=： | T1=w | 准备 | 菜 | dish
-W-1=道 | T-1=q | W1=上来 | T1=v | 菜 | 上来 | 夫妇 | dish
-W-1=好 | T-1=a | W1=， | T1=w | 出来 | 做 | 上 | 菜 | 陪 | 老人 | 逛逛 | 商场 | dish
-W-1=家乡 | T-1=n | W1=的 | T1=u | 习惯 | 吃 | 保姆 | 家乡 | 菜 | 主妇 | 烧 | 年夜饭 | dish
+W-3=大批 | T-3=m | W-2=果 | T-2=Ng | W-1=、 | T-1=w | W1=、 | T1=w | W2=西瓜 | T2=n | 山区 | 乡镇 | 涌现 | 出 | 菜 | 西瓜 | 专业村 | 带头人 | vegetable
+W-3=棚内 | T-3=s | W-2=花 | T-2=n | W-1=鲜 | T-1=a | W1=绿 | T1=a | W2=。 | T2=w | 花 | 菜 | vegetable
+W-3=了 | T-3=u | W-2=十三 | T-2=m | W-1=年 | T-1=q | W1=， | T1=w | W2=组织 | T2=n | 兵 | 种 | 菜 | 组织 | vegetable
+W-3=找 | T-3=v | W-2=不 | T-2=d | W-1=到 | T-1=v | W1=， | T1=w | W2=只好 | T2=d | 找 | 到 | 菜 | 种 | vegetable
+W-3=种 | T-3=v | W-2=下 | T-2=v | W-1=的 | T-1=u | W1=， | T1=w | W2=一 | T2=m | 吸水性 | 种 | 下 | 菜 | 浇 | vegetable
+W-3=骑 | T-3=v | W-2=三轮车 | T-2=n | W-1=卖 | T-1=v | W1=的 | T1=u | W2=陈某 | T2=nr | 返回 | 骑 | 三轮车 | 卖 | 菜 | 车 | 带 | 人 | vegetable
+W-3=， | T-3=w | W-2=粮 | T-2=n | W-1=、 | T-1=w | W1=、 | T1=w | W2=肉 | T2=n | 菜篮子 | 发展 | 粮 | 菜 | 肉 | 蛋 | 供应 | vegetable
+W-3=次 | T-3=q | W-2=上街 | T-2=v | W-1=买 | T-1=v | W1=， | T1=w | W2=摔倒 | T2=v | 有 | 上街 | 买 | 菜 | 摔倒 | 小巷 | vegetable
+W-3=一个个 | T-3=m | W-2=脸色 | T-2=n | W-1=如 | T-1=v | W1=， | T1=w | W2=面无血色 | T2=l | 环境 | 脸色 | 如 | 菜 | vegetable
+W-3=棉 | T-3=Ng | W-2=明年 | T-2=t | W-1=种 | T-1=v | W1=” | T1=w | W2=， | T2=w | 为 | 种 | 种 | 菜 | 有 | vegetable
+W-3=篮子 | T-3=n | W-2=就 | T-2=d | W-1=是 | T-1=v | W1=” | T1=w | W2=的 | T2=u | 方向 | 拣到 | 篮子 | 是 | 菜 | 经济 | 模式 | vegetable
+W-3=分组 | T-3=v | W-2=去 | T-2=v | W-1=买 | T-1=v | W1=， | T1=w | W2=每个 | T2=r | 零花钱 | 分组 | 去 | 买 | 菜 | 学生 | 动手 | 做 | vegetable
+W-3=还 | T-3=d | W-2=把 | T-2=p | W-1=买 | T-1=v | W1=、 | T1=w | W2=做饭 | T2=v | 病体 | 买 | 菜 | 做饭 | 洗衣 | 拖地 | vegetable
+W-3=全部 | T-3=m | W-2=实现 | T-2=v | W-1=夏 | T-1=Tg | W1=自给 | T1=v | W2=、 | T2=w | 使 | 部队 | 所属 | 单位 | 实现 | 菜 | 自给 | 有 | 鲜菜 | vegetable
+W-3=原 | T-3=d | W-2=是 | T-2=v | W-1=卖 | T-1=v | W1=的 | T1=u | W2=， | T2=w | 公司 | 经理 | 是 | 卖 | 菜 | 工程 | 法人 | vegetable
+W-3=雪域 | T-3=n | W-2=严冬 | T-2=t | W-1=瓜 | T-1=n | W1=香 | T1=a | W2=NULL_TAIL | T2=NULL_TAIL | 大棚 | 在 | 雪域 | 瓜 | 菜 | vegetable
+W-3=基本 | T-3=ad | W-2=实现 | T-2=v | W-1=肉 | T-1=n | W1=自给 | T1=v | W2=NULL_TAIL | T2=NULL_TAIL | 武警 | 官兵 | 实现 | 肉 | 菜 | 自给 | vegetable
+W-3=武警 | T-3=n | W-2=部队 | T-2=n | W-1=产 | T-1=v | W1=180万 | T1=m | W2=公斤 | T2=q | 全区 | 武警 | 部队 | 产 | 菜 | 产 | 肉 | vegetable
+W-3=降低 | T-3=v | W-2=； | T-2=w | W-1=而 | T-1=c | W1=、 | T1=w | W2=果 | T2=Ng | 集约化 | 生产 | 成本 | 降低 | 菜 | 花 | 需 | vegetable
+W-3=购 | T-3=Vg | W-2=果 | T-2=Ng | W-1=进 | T-1=v | W1=的 | T1=u | W2=客商 | T2=n | 出来 | 前来 | 进 | 菜 | 客商 | 会 | vegetable
+W-3=挽 | T-3=v | W-2=起 | T-2=v | W-1=装 | T-1=v | W1=的 | T1=u | W2=篮子 | T2=n | 手 | 挽 | 起 | 装 | 菜 | 篮子 | 迈 | vegetable
+W-3=全省 | T-3=n | W-2=的 | T-2=u | W-1=瓜 | T-1=n | W1=产值 | T1=n | W2=达到 | T2=v | 全省 | 瓜 | 菜 | 产值 | 达到 | 超过 | vegetable
+W-3=炕 | T-3=n | W-2=， | T-2=w | W-1=卖 | T-1=v | W1=更 | T1=d | W2=比 | T2=p | 过 | 上 | 炕 | 卖 | 菜 | 种菜 | vegetable
+W-3=一 | T-3=m | W-2=筐 | T-2=q | W-1=猪食 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 到 | 园田地 | 挖 | 猪食 | 菜 | vegetable
+W-3=吨 | T-3=q | W-2=， | T-2=w | W-1=南 | T-1=f | W1=货源 | T1=n | W2=2500万 | T2=m | 肉 | 菜 | 货源 | vegetable
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=海南 | T-2=ns | W-1=瓜 | T-1=n | W1=每日 | T1=r | W2=北 | T2=f | 瓜 | 菜 | 运 | vegetable
+W-3=岛 | T-3=n | W-2=的 | T-2=u | W-1=瓜 | T-1=n | W1=车 | T1=n | W2=已 | T2=d | 出 | 岛 | 瓜 | 菜 | 车 | 增加 | vegetable
+W-3=种植 | T-3=v | W-2=冬季 | T-2=t | W-1=瓜 | T-1=n | W1=156万 | T1=m | W2=亩 | T2=q | 计划 | 种植 | 瓜 | 菜 | 增长 | vegetable
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=售出 | T1=v | W2=后 | T2=f | 菜 | 售出 | 发生 | 农药 | vegetable
+W-3=家 | T-3=n | W-2=连 | T-2=u | W-1=买 | T-1=v | W1=的 | T1=u | W2=钱 | T2=n | 过年 | 家 | 买 | 菜 | 钱 | 没有 | 着落 | vegetable
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=第一 | T-2=m | W-1=道 | T-1=q | W1=是 | T1=v | W2=鱼汤 | T2=n | 菜 | 是 | 鱼汤 | dish
+W-3=（ | T-3=w | W-2=本地 | T-2=r | W-1=普通 | T-1=a | W1=） | T1=w | W2=， | T2=w | 菜 | dish
+W-3=几 | T-3=m | W-2=道 | T-2=q | W-1=好 | T-1=a | W1=， | T1=w | W2=最 | T2=d | 能 | 做 | 菜 | 是 | dish
+W-3=， | T-3=w | W-2=一 | T-2=m | W-1=桌 | T-1=q | W1=摆 | T1=v | W2=好 | T2=a | 菜 | 摆 | 是 | dish
+W-3=部队 | T-3=n | W-2=官兵 | T-2=n | W-1=的 | T-1=u | W1=盘子 | T1=n | W2=更 | T2=d | 省政府 | 让 | 武警 | 部队 | 官兵 | 菜 | 盘子 | 研究 | dish
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=上 | T-1=v | W1=的 | T1=u | W2=太监 | T2=n | 上 | 菜 | 太监 | 馋相 | 祖父 | dish
+W-3=若 | T-3=c | W-2=不 | T-2=d | W-1=点 | T-1=v | W1=吃饭 | T1=v | W2=， | T2=w | 乘客 | 点 | 菜 | 吃饭 | 是 | 骂 | dish
+W-3=， | T-3=w | W-2=恐怕 | T-2=d | W-1=“ | T-1=w | W1=” | T1=w | W2=就 | T2=d | 跟进 | 菜 | dish
+W-3=， | T-3=w | W-2=恐怕 | T-2=d | W-1=“ | T-1=w | W1=” | T1=w | W2=已经 | T2=d | 道 | 菜 | dish
+W-3=， | T-3=w | W-2=这 | T-2=r | W-1=道 | T-1=q | W1=还 | T1=d | W2=是 | T2=v | 朝阳 | 四射 | 嗓子 | 菜 | 是 | 烧 | dish
+W-3=了 | T-3=u | W-2=一 | T-2=m | W-1=道 | T-1=q | W1=， | T1=w | W2=我 | T2=r | 上 | 菜 | 看到 | 菜 | dish
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=这 | T-2=r | W-1=道 | T-1=q | W1=按 | T1=p | W2=当地 | T2=s | 菜 | 话 | 叫 | 肉圆子 | dish
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=这 | T-2=r | W-1=道 | T-1=q | W1=的 | T1=u | W2=原料 | T2=n | 菜 | 原料 | dish
+W-3=做 | T-3=v | W-2=这 | T-2=r | W-1=道 | T-1=q | W1=给 | T1=p | W2=我 | T2=r | 母亲 | 要 | 做 | 菜 | 饯行 | dish
+W-3=， | T-3=w | W-2=这 | T-2=r | W-1=道 | T-1=q | W1=不仅 | T1=c | W2=本身 | T2=r | 菜 | 食味 | dish
+W-3=到 | T-3=v | W-2=这 | T-2=r | W-1=道 | T-1=q | W1=了 | T1=y | W2=。 | T2=w | 到 | 吃 | 到 | 菜 | dish
+W-3=海产品 | T-3=n | W-2=、 | T-2=w | W-1=速冻 | T-1=vn | W1=、 | T1=w | W2=水果 | T2=n | 肉食 | 海产品 | 菜 | 水果 | 奶制品 | dish
+W-3=带来 | T-3=v | W-2=的 | T-2=u | W-1=拿手 | T-1=a | W1=， | T1=w | W2=举杯 | T2=v | 人们 | 品尝 | 带来 | 菜 | 举杯 | 叙 | 俱乐部 | 成立 | dish
+W-3=了 | T-3=u | W-2=10 | T-2=m | W-1=道 | T-1=q | W1=呢 | T1=y | W2=。 | T2=w | 加 | 菜 | dish
+W-3=到 | T-3=v | W-2=的 | T-2=u | W-1=名贵 | T-1=a | W1=， | T1=w | W2=也 | T2=d | 能 | 吃 | 到 | 菜 | 登 | 上 | dish
+W-3=和 | T-3=c | W-2=“ | T-2=w | W-1=时髦 | T-1=a | W1=” | T1=w | W2=占 | T2=v | 海鲜 | 类 | 菜 | 占 | dish
+W-3=独特 | T-3=a | W-2=的 | T-2=u | W-1=家乡 | T-1=n | W1=， | T1=w | W2=如 | T2=v | 孩子 | 做 | 风味 | 家乡 | 菜 | 如 | 米粉肉 | 豆豉鱼 | dish
+W-3=四 | T-3=m | W-2=道 | T-2=q | W-1=中国 | T-1=ns | W1=： | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 准备 | 菜 | dish
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=每 | T-2=r | W-1=道 | T-1=q | W1=上来 | T1=v | W2=， | T2=w | 菜 | 上来 | 夫妇 | dish
+W-3=几 | T-3=m | W-2=个 | T-2=q | W-1=好 | T-1=a | W1=， | T1=w | W2=陪 | T2=v | 出来 | 做 | 上 | 菜 | 陪 | 老人 | 逛逛 | 商场 | dish
+W-3=小 | T-3=a | W-2=保姆 | T-2=n | W-1=家乡 | T-1=n | W1=的 | T1=u | W2=主妇 | T2=n | 习惯 | 吃 | 保姆 | 家乡 | 菜 | 主妇 | 烧 | 年夜饭 | dish

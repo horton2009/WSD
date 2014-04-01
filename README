@@ -3,8 +3,11 @@
 	2.train：为提取过的训练语料特征
 	
 		标签说明：
-			W-2：左边第二个单词
-			T-2：左边第二个单词POS
+			
+			W-i：左边第i个单词(W为单词，-i为左边位置)
+			Wi ：右边边第i个单词(W为单词，i为右边边位置)
+			T-i：左边第i个单词的POS（T为单词，i为左边位置）
+			Ti ：右边第i个单词的POS
 			NULL_HEAD: 左边指定位置属性不存在的空缺标签
 			NULL_TAIL：右边指定位置属性不存在的空缺标签
 			最后一个为所属的意思，集训练结果
@@ -24,5 +27,10 @@
 		util： 提供类简单的filename读取方法， 评估结果方法
 
 使用说明：
+	1.Feature_Extractor.py: 特征提取脚本，按说明设置extract（）函数参数可以提取各种特征组合;
+	2.NB.py：朴素贝叶斯模型,可以直接运行，也可以设置平滑参数smooth_rate调试运行;
+	3.ANN_main.py：人工神经网络模型，可以设置隐藏层结点数量HiddenNum,迭代次数itNum,学习率learningRate,调试运行；
+	4.max_entropy.py：最大熵模型，可以设置algorithm--优化算法（iis，gis）和max_iter--最大迭代次数，调试运行;
+	5.svm.py：支持向量机，可设置惩罚系数C=10.0, 核函数参数gamma=0.0001，调试运行
 	
 	

@@ -1,53 +1,53 @@
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=上 | T1=f | 表面 | 看 | 多元化 | 使 | 企业 | appearance
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=看来 | T1=v | 表面 | 看来 | 购并 | 企业 | 集团 | appearance
-W-1=在 | T-1=p | W1=、 | T1=w | 人 | 官僚主义 | 浮 | 表面 | 利用 | 职务 | appearance
-W-1=这种 | T-1=r | W1=看 | T1=v | 说 | 正是 | 表面 | 看 | 起来 | appearance
-W-1=从 | T-1=p | W1=上 | T1=f | 黑板 | 锁 | 进 | 柜子 | 表面 | 看 | 锁 | 是 | appearance
-W-1=， | T-1=w | W1=上 | T1=f | 利害 | 关系 | 利益 | 表面 | 形成 | appearance
-W-1=汇率 | T-1=n | W1=看 | T1=v | 人民币 | 美元 | 汇率 | 表面 | 看 | 起来 | 是 | 变 | appearance
-W-1=， | T-1=w | W1=上 | T1=f | 经济 | 相伴 | 来 | 表面 | 法律 | 政策 | appearance
-W-1=费用 | T-1=n | W1=上 | T1=f | 费用 | 表面 | 反映 | 供销 | 合作社 | 账 | appearance
-W-1=， | T-1=w | W1=上 | T1=f | 上 | 门 | 表面 | 要 | 装 | 出 | appearance
-W-1=， | T-1=w | W1=上 | T1=f | 出 | 高价 | 读 | 班 | 表面 | 家长 | 情愿 | appearance
-W-1=图 | T-1=v | W1=轰轰烈烈 | T1=i | 老区 | 精神 | 图 | 表面 | 求 | appearance
-W-1=局势 | T-1=n | W1=上 | T1=f | 恢复 | 经济 | 措施 | 全国 | 局势 | 表面 | 派系 | appearance
-W-1=从 | T-1=p | W1=上 | T1=f | 表面 | 看 | 军事 | appearance
-W-1=有的 | T-1=r | W1=上 | T1=f | 表面 | 看 | 班子 | appearance
-W-1=用意 | T-1=n | W1=上 | T1=f | 用意 | 表面 | 是 | 元首 | 提供 | appearance
-W-1=， | T-1=w | W1=上 | T1=f | 国家 | 实行 | 表面 | 是 | 处方药 | 放开 | appearance
-W-1=地 | T-1=u | W1=上 | T1=f | 表面 | 无 | 异议 | 执行 | appearance
-W-1=从 | T-1=p | W1=看 | T1=v | 大战 | 受益者 | 表面 | 看 | 是 | 消费者 | appearance
-W-1=从 | T-1=p | W1=看 | T1=v | 事件 | 表面 | 看 | 是 | 刑事 | appearance
-W-1=人 | T-1=n | W1=看 | T1=v | 人 | 表面 | 看 | 上去 | 是 | 忙 | appearance
-W-1=从 | T-1=p | W1=上 | T1=f | 表面 | 看 | 加强 | appearance
-W-1=从 | T-1=p | W1=上 | T1=f | 表面 | 看 | 是 | 要 | appearance
-W-1=从 | T-1=p | W1=上 | T1=f | 表面 | 看 | 是 | appearance
-W-1=恒星 | T-1=n | W1=吸引 | T1=v | 恒星 | 天体 | 恒星 | 表面 | 吸引 | 出 | 气体 | 尘埃 | face
-W-1=判断 | T-1=v | W1=正常 | T1=a | 电子鼻 | 利用 | 可 | 判断 | 表面 | 蔬菜 | 水果 | 是否 | face
-W-1=月球 | T-1=n | W1=。 | T1=w | 坠落 | 月球 | 表面 | face
-W-1=月球 | T-1=n | W1=６２ | T1=m | 进入 | 月球 | 轨道 | 月球 | 表面 | 高度 | 绕 | 月 | face
-W-1=月球 | T-1=n | W1=只 | T1=d | 降 | 入 | 月球 | 表面 | 有 | face
-W-1=篓子 | T-1=n | W1=只 | T1=d | 人 | 错觉 | 篓子 | 表面 | 有 | face
-W-1=肺 | T-1=n | W1=活性 | T1=b | 博士生 | 导师 | 肺 | 表面 | 物质 | 呼吸 | face
-W-1=伤口 | T-1=n | W1=， | T1=w | 静电 | 吸附 | 伤口 | 表面 | 形成 | 类似 | 蜘蛛网 | face
-W-1=， | T-1=w | W1=损伤 | T1=v | 拆 | 表面 | 损伤 | 外观 | 平整度 | face
-W-1=的 | T-1=u | W1=为 | T1=v | 收集 | 磁场 | 表明 | 表面 | 为 | 冰冠 | 覆盖 | face
-W-1=卫星 | T-1=n | W1=的 | T1=u | 下图 | 为 | 卫星 | 表面 | 冰脊 | face
-W-1=在 | T-1=p | W1=划 | T1=v | 能力 | 油性 | 水笔 | 表面 | 划 | 可 | 留下 | face
-W-1=屏幕 | T-1=n | W1=有 | T1=v | 电脑 | 屏幕 | 表面 | 有 | 静电荷 | 灰尘 | face
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=以 | T1=p | 表面 | 特制 | 蜡 | 加以 | face
-W-1=的 | T-1=u | W1=化学 | T1=n | 采用 | 表面 | 化学 | 技术 | face
-W-1=的 | T-1=u | W1=化学 | T1=n | 证明 | 表面 | 化学 | 技术 | 计算机 | 可以 | face
-W-1=月球 | T-1=n | W1=将 | T1=d | 是 | 月球 | 表面 | 发射 | 出 | 橘黄色 | face
-W-1=山体 | T-1=n | W1=是 | T1=v | 表 | 壤土 | 山体 | 表面 | 是 | 岩石壳 | face
-W-1=选择 | T-1=v | W1=干爽 | T1=a | 要 | 选择 | 表面 | 产品 | 表面 | face
-W-1=蔬菜 | T-1=n | W1=农药 | T1=n | 蔬菜 | 表面 | 农药 | 残留量 | 瓜果 | face
-W-1=冲洗 | T-1=v | W1=， | T1=w | 去 | 皮 | 蔬菜 | 要 | 冲洗 | 表面 | 冲洗 | 浸泡 | face
-W-1=蔬菜 | T-1=n | W1=75％ | T1=m | 实验 | 证明 | 可 | 去除 | 蔬菜 | 表面 | 农药 | face
-W-1=淋巴细胞 | T-1=n | W1=受体 | T1=n | 人体 | 细胞 | 需要 | 淋巴细胞 | 表面 | 受体 | 受体 | face
-W-1=月球 | T-1=n | W1=， | T1=w | 太阳 | 光热 | 可以 | 熔化 | 金属 | 月球 | 表面 | 使 | 变成 | 金属 | face
-W-1=地球 | T-1=n | W1=的 | T1=u | 地球 | 表面 | 水 | 覆盖 | face
-W-1=地球 | T-1=n | W1=开始 | T1=v | 雷达 | 天线 | 地球 | 表面 | 开始 | face
-W-1=地球 | T-1=n | W1=4350万 | T1=m | 小时 | 地球 | 表面 | 区域 | 进行 | face
-W-1=遗址 | T-1=n | W1=全部 | T1=m | 工作者 | 遗址 | 表面 | 揭开 | face
-W-1=瓷砖 | T-1=n | W1=有 | T1=v | 色泽 | 一致者 | 为 | 上品 | 如 | 瓷砖 | 表面 | 有 | 颗粒 | face
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=上 | T1=f | W2=看 | T2=v | 表面 | 看 | 多元化 | 使 | 企业 | appearance
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=看来 | T1=v | W2=， | T2=w | 表面 | 看来 | 购并 | 企业 | 集团 | appearance
+W-3=、 | T-3=w | W-2=浮 | T-2=v | W-1=在 | T-1=p | W1=、 | T1=w | W2=或 | T2=c | 人 | 官僚主义 | 浮 | 表面 | 利用 | 职务 | appearance
+W-3=， | T-3=w | W-2=正是 | T-2=v | W-1=这种 | T-1=r | W1=看 | T1=v | W2=起来 | T2=v | 说 | 正是 | 表面 | 看 | 起来 | appearance
+W-3=柜子 | T-3=n | W-2=， | T-2=w | W-1=从 | T-1=p | W1=上 | T1=f | W2=看 | T2=v | 黑板 | 锁 | 进 | 柜子 | 表面 | 看 | 锁 | 是 | appearance
+W-3=利益 | T-3=n | W-2=冲突 | T-2=vn | W-1=， | T-1=w | W1=上 | T1=f | W2=形成 | T2=v | 利害 | 关系 | 利益 | 表面 | 形成 | appearance
+W-3=美元 | T-3=n | W-2=的 | T-2=u | W-1=汇率 | T-1=n | W1=看 | T1=v | W2=起来 | T2=v | 人民币 | 美元 | 汇率 | 表面 | 看 | 起来 | 是 | 变 | appearance
+W-3=而 | T-3=c | W-2=来 | T-2=v | W-1=， | T-1=w | W1=上 | T1=f | W2=与 | T2=p | 经济 | 相伴 | 来 | 表面 | 法律 | 政策 | appearance
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=这笔 | T-2=r | W-1=费用 | T-1=n | W1=上 | T1=f | W2=反映 | T2=v | 费用 | 表面 | 反映 | 供销 | 合作社 | 账 | appearance
+W-3=虽 | T-3=c | W-2=叫苦不迭 | T-2=i | W-1=， | T-1=w | W1=上 | T1=f | W2=还 | T2=d | 上 | 门 | 表面 | 要 | 装 | 出 | appearance
+W-3=课外 | T-3=t | W-2=班 | T-2=n | W-1=， | T-1=w | W1=上 | T1=f | W2=家长 | T2=n | 出 | 高价 | 读 | 班 | 表面 | 家长 | 情愿 | appearance
+W-3=， | T-3=w | W-2=不 | T-2=d | W-1=图 | T-1=v | W1=轰轰烈烈 | T1=i | W2=， | T2=w | 老区 | 精神 | 图 | 表面 | 求 | appearance
+W-3=， | T-3=w | W-2=全国 | T-2=n | W-1=局势 | T-1=n | W1=上 | T1=f | W2=较为 | T2=d | 恢复 | 经济 | 措施 | 全国 | 局势 | 表面 | 派系 | appearance
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=从 | T-1=p | W1=上 | T1=f | W2=看 | T2=v | 表面 | 看 | 军事 | appearance
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=有的 | T-1=r | W1=上 | T1=f | W2=看 | T2=v | 表面 | 看 | 班子 | appearance
+W-3=普京 | T-3=nr | W-2=的 | T-2=u | W-1=用意 | T-1=n | W1=上 | T1=f | W2=是 | T2=v | 用意 | 表面 | 是 | 元首 | 提供 | appearance
+W-3=实行 | T-3=v | W-2=OTC | T-2=nx | W-1=， | T-1=w | W1=上 | T1=f | W2=是 | T2=v | 国家 | 实行 | 表面 | 是 | 处方药 | 放开 | appearance
+W-3=“ | T-3=w | W-2=盲目 | T-2=a | W-1=地 | T-1=u | W1=上 | T1=f | W2=完全 | T2=ad | 表面 | 无 | 异议 | 执行 | appearance
+W-3=的 | T-3=u | W-2=受益者 | T-2=n | W-1=从 | T-1=p | W1=看 | T1=v | W2=是 | T2=v | 大战 | 受益者 | 表面 | 看 | 是 | 消费者 | appearance
+W-3=事件 | T-3=n | W-2=， | T-2=w | W-1=从 | T-1=p | W1=看 | T1=v | W2=在 | T2=p | 事件 | 表面 | 看 | 是 | 刑事 | appearance
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=有些 | T-2=r | W-1=人 | T-1=n | W1=看 | T1=v | W2=上去 | T2=v | 人 | 表面 | 看 | 上去 | 是 | 忙 | appearance
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=从 | T-1=p | W1=上 | T1=f | W2=看 | T2=v | 表面 | 看 | 加强 | appearance
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=从 | T-1=p | W1=上 | T1=f | W2=看 | T2=v | 表面 | 看 | 是 | 要 | appearance
+W-3=争斗 | T-3=vn | W-2=， | T-2=w | W-1=从 | T-1=p | W1=上 | T1=f | W2=看 | T2=v | 表面 | 看 | 是 | appearance
+W-3=天体 | T-3=n | W-2=从 | T-2=p | W-1=恒星 | T-1=n | W1=吸引 | T1=v | W2=出 | T2=v | 恒星 | 天体 | 恒星 | 表面 | 吸引 | 出 | 气体 | 尘埃 | face
+W-3=它 | T-3=r | W-2=可 | T-2=v | W-1=判断 | T-1=v | W1=正常 | T1=a | W2=的 | T2=u | 电子鼻 | 利用 | 可 | 判断 | 表面 | 蔬菜 | 水果 | 是否 | face
+W-3=坠落 | T-3=v | W-2=在 | T-2=p | W-1=月球 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 坠落 | 月球 | 表面 | face
+W-3=在 | T-3=p | W-2=距 | T-2=p | W-1=月球 | T-1=n | W1=６２ | T1=m | W2=英里 | T2=q | 进入 | 月球 | 轨道 | 月球 | 表面 | 高度 | 绕 | 月 | face
+W-3=入 | T-3=v | W-2=距 | T-2=p | W-1=月球 | T-1=n | W1=只 | T1=d | W2=有 | T2=v | 降 | 入 | 月球 | 表面 | 有 | face
+W-3=， | T-3=w | W-2=尽管 | T-2=c | W-1=篓子 | T-1=n | W1=只 | T1=d | W2=有 | T2=v | 人 | 错觉 | 篓子 | 表面 | 有 | face
+W-3=， | T-3=w | W-2=在 | T-2=p | W-1=肺 | T-1=n | W1=活性 | T1=b | W2=物质 | T2=n | 博士生 | 导师 | 肺 | 表面 | 物质 | 呼吸 | face
+W-3=吸附 | T-3=v | W-2=于 | T-2=p | W-1=伤口 | T-1=n | W1=， | T1=w | W2=并 | T2=c | 静电 | 吸附 | 伤口 | 表面 | 形成 | 类似 | 蜘蛛网 | face
+W-3=模 | T-3=Ng | W-2=过早 | T-2=d | W-1=， | T-1=w | W1=损伤 | T1=v | W2=； | T2=w | 拆 | 表面 | 损伤 | 外观 | 平整度 | face
+W-3=， | T-3=w | W-2=EUROPA | T-2=nx | W-1=的 | T-1=u | W1=为 | T1=v | W2=一 | T2=m | 收集 | 磁场 | 表明 | 表面 | 为 | 冰冠 | 覆盖 | face
+W-3=为 | T-3=v | W-2=该 | T-2=r | W-1=卫星 | T-1=n | W1=的 | T1=u | W2=冰脊 | T2=n | 下图 | 为 | 卫星 | 表面 | 冰脊 | face
+W-3=油性 | T-3=n | W-2=水笔 | T-2=n | W-1=在 | T-1=p | W1=划 | T1=v | W2=过 | T2=u | 能力 | 油性 | 水笔 | 表面 | 划 | 可 | 留下 | face
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=电脑 | T-2=n | W-1=屏幕 | T-1=n | W1=有 | T1=v | W2=大量 | T2=m | 电脑 | 屏幕 | 表面 | 有 | 静电荷 | 灰尘 | face
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=以 | T1=p | W2=特制 | T2=v | 表面 | 特制 | 蜡 | 加以 | face
+W-3=最 | T-3=d | W-2=新 | T-2=a | W-1=的 | T-1=u | W1=化学 | T1=n | W2=技术 | T2=n | 采用 | 表面 | 化学 | 技术 | face
+W-3=最 | T-3=d | W-2=新 | T-2=a | W-1=的 | T-1=u | W1=化学 | T1=n | W2=技术 | T2=n | 证明 | 表面 | 化学 | 技术 | 计算机 | 可以 | face
+W-3=” | T-3=w | W-2=， | T-2=w | W-1=月球 | T-1=n | W1=将 | T1=d | W2=发射 | T2=v | 是 | 月球 | 表面 | 发射 | 出 | 橘黄色 | face
+W-3=里 | T-3=f | W-2=， | T-2=w | W-1=山体 | T-1=n | W1=是 | T1=v | W2=坚硬 | T2=a | 表 | 壤土 | 山体 | 表面 | 是 | 岩石壳 | face
+W-3=第三 | T-3=m | W-2=要 | T-2=v | W-1=选择 | T-1=v | W1=干爽 | T1=a | W2=的 | T2=u | 要 | 选择 | 表面 | 产品 | 表面 | face
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=一般 | T-2=a | W-1=蔬菜 | T-1=n | W1=农药 | T1=n | W2=残留量 | T2=n | 蔬菜 | 表面 | 农药 | 残留量 | 瓜果 | face
+W-3=要 | T-3=v | W-2=充分 | T-2=ad | W-1=冲洗 | T-1=v | W1=， | T1=w | W2=先 | T2=d | 去 | 皮 | 蔬菜 | 要 | 冲洗 | 表面 | 冲洗 | 浸泡 | face
+W-3=可 | T-3=v | W-2=去除 | T-2=v | W-1=蔬菜 | T-1=n | W1=75％ | T1=m | W2=— | T2=w | 实验 | 证明 | 可 | 去除 | 蔬菜 | 表面 | 农药 | face
+W-3=CD4 | T-3=nx | W-2=（ | T-2=w | W-1=淋巴细胞 | T-1=n | W1=受体 | T1=n | W2=） | T2=w | 人体 | 细胞 | 需要 | 淋巴细胞 | 表面 | 受体 | 受体 | face
+W-3=金属 | T-3=n | W-2=和 | T-2=c | W-1=月球 | T-1=n | W1=， | T1=w | W2=使 | T2=v | 太阳 | 光热 | 可以 | 熔化 | 金属 | 月球 | 表面 | 使 | 变成 | 金属 | face
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=地球 | T-1=n | W1=的 | T1=u | W2=2／3 | T2=m | 地球 | 表面 | 水 | 覆盖 | face
+W-3=天线 | T-3=n | W-2=对 | T-2=p | W-1=地球 | T-1=n | W1=开始 | T1=v | W2=了 | T2=u | 雷达 | 天线 | 地球 | 表面 | 开始 | face
+W-3=， | T-3=w | W-2=对 | T-2=p | W-1=地球 | T-1=n | W1=4350万 | T1=m | W2=平方英里 | T2=q | 小时 | 地球 | 表面 | 区域 | 进行 | face
+W-3=已 | T-3=d | W-2=将 | T-2=p | W-1=遗址 | T-1=n | W1=全部 | T1=m | W2=揭开 | T2=v | 工作者 | 遗址 | 表面 | 揭开 | face
+W-3=； | T-3=w | W-2=如 | T-2=v | W-1=瓷砖 | T-1=n | W1=有 | T1=v | W2=颗粒 | T2=n | 色泽 | 一致者 | 为 | 上品 | 如 | 瓷砖 | 表面 | 有 | 颗粒 | face

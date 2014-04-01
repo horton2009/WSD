@@ -1,65 +1,65 @@
-W-1=新 | T-1=a | W1=。 | T1=w | 经济 | 拥有 | 天地 | field_of_activity
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=虽 | T1=c | 天地 | 事业 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 正是 | 后来者 | 施展 | 才华 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=留待 | T1=v | 能 | 天地 | 留待 | 后来者 | 去 | 开拓 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 开辟 | 天地 | field_of_activity
-W-1=以退为进 | T-1=i | W1=宽 | T1=a | 天地 | field_of_activity
-W-1=小 | T-1=a | W1=里 | T1=f | 是 | 陶醉 | 天地 | 让 | 人 | field_of_activity
-W-1=新 | T-1=a | W1=里 | T1=f | 作家 | 天地 | 展示 | 人们 | field_of_activity
-W-1=观念 | T-1=n | W1=宽 | T1=a | 乡镇 | 干部 | 转变 | 观念 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 开辟 | 天地 | field_of_activity
-W-1=发展 | T-1=vn | W1=。 | T1=w | 走入 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 提供 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 是 | 爸爸 | 妈妈 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=和 | T1=c | 专家 | 施展 | 才华 | 提供 | 天地 | 机会 | field_of_activity
-W-1=事业 | T-1=n | W1=， | T1=w | 事业 | 天地 | 给 | 发挥 | field_of_activity
-W-1=新 | T-1=a | W1=。 | T1=w | 领域 | 拓展 | 天地 | field_of_activity
-W-1=新 | T-1=a | W1=NULL_TAIL | T1=NULL_TAIL | 开创 | 文化 | 事业 | 发展 | 天地 | field_of_activity
-W-1=新 | T-1=a | W1=。 | T1=w | 创造 | 文化 | 事业 | 发展 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=， | T1=w | 施展 | 技能 | 天地 | 来 | 证明 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 机会 | 发挥 | 天地 | field_of_activity
-W-1=广阔 | T-1=a | W1=里 | T1=f | 司令 | 农村 | 天地 | 带领 | 群众 | 致富 | 奔 | 小康 | field_of_activity
-W-1=新 | T-1=a | W1=” | T1=w | 天地 | 是 | 创造 | 出来 | field_of_activity
-W-1=新 | T-1=a | W1=” | T1=w | 创造 | 出 | 天地 | field_of_activity
-W-1=新 | T-1=a | W1=” | T1=w | 创造 | 出 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 打开 | 天地 | field_of_activity
-W-1=会 | T-1=v | W1=广阔 | T1=a | 科学技术 | 调整 | 农业 | 结构 | 会 | 天地 | field_of_activity
-W-1=的 | T-1=u | W1=； | T1=w | 冲破 | 天地 | 登 | 上 | 舞台 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 读者 | 开辟 | 值得 | 关注 | 天地 | field_of_activity
-W-1=广阔 | T-1=a | W1=， | T1=w | 城市 | 是 | 天地 | 是 | 可以 | field_of_activity
-W-1=的 | T-1=u | W1=。 | T1=w | 思想 | 政治 | 开辟 | 天地 | field_of_activity
-W-1=相连 | T-1=v | W1=欢 | T1=a | 团圆 | 网网 | 相连 | 天地 | 福 | 临 | heaven_and_earth
-W-1=， | T-1=w | W1=对立统一 | T1=n | 乾坤 | 寓意 | 宇宙 | 轮回 | 天地 | 对立统一 | heaven_and_earth
-W-1=与 | T-1=p | W1=长存 | T1=v | 文明 | 起源 | 火 | 天地 | 长存 | heaven_and_earth
-W-1=于 | T-1=p | W1=， | T1=w | 龙 | 来自 | 天地 | 来自 | 万物 | 来自 | heaven_and_earth
-W-1=在 | T-1=p | W1=间 | T1=f | 如 | 飞扬 | 灰土 | 飘忽 | 天地 | 乐府 | heaven_and_earth
-W-1=， | T-1=w | W1=间 | T1=f | 勒马 | 踟蹰 | 顾 | 天地 | 有 | heaven_and_earth
-W-1=感 | T-1=Vg | W1=泣鬼神 | T1=i | 天地 | 撼动 | 大人 | heaven_and_earth
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=交 | T1=v | 天地 | 交 | 四海 | 光 | heaven_and_earth
-W-1=， | T-1=w | W1=间 | T1=f | 在 | 梦 | 在 | 天地 | 还有 | 爱 | 看 | heaven_and_earth
-W-1=， | T-1=w | W1=造化 | T1=v | 知 | 情缘 | 胜 | 姻缘 | 天地 | 造化 | heaven_and_earth
-W-1=铭 | T-1=Vg | W1=德高望重 | T1=i | 功绩 | 天地 | 日月 | heaven_and_earth
-W-1=《 | T-1=w | W1=喜洋洋 | T1=z | 家 | 万事 | 兴 | 天地 | 吉祥 | 喜庆 | heaven_and_earth
-W-1=撼 | T-1=Vg | W1=， | T1=w | 飞流 | 天地 | 涛声 | heaven_and_earth
-W-1=的 | T-1=u | W1=便 | T1=d | 心 | 致意 | 天地 | 照耀 | heaven_and_earth
-W-1=《 | T-1=w | W1=喜洋洋 | T1=z | 天地 | 获得 | heaven_and_earth
-W-1=传 | T-1=v | W1=意 | T1=Ng | 处 | 可 | 传 | 天地 | 莉香 | 能 | 酿 | 古今 | heaven_and_earth
-W-1=连 | T-1=u | W1=之间 | T1=f | 大地 | 是 | 天地 | 弥漫 | heaven_and_earth
-W-1=感 | T-1=Vg | W1=， | T1=w | 人们 | 说 | 孝心 | 天地 | 得 | 报 | heaven_and_earth
-W-1=是 | T-1=v | W1=间 | T1=f | 鸟 | 是 | 天地 | heaven_and_earth
-W-1=“ | T-1=w | W1=有 | T1=v | 天地 | 有 | 正气 | 杂然 | 赋 | 流 | heaven_and_earth
-W-1=体育 | T-1=n | W1=》 | T1=w | 体育 | 天地 | 见面 | world
-W-1=体育 | T-1=n | W1=》 | T1=w | 版 | 轮流 | 刊出 | 体育 | 天地 | 时空 | world
-W-1=体育 | T-1=n | W1=》 | T1=w | 体育 | 天地 | 围绕 | 体育 | world
-W-1=体育 | T-1=n | W1=》 | T1=w | 体育 | 天地 | 时空 | world
-W-1=体育 | T-1=n | W1=》 | T1=w | 体育 | 天地 | 面世 | world
-W-1=体育 | T-1=n | W1=》 | T1=w | 欢迎 | 体育 | 天地 | 栏目 | 稿件 | world
-W-1=喜剧 | T-1=n | W1=” | T1=w | 国 | 影片 | 喜剧 | 天地 | 播出 | 喜剧片 | world
-W-1=文化 | T-1=n | W1=》 | T1=w | 军营 | 文化 | 天地 | 创刊 | world
-W-1=文化 | T-1=n | W1=》 | T1=w | 内容 | 刊物 | 军营 | 文化 | 天地 | world
-W-1=文化 | T-1=n | W1=》 | T1=w | 举行 | 军营 | 文化 | 天地 | 创办 | 座谈会 | world
-W-1=读书 | T-1=vn | W1=NULL_TAIL | T1=NULL_TAIL | 天地 | world
-W-1=文化 | T-1=n | W1=、 | T1=w | 开设 | 栏目 | 包括 | 文化 | 天地 | 文物 | 瑰宝 | 民俗 | 民风 | world
-W-1=读书 | T-1=vn | W1=NULL_TAIL | T1=NULL_TAIL | 天地 | world
-W-1=富通 | T-1=nz | W1=电脑 | T1=n | PW=北京富通天地电脑有限公司 | PT=nt | 主办 | 天地 | 电脑 | 承办 | world
-W-1=声屏 | T-1=n | W1=迈 | T1=v | 声屏 | 天地 | 迈 | 新步 | world
+W-3=一 | T-3=m | W-2=片 | T-2=q | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 经济 | 拥有 | 天地 | field_of_activity
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=虽 | T1=c | W2=小 | T2=a | 天地 | 事业 | field_of_activity
+W-3=施展 | T-3=v | W-2=才华 | T-2=n | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 正是 | 后来者 | 施展 | 才华 | 天地 | field_of_activity
+W-3=更 | T-3=d | W-2=新 | T-2=a | W-1=的 | T-1=u | W1=留待 | T1=v | W2=明日 | T2=t | 能 | 天地 | 留待 | 后来者 | 去 | 开拓 | field_of_activity
+W-3=更加 | T-3=d | W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 开辟 | 天地 | field_of_activity
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=以退为进 | T-1=i | W1=宽 | T1=a | W2=NULL_TAIL | T2=NULL_TAIL | 天地 | field_of_activity
+W-3=自我 | T-3=r | W-2=的 | T-2=u | W-1=小 | T-1=a | W1=里 | T1=f | W2=， | T2=w | 是 | 陶醉 | 天地 | 让 | 人 | field_of_activity
+W-3=千年 | T-3=t | W-2=的 | T-2=u | W-1=新 | T-1=a | W1=里 | T1=f | W2=， | T2=w | 作家 | 天地 | 展示 | 人们 | field_of_activity
+W-3=干部 | T-3=n | W-2=转变 | T-2=v | W-1=观念 | T-1=n | W1=宽 | T1=a | W2=NULL_TAIL | T2=NULL_TAIL | 乡镇 | 干部 | 转变 | 观念 | 天地 | field_of_activity
+W-3=更为 | T-3=d | W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 开辟 | 天地 | field_of_activity
+W-3=崭新 | T-3=b | W-2=的 | T-2=u | W-1=发展 | T-1=vn | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 走入 | 天地 | field_of_activity
+W-3=了 | T-3=u | W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 提供 | 天地 | field_of_activity
+W-3=爸爸 | T-3=n | W-2=妈妈 | T-2=n | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 是 | 爸爸 | 妈妈 | 天地 | field_of_activity
+W-3=着 | T-3=u | W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=和 | T1=c | W2=机会 | T2=n | 专家 | 施展 | 才华 | 提供 | 天地 | 机会 | field_of_activity
+W-3=的 | T-3=u | W-2=海尔 | T-2=nz | W-1=事业 | T-1=n | W1=， | T1=w | W2=给 | T2=v | 事业 | 天地 | 给 | 发挥 | field_of_activity
+W-3=自己 | T-3=r | W-2=的 | T-2=u | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 领域 | 拓展 | 天地 | field_of_activity
+W-3=事业 | T-3=n | W-2=发展 | T-2=v | W-1=新 | T-1=a | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 开创 | 文化 | 事业 | 发展 | 天地 | field_of_activity
+W-3=发展 | T-3=v | W-2=的 | T-2=u | W-1=新 | T-1=a | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 创造 | 文化 | 事业 | 发展 | 天地 | field_of_activity
+W-3=技能 | T-3=n | W-2=” | T-2=w | W-1=的 | T-1=u | W1=， | T1=w | W2=并 | T2=c | 施展 | 技能 | 天地 | 来 | 证明 | field_of_activity
+W-3=自由 | T-3=ad | W-2=发挥 | T-2=v | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 机会 | 发挥 | 天地 | field_of_activity
+W-3=农村 | T-3=n | W-2=的 | T-2=u | W-1=广阔 | T-1=a | W1=里 | T1=f | W2=带领 | T2=v | 司令 | 农村 | 天地 | 带领 | 群众 | 致富 | 奔 | 小康 | field_of_activity
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=“ | T-2=w | W-1=新 | T-1=a | W1=” | T1=w | W2=是 | T2=v | 天地 | 是 | 创造 | 出来 | field_of_activity
+W-3=一 | T-3=m | W-2=片 | T-2=q | W-1=新 | T-1=a | W1=” | T1=w | W2=。 | T2=w | 创造 | 出 | 天地 | field_of_activity
+W-3=片 | T-3=q | W-2=“ | T-2=w | W-1=新 | T-1=a | W1=” | T1=w | W2=的 | T2=u | 创造 | 出 | 天地 | field_of_activity
+W-3=片 | T-3=q | W-2=新 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 打开 | 天地 | field_of_activity
+W-3=结构 | T-3=n | W-2=就 | T-2=d | W-1=会 | T-1=v | W1=广阔 | T1=a | W2=。 | T2=w | 科学技术 | 调整 | 农业 | 结构 | 会 | 天地 | field_of_activity
+W-3=冲破 | T-3=v | W-2=狭小 | T-2=a | W-1=的 | T-1=u | W1=； | T1=w | W2=登 | T2=v | 冲破 | 天地 | 登 | 上 | 舞台 | field_of_activity
+W-3=值得 | T-3=v | W-2=关注 | T-2=v | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 读者 | 开辟 | 值得 | 关注 | 天地 | field_of_activity
+W-3=是 | T-3=v | W-2=一个 | T-2=m | W-1=广阔 | T-1=a | W1=， | T1=w | W2=在 | T2=p | 城市 | 是 | 天地 | 是 | 可以 | field_of_activity
+W-3=了 | T-3=u | W-2=广阔 | T-2=a | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 思想 | 政治 | 开辟 | 天地 | field_of_activity
+W-3=“ | T-3=w | W-2=网网 | T-2=n | W-1=相连 | T-1=v | W1=欢 | T1=a | W2=” | T2=w | 团圆 | 网网 | 相连 | 天地 | 福 | 临 | heaven_and_earth
+W-3=宇宙 | T-3=n | W-2=轮回 | T-2=v | W-1=， | T-1=w | W1=对立统一 | T1=n | W2=。 | T2=w | 乾坤 | 寓意 | 宇宙 | 轮回 | 天地 | 对立统一 | heaven_and_earth
+W-3=， | T-3=w | W-2=并 | T-2=c | W-1=与 | T-1=p | W1=长存 | T1=v | W2=。 | T2=w | 文明 | 起源 | 火 | 天地 | 长存 | heaven_and_earth
+W-3=龙 | T-3=n | W-2=来自 | T-2=v | W-1=于 | T-1=p | W1=， | T1=w | W2=来自 | T2=v | 龙 | 来自 | 天地 | 来自 | 万物 | 来自 | heaven_and_earth
+W-3=， | T-3=w | W-2=飘忽 | T-2=v | W-1=在 | T-1=p | W1=间 | T1=f | W2=， | T2=w | 如 | 飞扬 | 灰土 | 飘忽 | 天地 | 乐府 | heaven_and_earth
+W-3=顾 | T-3=v | W-2=茫茫 | T-2=z | W-1=， | T-1=w | W1=间 | T1=f | W2=只 | T2=d | 勒马 | 踟蹰 | 顾 | 天地 | 有 | heaven_and_earth
+W-3=怎 | T-3=r | W-2=不 | T-2=d | W-1=感 | T-1=Vg | W1=泣鬼神 | T1=i | W2=撼动 | T2=v | 天地 | 撼动 | 大人 | heaven_and_earth
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=交 | T1=v | W2=泰 | T2=Ng | 天地 | 交 | 四海 | 光 | heaven_and_earth
+W-3=就 | T-3=d | W-2=在 | T-2=v | W-1=， | T-1=w | W1=间 | T1=f | W2=还有 | T2=v | 在 | 梦 | 在 | 天地 | 还有 | 爱 | 看 | heaven_and_earth
+W-3=胜 | T-3=v | W-2=姻缘 | T-2=n | W-1=， | T-1=w | W1=造化 | T1=v | W2=， | T2=w | 知 | 情缘 | 胜 | 姻缘 | 天地 | 造化 | heaven_and_earth
+W-3=功绩 | T-3=n | W-2=显赫 | T-2=a | W-1=铭 | T-1=Vg | W1=德高望重 | T1=i | W2=昭 | T2=Vg | 功绩 | 天地 | 日月 | heaven_and_earth
+W-3=》 | T-3=w | W-2=、 | T-2=w | W-1=《 | T-1=w | W1=喜洋洋 | T1=z | W2=》 | T2=w | 家 | 万事 | 兴 | 天地 | 吉祥 | 喜庆 | heaven_and_earth
+W-3=， | T-3=w | W-2=飞流 | T-2=v | W-1=撼 | T-1=Vg | W1=， | T1=w | W2=涛声 | T2=n | 飞流 | 天地 | 涛声 | heaven_and_earth
+W-3=， | T-3=w | W-2=我们 | T-2=r | W-1=的 | T-1=u | W1=便 | T1=d | W2=被 | T2=p | 心 | 致意 | 天地 | 照耀 | heaven_and_earth
+W-3=》 | T-3=w | W-2=、 | T-2=w | W-1=《 | T-1=w | W1=喜洋洋 | T1=z | W2=》 | T2=w | 天地 | 获得 | heaven_and_earth
+W-3=处 | T-3=n | W-2=可 | T-2=v | W-1=传 | T-1=v | W1=意 | T1=Ng | W2=， | T2=w | 处 | 可 | 传 | 天地 | 莉香 | 能 | 酿 | 古今 | heaven_and_earth
+W-3=， | T-3=w | W-2=就 | T-2=d | W-1=连 | T-1=u | W1=之间 | T1=f | W2=也 | T2=d | 大地 | 是 | 天地 | 弥漫 | heaven_and_earth
+W-3=他 | T-3=r | W-2=孝心 | T-2=n | W-1=感 | T-1=Vg | W1=， | T1=w | W2=故 | T2=c | 人们 | 说 | 孝心 | 天地 | 得 | 报 | heaven_and_earth
+W-3=万籁俱寂 | T-3=i | W-2=， | T-2=w | W-1=是 | T-1=v | W1=间 | T1=f | W2=最 | T2=d | 鸟 | 是 | 天地 | heaven_and_earth
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=“ | T-1=w | W1=有 | T1=v | W2=正气 | T2=n | 天地 | 有 | 正气 | 杂然 | 赋 | 流 | heaven_and_earth
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=《 | T-2=w | W-1=体育 | T-1=n | W1=》 | T1=w | W2=今天 | T2=t | 体育 | 天地 | 见面 | world
+W-3=刊出 | T-3=v | W-2=《 | T-2=w | W-1=体育 | T-1=n | W1=》 | T1=w | W2=和 | T2=c | 版 | 轮流 | 刊出 | 体育 | 天地 | 时空 | world
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=《 | T-2=w | W-1=体育 | T-1=n | W1=》 | T1=w | W2=将 | T2=d | 体育 | 天地 | 围绕 | 体育 | world
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=《 | T-2=w | W-1=体育 | T-1=n | W1=》 | T1=w | W2=与 | T2=p | 体育 | 天地 | 时空 | world
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=《 | T-2=w | W-1=体育 | T-1=n | W1=》 | T1=w | W2=刚刚 | T2=d | 体育 | 天地 | 面世 | world
+W-3=对 | T-3=p | W-2=《 | T-2=w | W-1=体育 | T-1=n | W1=》 | T1=w | W2=的 | T2=u | 欢迎 | 体育 | 天地 | 栏目 | 稿件 | world
+W-3=周五 | T-3=t | W-2=“ | T-2=w | W-1=喜剧 | T-1=n | W1=” | T1=w | W2=播出 | T2=v | 国 | 影片 | 喜剧 | 天地 | 播出 | 喜剧片 | world
+W-3=《 | T-3=w | W-2=军营 | T-2=n | W-1=文化 | T-1=n | W1=》 | T1=w | W2=创刊 | T2=v | 军营 | 文化 | 天地 | 创刊 | world
+W-3=《 | T-3=w | W-2=军营 | T-2=n | W-1=文化 | T-1=n | W1=》 | T1=w | W2=， | T2=w | 内容 | 刊物 | 军营 | 文化 | 天地 | world
+W-3=《 | T-3=w | W-2=军营 | T-2=n | W-1=文化 | T-1=n | W1=》 | T1=w | W2=创办 | T2=v | 举行 | 军营 | 文化 | 天地 | 创办 | 座谈会 | world
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=读书 | T-1=vn | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 天地 | world
+W-3=颂 | T-3=Vg | W-2=、 | T-2=w | W-1=文化 | T-1=n | W1=、 | T1=w | W2=文物 | T2=n | 开设 | 栏目 | 包括 | 文化 | 天地 | 文物 | 瑰宝 | 民俗 | 民风 | world
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=读书 | T-1=vn | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 天地 | world
+W-3=总会 | T-3=ne | W-2=北京 | T-2=ns | W-1=富通 | T-1=nz | W1=电脑 | T1=n | W2=有限公司 | T2=na | PW=北京富通天地电脑有限公司 | PT=nt | 主办 | 天地 | 电脑 | 承办 | world
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=声屏 | T-1=n | W1=迈 | T1=v | W2=新步 | T2=n | 声屏 | 天地 | 迈 | 新步 | world

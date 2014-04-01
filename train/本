@@ -1,68 +1,68 @@
-W-1=插图 | T-1=n | W1=中国 | T1=ns | 先生 | 编 | 插图 | 本 | 文学史 | 图文 | 兼备 | book
-W-1=插图 | T-1=n | W1=中国 | T1=ns | 编著 | 规模 | 插图 | 本 | 通史 | 做 | book
-W-1=卷 | T-1=q | W1=川籍 | T1=n | 推出 | 本 | 川籍 | 学者 | 文丛 | 可谓 | book
-W-1=珍藏 | T-1=n | W1=以及 | T1=c | 事件 | 珍藏 | 本 | 写 | book
-W-1=卷 | T-1=q | W1=的 | T1=u | 编纂 | 成 | 本 | 大百科全书 | 简明版 | book
-W-1=回 | T-1=q | W1=的 | T1=u | 本 | 封面 | 插图 | 吸引 | book
-W-1=卷 | T-1=q | W1=（ | T1=w | 评 | 马克思主义 | 哲学史 | 本 | 附 | 图片 | book
-W-1=卷 | T-1=q | W1=（ | T1=w | 马克思主义 | 哲学史 | 本 | 出 | book
-W-1=卷 | T-1=q | W1=还 | T1=d | 本 | 导师 | 战友 | book
-W-1=卷 | T-1=q | W1=都 | T1=d | 本 | 试图 | 作出 | 前人 | 论著 | book
-W-1=卷 | T-1=q | W1=走 | T1=v | 本 | 走 | 出 | 综合 | book
-W-1=开 | T-1=q | W1=， | T1=w | 书 | 装帧 | 方形 | 本 | 到 | book
-W-1=卷 | T-1=q | W1=《 | T1=w | 字 | 本 | 演义 | book
-W-1=开 | T-1=q | W1=， | T1=w | 为 | 本 | 设计 | 版式 | book
-W-1=号码 | T-1=n | W1=一个 | T1=m | 有 | 身份证 | 电话 | 号码 | 本 | book
-W-1=情况 | T-1=n | W1=， | T1=w | 自备 | 邻居 | 情况 | 本 | 记载 | 单元 | book
-W-1=典藏 | T-1=n | W1=， | T1=w | 出版 | 典藏 | 本 | 集中 | book
-W-1=大字 | T-1=n | W1=。 | T1=w | 字典 | 有 | 大字 | 本 | book
-W-1=大字 | T-1=n | W1=在 | T1=p | 大字 | 本 | 拼音 | 检 | 字 | book
-W-1=彩图 | T-1=n | W1=、 | T1=w | 受到 | 读者 | 彩图 | 本 | 普及本 | 缩印本 | book
-W-1=小 | T-1=a | W1=上 | T1=f | 看 | 本 | 记 | 民间 | 成语 | book
-W-1=今译 | T-1=n | W1=来看 | T1=u | 接触 | 古籍 | 今译 | 本 | 有 | 达到 | book
-W-1=个 | T-1=q | W1=和 | T1=c | 妈妈 | 会 | 买 | 本 | book
-W-1=精华 | T-1=n | W1=和 | T1=c | 是 | 读者 | 精华 | 本 | 丛书 | 盗版 | book
-W-1=” | T-1=w | W1=上 | T1=f | 记 | 到 | 民情 | 日记 | 本 | 回 | 公司 | book
-W-1=对子 | T-1=n | W1=写 | T1=v | 写 | 春联 | 觉得 | 对子 | 本 | 写 | book
-W-1=卷 | T-1=q | W1=回忆录 | T1=n | 本 | 回忆录 | 白宫 | 岁月 | book
-W-1=中文 | T-1=nz | W1=直接 | T1=ad | 据说 | 本 | 翻译 | book
-W-1=彩图 | T-1=n | W1=《 | T1=w | 报纸 | 刊布 | 消息 | 版 | 彩图 | 本 | 辞海 | 出 | book
-W-1=套 | T-1=q | W1=《 | T1=w | 直奔 | 书店 | 捧 | 起 | 本 | 辞海 | 宛如 | 抱 | book
-W-1=之 | T-1=u | W1=， | T1=w | 人民 | 服务 | 作为 | 立 | 本 | 执法 | 服务 | foundation
-W-1=为 | T-1=v | W1=战略 | T1=n | 培育 | 进 | 智力 | 为 | 本 | 战略 | foundation
-W-1=为 | T-1=v | W1=， | T1=w | 人 | 为 | 本 | 强调 | 技术 | 骨干 | foundation
-W-1=之 | T-1=u | W1=， | T1=w | 理想 | 信念 | 是 | 共产党人 | 本 | 时候 | 能 | foundation
-W-1=为 | T-1=v | W1=， | T1=w | 任务 | 人 | 为 | 本 | 围绕 | 经济 | 中心 | foundation
-W-1=为 | T-1=v | W1=的 | T1=u | 是 | 为 | 本 | 大市 | foundation
-W-1=固 | T-1=Vg | W1=、 | T1=w | 理论 | 培 | 根 | 本 | 打 | 干部 | 思想 | foundation
-W-1=为 | T-1=v | W1=。 | T1=w | 科技 | 强军 | 人才 | 为 | 本 | foundation
-W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | 诚信 | 是 | 立身 | 本 | foundation
-W-1=为 | T-1=v | W1=” | T1=w | 紧迫感 | 树立 | 人才 | 为 | 本 | 思想 | 采取 | foundation
-W-1=为 | T-1=v | W1=， | T1=w | 国 | 土 | 为 | 本 | 班子 | 无 | foundation
-W-1=之 | T-1=u | W1=。 | T1=w | 立身 | 治学 | 做事 | 本 | foundation
-W-1=为 | T-1=v | W1=。 | T1=w | 坚持 | 为 | 本 | foundation
-W-1=的 | T-1=u | W1=。 | T1=w | 抓住 | 文化馆 | 本 | foundation
-W-1=为 | T-1=v | W1=、 | T1=w | 带领 | 实现 | 知识 | 为 | 本 | 多元化 | 发展 | 经济 | 转型 | foundation
-W-1=之 | T-1=u | W1=， | T1=w | 是 | 学校 | 生存 | 本 | 发展 | 道 | foundation
-W-1=之 | T-1=u | W1=， | T1=w | 坚持 | 德育 | 为 | 立 | 本 | 坚持 | 精神 | foundation
-W-1=之 | T-1=u | W1=。 | T1=w | 是 | 价值 | 追求 | 本 | foundation
-W-1=为 | T-1=v | W1=。 | T1=w | 为 | 本 | foundation
-W-1=之 | T-1=u | W1=、 | T1=w | 是 | 立 | 党 | 本 | 立身 | 本 | foundation
-W-1=之 | T-1=u | W1=， | T1=w | 人民 | 服务 | 作为 | 立身 | 本 | 官员 | foundation
-W-1=其 | T-1=r | W1=， | T1=w | 有 | 本 | 事 | 有 | foundation
-W-1=之 | T-1=u | W1=， | T1=w | 人才 | 是 | 创新 | 本 | 制定 | 出 | 能 | 发挥 | foundation
-W-1=是 | T-1=v | W1=。 | T1=w | 是 | 神 | 文明 | 是 | 本 | foundation
-W-1=从 | T-1=p | W1=抓起 | T1=v | 生态 | 本 | 抓起 | 促进 | 神 | foundation
-W-1=之 | T-1=u | W1=、 | T1=w | 是 | 党 | 立 | 党 | 本 | 力量 | 生命 | foundation
-W-1=之 | T-1=u | W1=。 | T1=w | 说 | 立法 | 是 | 法治 | 本 | foundation
-W-1=为 | T-1=v | W1=。 | T1=w | 坚持 | 帮助 | 农民 | 致富 | 为 | 本 | foundation
-W-1=为 | T-1=v | W1=， | T1=w | 要 | 坚持 | 为 | 本 | 还要 | 允许 | 失败 | foundation
-W-1=无 | T-1=v | W1=生意 | T1=n | 可谓 | 无 | 本 | 生意 | capital
-W-1=连 | T-1=p | W1=带 | T1=v | 本 | 带 | 利 | 转入 | capital
-W-1=连 | T-1=p | W1=带 | T1=v | 存单 | 到期 | 开始 | 本 | 带 | 取出 | 转 | 存 | capital
-W-1=低 | T-1=a | W1=保 | T1=v | 销售 | 本 | 保 | 售 | capital
-W-1=搂 | T-1=v | W1=” | T1=w | 旅行社 | 会 | 搂 | 本 | capital
-W-1=降 | T-1=v | W1=增效 | T1=v | 挖潜 | 降 | 本 | 增效 | capital
-W-1=减 | T-1=v | W1=减息 | T1=v | 延期 | 偿还 | 债务 | 减 | 本 | 减息 | 降低 | 利率 | 措施 | capital
-W-1=了 | T-1=u | W1=， | T1=w | 赔 | 本 | 生产 | 汽车 | capital
-W-1=他们 | T-1=r | W1=大 | T1=a | 海鲜 | 贩子 | 本 | 利 | capital
+W-3=的 | T-3=u | W-2=《 | T-2=w | W-1=插图 | T-1=n | W1=中国 | T1=ns | W2=文学史 | T2=n | 先生 | 编 | 插图 | 本 | 文学史 | 图文 | 兼备 | book
+W-3=的 | T-3=u | W-2=“ | T-2=w | W-1=插图 | T-1=n | W1=中国 | T1=ns | W2=通史 | T2=n | 编著 | 规模 | 插图 | 本 | 通史 | 做 | book
+W-3=推出 | T-3=v | W-2=八 | T-2=m | W-1=卷 | T-1=q | W1=川籍 | T1=n | W2=学者 | T2=n | 推出 | 本 | 川籍 | 学者 | 文丛 | 可谓 | book
+W-3=》 | T-3=w | W-2=线装 | T-2=b | W-1=珍藏 | T-1=n | W1=以及 | T1=c | W2=薄老 | T2=nr | 事件 | 珍藏 | 本 | 写 | book
+W-3=这部 | T-3=r | W-2=１２ | T-2=m | W-1=卷 | T-1=q | W1=的 | T1=u | W2=《 | T2=w | 编纂 | 成 | 本 | 大百科全书 | 简明版 | book
+W-3=种 | T-3=q | W-2=百 | T-2=m | W-1=回 | T-1=q | W1=的 | T1=u | W2=封面 | T2=n | 本 | 封面 | 插图 | 吸引 | book
+W-3=》 | T-3=w | W-2=八 | T-2=m | W-1=卷 | T-1=q | W1=（ | T1=w | W2=附 | T2=v | 评 | 马克思主义 | 哲学史 | 本 | 附 | 图片 | book
+W-3=》 | T-3=w | W-2=八 | T-2=m | W-1=卷 | T-1=q | W1=（ | T1=w | W2=北京出版社 | T2=nt | 马克思主义 | 哲学史 | 本 | 出 | book
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=八 | T-2=m | W-1=卷 | T-1=q | W1=还 | T1=d | W2=为 | T2=p | 本 | 导师 | 战友 | book
+W-3=， | T-3=w | W-2=八 | T-2=m | W-1=卷 | T-1=q | W1=都 | T1=d | W2=试图 | T2=v | 本 | 试图 | 作出 | 前人 | 论著 | book
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=八 | T-2=m | W-1=卷 | T-1=q | W1=走 | T1=v | W2=出 | T2=v | 本 | 走 | 出 | 综合 | book
+W-3=方形 | T-3=n | W-2=二十四 | T-2=m | W-1=开 | T-1=q | W1=， | T1=w | W2=不 | T2=d | 书 | 装帧 | 方形 | 本 | 到 | book
+W-3=字 | T-3=n | W-2=三 | T-2=m | W-1=卷 | T-1=q | W1=《 | T1=w | W2=中华人民共和国 | T2=ns | 字 | 本 | 演义 | book
+W-3=为 | T-3=v | W-2=八 | T-2=m | W-1=开 | T-1=q | W1=， | T1=w | W2=设计 | T2=v | 为 | 本 | 设计 | 版式 | book
+W-3=和 | T-3=c | W-2=电话 | T-2=n | W-1=号码 | T-1=n | W1=一个 | T1=m | W2=。 | T2=w | 有 | 身份证 | 电话 | 号码 | 本 | book
+W-3=了 | T-3=u | W-2=邻居 | T-2=n | W-1=情况 | T-1=n | W1=， | T1=w | W2=记载 | T2=v | 自备 | 邻居 | 情况 | 本 | 记载 | 单元 | book
+W-3=的 | T-3=u | W-2=这部 | T-2=r | W-1=典藏 | T-1=n | W1=， | T1=w | W2=则 | T2=d | 出版 | 典藏 | 本 | 集中 | book
+W-3=有 | T-3=v | W-2=了 | T-2=u | W-1=大字 | T-1=n | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 字典 | 有 | 大字 | 本 | book
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=大字 | T-1=n | W1=在 | T1=p | W2=拼音 | T2=n | 大字 | 本 | 拼音 | 检 | 字 | book
+W-3=欢迎 | T-3=vn | W-2=， | T-2=w | W-1=彩图 | T-1=n | W1=、 | T1=w | W2=普及本 | T2=n | 受到 | 读者 | 彩图 | 本 | 普及本 | 缩印本 | book
+W-3=就 | T-3=d | W-2=被 | T-2=p | W-1=小 | T-1=a | W1=上 | T1=f | W2=记 | T2=v | 看 | 本 | 记 | 民间 | 成语 | book
+W-3=的 | T-3=u | W-2=古籍 | T-2=n | W-1=今译 | T-1=n | W1=来看 | T1=u | W2=， | T2=w | 接触 | 古籍 | 今译 | 本 | 有 | 达到 | book
+W-3=买 | T-3=v | W-2=几 | T-2=m | W-1=个 | T-1=q | W1=和 | T1=c | W2=几 | T2=m | 妈妈 | 会 | 买 | 本 | book
+W-3=读者 | T-3=n | W-2=》 | T-2=w | W-1=精华 | T-1=n | W1=和 | T1=c | W2=丛书 | T2=n | 是 | 读者 | 精华 | 本 | 丛书 | 盗版 | book
+W-3=民情 | T-3=n | W-2=日记 | T-2=n | W-1=” | T-1=w | W1=上 | T1=f | W2=， | T2=w | 记 | 到 | 民情 | 日记 | 本 | 回 | 公司 | book
+W-3=觉得 | T-3=v | W-2=照 | T-2=p | W-1=对子 | T-1=n | W1=写 | T1=v | W2=， | T2=w | 写 | 春联 | 觉得 | 对子 | 本 | 写 | book
+W-3=厚厚的 | T-3=z | W-2=三 | T-2=m | W-1=卷 | T-1=q | W1=回忆录 | T1=n | W2=《 | T2=w | 本 | 回忆录 | 白宫 | 岁月 | book
+W-3=有的是 | T-3=l | W-2=根据 | T-2=p | W-1=中文 | T-1=nz | W1=直接 | T1=ad | W2=翻译 | T2=v | 据说 | 本 | 翻译 | book
+W-3=1999年 | T-3=t | W-2=版 | T-2=n | W-1=彩图 | T-1=n | W1=《 | T1=w | W2=辞海 | T2=n | 报纸 | 刊布 | 消息 | 版 | 彩图 | 本 | 辞海 | 出 | book
+W-3=起 | T-3=v | W-2=三 | T-2=m | W-1=套 | T-1=q | W1=《 | T1=w | W2=辞海 | T2=n | 直奔 | 书店 | 捧 | 起 | 本 | 辞海 | 宛如 | 抱 | book
+W-3=立 | T-3=v | W-2=署 | T-2=Ng | W-1=之 | T-1=u | W1=， | T1=w | W2=严格 | T2=ad | 人民 | 服务 | 作为 | 立 | 本 | 执法 | 服务 | foundation
+W-3=的 | T-3=u | W-2=智力 | T-2=n | W-1=为 | T-1=v | W1=战略 | T1=n | W2=， | T2=w | 培育 | 进 | 智力 | 为 | 本 | 战略 | foundation
+W-3=以 | T-3=p | W-2=人 | T-2=n | W-1=为 | T-1=v | W1=， | T1=w | W2=强调 | T2=v | 人 | 为 | 本 | 强调 | 技术 | 骨干 | foundation
+W-3=共产党人 | T-3=n | W-2=安身立命 | T-2=i | W-1=之 | T-1=u | W1=， | T1=w | W2=任何 | T2=r | 理想 | 信念 | 是 | 共产党人 | 本 | 时候 | 能 | foundation
+W-3=以 | T-3=p | W-2=人 | T-2=n | W-1=为 | T-1=v | W1=， | T1=w | W2=围绕 | T2=v | 任务 | 人 | 为 | 本 | 围绕 | 经济 | 中心 | foundation
+W-3=以 | T-3=p | W-2=农 | T-2=Ng | W-1=为 | T-1=v | W1=的 | T1=u | W2=大市 | T2=n | 是 | 为 | 本 | 大市 | foundation
+W-3=培 | T-3=v | W-2=根 | T-2=n | W-1=固 | T-1=Vg | W1=、 | T1=w | W2=打 | T2=v | 理论 | 培 | 根 | 本 | 打 | 干部 | 思想 | foundation
+W-3=， | T-3=w | W-2=人才 | T-2=n | W-1=为 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 科技 | 强军 | 人才 | 为 | 本 | foundation
+W-3=是 | T-3=v | W-2=立身 | T-2=v | W-1=之 | T-1=u | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 诚信 | 是 | 立身 | 本 | foundation
+W-3=“ | T-3=w | W-2=人才 | T-2=n | W-1=为 | T-1=v | W1=” | T1=w | W2=的 | T2=u | 紧迫感 | 树立 | 人才 | 为 | 本 | 思想 | 采取 | foundation
+W-3=以 | T-3=p | W-2=土 | T-2=n | W-1=为 | T-1=v | W1=， | T1=w | W2=民以食为天 | T2=i | 国 | 土 | 为 | 本 | 班子 | 无 | foundation
+W-3=和 | T-3=c | W-2=做事 | T-2=v | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 立身 | 治学 | 做事 | 本 | foundation
+W-3=以 | T-3=p | W-2=民 | T-2=Ng | W-1=为 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 坚持 | 为 | 本 | foundation
+W-3=群艺馆 | T-3=j | W-2=工作 | T-2=vn | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 抓住 | 文化馆 | 本 | foundation
+W-3=向 | T-3=p | W-2=知识 | T-2=n | W-1=为 | T-1=v | W1=、 | T1=w | W2=多元化 | T2=v | 带领 | 实现 | 知识 | 为 | 本 | 多元化 | 发展 | 经济 | 转型 | foundation
+W-3=的 | T-3=u | W-2=生存 | T-2=v | W-1=之 | T-1=u | W1=， | T1=w | W2=发展 | T2=v | 是 | 学校 | 生存 | 本 | 发展 | 道 | foundation
+W-3=立 | T-3=v | W-2=校 | T-2=Ng | W-1=之 | T-1=u | W1=， | T1=w | W2=坚持 | T2=v | 坚持 | 德育 | 为 | 立 | 本 | 坚持 | 精神 | foundation
+W-3=价值 | T-3=n | W-2=追求 | T-2=v | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 是 | 价值 | 追求 | 本 | foundation
+W-3=， | T-3=w | W-2=教育 | T-2=vn | W-1=为 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 为 | 本 | foundation
+W-3=立 | T-3=v | W-2=党 | T-2=n | W-1=之 | T-1=u | W1=、 | T1=w | W2=立身 | T2=v | 是 | 立 | 党 | 本 | 立身 | 本 | foundation
+W-3=作为 | T-3=v | W-2=立身 | T-2=v | W-1=之 | T-1=u | W1=， | T1=w | W2=中国 | T2=ns | 人民 | 服务 | 作为 | 立身 | 本 | 官员 | foundation
+W-3=物 | T-3=Ng | W-2=有 | T-2=v | W-1=其 | T-1=r | W1=， | T1=w | W2=事 | T2=n | 有 | 本 | 事 | 有 | foundation
+W-3=是 | T-3=v | W-2=创新 | T-2=v | W-1=之 | T-1=u | W1=， | T1=w | W2=制定 | T2=v | 人才 | 是 | 创新 | 本 | 制定 | 出 | 能 | 发挥 | foundation
+W-3=文明 | T-3=n | W-2=则 | T-2=d | W-1=是 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 是 | 神 | 文明 | 是 | 本 | foundation
+W-3=建设 | T-3=vn | W-2=必须 | T-2=d | W-1=从 | T-1=p | W1=抓起 | T1=v | W2=， | T2=w | 生态 | 本 | 抓起 | 促进 | 神 | foundation
+W-3=立 | T-3=v | W-2=党 | T-2=n | W-1=之 | T-1=u | W1=、 | T1=w | W2=力量 | T2=n | 是 | 党 | 立 | 党 | 本 | 力量 | 生命 | foundation
+W-3=是 | T-3=v | W-2=法治 | T-2=n | W-1=之 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 说 | 立法 | 是 | 法治 | 本 | foundation
+W-3=农民 | T-3=n | W-2=致富 | T-2=v | W-1=为 | T-1=v | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 坚持 | 帮助 | 农民 | 致富 | 为 | 本 | foundation
+W-3=以 | T-3=p | W-2=质 | T-2=Ng | W-1=为 | T-1=v | W1=， | T1=w | W2=还要 | T2=v | 要 | 坚持 | 为 | 本 | 还要 | 允许 | 失败 | foundation
+W-3=可谓 | T-3=v | W-2=“ | T-2=w | W-1=无 | T-1=v | W1=生意 | T1=n | W2=” | T2=w | 可谓 | 无 | 本 | 生意 | capital
+W-3=时 | T-3=Ng | W-2=， | T-2=w | W-1=连 | T-1=p | W1=带 | T1=v | W2=利 | T2=n | 本 | 带 | 利 | 转入 | capital
+W-3=开始 | T-3=v | W-2=， | T-2=w | W-1=连 | T-1=p | W1=带 | T1=v | W2=息 | T2=Ng | 存单 | 到期 | 开始 | 本 | 带 | 取出 | 转 | 存 | capital
+W-3=顺价 | T-3=d | W-2=销售 | T-2=v | W-1=低 | T-1=a | W1=保 | T1=v | W2=售 | T2=v | 销售 | 本 | 保 | 售 | capital
+W-3=千方百计 | T-3=i | W-2=“ | T-2=w | W-1=搂 | T-1=v | W1=” | T1=w | W2=。 | T2=w | 旅行社 | 会 | 搂 | 本 | capital
+W-3=内部 | T-3=f | W-2=挖潜 | T-2=v | W-1=降 | T-1=v | W1=增效 | T1=v | W2=NULL_TAIL | T2=NULL_TAIL | 挖潜 | 降 | 本 | 增效 | capital
+W-3=债务 | T-3=n | W-2=、 | T-2=w | W-1=减 | T-1=v | W1=减息 | T1=v | W2=、 | T2=w | 延期 | 偿还 | 债务 | 减 | 本 | 减息 | 降低 | 利率 | 措施 | capital
+W-3=中 | T-3=f | W-2=赔 | T-2=v | W-1=了 | T-1=u | W1=， | T1=w | W2=但 | T2=c | 赔 | 本 | 生产 | 汽车 | capital
+W-3=贩子 | T-3=n | W-2=， | T-2=w | W-1=他们 | T-1=r | W1=大 | T1=a | W2=利 | T2=n | 海鲜 | 贩子 | 本 | 利 | capital

@@ -1,48 +1,48 @@
-W-1=攀登 | T-1=v | W1=， | T1=w | 近 | 群众 | 来到 | 攀登 | the_Great_Wall
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=脚下 | T1=f | the_Great_Wall
-W-1=从 | T-1=p | W1=脚下 | T1=f | 队伍 | 分成 | 组别 | 出发 | the_Great_Wall
-W-1=登 | T-1=v | W1=比赛 | T1=vn | 是 | 参加 | 登 | 觉得 | the_Great_Wall
-W-1=二○○○年 | T-1=t | W1=将 | T1=d | 竖立 | 倒计时钟 | the_Great_Wall
-W-1=为 | T-1=v | W1=城垛 | T1=n | 世纪钟 | 底座 | 为 | 城垛 | 形状 | 钟体 | the_Great_Wall
-W-1=八达岭 | T-1=ns | W1=， | T1=w | 世纪钟 | 设 | 临 | 文化 | 广场 | the_Great_Wall
-W-1=古 | T-1=a | W1=的 | T1=u | 是 | 冰 | 滑梯 | the_Great_Wall
-W-1=“ | T-1=w | W1=上 | T1=f | 砖 | the_Great_Wall
-W-1=了 | T-1=u | W1=的 | T1=u | 标 | 出 | 高度 | the_Great_Wall
-W-1=汇聚 | T-1=v | W1=， | T1=w | 爱好者 | 汇聚 | 参加 | 组织 | the_Great_Wall
-W-1=的 | T-1=u | W1=， | T1=w | 水果 | 蔬菜 | 有 | 还有 | 腾飞 | 巨龙 | the_Great_Wall
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=绿化 | T1=vn | 工程 | 启动 | the_Great_Wall
-W-1=的 | T-1=u | W1=绿化 | T1=vn | 专家 | 倡议 | 发起 | 工程 | the_Great_Wall
-W-1=建设 | T-1=v | W1=绿化 | T1=vn | 领域 | 专家 | 学者 | 建设 | 系统 | 工程 | 倡议 | the_Great_Wall
-W-1=和 | T-1=c | W1=入口处 | T1=n | 入口处 | 广场 | the_Great_Wall
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=脚下 | T1=f | 迎接 | the_Great_Wall
-W-1=登 | T-1=v | W1=活动 | T1=vn | 烛光 | 登 | the_Great_Wall
-W-1=的 | T-1=u | W1=。 | T1=w | 登 | 上 | 夜色 | the_Great_Wall
-W-1=到 | T-1=v | W1=非 | T1=Vg | 人 | 知道 | 主席 | 到 | 好汉 | 名言 | the_Great_Wall
-W-1=汇聚 | T-1=v | W1=， | T1=w | 爱好者 | 国际 | 友人 | 汇聚 | the_Great_Wall
-W-1=的 | T-1=u | W1=、 | T1=w | 去 | 观赏 | 兵马俑 | the_Great_Wall
-W-1=我 | T-1=r | W1=” | T1=w | 温暖 | 军心 | 行动 | 爱 | the_Great_Wall
-W-1=至 | T-1=v | W1=、 | T1=w | 技术 | 至 | 至 | 亭台楼阁 | the_Great_Wall
-W-1=、 | T-1=w | W1=、 | T1=w | 世纪坛 | 龙 | 火 | 花卉 | the_Great_Wall
-W-1=、 | T-1=w | W1=的 | T1=u | 不息 | 仿佛 | the_Great_Wall
-W-1=满 | T-1=v | W1=内外 | T1=f | 根据地 | 满 | 却说 | the_Great_Wall
-W-1=的 | T-1=u | W1=遗址 | T1=n | 障城 | 约 | 遗址 | 文化 | 遗产 | the_Great_Wall
-W-1=电信 | T-1=n | W1=移动 | T1=vn | PW=北京电信长城移动通信有限公司 | PT=nt | 电信 | 携 | 一代 | ChangCheng
-W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | PW=广元市长城宾馆 | PT=ns | 过户 | 货车 | 开进 | ChangCheng
-W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | PW=广元市长城宾馆 | PT=ns | 人员 | ChangCheng
-W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | PW=广元市长城宾馆 | PT=ns | 应 | 承担 | 责任 | ChangCheng
-W-1=昌平 | T-1=ns | W1=医院 | T1=n | PW=北京昌平长城医院 | PT=nt | 保健 | 心脑血管 | 疾病 | 基地 | 医院 | 建成 | ChangCheng
-W-1=如果说 | T-1=c | W1=从此 | T1=d | 可以 | 关心 | ChangCheng
-W-1=“ | T-1=w | W1=借记卡 | T1=n | 推出 | 信用卡 | 借记卡 | 业务 | ChangCheng
-W-1=中国 | T-1=ns | W1=资产 | T1=n | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | ChangCheng
-W-1=中国 | T-1=ns | W1=资产 | T1=n | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | 资产 | ChangCheng
-W-1=中国 | T-1=ns | W1=学会 | T1=na | PW=中国长城学会 | PT=nt | 专家 | 记者 | 反映 | ChangCheng
-W-1=中国 | T-1=ns | W1=学会 | T1=na | PW=中国长城学会 | PT=nt | 秘书长 | ChangCheng
-W-1=中国 | T-1=ns | W1=资产 | T1=n | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | 成立 | ChangCheng
-W-1=收购 | T-1=v | W1=航空 | T1=n | 有望 | 收购 | 航空 | ChangCheng
-W-1=中国 | T-1=ns | W1=资产 | T1=n | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | 总裁 | ChangCheng
-W-1=中国 | T-1=ns | W1=资产 | T1=n | PW=中国长城资产管理公司 | PT=nt | 记者 | 采访 | 资产 | 公司 | 总裁 | ChangCheng
-W-1=空中 | T-1=s | W1=。 | T1=w | 构筑 | 起 | impregnable_bulwark
-W-1=我 | T-1=r | W1=爱心 | T1=n | 挥笔 | 题写 | 爱心 | 铺就 | 路 | 情 | impregnable_bulwark
-W-1=固 | T-1=Vg | W1=NULL_TAIL | T1=NULL_TAIL | 科技 | 强军 | impregnable_bulwark
-W-1=蓝天 | T-1=n | W1=作出 | T1=v | 手 | 武器 | 构筑 | 蓝天 | 作出 | 飞行员 | 应有 | impregnable_bulwark
-W-1=绿色 | T-1=n | W1=” | T1=w | 誉为 | 绿色 | 世界 | 生态 | 工程 | impregnable_bulwark
+W-3=来到 | T-3=v | W-2=八达岭 | T-2=ns | W-1=攀登 | T-1=v | W1=， | T1=w | W2=上海 | T2=ns | 近 | 群众 | 来到 | 攀登 | the_Great_Wall
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=脚下 | T1=f | W2=， | T2=w | the_Great_Wall
+W-3=组别 | T-3=n | W-2=， | T-2=w | W-1=从 | T-1=p | W1=脚下 | T1=f | W2=出发 | T2=v | 队伍 | 分成 | 组别 | 出发 | the_Great_Wall
+W-3=参加 | T-3=v | W-2=元旦 | T-2=t | W-1=登 | T-1=v | W1=比赛 | T1=vn | W2=， | T2=w | 是 | 参加 | 登 | 觉得 | the_Great_Wall
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=二○○○年 | T-1=t | W1=将 | T1=d | W2=竖立 | T2=v | 竖立 | 倒计时钟 | the_Great_Wall
+W-3=的 | T-3=u | W-2=底座 | T-2=n | W-1=为 | T-1=v | W1=城垛 | T1=n | W2=形状 | T2=n | 世纪钟 | 底座 | 为 | 城垛 | 形状 | 钟体 | the_Great_Wall
+W-3=设 | T-3=v | W-2=在 | T-2=p | W-1=八达岭 | T-1=ns | W1=， | T1=w | W2=前 | T2=f | 世纪钟 | 设 | 临 | 文化 | 广场 | the_Great_Wall
+W-3=状 | T-3=Ng | W-2=似 | T-2=Vg | W-1=古 | T-1=a | W1=的 | T1=u | W2=巨大 | T2=a | 是 | 冰 | 滑梯 | the_Great_Wall
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=“ | T-1=w | W1=上 | T1=f | W2=的 | T2=u | 砖 | the_Great_Wall
+W-3=标 | T-3=v | W-2=出 | T-2=v | W-1=了 | T-1=u | W1=的 | T1=u | W2=高度 | T2=n | 标 | 出 | 高度 | the_Great_Wall
+W-3=登山 | T-3=vn | W-2=爱好者 | T-2=n | W-1=汇聚 | T-1=v | W1=， | T1=w | W2=参加 | T2=v | 爱好者 | 汇聚 | 参加 | 组织 | the_Great_Wall
+W-3=有 | T-3=v | W-2=巍峨 | T-2=z | W-1=的 | T-1=u | W1=， | T1=w | W2=还有 | T2=v | 水果 | 蔬菜 | 有 | 还有 | 腾飞 | 巨龙 | the_Great_Wall
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=绿化 | T1=vn | W2=工程 | T2=n | 工程 | 启动 | the_Great_Wall
+W-3=倡议 | T-3=v | W-2=发起 | T-2=v | W-1=的 | T-1=u | W1=绿化 | T1=vn | W2=工程 | T2=n | 专家 | 倡议 | 发起 | 工程 | the_Great_Wall
+W-3=学者 | T-3=n | W-2=关于 | T-2=p | W-1=建设 | T-1=v | W1=绿化 | T1=vn | W2=系统 | T2=n | 领域 | 专家 | 学者 | 建设 | 系统 | 工程 | 倡议 | the_Great_Wall
+W-3=八达岭 | T-3=ns | W-2=上下 | T-2=f | W-1=和 | T-1=c | W1=入口处 | T1=n | W2=的 | T2=u | 入口处 | 广场 | the_Great_Wall
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=脚下 | T1=f | W2=， | T2=w | 迎接 | the_Great_Wall
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=烛光 | T-2=n | W-1=登 | T-1=v | W1=活动 | T1=vn | W2=别开生面 | T2=i | 烛光 | 登 | the_Great_Wall
+W-3=夜色 | T-3=n | W-2=中 | T-2=f | W-1=的 | T-1=u | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 登 | 上 | 夜色 | the_Great_Wall
+W-3=“ | T-3=w | W-2=不 | T-2=d | W-1=到 | T-1=v | W1=非 | T1=Vg | W2=好汉 | T2=n | 人 | 知道 | 主席 | 到 | 好汉 | 名言 | the_Great_Wall
+W-3=友人 | T-3=n | W-2=， | T-2=w | W-1=汇聚 | T-1=v | W1=， | T1=w | W2=登高望远 | T2=i | 爱好者 | 国际 | 友人 | 汇聚 | the_Great_Wall
+W-3=观赏 | T-3=v | W-2=闻名于世 | T-2=l | W-1=的 | T-1=u | W1=、 | T1=w | W2=故宫 | T2=ns | 去 | 观赏 | 兵马俑 | the_Great_Wall
+W-3=行动 | T-3=v | W-2=爱 | T-2=v | W-1=我 | T-1=r | W1=” | T1=w | W2=。 | T2=w | 温暖 | 军心 | 行动 | 爱 | the_Great_Wall
+W-3=， | T-3=w | W-2=大 | T-2=a | W-1=至 | T-1=v | W1=、 | T1=w | W2=阿房宫 | T2=ns | 技术 | 至 | 至 | 亭台楼阁 | the_Great_Wall
+W-3=、 | T-3=w | W-2=天坛 | T-2=ns | W-1=、 | T-1=w | W1=、 | T1=w | W2=龙 | T2=n | 世纪坛 | 龙 | 火 | 花卉 | the_Great_Wall
+W-3=奔腾 | T-3=vn | W-2=不息 | T-2=v | W-1=、 | T-1=w | W1=的 | T1=u | W2=蜿蜒 | T2=z | 不息 | 仿佛 | the_Great_Wall
+W-3=， | T-3=w | W-2=誉 | T-2=Ng | W-1=满 | T-1=v | W1=内外 | T1=f | W2=， | T2=w | 根据地 | 满 | 却说 | the_Great_Wall
+W-3=600 | T-3=m | W-2=平方米 | T-2=q | W-1=的 | T-1=u | W1=遗址 | T1=n | W2=连同 | T2=p | 障城 | 约 | 遗址 | 文化 | 遗产 | the_Great_Wall
+W-3=， | T-3=w | W-2=北京 | T-2=ns | W-1=电信 | T-1=n | W1=移动 | T1=vn | W2=通信 | T2=vn | PW=北京电信长城移动通信有限公司 | PT=nt | 电信 | 携 | 一代 | ChangCheng
+W-3=开进 | T-3=v | W-2=了 | T-2=u | W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | W2=。 | T2=w | PW=广元市长城宾馆 | PT=ns | 过户 | 货车 | 开进 | ChangCheng
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | W2=由于 | T2=c | PW=广元市长城宾馆 | PT=ns | 人员 | ChangCheng
+W-3=由此 | T-3=d | W-2=， | T-2=w | W-1=广元市 | T-1=ns | W1=宾馆 | T1=na | W2=应 | T2=v | PW=广元市长城宾馆 | PT=ns | 应 | 承担 | 责任 | ChangCheng
+W-3=在 | T-3=p | W-2=北京 | T-2=ns | W-1=昌平 | T-1=ns | W1=医院 | T1=n | W2=建成 | T2=v | PW=北京昌平长城医院 | PT=nt | 保健 | 心脑血管 | 疾病 | 基地 | 医院 | 建成 | ChangCheng
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=但 | T-2=c | W-1=如果说 | T-1=c | W1=从此 | T1=d | W2=可以 | T2=v | 可以 | 关心 | ChangCheng
+W-3=” | T-3=w | W-2=、 | T-2=w | W-1=“ | T-1=w | W1=借记卡 | T1=n | W2=” | T2=w | 推出 | 信用卡 | 借记卡 | 业务 | ChangCheng
+W-3=二十六日 | T-3=t | W-2=， | T-2=w | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | ChangCheng
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | 资产 | ChangCheng
+W-3=日前 | T-3=t | W-2=， | T-2=w | W-1=中国 | T-1=ns | W1=学会 | T1=na | W2=有关 | T2=vn | PW=中国长城学会 | PT=nt | 专家 | 记者 | 反映 | ChangCheng
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=中国 | T-1=ns | W1=学会 | T1=na | W2=八达岭 | T2=ns | PW=中国长城学会 | PT=nt | 秘书长 | ChangCheng
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | 成立 | ChangCheng
+W-3=年内 | T-3=t | W-2=有望 | T-2=v | W-1=收购 | T-1=v | W1=航空 | T1=n | W2=NULL_TAIL | T2=NULL_TAIL | 有望 | 收购 | 航空 | ChangCheng
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=—— | T-2=w | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | 资产 | 公司 | 总裁 | ChangCheng
+W-3=采访 | T-3=v | W-2=了 | T-2=u | W-1=中国 | T-1=ns | W1=资产 | T1=n | W2=管理 | T2=vn | PW=中国长城资产管理公司 | PT=nt | 记者 | 采访 | 资产 | 公司 | 总裁 | ChangCheng
+W-3=坚不可摧 | T-3=i | W-2=的 | T-2=u | W-1=空中 | T-1=s | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 构筑 | 起 | impregnable_bulwark
+W-3=“ | T-3=w | W-2=固 | T-2=Vg | W-1=我 | T-1=r | W1=爱心 | T1=n | W2=铺就 | T2=v | 挥笔 | 题写 | 爱心 | 铺就 | 路 | 情 | impregnable_bulwark
+W-3=科技 | T-3=n | W-2=强军 | T-2=v | W-1=固 | T-1=Vg | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 科技 | 强军 | impregnable_bulwark
+W-3=为 | T-3=p | W-2=构筑 | T-2=v | W-1=蓝天 | T-1=n | W1=作出 | T1=v | W2=我们 | T2=r | 手 | 武器 | 构筑 | 蓝天 | 作出 | 飞行员 | 应有 | impregnable_bulwark
+W-3=中国 | T-3=ns | W-2=的 | T-2=u | W-1=绿色 | T-1=n | W1=” | T1=w | W2=、 | T2=w | 誉为 | 绿色 | 世界 | 生态 | 工程 | impregnable_bulwark

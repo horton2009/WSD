@@ -1,60 +1,60 @@
-W-1=中华 | T-1=nz | W1=的 | T1=u | 是 | 儿女 | 心愿 | young_man_and_woman
-W-1=燕赵 | T-1=ns | W1=自力更生 | T1=i | 背篓 | 精神 | 成 | 儿女 | 事迹 | young_man_and_woman
-W-1=回族 | T-1=nz | W1=积极 | T1=ad | 英雄 | 儿女 | 响应 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=爱国主义 | T1=n | 映射 | 出 | 儿女 | 爱国主义 | 英雄主义 | 精神 | young_man_and_woman
-W-1=优秀 | T-1=a | W1=奔赴 | T1=v | 想念 | 让 | 儿女 | 奔赴 | 投身 | 建设 | young_man_and_woman
-W-1=华夏 | T-1=nz | W1=， | T1=w | 大地 | 欢腾 | 儿女 | 满怀 | 希望 | young_man_and_woman
-W-1=祖国 | T-1=n | W1=的 | T1=u | 正是 | 前哨 | 祖国 | 儿女 | young_man_and_woman
-W-1=华夏 | T-1=nz | W1=的 | T1=u | 世纪 | 太阳 | 儿女 | 脊梁 | 负 | 起 | 民族 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=》 | T1=w | PW=《中华儿女》杂志社 | PT=nt | 儿女 | 杂志 | 中央 | 党校 | young_man_and_woman
-W-1=优秀 | T-1=a | W1=银质奖 | T1=n | 授予 | 全国 | 儿女 | 银质奖 | 获 | 自然科学 | young_man_and_woman
-W-1=华夏 | T-1=nz | W1=的 | T1=u | 母亲河 | 是 | 儿女 | 责任 | young_man_and_woman
-W-1=黄河 | T-1=ns | W1=具体 | T1=a | 还原 | 到 | 儿女 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=， | T1=w | 儿女 | 奋袂 | 开创 | 世纪 | young_man_and_woman
-W-1=各族 | T-1=r | W1=共同 | T1=d | 主席 | 指出 | 儿女 | 创造 | young_man_and_woman
-W-1=军人 | T-1=n | W1=待 | T1=v | 军人 | 儿女 | 待 | young_man_and_woman
-W-1=壮乡 | T-1=n | W1=载歌载舞 | T1=i | 至 | 壮乡 | 儿女 | 大地 | 喜气 | young_man_and_woman
-W-1=各族 | T-1=r | W1=今天 | T1=t | 迎接 | 佳节 | 儿女 | 人民 | 广场 | 举办 | young_man_and_woman
-W-1=华夏 | T-1=nz | W1=欢聚一堂 | T1=i | 远在 | 儿女 | 掌声 | 歌声 | 驱走 | young_man_and_woman
-W-1=华夏 | T-1=nz | W1=都 | T1=d | 普天下 | 炎黄子孙 | 儿女 | 称 | 是 | 龙 | young_man_and_woman
-W-1=尧乡 | T-1=ns | W1=绘 | T1=v | 儿女 | 绘 | 图 | young_man_and_woman
-W-1=江河 | T-1=n | W1=心声 | T1=n | 全国 | 江河 | 儿女 | 心声 | 传递 | 行动 | young_man_and_woman
-W-1=一代代 | T-1=m | W1=。 | T1=w | 承受 | 哺育 | 儿女 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=守 | T1=v | 热土 | 环球 | 世界 | 儿女 | 守 | 电视机 | 收看 | young_man_and_woman
-W-1=华夏 | T-1=nz | W1=对 | T1=p | 来信 | 充满 | 儿女 | 祖国 | 母亲 | 挚爱 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=的 | T1=u | 民族 | 精神 | 激发 | 儿女 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=的 | T1=u | 侨胞 | 儿女 | 团结 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=的 | T1=u | 办法 | 促进 | 儿女 | 团结 | young_man_and_woman
-W-1=赤诚 | T-1=a | W1=的 | T1=u | 气度 | 倾吐 | 儿女 | 情思 | young_man_and_woman
-W-1=炎黄 | T-1=j | W1=情感 | T1=n | 浓缩 | 有 | 儿女 | 情感 | 倾诉 | 有 | young_man_and_woman
-W-1=中华 | T-1=nz | W1=的 | T1=u | 反映 | 儿女 | 心声 | 表达 | young_man_and_woman
-W-1=当 | T-1=p | W1=出生 | T1=v | 是 | 新婚 | 家庭 | 儿女 | 出生 | 过 | 生日 | children
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=为 | T1=p | 儿女 | 老人 | 祝寿 | children
-W-1=双 | T-1=q | W1=。 | T1=w | 奉献 | 家庭 | 奉献 | 儿女 | children
-W-1=见 | T-1=v | W1=面 | T1=n | 奶奶 | 姥姥 | 家 | 见 | 儿女 | 面 | 远航 | 归来 | 只能 | children
-W-1=养 | T-1=v | W1=， | T1=w | 娘 | 省 | 下 | 米饭 | 养 | 儿女 | 吃 | 荞麦窝 | children
-W-1=的 | T-1=u | W1=， | T1=w | 没有 | 人 | 儿女 | children
-W-1=的 | T-1=u | W1=负责 | T1=v | 家长 | 儿女 | 负责 | 民族 | children
-W-1=做 | T-1=v | W1=的 | T1=u | 做 | 儿女 | 老人 | children
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=赡养 | T1=v | 儿女 | 赡养 | 老人 | 拆 | children
-W-1=留给 | T-1=v | W1=精神 | T1=n | 留给 | 儿女 | 精神 | 财富 | children
-W-1=给 | T-1=v | W1=钱 | T1=n | 可 | 给 | 儿女 | 钱 | children
-W-1=双 | T-1=q | W1=相继 | T1=d | 是 | 儿女 | 出生 | 丈夫 | 得了 | children
-W-1=与 | T-1=p | W1=相依为命 | T1=i | 环境 | 儿女 | 直到 | 养 | children
-W-1=干 | T-1=a | W1=们 | T1=k | 生日 | 儿女 | 买 | 来 | 蛋糕 | 点燃 | children
-W-1=对 | T-1=p | W1=的 | T1=u | 现象 | 是 | 出于 | 父母 | 儿女 | children
-W-1=得到 | T-1=v | W1=的 | T1=u | 是 | 得到 | 儿女 | children
-W-1=在 | T-1=p | W1=的 | T1=u | 操劳 | 一生 | 能 | 儿女 | 温情 | 安度 | children
-W-1=需要 | T-1=v | W1=一个 | T1=m | 需要 | 儿女 | 情感 | children
-W-1=送 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | 年礼 | 送 | 儿女 | children
-W-1=NULL_HEAD | T-1=NULL_HEAD | W1=们 | T1=k | 儿女 | 想 | 说 | 是 | children
-W-1=妻子 | T-1=n | W1=冒 | T1=v | 武警 | 水电 | 官兵 | 妻子 | 儿女 | 冒 | 来到 | children
-W-1=个 | T-1=q | W1=， | T1=w | 人 | 拖 | 儿女 | 日子 | 过 | children
-W-1=希望 | T-1=v | W1=们 | T1=k | 老人 | 希望 | 儿女 | 来 | 看看 | children
-W-1=而 | T-1=c | W1=又 | T1=d | 生活 | 自理 | 儿女 | 有 | 事业 | children
-W-1=， | T-1=w | W1=天真 | T1=a | 家庭 | 丈夫 | 儿女 | children
-W-1=双 | T-1=q | W1=带 | T1=v | 妻子 | 病卧 | 床 | 儿女 | 带 | 黑纱 | 守 | 母亲 | children
-W-1=的 | T-1=u | W1=们 | T1=k | 使 | 在外 | 工作 | 儿女 | children
-W-1=是 | T-1=v | W1=们 | T1=k | 看看 | 报 | 是 | 儿女 | 应该 | 做到 | children
-W-1=的 | T-1=u | W1=， | T1=w | 工作 | 儿女 | 要 | 想 | 办法 | children
-W-1=是 | T-1=v | W1=的 | T1=u | 孝敬 | 爹娘 | 是 | 儿女 | 天职 | 是 | 中华民族 | children
+W-3=爱国 | T-3=a | W-2=的 | T-2=u | W-1=中华 | T-1=nz | W1=的 | T1=u | W2=共同 | T2=b | 是 | 儿女 | 心愿 | young_man_and_woman
+W-3=成 | T-3=v | W-2=了 | T-2=u | W-1=燕赵 | T-1=ns | W1=自力更生 | T1=i | W2=、 | T2=w | 背篓 | 精神 | 成 | 儿女 | 事迹 | young_man_and_woman
+W-3=的 | T-3=u | W-2=冀中 | T-2=ns | W-1=回族 | T-1=nz | W1=积极 | T1=ad | W2=响应 | T2=v | 英雄 | 儿女 | 响应 | young_man_and_woman
+W-3=映射 | T-3=v | W-2=出 | T-2=v | W-1=中华 | T-1=nz | W1=爱国主义 | T1=n | W2=和 | T2=c | 映射 | 出 | 儿女 | 爱国主义 | 英雄主义 | 精神 | young_man_and_woman
+W-3=让 | T-3=v | W-2=多少 | T-2=r | W-1=优秀 | T-1=a | W1=奔赴 | T1=v | W2=这里 | T2=r | 想念 | 让 | 儿女 | 奔赴 | 投身 | 建设 | young_man_and_woman
+W-3=， | T-3=w | W-2=12亿 | T-2=m | W-1=华夏 | T-1=nz | W1=， | T1=w | W2=满怀信心 | T2=l | 大地 | 欢腾 | 儿女 | 满怀 | 希望 | young_man_and_woman
+W-3=上 | T-3=f | W-2=众多 | T-2=m | W-1=祖国 | T-1=n | W1=的 | T1=u | W2=付出 | T2=vn | 正是 | 前哨 | 祖国 | 儿女 | young_man_and_woman
+W-3=， | T-3=w | W-2=用 | T-2=p | W-1=华夏 | T-1=nz | W1=的 | T1=u | W2=脊梁 | T2=n | 世纪 | 太阳 | 儿女 | 脊梁 | 负 | 起 | 民族 | young_man_and_woman
+W-3=讯 | T-3=Ng | W-2=《 | T-2=w | W-1=中华 | T-1=nz | W1=》 | T1=w | W2=杂志 | T2=n | PW=《中华儿女》杂志社 | PT=nt | 儿女 | 杂志 | 中央 | 党校 | young_man_and_woman
+W-3=全国 | T-3=n | W-2=边陲 | T-2=s | W-1=优秀 | T-1=a | W1=银质奖 | T1=n | W2=； | T2=w | 授予 | 全国 | 儿女 | 银质奖 | 获 | 自然科学 | young_man_and_woman
+W-3=是 | T-3=v | W-2=所有 | T-2=b | W-1=华夏 | T-1=nz | W1=的 | T1=u | W2=共同 | T2=b | 母亲河 | 是 | 儿女 | 责任 | young_man_and_woman
+W-3=到 | T-3=v | W-2=一个个 | T-2=m | W-1=黄河 | T-1=ns | W1=具体 | T1=a | W2=又 | T2=d | 还原 | 到 | 儿女 | young_man_and_woman
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=十二亿 | T-2=m | W-1=中华 | T-1=nz | W1=， | T1=w | W2=奋袂 | T2=v | 儿女 | 奋袂 | 开创 | 世纪 | young_man_and_woman
+W-3=“ | T-3=w | W-2=中华 | T-2=nz | W-1=各族 | T-1=r | W1=共同 | T1=d | W2=创造 | T2=v | 主席 | 指出 | 儿女 | 创造 | young_man_and_woman
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=军人 | T-1=n | W1=待 | T1=v | W2=我 | T2=r | 军人 | 儿女 | 待 | young_man_and_woman
+W-3=至 | T-3=v | W-2=， | T-2=w | W-1=壮乡 | T-1=n | W1=载歌载舞 | T1=i | W2=， | T2=w | 至 | 壮乡 | 儿女 | 大地 | 喜气 | young_man_and_woman
+W-3=， | T-3=w | W-2=乌鲁木齐市 | T-2=ns | W-1=各族 | T-1=r | W1=今天 | T1=t | W2=在 | T2=p | 迎接 | 佳节 | 儿女 | 人民 | 广场 | 举办 | young_man_and_woman
+W-3=南极 | T-3=ns | W-2=的 | T-2=u | W-1=华夏 | T-1=nz | W1=欢聚一堂 | T1=i | W2=， | T2=w | 远在 | 儿女 | 掌声 | 歌声 | 驱走 | young_man_and_woman
+W-3=炎黄子孙 | T-3=n | W-2=、 | T-2=w | W-1=华夏 | T-1=nz | W1=都 | T1=d | W2=称 | T2=v | 普天下 | 炎黄子孙 | 儿女 | 称 | 是 | 龙 | young_man_and_woman
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=尧乡 | T-1=ns | W1=绘 | T1=v | W2=新 | T2=a | 儿女 | 绘 | 图 | young_man_and_woman
+W-3=， | T-3=w | W-2=全国 | T-2=n | W-1=江河 | T-1=n | W1=心声 | T1=n | W2=传递 | T2=v | 全国 | 江河 | 儿女 | 心声 | 传递 | 行动 | young_man_and_woman
+W-3=哺育 | T-3=v | W-2=着 | T-2=u | W-1=一代代 | T-1=m | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 承受 | 哺育 | 儿女 | young_man_and_woman
+W-3=， | T-3=w | W-2=亿万 | T-2=m | W-1=中华 | T-1=nz | W1=守 | T1=v | W2=在 | T2=p | 热土 | 环球 | 世界 | 儿女 | 守 | 电视机 | 收看 | young_man_and_woman
+W-3=充满 | T-3=v | W-2=了 | T-2=u | W-1=华夏 | T-1=nz | W1=对 | T1=p | W2=祖国 | T2=n | 来信 | 充满 | 儿女 | 祖国 | 母亲 | 挚爱 | young_man_and_woman
+W-3=了 | T-3=u | W-2=海内外 | T-2=s | W-1=中华 | T-1=nz | W1=的 | T1=u | W2=爱国 | T2=a | 民族 | 精神 | 激发 | 儿女 | young_man_and_woman
+W-3=的 | T-3=u | W-2=所有 | T-2=b | W-1=中华 | T-1=nz | W1=的 | T1=u | W2=大 | T2=d | 侨胞 | 儿女 | 团结 | young_man_and_woman
+W-3=促进 | T-3=v | W-2=海内外 | T-2=s | W-1=中华 | T-1=nz | W1=的 | T1=u | W2=大 | T2=d | 办法 | 促进 | 儿女 | 团结 | young_man_and_woman
+W-3=倾吐 | T-3=v | W-2=着 | T-2=u | W-1=赤诚 | T-1=a | W1=的 | T1=u | W2=至爱 | T2=vn | 气度 | 倾吐 | 儿女 | 情思 | young_man_and_woman
+W-3=又 | T-3=c | W-2=有 | T-2=v | W-1=炎黄 | T-1=j | W1=情感 | T1=n | W2=之 | T2=u | 浓缩 | 有 | 儿女 | 情感 | 倾诉 | 有 | young_man_and_woman
+W-3=反映 | T-3=v | W-2=了 | T-2=u | W-1=中华 | T-1=nz | W1=的 | T1=u | W2=心声 | T2=n | 反映 | 儿女 | 心声 | 表达 | young_man_and_woman
+W-3=家庭 | T-3=n | W-2=， | T-2=w | W-1=当 | T-1=p | W1=出生 | T1=v | W2=过 | T2=v | 是 | 新婚 | 家庭 | 儿女 | 出生 | 过 | 生日 | children
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=为 | T1=p | W2=老人 | T2=n | 儿女 | 老人 | 祝寿 | children
+W-3=了 | T-3=u | W-2=一 | T-2=m | W-1=双 | T-1=q | W1=。 | T1=w | W2=NULL_TAIL | T2=NULL_TAIL | 奉献 | 家庭 | 奉献 | 儿女 | children
+W-3=， | T-3=w | W-2=难 | T-2=ad | W-1=见 | T-1=v | W1=面 | T1=n | W2=， | T2=w | 奶奶 | 姥姥 | 家 | 见 | 儿女 | 面 | 远航 | 归来 | 只能 | children
+W-3=下 | T-3=v | W-2=米饭 | T-2=n | W-1=养 | T-1=v | W1=， | T1=w | W2=自己 | T2=r | 娘 | 省 | 下 | 米饭 | 养 | 儿女 | 吃 | 荞麦窝 | children
+W-3=大 | T-3=a | W-2=堆 | T-2=Ng | W-1=的 | T-1=u | W1=， | T1=w | W2=但 | T2=c | 没有 | 人 | 儿女 | children
+W-3=对 | T-3=p | W-2=自己 | T-2=r | W-1=的 | T-1=u | W1=负责 | T1=v | W2=， | T2=w | 家长 | 儿女 | 负责 | 民族 | children
+W-3=时下 | T-3=t | W-2=， | T-2=w | W-1=做 | T-1=v | W1=的 | T1=u | W2=常 | T2=d | 做 | 儿女 | 老人 | children
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=赡养 | T1=v | W2=老人 | T2=n | 儿女 | 赡养 | 老人 | 拆 | children
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=她 | T-2=r | W-1=留给 | T-1=v | W1=精神 | T1=n | W2=财富 | T2=n | 留给 | 儿女 | 精神 | 财富 | children
+W-3=从不 | T-3=d | W-2=随便 | T-2=ad | W-1=给 | T-1=v | W1=钱 | T1=n | W2=。 | T2=w | 可 | 给 | 儿女 | 钱 | children
+W-3=在 | T-3=p | W-2=一 | T-2=m | W-1=双 | T-1=q | W1=相继 | T1=d | W2=出生 | T2=v | 是 | 儿女 | 出生 | 丈夫 | 得了 | children
+W-3=嵇 | T-3=nr | W-2=蓉珍 | T-2=nr | W-1=与 | T-1=p | W1=相依为命 | T1=i | W2=， | T2=w | 环境 | 儿女 | 直到 | 养 | children
+W-3=那天 | T-3=r | W-2=， | T-2=w | W-1=干 | T-1=a | W1=们 | T1=k | W2=买 | T2=v | 生日 | 儿女 | 买 | 来 | 蛋糕 | 点燃 | children
+W-3=出于 | T-3=v | W-2=父母 | T-2=n | W-1=对 | T-1=p | W1=的 | T1=u | W2=关心 | T2=vn | 现象 | 是 | 出于 | 父母 | 儿女 | children
+W-3=尤其 | T-3=d | W-2=是 | T-2=v | W-1=得到 | T-1=v | W1=的 | T1=u | W2=体贴 | T2=vn | 是 | 得到 | 儿女 | children
+W-3=， | T-3=w | W-2=能 | T-2=v | W-1=在 | T-1=p | W1=的 | T1=u | W2=温情 | T2=n | 操劳 | 一生 | 能 | 儿女 | 温情 | 安度 | children
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=他们 | T-2=r | W-1=需要 | T-1=v | W1=一个 | T1=m | W2=细腻 | T2=a | 需要 | 儿女 | 情感 | children
+W-3=特殊 | T-3=a | W-2=年礼 | T-2=n | W-1=送 | T-1=v | W1=NULL_TAIL | T1=NULL_TAIL | W2=NULL_TAIL | T2=NULL_TAIL | 年礼 | 送 | 儿女 | children
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=NULL_HEAD | T-2=NULL_HEAD | W-1=NULL_HEAD | T-1=NULL_HEAD | W1=们 | T1=k | W2=最 | T2=d | 儿女 | 想 | 说 | 是 | children
+W-3=官兵 | T-3=n | W-2=的 | T-2=u | W-1=妻子 | T-1=n | W1=冒 | T1=v | W2=着 | T2=u | 武警 | 水电 | 官兵 | 妻子 | 儿女 | 冒 | 来到 | children
+W-3=着 | T-3=u | W-2=4 | T-2=m | W-1=个 | T-1=q | W1=， | T1=w | W2=日子 | T2=n | 人 | 拖 | 儿女 | 日子 | 过 | children
+W-3=NULL_HEAD | T-3=NULL_HEAD | W-2=老人 | T-2=n | W-1=希望 | T-1=v | W1=们 | T1=k | W2=常 | T2=d | 老人 | 希望 | 儿女 | 来 | 看看 | children
+W-3=自理 | T-3=v | W-2=， | T-2=w | W-1=而 | T-1=c | W1=又 | T1=d | W2=都 | T2=d | 生活 | 自理 | 儿女 | 有 | 事业 | children
+W-3=丈夫 | T-3=n | W-2=善解人意 | T-2=l | W-1=， | T-1=w | W1=天真 | T1=a | W2=活泼 | T2=a | 家庭 | 丈夫 | 儿女 | children
+W-3=， | T-3=w | W-2=一 | T-2=m | W-1=双 | T-1=q | W1=带 | T1=v | W2=着 | T2=u | 妻子 | 病卧 | 床 | 儿女 | 带 | 黑纱 | 守 | 母亲 | children
+W-3=在外 | T-3=v | W-2=工作 | T-2=v | W-1=的 | T-1=u | W1=们 | T1=k | W2=热泪盈眶 | T2=i | 使 | 在外 | 工作 | 儿女 | children
+W-3=平安 | T-3=a | W-2=， | T-2=w | W-1=是 | T-1=v | W1=们 | T1=k | W2=应该 | T2=v | 看看 | 报 | 是 | 儿女 | 应该 | 做到 | children
+W-3=城里 | T-3=s | W-2=工作 | T-2=v | W-1=的 | T-1=u | W1=， | T1=w | W2=一定 | T2=d | 工作 | 儿女 | 要 | 想 | 办法 | children
+W-3=爹娘 | T-3=n | W-2=， | T-2=w | W-1=是 | T-1=v | W1=的 | T1=u | W2=天职 | T2=n | 孝敬 | 爹娘 | 是 | 儿女 | 天职 | 是 | 中华民族 | children
