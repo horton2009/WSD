@@ -10,10 +10,10 @@ from base_wsd import BaseWSDI
 class SVMWSD(BaseWSDI):
     def __init__(self):
         super(SVMWSD, self).__init__()
-        self._numeric_feature_value = True
+        self._numeric_feature_value = False
 
     def train(self, features_label):
-        svm = SklearnClassifier(SVC(C=10.0, gamma=0.0001))
+        svm = SklearnClassifier(SVC(C=1000.0, gamma=0.0001))
         self._classifier = svm.train(features_label)
         return None
 

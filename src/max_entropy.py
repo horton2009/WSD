@@ -12,7 +12,7 @@ class MaxEntropyWSD(BaseWSDI):
         pass
 
     def train(self, features_label):
-        self._classifier = MaxentClassifier.train(features_label, algorithm='iis', trace=0, max_iter=80)
+        self._classifier = MaxentClassifier.train(features_label, algorithm='iis', trace=0, max_iter=40)
         return None
 
 

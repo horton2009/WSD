@@ -4,6 +4,8 @@
 
 import os
 
+from util import evaluate
+
 
 class BaseWSDI(object):
     def __init__(self):
@@ -19,15 +21,11 @@ class BaseWSDI(object):
                 tokens = line.split('|')
                 feature = {}
                 for t in tokens[:-1]:
-                    fname, fvalue = t.strip().split('=')
+                    fname = t.strip()
+                    fvalue = 1
                     feature[fname] = fvalue
                 # if loading test features, the label is the word_num, like 中医.1
                 label = tokens[-1].strip()
-                if len(feature) != 10:
-                    assert len(feature) == 8, 'Invalid feature instance: %s' % line
-                    # fill the chunk features with NULL
-                    feature['PW'] = 'NULL'
-                    feature['PT'] = 'NULL'
                 features_label.append((feature, label))
         # convert the numeric feature values from string to number for svm use
         if self._numeric_feature_value:
@@ -103,7 +101,10 @@ class BaseWSDI(object):
         return words
 
     @classmethod
-    def run(cls):
+    def run(cls, eval_flag=True):
+        """
+        @param eval_flag: if eval_flag is True, the evaluation output is given.
+        """
         ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         wsd = cls()
         TRAIN_DIR = os.path.join(ROOT, 'train/')
@@ -131,4 +132,7 @@ class BaseWSDI(object):
             print 'Finish %d of %d: %s' % (count, len(test_words), word)
         result_obj.close()
         print 'Write testing results to %s' % RESULT_PATH
+        if eval_flag:
+            answerfile = os.path.join(ROOT, 'result/test_answer')
+            evaluate(RESULT_PATH, answerfile)
         return None
